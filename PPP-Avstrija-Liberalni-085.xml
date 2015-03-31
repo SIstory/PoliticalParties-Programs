@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv člana načelstva Jugoslovanske demokratske stranke dr. Karla Trillerja na
+               Šukljetovo zamisel o ureditvi jugoslovanske države</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30634</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-085.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30634</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Ponesrečen načrt.</title>
+                  <author>Karel Triller</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">242</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-EYG1JM7C</pubPlace>
+                     <date when="1918-10-18">18. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>Dr. <persName>Karel Triller</persName></opener>
+            <head>Ponesrečen načrt.</head>
+            <quote>Jʼappelle un chat un chat (Geslo <persName>Šukljejeve</persName> rudeče
+               brošure.)</quote>
+            <p xml:id="No.85.PPP.1">Naš bivši deželni poglavar je mnogostranski talent. O tem gotovo
+               nihče ne dvomi, kdor količkaj pozna zgodovino njegovega dolgoletnega in v mnogem
+               velezaslužnega javnega delovanja. Toda končno ima vsaka človeška mnogostranost tudi
+               svoje meje in tako je naletel g. pl. <persName>Šuklje</persName> sedaj na snov, ki mu
+               absolutno ne <q>leži</q>; čim se je namreč lotil razmišljevanja o <hi rend="italic"
+                  >demokratični</hi> upravi naše bodoče <hi rend="italic">ujedinjene</hi>
+               <placeName>Jugoslavije</placeName>.<note source="#SourceBornDigital">Glej dok. št.
+                  44.</note> – Kar v treh slovenskih dnevnikih je priobčil serijo člankov <q>V
+                  zaželjeni deželi</q>, v kateri nam podaja načrt o upravi države S. H. S., ki naj
+               bi njegovi želji služil za podlago podrobni diskusiji o stvari. Po mojem mnenju načrt
+               po večini v to ni prikladen, ker preočitno greši zoper vodilni načeli
+                  <placeName>Jugoslavije</placeName>, to je zoper <hi rend="italic"
+                  >jedinstvenost</hi> našega troimenskega naroda in zoper <hi rend="italic"
+                  >demokratski</hi> značaj bodoče države. Prav zaradi tega je
+                  <persName>Šukljejeva</persName> razprava vzbudila pred vsem v hrvatski javnosti,
+               potem pa tudi v ožji slovenski domovini brez vsake potrebe, toda po vsej pravici
+               precej razdraženja in nikakor nisem osamljen, ko trdim, da bi bil že iz taktičnih
+               razlogov velik del <persName>Šukljejeve</persName> razprave ostal boljše nezapisan.
+               Popolnoma jasno je dokazal g. dvorni svetnik le eno dejstvo, to namreč, da tudi
+               najboljša volja, tudi najsvetejše navdušenje ne more kar čez noč pretvoriti moža,
+               vzraslega in osivelega v šoli in v jarmu staroavstrijskega birokratizma – v modernega
+               demokrata. Naturam si expellas …!</p>
+            <p xml:id="No.85.PPP.2">In sedaj k načrtu samemu! Z vrh Triglava gleda in opisuje pl.
+                  <persName>Šuklje</persName> uvodoma v res lepih besedah pestro in bogato lepoto
+               jugoslovanske zemlje; toda to kar objema z enim ljubečim pogledom njegovo slovansko
+               oko, to mora takoj razcepiti njegov avstrijski razum, ponižavajoč ga s skalnatih
+               strmin triglavskih na ponižno ljubljansko Šmarno goro. <hi rend="italic"><q>Upravna
+                     sistema, docela primerna <placeName>Ercegovini</placeName> ali
+                        <placeName>Sremu</placeName>, ne bi povsem nespremenjena brez očitne škode
+                     mogla vpeljati se ob Soči ali Krki</q></hi> – tako modruje naš zaslužni bivši
+               deželni glavar, ergo – <hi rend="italic"><q>pridem do zaključka, da bi kazalo
+                     jugoslovansko našo skupino deliti na tri upravna ozemlja:
+                        <placeName>Slovenijo</placeName>, <placeName>Hrvatsko</placeName> v ožjem
+                     smislu in <placeName>Bosno-Ercegovino</placeName> združeno z
+                        <placeName>Dalmacijo</placeName></q></hi>. Opozarjam mimogrede na mogočno
+               gesto, s katero rešuje tu g. pl. <persName>Šuklje</persName> državnopravno vprašanje
+               dalmatinsko, za kar je žel v zagrebški javnosti že zasluženo zahvalo. Ampak načelo
+               samo! Breton in Gaskonjec v demokratični
+                  <placeName>Franciji</placeName><corr>,</corr> Lombard in Sicilijanec v
+                  <placeName>Italiji</placeName> sta deležna brez ugovora in odpora, brez škode iste
+                  <q>upravne sisteme</q>, uprav sta si v vsakem pogledu veliko bolj tuja, nego Srb
+               iz <placeName>Srema</placeName> ali ercegovski moslim in naš bohinjski kmet; ampak
+               naša <placeName>Jugoslavija</placeName> naj sprejme že v zibeli na svojo življenjsko
+               pot v krstni dar tisti prokleti bič, ki jo je tepel stoletja: divide et impera! Mari
+               se tega res ni zavedal g. pl. <persName>Šuklje</persName> tačas, ko je zahteval kot
+               kardinalno načelo ustavi in upravi naše bodoče domovine implicite ohranitev onega
+               zloglasnega avstrijskega partikularizma in provincijalizma, ki je bil vendar živa
+               negacija vsake narodne jedinstvenosti? Z levo ruši te pogubne meje, z desno jih pa na
+               novo upostavlja!</p>
+            <p xml:id="No.85.PPP.3">Naravno, da taka premisa ne more in ni mogla roditi zdravih
+               zaključkov. Pl. <persName>Šuklje</persName> nadaljuje: <q>V državni celoti
+                  obravnavajo naj se skupne zadeve in one, katere se dado skupno bolj opravljati
+                  nego ločeno, po skupnih zakonih in skupnih državnih organih. Vse ostalo pa naj se
+                  mirno prepusti zakonodajstvu in upravi posameznih državnih skupin.</q> Na mesto
+               preperelega avstroogrskega dualizma naj torej stopi jugoslovanski trializem, obtežen
+               že a priori z vsemi še potrojenimi hibami takega ustavnega sistema – to je cela
+               državnopravna modrost, prihajajoča nam s <placeName>Kamna</placeName>. Exempli
+               gratia: Celo na enotnih načelih zgrajenega <hi rend="italic">ljudskega</hi> šolstva
+               g. dvorni svetnik ne pozna v jedinstveni državi S. H. S, celo le-to naj se drugače
+               razvija <q>pri nas v poljedelski <placeName>Sloveniji</placeName>, nego na primer v
+                     <placeName>Boki Kotorski</placeName></q>. In drugi vzgled: Niti vrhovno upravno
+               sodstvo ne sme biti pri nas centralizirano, kakor je tudi v največjih kulturnih
+               državah. Kar troje vrhovnih upravnih sodišč zahteva <persName>Šukljejev</persName>
+               načrt za tri različne <q>dežele</q> naše <placeName>Jugoslavije</placeName>. Seveda s
+               trojno različno judikaturo, ki mora dovesti v najbližjem času do najhujše konfuzije
+               in naravnost do pravne anarhije. – Hvala lepa, ampak tako si narodnega in kulturnega
+               ujedinjenja našega troimenskega naroda res ne smemo predstavljati. Mi ne, morda lažje
+               gospodje, živeči v politični atmosferi dunajski in budimpeštanski. In s tem mislim,
+               da je zadostno odpravljen načrt g. pl. <persName>Šukljeja</persName>, v kolikor greši
+               zoper načelo narodne jedinstvenosti.</p>
+            <p xml:id="No.85.PPP.4">In sedaj si oglejmo <persName>Šukljejevo</persName>
+               <hi rend="italic">demokratsko</hi> upravo v njegovi
+                     <q><placeName>Sloveniji</placeName></q>. Na čelo naj jej stopi deželni glavar
+               kot šef uprave, na njegovi strani deželni zbor kot zakonodajni organ, pod
+               predsedstvom deželnega poglavarja pa <q>naravnost kot kombinacija sedanje deželne
+                  vlade in sedanjega deželnega odbora</q> (mari bi ne bilo boljše, da vržemo <hi
+                  rend="italic">oboje</hi> čez most?), deželna vlada, obstoječa po polovici iz
+               imenovanih državnih in izvoljenih deželnih svetnikov. Jaz si sicer složno delovanje
+               te <q>kombinacije</q> dveh ponesrečenih avstrijskih sistemov le težko predstavljam in
+               dvomim, je-li ta načrt pomeni v resnici <hi rend="italic">odpravo</hi> naše nesrečne
+               in drage dvojne uprave in demokratizacijo javne uprave sploh – pa bodi! Svojo
+                     <q><placeName>Slovenijo</placeName></q> razdeljuje potem gosp. pl.
+                  <persName>Šuklje</persName> v tri okrožja, seveda točno v okviru sedanjih
+               provincijalnih mej ne glede na geografično in gospodarsko gravitacijo posameznih
+               pokrajin. Samo da ostanemo Kranjci, Štajerci in Primorci, kakor se spodobi. Bog ne
+               daj, da bi priklopili n. pr. cerkljanske gorjance gorenjskemu okrožju, kamor z vsemi
+               štirimi gravitirajo, ali pa n. pr. iz istega razloga Vipavsko dolino obmorskemu
+               okrožju. Naj tudi živa potreba zahteva več in manjših legopisno, gospodarsko in
+               prometno bolj zaokroženih okrožij – <q>zgodovinske</q> meje nad vse! Vsako okrožje
+               imej po tem načrtu zopet svojo okrajno vlado z izvoljenim okrožnim svetom in z
+               dvojnim uradništvom, kakor <q>dežela</q>, toda le z normativno kompetenco. – Glavni
+               steber javne uprave pa je pl. <persName>Šukljeju</persName>
+               <hi rend="italic">upravni okraj</hi> v priličnem obsegu sedanjih manjših okrajnih
+               sodišč z okrajnim glavarjem (izvoljenim ali uradniškim?) na čelu in z okrajnim
+               svetom, izvoljenim (čujmo in strmimo!) <hi rend="italic">po interesnem
+                  zastopstvu</hi>. Okrajni svet naj bi porazdeljen v razne sekcije prevzel tudi
+               posle sedanjih okrajnih šolskih svetov, cestnih odborov, zdravstvenih okrožij itd.
+               Torej zopet <q>kombinacija</q> sedanjega vseskozi birokratičnega avstrijskega
+               političnega okraja in svobodne in avtonomne velike občine, kakršna edino sodi v
+               demokratsko državo. Bastard katʼ eksohen. Zadnja celica
+                  <persName>Šukljejeve</persName> javne uprave bodi potem mala, čisto brezpomembna
+               kmečka občina, o čije delokrogu nam pove pravzaprav le to, da župan ne sme biti
+               hkrati krčmar. Po vsej krivici se sklicuje gosp. dvorni svetnik v obrambo svojega
+                  <q>okraja</q> na svojedobni <persName>Winklerjev</persName> načrt, ki je slonel
+               pač na načelu: mala sodišča, velike občine z istim teritorijalnim obsegom, ki pa
+               danes, ko gre za vprašanje uprave moderne, vseskozi <hi rend="italic"
+                  >demokratske</hi> države in za samovlado ljudstva, osvobojeno vsakega državnega
+               birokratskega jerobstva, sploh ne more biti več aktualen. – In to je ravno rak-rana
+                  <persName>Šukljejevega</persName> načrta, <hi rend="italic">da s
+                     <q>kombinacijami</q> sedanjega birokratičnega sistema in resničnega
+                  demokratizma skuša rešiti prvemu, kar se pač rešiti da. Toda voda se ne da spojiti
+                  z ognjem!</hi></p>
+            <p xml:id="No.85.PPP.5">S tem sem se dotaknil temeljnih točk študije gosp. pl.
+                  <persName>Šukljeja</persName>, v kolikor ta greši zoper vodilni ideji svobodne
+                  <placeName>Jugoslavije</placeName>, zoper jedinstvenost in demokratizem. In sicer
+               v toliki meri, da se postavlja vsaj po večini izven podrobne stvarne diskusije. Naj
+               mi g. dvorni svetnik oprosti to trdo besedo, toda v načelih moramo biti tvrdi in
+               nasproti atavističnim pojavom na lastnem <choice>
+                  <sic>izprosni</sic>
+                  <corr>neizprosni</corr>
+               </choice> proti vsakomur in pred vsem organizmu.</p>
+            <p xml:id="No.85.PPP.6">Če je spadalo končno v okvir take študije v resnici tudi
+               velikansko vprašanje, je-li naj v <placeName>Jugoslaviji</placeName> uradnik sam piše
+               ali narekuje in v koliko naj rabi pisalni stroj, ali morda tudi tintni svenčnik –
+               tega res ne vem. Tudi predlog, naj se vpelje za jugoslovanske uradnike poleg gotove
+               plače nekaka bira v živilih in drugih porabnih stvareh, po vojni morda ne bo več tako
+               aktuvalen in nujen, kakor se boji g. pl. <persName>Šuklje</persName>. Morda se vendar
+               zopet vrnejo časi, ko javni činovnik v moderni državi ne bo vezan na to, da se mu
+               zagotovi za Božič par čevljev in za Veliko noč novo, praznično obleko in natura.
+               Upamo!</p>
+            <p xml:id="No.85.PPP.7">Sklepno naj bo pribito le še dejstvo, da študija g. pl.
+                  <persName>Šukljeja</persName> tudi inicijativna ni. Na glavni skupščini JDS dne
+                  <date from="1918-06-29" to="1918-06-30">29. in 30. junija t. l.</date> se je v
+               političnem odseku temeljito in obširno razpravljalo o ustavi in upravi
+                  <placeName>Jugoslavije</placeName> ter so se na glavnem zborovanju soglasno
+               sprejele in tudi objavile resolucije, obsegajoče vodilna načela, ki nikakor ne
+               soglašajo z načrtom g. dvornega svetnika. Dotično poročilo izide v najkrajšem času v
+               tisku in potem bo prilika, izpregovoriti o stvari kaj več. Na to bi se usojal
+               opozarjati zlasti tudi gospoda člankarja v <q>Slovencu</q> z dne <date
+                  when="1918-10-15">15. oktobra</date>, ki je na načela, sprejeta v JDS., vezan.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

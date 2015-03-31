@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poziv Slovenske ljudske stranke na Kranjskem na udeležbo ob ustanovitvi enote
+               Vseslovenske ljudske stranke 17. oktobra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30549</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-001.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30549</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zaupniki, somišljeniki S. L. S.!</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXVII</biblScope>
+                     <biblScope unit="issue">236</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-OU41JBN9</pubPlace>
+                     <date when="1909-10-15">15. 10. 1909</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.16.PPP">
+            <head>Zaupniki, somišljeniki S. L. S.!</head>
+            <p>Iz vseh slovenskih pokrajin Vas kličemo v nedeljo <date when="1909-10-17">17. t.
+                  m.</date> v slovensko središče. Po sijajnih zmagah S. L. S. vstane pred nami mlada
+               Združena Slovenija. Ideali naših prvih narodnih klicarjev se približujejo
+               uresničenju. Zaupniki, somišljeniki – <date when="1909-10-17">17. t. m.</date> vsi na
+               noge, da v bratskem objemu s slovanskimi brati pokažemo svetu, da je prišel narodu
+               vstajenja dan!</p>
+            <closer>Dne <date when="1909-10-17">17. t. m.</date> v
+               <placeName>Ljubljano</placeName>!</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vabilo na prvi slovenski katoliški shod 30. in 31. avgusta 1892 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30568</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-035.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30568</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Poročilo pripravljalnega odbora o I. slovenskem katoliškem shodu kateri se
+                     je vršil 1892. leta v Ljubljani</title>
+                  <imprint>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>pripravljalni odbor</publisher>
+                     <date when="1893">1893</date>
+                     <biblScope unit="page">14–16</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.35.PPP">
+            <head><hi rend="italic">Na prvi slovenski katoliški shod!</hi></head>
+            <p><hi rend="italic">Slovenci!</hi> Izredni časi imajo izredne potrebe, katere zahtevajo
+               izrednega, nenavadnega delovanja. Dandanes imamo take čase. Današnjo dôbo smemo
+               imenovati nekako pripravljanje na odločilni boj med Kristom in Antikristom, med
+               načeli krščanskimi in protikrščanskimi.</p>
+            <p>Nasprotniki – brezverci dobro umevajo svojo nalogo. Marljivo se zbirajo, razumno se
+               vrejujejo in primerno si razdeljujejo delo. Vsled tega živahnega delovanja je njih
+               moč velika. Večinoma povsod so si pridobili v svojo oblast vzgojo človeštva,
+               zakonodajalne zbornice, časopisje, meč in denar.</p>
+            <p>Dasi pa se nasledki brezverstva kažejo v nevabljivih, žalostnih podobah ne le v
+               duševnem, marveč vzlasti tudi v gmotnem oziru, vendar je človeštvo, vzgojevano po
+               brezverskih načelih, duševno že tako onemoglo, da še vedno dere za njim v svoj –
+               propad.</p>
+            <p>Tej razjedajoči sili nasproti deluje že 19 vekov katoliška cerkev. In ko dandanes
+               gleda te žalostne razmere, toži, kakor nekdaj Gospod, rekoč: <q>Množice se mi
+                  smilijo</q>. Zato cerkev kliče na delo vse svoje zveste: <q>Zbirajte se, družite
+                  se, delajte, da rešite, kar je rešiti mogoče!</q></p>
+            <p>Tako kliče <persName>Leon XIII.</persName>, slavnovladajoči papež, katoličane na
+               delo. Med drugim priporoča jim v ta namen vzlasti katoliške shode, kjer se javno
+               razodeva katoliška zavest, odkoder se katoliško prepričanje in delovanje tako vspešno
+               razširja med ljudstva.</p>
+            <p>Hvala Bogu, da med Slovenci brezverstvo nima onega pogubnega vpliva, kakor drugod. A
+               tajiti ne smemo in ne moremo, da tudi med Slovence sili brezverski duh. Nevarnost je
+               vedno večja, zato treba delovati o pravem času, da se poživlja in prenavlja tudi v
+               prihodnje katoliško prepričanje in katoliško življenje v vseh slojih slovenskega
+               ljudstva.</p>
+            <p>Ta misel je rodila prepričanje, da je tudi za Slovence potreben katoliški shod. –
+               Osnovalni odbor, ki se je ustanovil v ta namen, dovršil je najpotrebnejše priprave in
+               danes stopi pred Slovence ter jih vabi na prvi slovenski katoliški shod, ki se bo
+               vršil v <placeName>Ljubljani</placeName> dné <date from="1892-08-30" to="1892-08-31"
+                  >30. in 31. avgusta t. l.</date> po točno določenem programu.</p>
+            <p><hi rend="italic">Slovenci!</hi> I. slovenski katoliški shod v
+                  <placeName>Ljubljani</placeName> naj spričuje, da živi med nami še vedno isto
+               katoliško prepričanje, s katerim se je naš narod odlikoval vsa stoletja, odkar je
+               vstopil v katoliško cerkev. Ta shod naj bo svetu porok, da Slovenci tudi v sedanjih
+               časih ostanemo zvesti načelom katol. vere, ter da smo pripravljeni vse storiti, da ta
+               načela ostanejo v veljavi pri našem ljudstvu za vselej.</p>
+            <p>V ta namen pa nam treba: <hi rend="italic">Jasnosti o naših namenih in
+               sredstvih</hi>. – Medsebojni razgovori umnih móž zbranih na katoliškem shodu k temu
+               gotovo mnogo pripomorejo.</p>
+            <p>Treba nam je <hi rend="italic">navdušenja za našo sveto stvar</hi>. In kaj naj nas
+               bolj navdušuje, kakor v obilnem številu zbrani rojaki, ki so v svojem prepričanju in
+               v svojih namenih vsi enega duha in enega srca, pripravljeni, da ponesejo seboj sklepe
+               katoliškega shoda ter jih širijo in jim veljavo pridobivajo med drugimi svojimi
+               rojaki!</p>
+            <p>Treba nam je pred vsem <hi rend="italic">jedinosti in složnega delovanja</hi>. –
+               Osnovalni odbor vabi zato <hi rend="italic">vse Slovence</hi> na katoliški shod ter
+               bo še posebej povabil <hi rend="italic">vse zakonodajalne zastopnike slovenskega
+                  ljudstva</hi>. <hi rend="italic">Za slogo na podlagi načel katoliške vere
+                  delovati, za to jedinost navduševati, to je posebno važen namen katoliškemu
+                  shodu</hi>. Najlepše bi bil dosežen namen I. slovenskemu katoliškemu shodu, ko bi
+               bila dosežena ta jedinost med Slovenci. <hi rend="italic">Naj bi pač vsak zavedni
+                  Slovenec deloval na to, da se taka jedinost vstvari in ohrani med Slovenci, ker le
+                  v tej jedinosti je mogoče v resnici koristno delovati za naš narod, le v tej
+                  jedinosti je mogoče narodu slovenskemu ohraniti njegov narodni obstanek</hi>.</p>
+            <p>Katoličani Slovenci! Pridite v obilnem številu na I. slovenski katoliški shod.
+               Razpravljale se bodo na tem shodu stvari, ki zanimajo vsakega zavednega Slovenca.</p>
+            <p>Kmet, rokodelec in delavec, prijatelj, šole, vêde in umetnosti, pospeševatelj
+               poštenega tiska in katoliškega življenja, z besedo: vsak pravi prijatelj dušnega in
+               gmotnega napredka med Slovenci našel bo na katoliškem shodu mnogo zanimivega in
+               koristnega.</p>
+            <p>Katoliški Slovenci! Pokažimo na I. slovenskem katoliškem shodu, <hi rend="italic">da
+                  smo in da vedno ostanemo zvesti sinovi svojemu Bogu in svojemu domu ter da hočemo,
+                  kakor to zahtevajo sedanje razmere, na podlagi načel naše katoliške vere skupno in
+                  jednotno delovati za duševni in gmotni napredek slovenskega naroda!</hi></p>
+            <closer>
+               <dateline>V <placeName>Ljubljani</placeName>, dné <date when="1892-06-18">18. junija
+                     1892</date>.</dateline>
+               <lb/>
+               <hi rend="italic">Osnovalni odbor za I. slovenski katoliški shod.</hi>
+            </closer>
+         </div>
+         <gap reason="irrelevant"/>
+      </body>
+   </text>
+</TEI>

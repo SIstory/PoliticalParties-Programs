@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Izvrševalnega odbora Narodno napredne stranke za Kranjsko o
+               jugoslovanstvu, sprejeta na njegovi seji 18. aprila 1913</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30595</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-062.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30595</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Dnevne vesti.</title>
+                  <title>Izvrševalni odbor narodno-napredne stranke</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">89</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-39LLT251</pubPlace>
+                     <date when="1913-04-19">19. 4. 1913</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Dnevne vesti.</head>
+            <p xml:id="No.62.PPP"><hi rend="bold">Izvrševalni odbor narodno-napredne stranke</hi> je
+               storil v svoji seji dne <date when="1913-04-18">18. aprila t. l.</date>
+               <choice>
+                  <sic>soglano</sic>
+                  <corr>soglasno</corr>
+               </choice> sledeči sklep: I. Narodna-napredna stranka obžaluje, da vodilni avstrijski
+               politiki ne uvidevajo, da ima najmočnejši steber <placeName>habsburške
+                  monarhije</placeName> postati združeno avstrijsko Jugoslovanstvo, kateremu pa
+               gredo vse tiste pravice,kakor jih uživa bodisi katerikoli narod tega cesarstva.
+                  <placeName>Avstro-Ogrska</placeName> pa naj išče iz političnih in gospodarskih
+               razlogov svojih pravih prijateljic v prvi vrsti na slovanskem Balkanu. – II.
+               Narodna-napredna stranka vidi in išče bodočnost slovenskega naroda edino le v okviru
+               avstrijske monarhije; konštatuje pa, da niti stremljenje po političnem in kulturnem
+               zedinjenju vseh avstro-ogrskih Jugoslovanov, niti želja po kultur. zbližanju vseh
+               jugoslovanskih plemen ne nasprotuje zgorajšnjemu nepremakljivemu temeljnemu načelu. –
+               III. Narodno-napredna stranka odklanja vsak stik s sanjarijami drugih eventualnosti,
+               meni pa, da izvirajo take sanjarije iz dušnih refleksov, ki se vselej pri velikih
+               svetovnih dogodkih pojavljajo med kipečo mladino, ne da bi zamogle roditi realnih
+               posledic.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

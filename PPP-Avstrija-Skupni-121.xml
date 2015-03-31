@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklep kranjskega deželnega zbora, naj deželni odbor od deželne vlade ne sprejema
+               nobenega dopisa samo v nemškem jeziku, sprejet 14. oktobra 1904</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30780</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-121.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30780</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik četrte seje deželnega zbora kranjskega v Ljubljani
+                     dne 14. oktobra 1904.</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>od 27. septembra 1904 do 17. oktobra 1904</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">45</biblScope>
+                     <biblScope unit="page">68, 73</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                     <date when="1905">1905</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.121.PPP.1" type="ordered">
+               <item n="1.)">Deželni zbor izreka svoje obžalovanje, da deželni predsednik kot
+                  zastopnik deželne vlade govori v deželni zbornici domala brez izjeme v nemškem
+                  jeziku.</item>
+               <item n="2.)">Deželnemu odboru se naroča, da ne sprejme od deželne vlade nobenega
+                  dopisa v samo nemškem jeziku.</item>
+            </list>
+            <p xml:id="No.121.PPP.2">V formalnem oziru se predlaga takojšnja nujnost razprave po §
+               21. opravilnega reda.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

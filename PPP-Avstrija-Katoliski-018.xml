@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vdanostna izjava cesarju Karlu I. Habsburškemu, sprejeta na shodu zaupnikov
+               Slovenske ljudske stranke na Kranjskem 27. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30551</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-018.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30551</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zborovanje zaupnikov Slov. Ljudske Stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">296</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LEV4RGLS</pubPlace>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <gap reason="irrelevant"/>
+            <opener xml:id="No.18.PPP.1">Njega Veličanstvu cesarju <persName>Karlu Prvemu</persName>
+               na <placeName>Dunaju</placeName>.</opener>
+            <p xml:id="No.18.PPP.2">Zbor zaupnikov Slovenske Ljudske Stranke, najmočnejše politične
+               organizacije na <placeName>Kranjskem</placeName>, zbran dne <date when="1917-12-27"
+                  >27. decembra</date> v <placeName>Ljubljani</placeName> prvikrat, odkar je Vaše
+               Visočanstvo zasedlo slavni habsburški prestol, izraža Vašemu Veličanstvu in prejasni
+               vladarski hiši svojo odkritosrčno udanost in neomajno zvestobo; se iskreno zahvaljuje
+               za prekrasno cesarsko besedo, da hoče Vaše Veličanstvo biti svojim narodom mil vladar
+               in jim dati vsem enake pravice;</p>
+            <p xml:id="No.18.PPP.3">s hvaležnostjo pozdravlja, da se je Vaše Veličanstvo na čelo
+               postavilo mirovnemu stremljenju, in upa, da se bo plemenitemu in vztrajnemu
+               prizadevanju Vašega Veličanstva čimpreje posrečilo, konec napraviti strahotam vojne;
+               kot katoliška stranka tudi s hvaležnostjo in zadoščenjem pozdravljamo Vašega
+               Veličanstva iz spoštovanja do prave človeške časti izvirajočo vitežko odločbo zoper
+               dvoboj.</p>
+            <closer>V globoki spoštljivosti<lb/> Za. zbor zaupnikov<lb/> S. L. S. prelat
+                  <persName>Kalan</persName>.</closer>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

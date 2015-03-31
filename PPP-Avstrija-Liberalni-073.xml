@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poziv predsednika Narodne stranke za Štajersko dr. Vekoslava Kukovca za
+               oblikovanje enotne vseslovenske politične organizacije leta 1917</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30622</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-073.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30622</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Za enotno slovensko stranko.</title>
+                  <author>Vekoslav Kukovec</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">L</biblScope>
+                     <biblScope unit="issue">298</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-AOGVLMTW</pubPlace>
+                     <date when="1917-12-31">31. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Za enotno slovensko stranko.</head>
+            <p xml:id="No.73.PPP.1">Odličen slovenski politik nam je poslal članek, ki ga spodaj
+               priobčujemo kot zanimiv pričetek potrebne razprave o konsolidaciji in ureditvi naših
+               političnih sil. Po našem mnenju gre spoštovani avtor <hi rend="italic">predaleč</hi>.
+               Izhajajoč s stališča, da se mora današnja slovenska politična razcepljenost odpraviti
+               ter izvršiti reorganizacija naših političnih sil, prihaja do <hi rend="italic"
+                  >enotne</hi> narodne politike preko <hi rend="italic">enotne politične
+                  stranke</hi>, obsegajoče vse napredne in klerikalno politične skupine našega
+               naroda, ki stoje na programu narodne samoodločbe. Zdi se nam ta načrt načelno
+               predalekosežen in praktično neizpeljiv. V tem oziru opozarjamo na razprave zadnjega
+               zaupniškega sestanka S. L. S.<note source="#SourceBornDigital">Prim. dok. št.
+                  23.</note> Tudi vzgledi iz drugih narodov, ki jih navaja spoštovani gospod doktor,
+               nas ne prepričajo: Čehi organiziralo sedaj enotno stranko, toda ta stranka naj ne bo
+               le deklaracijska, temveč tudi odločno napredna. Veliko resnico pa govori avtor, ko
+               pravi, da mora deklaracijska ideja temeljito preobraziti naše domače javno življenje
+               ter povzročiti v tvorbi strank najdalekosežnejše spremembe. Njegov klic po enotno
+               organiziranem političnem delu za našo deklaracijo mora najti kar najkrepkejšega
+               odmeva. Mi menimo, da je pot k dosegi tega cilja: zenostavljenje našega strankarskega
+               organizma in koalicija. S. L. S. organizira svoje vrste enotno, <hi rend="italic"
+                  >enotno naj se organizira tudi napredno slovenstvo</hi>. Obstoj pokrajinskih
+               strank danes ni več opravičen. Na plan naj stopita Vseslovenska ljudska stranka in
+               Vseslovenska napredna demokratična stranka, ki skleneta trdno koalicijo za boj za
+               našo samoodločbo. To se nam zdi neobhodno potrebno, načelno upravičeno in praktično
+               izpeljivo, da se z vso vnemo posvetimo skupni prvi in največji nalogi naše narodne
+               politike.</p>
+            <milestone xml:id="No.73.PPP.2" unit="section" n="*"/>
+            <p xml:id="No.73.PPP.3">Dogodki svetovne vojne so prinesli Slovencem mnogo nesreče in
+               gorja, obogateli so nas pa za en velik dobiček, da se je ves narod oprijel velike
+               rešilne misli, zahtevati svojo politično združitev v jugoslovanski državi Hrvatov,
+               Slovencev in Srbov. Marsikateri Tomaž, ki še pred letom ni verjel, postaja veren. Za
+               ujedinjenje v smislu deklaracije <date when="1917-05-30">30. maja</date><note
+                  source="#SourceBornDigital">Glej dok. št. 124.</note> se je izjavila cela
+               <placeName>Slovenija</placeName>, tako da ima Jugoslovanski klub naših poslancev res večino naroda za seboj.
+               V tem oziru ni razločka med naprednjaki in pristaši ljudske stranke. Naša narodna
+               stranka <placeName>Štajerska</placeName> je bila prva, ki se je na več shodih že pred pol letom izrekla za
+               ujedinjenje Slovencev s Hrvati in Srbi v smislu državnozborske deklaracije.</p>
+            <p xml:id="No.73.PPP.4">Tej edinosti vseh narodno mislečih Slovencev pa še ne odgovarja
+               vidna oblika naše slovenske politične organizacije. Vse poslance na <placeName>Dunaju</placeName> in ves
+               narod v domovini veže sicer jugoslovanska deklaraciji, v politični organizaciji v
+               slovenskih deželah pa to ujedinjenje še ne najde odločnega izraza. Pred vojsko smo
+               imeli naprednjaki narodno-napredno stranko za <placeName>Kranjsko</placeName>, narodno-napredno stranko na
+               <placeName>Goriškem</placeName>, narodno stranko v <placeName>Trstu</placeName> in narodno stranko <placeName>štajersko</placeName>. Nasproti tem
+               organizacijam je stala vseslovenska ljudska stranka, ki pa tudi ni bila enotno
+               organizirana, ampak je bila bolj zveza ljudskih strank posameznih pokrajin. Sedaj smo
+               obogateni za novo kmečko stranko dr. <persName>Šusteršičevo</persName>, četudi bolj na papirju.</p>
+            <p xml:id="No.73.PPP.5">Opravičbo svojega obstanka so razne imenovane stranke v dobi let
+               sicer dokazale z delom za svoje programe in z bojem za svoja politična načela.
+               Stranke pa niso namenjene za večnost, ampak so trenotni izraz narodnega življenja.
+               Danes je pa obvladala ideja ujedinjenja skoro vse dejanje in nehanje naroda. Zato je
+               očividno, da bode ta deklaracijska ideja, v kolikor se to že ni zgodilo, naravnim
+               potom kmalu temeljito preobrazila tudi vse naše domače javno življenje, ter
+               provzročila tudi v tvorbi strank najdalekosežnejše spremembe. Kdor ne gleda le na
+               zunanje oblike, ampak na stvar, bode mi vendar pritrdil, če pravim, da imamo zgornje
+               število slovenskih strank danes bolj po imenu nego v resnici. Kar pa občutimo vsi kot
+               neutajljivo politično realnost ali gotovost, je v narodu trdno vkoreninjena
+               jugoslovanska ideja samoodločbe naroda, ideja, ki po svoji notranji sili nadkriljuje
+               idejo katerekoli pri nas obstoječe klerikalne ali napredne stranke. Gotovo je, da so
+               politične ideje oni mogočni činitelj, ki ustvarja stranke. Ustanovitev kake stranke
+               ni nič drugega nego sklep enako mislečih za udejstvovanje kake politične ideje.
+               Deklaracijska ideja ujedinjenja in narodne samoodločbe, ki se je tako trdno
+               vkoreninila po vsem Slovenskem, izkazuje se istotako že zdaj očividno kot
+               tvoriteljica nove strankarske ideje in kdor hoče v političnem slovarju poiskati izraz
+               za to, kar se zdaj v našem javnem življenju godi, dobil bode odgovor, da se poraja
+               pri nas nova velika slovenska stranka narodne samoodločbe na eni strani, na drugi
+               strani pa stranka, ki je temu ujedinjenju in narodni samoodločbi
+               neprijazna, dr. <persName>Šusteršičeva</persName> stranka. Četudi se ta naravni proces še ni do konca
+               doigral, je v svojih temeljih že gotovo dejstvo ter se je to dejstvo proglasilo,
+               četudi ne izrecno pa dejansko, ko je pred kratkim predsednik kluba državnozborskih
+               naših poslancev dr. <persName>Korošec</persName> izrekel nasproti slovenski akademični mladini besedo o
+               enotni falangi. Ta izraz ne more kaj drugega pomeniti, nego da se bližamo ustanovitvi
+               enotne slovenske stranke, v kateri bo prostora za vse Slovence, ki se priznavajo k
+               ideji deklaracije <date when="1917-05-30">30. maja</date>.</p>
+            <p xml:id="No.73.PPP.6">Nastane torej začasno le vprašanje, ali naj se narod zadovolji s
+               tihim soglasjem obstoječih strank glede deklaracijske politike ali naj se deluje iz
+               poklicane strani smotreno za enotno stranko. Gotovo je, da posamezne stranke ne
+               odločijo z lahka odreči se svoji preteklosti in aktivni politiki ne zavržejo radi
+               uspehov svojega mnogoletnega truda za svojo stranko. Tudi občuti olikan človek
+               naravnost potrebo, biti član stranke, za katero se je odločil. Stati izven strank,
+               biti nepolitik, tudi na Slovenskem ni reč v navadi in se ne smatra za častno. Vendar
+               na drugi strani moramo priznati, da se je vsled vojnih dogodkov ožje strankarsko
+               delovanje izvzemivši časopisje in gospodarske naprave, pri nas nehote znatno skrčilo,
+               tako da imajo stranke izkazati prav slabo bilanco za zadnja tri leta. Če ne
+               upoštevamo dela poslancev v državnem zboru, ne preostane našim političnim strankam
+               mnogo več nego ime in časopisje z denarnimi zavodi. Posestno stanje strank potemtakem
+               ne tvori nepremostljive ovire za organizacijo enotne slovenske stranke, če se izkaže,
+               da tehtni razlogi in interesi naroda isto zahtevajo. Ali pa morebiti načela strankam
+               branijo, združiti se v deklaracijsko enotno stranko? Ni razvidno, katero vodilno
+               načelo naših ljudskih strank bi se ne dalo v okvirju skupne stranke gojiti v zadostni
+               meri, napredni krogi morajo pa že po bistvu svojih strank biti pomirjeni, da je v
+               veliki slovenski stranki dandanes za njih delovanje več nego dovolj priložnosti.
+               Glede vodilnih načel se bo dalo pri primerni dobri volji najti in določiti jamstvo
+               sodelovanja za obe svetovni naziranji, kakor že izkušnja Jugoslovanskega kluba v
+               parlamentu dovolj dokazuje. Zlasti obmejni Slovenci si moramo biti v svesti, da je
+               močna slovenska enotna stranka sposobnejša rešiti nas v sedanji kritični dobi
+               narodnega pogina, nego <hi rend="italic">neorganizirana</hi> množica strank. Jasno
+               je, da bodo naši bratje Hrvati in Srbi našli v tvorbi skupne države na združenih
+               Slovencih trdnejšo oporo, nego če smo v vsakteri deželi še povrh razcepljeni v po dve
+               ali tri stranke. Eno izmed težavnih vprašanj, če se je šlo za skupno postopanje naših
+               političnih strank, je bilo pred vojno vprašanje moči v denarništvu, v organizaciji
+               zadrug in njih zvez. Danes, ko ima denar malo ceno, in ko se ga denarni zavodi skoro
+               že branijo, more se tudi o ti stvari treznejše soditi. Gotovo bode zlasti ob prehodu
+               v redne gospodarske razmere kredit v našem gospodarstvu igral veliko vlogo in denarni
+               zavodi si bodo mogli vseskozi čestitati, da jim vojska ni bila v škodo, ampak so si
+               večinoma opomogli. Enotna organizacija Slovencev v eno samo politično stranko pa niti
+               posameznim zadrugam, niti organizaciji zadrug ne more biti škodljiva. O potrebi
+               konsolidacije naših gospodarskih naprav in zadružnih central se je pa s strani
+               strokovnjakov rekla itak že marsikatera opravičena želja in morebiti današnja doba
+               mirno in v splošno zadovoljnost tudi na tem polju reši sporna vprašanja, ki bodo
+               našemu gospodarskemu življenju nova vzpodbuda. Poznavalci razmer tudi vedo, da smo
+               bili baš na tem polju pred vojno nasproti drugim narodom, n. pr. Čehom, še daleč
+               zadaj. Kako si pa sploh more končno misliti prepričan Jugoslovan boljšo podlago za
+               našo upravno združitev v skupno državno obliko, nego je konsolidarno narodno
+               gospodarstvo vsega slovenskega sveta! V tem oziru nas čaka hvaležno delo. Ovire za
+               združitev Slovencev v močno enotno stranko pa naše zadružništvo gotovo ne podaja. Če
+               se ozremo na Nemško, vidimo, da se je tam za veliko časovno idejo svetovne nadvlade
+               nemštva porodila in mogočno organizirala velika nova stranka, domovinska <persName>Tirpitzeva</persName>
+               stranka. Naše Vsenemce vidimo vsak hip marljivo pri organizaciji skupnega odpora
+               zoper naše zahteve. Poljski narod nam je podal v ti vojni sijajen vzgled podrejevanja
+               interesov posameznih strank interesom skupne poljske države, in videti je, da ti
+               napori ne bodo brezuspešni. Pri češkem narodu se ves čas vojne na vso moč deluje za
+               enotnost organizacije političnih struj. Socijalistične struje na <placeName>Češkem</placeName> so zelo blizu
+               enotnemu narodnemu cilju ne le po programu, ampak tudi po enotni organizaciji, tako
+               da bo protinarodna struja pod dr. <persName>Šmeralom</persName> kmalu tako osamljena, kakor pri nas dr.
+               <persName>Šusteršič</persName>. Poznavalci čeških razmer pravijo, da je organizatorično delo za
+               češko-slovaško državo na vseh poljih naravnost velikansko. Visoko je pri nas ceniti
+               dosedanjo propagando za deklaracijsko politiko, toda to ne more in ne sme biti vse.
+               Postaviti moramo isto na solidno podlago velike slovenske stranke in njene podrobne
+               organizacije. Med narodom nikdar ni bilo tako ugodnega razpoloženja za tako politično
+               združitev Slovencev, kakor danes, in bila bi morebiti usodepolna napaka, če bi se to
+               razpoloženje ne porabilo in v polni meri izrabilo.</p>
+            <p xml:id="No.73.PPP.7">Ne sme se poudarjati, da je struja dr. <persName>Šusteršiča</persName> preneznaten
+               nasprotnik, da bi se bilo treba združiti proti njemu vsem drugim slovenskim strankam
+               v enotno stranko. Ne smemo pozabiti, da ima vlada danes mnogo sredstev, ali skoro vsa
+               sredstva skupnosti v svojih rokah, ki jih bo proti nam zdaj s pomočjo dr. <persName>Šusteršiča</persName>,
+               zdaj s pomočjo Nemcev in Madžarov izrabila. Le organizirana naša obramba bo mogla
+               biti združenim nasprotnikom primeren protiutež. Smoter, za katerega se nam je boriti,
+               je tako velik in težaven, da bo tudi najmočnejša enotna slovenska stranka istega z
+               naporom vseh sil doseči mogla. In če dosežemo svoje ujedinjenje, kar nam nikakor ne
+               sme bili le sanja, ampak resen namen, je jasno, da je notranja ureditev nove državne
+               oblike tako velikanska naloga, da bodo še združene organizirane sile vsega naroda
+               komaj zadostovale, pri razcepljenju v neštevilno strank in strančic pa na dober uspeh
+               ne moremo opravičeno računati. Sami ob sebi pa tudi k nam ne bodo pečeni golobi
+               prileteli. Enotna slovenska stranka mora imeti svoj kmečki, svoj meščanski, svoj
+               delavski program. Pri današnjem nespremenjenem stanju strankarstva na <placeName>Slovenskem</placeName> bi
+               pa bil pravi čudež, doživeti tozadevno enotno postopanje. Kak narodni svet, ki se
+               nasvetuje od več strani, ne bo sposoben uveljaviti se tozadevno zadostno. Delo
+               Jugoslovanskega kluba v parlamentu, ki je vseskozi srečno in času primerno, mora se
+               poglobiti in utrditi tudi med narodom in skrajni čas je, da se resno vzame v pretres
+               ideja ustanovitve enotne slovenske stranke in da se organizacija iste izpelje v
+               soglasju z vsemi dosedanjimi strankami, ki so se izrekle za ujedinjenje. Baviti se je
+               z zadevo posameznim organizacijam in sliši naj se vsestransko javno mnenje o tem
+               predlogu.</p>
+            <p xml:id="No.73.PPP.8">O obliki in izvršitvi naj pa s končnim predlogom stopi pred
+               javnost Jugoslovanski klub, ki si je pridobil s svojim parlamentarnim delom splošno
+               zaupanje in ki samo enotno stranko najnujneje potrebuje.</p>
+            <closer>Dr. <persName>V. K.</persName></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

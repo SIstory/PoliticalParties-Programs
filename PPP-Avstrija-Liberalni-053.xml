@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nujni predlog poslancev Narodno napredne stranke Ivana Hribarja in tovarišev
+               glede spremembe državnozborskega volilnega reda, izročen kranjskemu deželnemu zboru
+               25. oktobra 1905 in prebran na njegovi seji 3. novembra 1905</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30586</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-053.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30586</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik druge seje deželnega zbora kranjskega v Ljubljani
+                     dné 3. novembra 1905.</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="issue">46</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor Kranjski</publisher>
+                     <date when="1908">1908</date>
+                     <biblScope unit="page">18</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.53.PPP.1">Visoki deželni zbor skleni:</p>
+            <p xml:id="No.53.PPP.2">Da se uveljavi polnopravnost vseh državljanov in odpravijo
+               krivice sedanjega na privilegijih slonečega volilnega reda, po katerem se državni
+               zbor ne more smatrati za zastopstvo, ki bi odgovarjalo številnej jakosti posameznih
+               narodov, pozivlje se vlada, da kar najpreje mogoče predloži državnemu zboru načrt
+               zakona o takej premembi državnozborskega volilnega reda, ki bode slonela na načelih
+               splošne, neposredne, tajne in jednake volilne pravice, ker je le potem mogoče
+               pričakovati volilne reforme tudi za deželne zbore na istej podlagi. Vsekakor pa vsak
+               volilni red obsegaj tudi najobsežnejše garancije za resnično svobodno volitev in
+               zlasti tudi zoper zlorabo vere in cerkve v volilne namene.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

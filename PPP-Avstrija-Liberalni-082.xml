@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pojasnila načelnika Jugoslovanske demokratske stranke dr. Ivana Tavčarja k
+               strankinim socialnodemokratskim usmeritvam</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30631</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-082.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30631</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Nekoliko pripomb h gospodarskemu programu JDS.</title>
+                  <author>Ivan Tavčar</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">152</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-4LZTJEJQ</pubPlace>
+                     <date when="1918-07-08">8. 7. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>Dež. posl. dr. <persName>Ivan Tavčar</persName></opener>
+            <head>Nekoliko pripomb h gospodarskemu programu JDS.</head>
+            <gap xml:id="No.82.PPP.1" reason="irrelevant"/>
+            <p xml:id="No.82.PPP.2">Pred vsem zavrnemo tiste, katerim se zdi, da smo na ustanovnem
+               zboru premalo povdarjali razliko med našo in socijalno-demokratično stranko.</p>
+            <p xml:id="No.82.PPP.3">Mi smo demokratska stranka. To se pravi: mi smo za popolno
+               enakost vseh slojev našega naroda. Dr. <persName>Triller</persName> je pravilno
+               izjavil v političnem odseku, da demokratičnost naše stranke obstoja v tem, da ne
+               pozna nobene nadvlade, najmanj pa nadvlade kake manjšine nad večino. Zatorej ne
+               priznavamo nikake nadvlade aristokracije; tudi ne moremo pripoznati načela, da bi v
+               političnem življenju imela duhovščina kot stan tako nadvlado; istotako ne moremo
+               pripoznati, da bi imel nadvlado kmečki stan, ker demokratična stranka, ki seveda
+               podpira težnje kmečkega stanu, ne more biti izključno samo agrarična stranka; dalje
+               ne moremo pripoznati, da bi imel trgovski ali pa uradniški stan nadvlado po mestih,
+               in končno je tudi izključeno, da bi delavstvo, ki v nobeni kulturni državi ne tvori
+               večine prebivalstva, imelo nadvlado nad vsemi drugimi stanovi. Naša demokratska
+               stranka ne priznava nikaki manjšini nadvlade nad večino, ima pa v nji svoje
+               enakopravno mesto odkazano tako kmet, kakor duhovnik, tako trgovec in uradnik, kakor
+               delavec. Stranka hoče zbližati vse stanove k plodonosnemu političnemu delovanju, ne
+               more pa dopuščati, da bi kaka manjšina izvrševala tiranstvo nad večino, in da bi
+               stranka nato tako klavrno poginila, kakor so poginili boljševiki na Ruskem!</p>
+            <p xml:id="No.82.PPP.4">To, kar velja o posameznih stanovih, velja tudi o zavodih, ki so
+               v rokah posameznih slojev, posebno tudi o gospodarskih zavodih. Demokratska stranka
+               ne odreka niti enemu teh zavodov pravice do obstoja, enako so ji pri srcu vsi in
+               njene težnje obstoje v tem, da ne ustvarja prepira niti med posameznimi sloji
+               prebivalstva, niti med posameznimi gospodarskimi zavodi. Harmonijo hoče doseči
+               povsod, harmonijo v imenu celokupnosti, tako da se bo življenje naroda lahko
+               primerjalo velikemu stroju, ki dela za celokupnost, pri katerem pa ima vsako kolo in
+               tudi vsako kolesce odkazano svojo posebno nalogo, tako da stroj obstane, če vzameš iz
+               njega kolo ali pa tudi najmanjše kolesce. <hi rend="italic">Ta harmonija v političnem
+                  in gospodarskem življenju mora biti prvi ideal, pa tudi prvi cilj naše
+                  Jugoslovanske demokrat. stranke</hi>. </p>
+            <gap xml:id="No.82.PPP.5" reason="irrelevant"/>
+            <p xml:id="No.82.PPP.6">Naj končno spregovorimo še o stvari, ki je nekatere somišljenike
+               vznemirila, ker se je v debati od ene strani stavil predlog, ki izgleda na prvi hip
+               nekako boljševiško. Nekateri so menili, da hoče ta predlog, naj se JDS. izreče za
+               odpravo privatne lastnine in so se čudili, da ni bil a limine odklonjen, temveč
+               izročen izvrševalnemu odboru v nadaljno razpravljanje. Predvsem je pripomniti, da se
+               je formalno postopalo z vsemi predlogi enako – nobeden ni bil definitivno odklonjen,
+               temveč so bili vsi odkazani kot gradivo izvrševalnemu odboru. Sicer pa moramo reči,
+               da je ta predlog v besedah sicer jako radikalen (čeravno nikakor ni
+                  <q>boljševiški</q>) v stvari precej krotak.</p>
+            <p xml:id="No.82.PPP.7">Toda to ni glavno. Glavno je, kaj razume JDS. pod
+               nacijonaliziranjem premoženja? Ali menimo odpraviti privatno last ter premoženje
+                  <q>podržaviti</q>? Se li hočemo držati <persName>Proudhona</persName> ali morda
+                  <persName>Ljenina</persName> in <persName>Trockega</persName>? Hočemo li posnemati
+               pruske konfiskacije poljske zemlje, ali obnoviti stare čase, ko so
+                  <persName>Sulla</persName>, <persName>Mark Anton</persName> in poznejši njihovi
+               posnemovalci zasegali zemljišča političnih svojih nasprotnikov? Ne, vsega tega naša
+               stranka noče. Ona pa pravi, da moramo smotreno in dosledno stremeti za tem, da
+               postanejo najvažnejša gospodarska sredstva v naši domovini naša narodna last, last
+                  <hi rend="italic">našega</hi> človeka, da ne bo naš narod le predmet
+               izkoriščevanja za druge. <q>Nacijonaliziranje premoženja</q> je torej v tem zmislu
+               povsem legalen cilj našega gospodarskega stremljenja, je predpogoj naše gospodarske
+               osamosvojitve, je na gospodarsko polje prenešen izrek: Na svoji zemlji svoj gospod. V
+               tem zmislu smo n. pr. sprejeli v svoj program odpravo fidejkomisov. To se pravi, mi
+               hočemo, da se ti fidejkomisi legalnim potom odkupijo in zemlja, ki s tem prosta
+               postane, proti primerni odškodnini prepusti našemu kmetu. Ta vzgled naj bo dokaz, da
+               nikakor ne zahtevamo <q>odprave privatne lastnine</q>.</p>
+            <p xml:id="No.82.PPP.8">Boj za gospodarsko osamosvojitev našega naroda je eden naših
+               najtežjih problemov. Približali se bodemo konečni rešitvi le z dobro premišljenim,
+               previdnim in prevdamim delom. Menimo, da tvori novi program Jugoslovanske demokratske
+               stranke dobro podlago za tako delo in za to je potrebno, da smo si o njega
+               dalekosežnesti povsem na jasnem.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

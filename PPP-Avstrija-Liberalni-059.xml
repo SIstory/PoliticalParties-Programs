@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Slovenske gospodarske stranke, ustanovljene 30. decembra 1906 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:20592</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-059.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:20592</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Program <q>Slovenske Gospodarske Stranke</q>.</title>
+               </analytic>
+               <monogr>
+                  <title>Nova doba</title>
+                  <title>glasilo Slovenske gospodarske stranke</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">6</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-RDIQ9N4F</pubPlace>
+                     <date when="1907-03-06">6. 3. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Program <q>Slovenske Gospodarske Stranke</q>.</head>
+            <list xml:id="No.59.PPP" type="ordered">
+               <item n="1.">Narod je v današnjem stanju razvoja človeštva najnaravnejša skupina;
+                  zato je sodelovanje na narodnostni podlagi najložje izvedljivo in
+                  najuspešneje.</item>
+               <item n="2.">Boj med narodi je v prvi vrsti gospodarski boj. Uspešno ga bíje le
+                  gospodarsko bolje razvit narod.</item>
+               <item n="3.">Gospodarsko krepak narod se dviga neprisiljeno in hitro tudi kulturno.
+                  Blagostanje je najvarnejše jamstvo za duševno neodvisnost.</item>
+               <item n="4.">Narod se dvigne s tem, da se vsi sloji, ki se z delom žive, gospodarski
+                  dvignejo.</item>
+               <item n="5.">Svoje sile zajema narod iz sebe. On je izvor vseh pravic. On je
+                  suverenski.</item>
+               <item n="6.">Stanovi so si med seboj enakopravni. Predpravice narodov, stanov ali
+                  posameznikov so krivične.</item>
+               <item n="7.">Umetne meje kot nenaravne, razdružujejo narodovo celokupnost.</item>
+               <item n="8.">Naš politični cilj je narodova avtonomija.</item>
+               <item n="9.">Kot maloštevilen narod stremimo za zbližanjem s sorodnimi narodi, v prvi
+                  vrsti z jugoslovanskimi in slovanskimi sploh. Zbližanje bodi gospodarsko, kulturno
+                  in končno tudi politično.</item>
+               <item n="10.">Do pravega izpoznanja in uporabe svojih sil nas privede
+                  izobrazba.</item>
+               <item n="11.">Vsa izobrazba naj se vrši v zmislu najnovejših pridobitev znanosti in
+                  vede.</item>
+               <item n="12.">Šola odgovarjaj potrebam naroda in vzgajaj ga za socialno in
+                  gospodarsko življenje.</item>
+               <item n="13.">Znanstvena in nravna vzgoja zahteva telesno zdravje in
+                  ukrepitev.</item>
+               <item n="14.">Stremljenje naše politike je močna, vseslovenska gospodarska
+                  organizacija, ki naj bíje z vsemi močmi in najracionelnejšimi pomočki brezobziren
+                  gospodarski boj proti vedno napredujočim tujcem na naši slovenski zemlji.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

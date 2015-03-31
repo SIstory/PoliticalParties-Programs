@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv člana Jugoslovanske demokratske stranke dr. Viktorja Sušnika na Šukljetovo
+               zamisel o ureditvi jugoslovanske države</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30635</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-086.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30635</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>V Jugoslaviji.</title>
+                  <author>Viktor Sušnik</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">243</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-68G6GSO0</pubPlace>
+                     <date when="1918-10-19">19. 10. 1918</date>
+                     <biblScope unit="page">2-3</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>Dr. <persName>V. S.</persName></opener>
+            <head>V <placeName>Jugoslaviji</placeName>.</head>
+            <p xml:id="No.86.PPP.1"><placeName>Jugoslavija</placeName> vstaja, ž njo pa pereče
+               vprašanje, kakšen bodi ustroj naše bodoče skupne jugoslovanske domovine. Gospod pl.
+                  <persName>Šuklje</persName> nam je tudi že razvil nekaj svojih misli o načinu
+               bodoče uprave na slovenskih zemlji.<note source="#SourceBornDigital">Glej dok. št.
+                  44.</note> Ne da hočemo prejudicirati samoodločbi naroda samega ali sklepom NS.,
+               ki je kot naša začasno vrhovna instanca po našem mnenju poklican v soglasju z večino
+               bodočih državljanov položiti temelj naši narodni stavbi, bodi nam dovoljeno,
+               povdariti nekatere momente, ki se nam vidijo velike važnosti za uspešno rešitev
+               celega problema. Če pri tem prihajamo do zaključkov, različnih od onih g. pl.
+                  <persName>Šukljeja</persName>, to nič ne de. Zadovoljni moremo biti, če se nam
+               posreči položiti <placeName>Jugoslaviji</placeName> kar mogoče zdrave in trdne
+               temelje, stvar zanamcev bo, da izpopolnijo naše delo v skupni blagor.</p>
+            <p xml:id="No.86.PPP.2">Naše mnenje pa je sledeče:</p>
+            <p xml:id="No.86.PPP.3"><placeName>Jugoslavija</placeName> brez najodličnejšega,
+               politično najzrelejšega in po poteku vojnih dogodkov v bodoče tudi najvplivnejšega
+               jugoslovanskega naroda, z eno besedo: <hi rend="italic"
+                     ><placeName>Jugoslavija</placeName> brez Srbov bila bi le političen
+                  nestvor</hi>, podoben pohabljenim spakam berolinskega kongresa. Pravičnost in naša
+               narodna čast zahtevata torej, da zavzemaj srbski narod v bodoči
+                  <placeName>Jugoslaviji</placeName> svoji politični in kulturni veljavi in
+               neizmernim za idejo ujedinjenja <placeName>Jugoslovanov</placeName> doprinešenim
+               žrtvam odgovarjajoče <hi rend="italic">odlično mesto</hi>.</p>
+            <p xml:id="No.86.PPP.4"><placeName>Jugoslavija</placeName> pomeni <hi rend="italic"
+                  >konec »balkanskega vprašanja«</hi> in vseh navskrižnih političnih aspiracij
+               balkanskih narodov. Politična razumnost zahteva, da se ž njimi, predvsem z nesrečnimi
+               Bolgari doseže <hi rend="italic">sporazum</hi> in da stopijo tudi ti, če bi se njih
+               spojitev v skupno državno telo ne izkazala za umestno, z
+                  <placeName>Jugoslavijo</placeName> v kar najtesnejšo zvezo. </p>
+            <p xml:id="No.86.PPP.5"><placeName>Jugoslavija</placeName> pa pomeni tudi za nas <hi
+                  rend="italic">Slovence</hi> konec vseh kronovinskih mej in konec vseh
+               konfesijonelnih in plemenskih predsodkov napram našim bratom Srbom in Hrvatom.</p>
+            <p xml:id="No.86.PPP.6">Zveza troimenskega naroda SHS. bodi kar najtesnejša in trajna.
+                  <hi rend="italic">Našemu bodočemu jugoslovanskemu parlamentu odkaži se kar
+                  najširši delokrog</hi>. Tako nam veleva naš interes, pa tudi naša narodna
+               čast.</p>
+            <p xml:id="No.86.PPP.7">Več kakor štiriletna vojna spravila nas je vse
+                  <placeName>Jugoslovane</placeName> brez izjeme na beraško palico. Po vojni nas
+               čakajo naloge, katerim nobeden jugoslovanskih narodov sam za-se ni kos. Pomislimo, da
+               bo treba poljedelstvo, trgovino in obrt takorekoč na novo še-le ustvariti, po vojni
+               opustošenim krajem pomagati skrbeti za ogromno število invalidov, pri tem pa ob
+               lastnih sredstvih vzdrževati celo državno upravo. Naša domovina je po vojni do
+               skrajnosti izčrpana in če vrh tega, kakor vse kaže, Madžari še pred končno
+               likvidacijo proglase neodvisnost, je državni <hi rend="italic">bankerot
+                  neizogiben</hi>. Naši domači denarni zavodi – in naj so še tako požrtvovalni – nam
+               najbrže ne bodo mogli dati zadostnega kredita na razpolago. Treba bo torej, da se
+               združimo vsi in vzamemo na skupne rame, kar posameznik nesti ne bo mogel.</p>
+            <p xml:id="No.86.PPP.8">Ker bomo pa navzlic združitvi ostali kredita potrebni, moramo
+               storiti vse, da si pridobimo zaupanje tistih narodov, <hi rend="italic">ki so za našo
+                  osvoboditev doprinesli žrtve</hi> in od katerih edinih moremo v bodočnosti
+               pričakovati uspešne pomoči. Ti pa nas bodo spoštovali le tedaj, če stopimo na
+               svetovno pozorišče ne kot brezglava čreda nevoščljivih drug drugega izpodrivajočih
+               tekmecev, nego kot zdrav, svoje visoke misije se zavedajoč organizem v dosego
+               skupnega cilja združenih sil.</p>
+            <p xml:id="No.86.PPP.9">Otresimo se torej pogumno vseh predsodkov in pokažimo svetu, da
+               smo politično resen in zrel narod, ki preko malenkostnih ovir zasleduje nemoteno svoj
+               visoki cilj. Zemljepisna lega odkazala nam je v družbi svobodnih civiliziranih
+               narodov <hi rend="italic">odlično mesto. Poklicani smo, da posredujemo med evropskim
+                  in azijskim ter afriškim kontinentom</hi>. Naši trgovini in industriji odpirajo
+               se, če bodemo umevali veliki čas, nedogledne perspektive. Za to pa potreba predvsem
+               velikopotezne trgovske in prometne politike.</p>
+            <p xml:id="No.86.PPP.10">S tega stališča pa se poda že toliko skupnih stikov med tremi
+               sestavnimi deli našega jugoslovanskega naroda, da se bo pokazala potreba, <hi
+                  rend="italic">pretežni del javnih interesov urediti po vesoljni
+                     <placeName>Jugoslaviji</placeName> po enakih načelih</hi> in da bo torej naš
+                  <hi rend="italic">osrednji parlament</hi> dejanski tisti faktor, ki bo <hi
+                  rend="italic">redoma</hi> odločeval o naših javnih zadevah.</p>
+            <p xml:id="No.86.PPP.11">Da morata nastop <placeName>Jugoslavije</placeName> na zunaj in
+               nje obramba – če bomo diplomate in generale sploh še potrebovali – biti skupna in
+               enotna, se razume po sebi. Da mora naša trgovska, prometna in finančna politika biti
+               urejena po enotnih načelih, je po prednavedenem menda nedvomno. <hi rend="italic"
+                  >Nikakega pametnega razloga pa tudi</hi> ni za mnenje, – in v tem g. pl.
+                  <persName>Šukljeju</persName> ne moremo pritrditi – <hi rend="italic">da naj se
+                  onstran Sotle in Save drugače upravlja in sodi kakor pri nas Slovencih</hi>.
+               Nasprotno, čim enotnejši je državni ustroj, tem lažje in hitreje bomo mogli doseči
+               svoje skupne cilje. Končno tudi ureditve šolstva ne bomo mogli prepustiti zgolj
+               posameznim narodnim skupinam. Dasi smo uverjeni, da nam skoro vstane v naši beli
+               Ljubljani dolgo zaželjeno <hi rend="italic">vseučilišče</hi>, preostaja nam na polju
+               omike in prosvete vendarle še toliko ogromnega dela, da ga sami gotovo ne zmoremo. To
+               ne velja samo o našem srednjem in strokovnem šolstvu, ampak <hi rend="italic">pred
+                  vsem o ljudskem šolstvu</hi>, ki se v <placeName>Avstriji</placeName> pod deželno
+               upravo nikdar ni moglo razviti.</p>
+            <p xml:id="No.86.PPP.12">Če se torej načeloma zavzamemo za kolikor mogoče dovršeno <hi
+                  rend="italic">centralizacijo</hi> celotne državne uprave v bodoči
+                  <placeName>Jugoslaviji</placeName>, tedaj nas pri tem vodi izključno le že zgoraj
+               obrazloženo prepričanje, da bomo svojo misijo tem hitreje in sigurneje dovršili, čim
+               enotnejši in krepkejši vstopimo v krog svobodnih, civilizovanih narodov. Kjer skupni
+               interesi niso prizadeti, naj se pusti vsaki posamezni skupini proste roke, kakor
+               sploh zvesti demokratiškim načelom <hi rend="italic">a priori perhoresciramo vsako
+                  nasilnost</hi>. Krog javnih interesov utegne – o tem smo uverjeni – v novi dobi
+               tako narasti, da ostane za inicijativo lokalnih skupin, občin, okrožij ali dežela,
+               ali kakor jih že hočete imenovati, še vedno dovolj inicijative.</p>
+            <p xml:id="No.86.PPP.13">Kako naj to inicijativo pospešujemo, ali potom vpeljave
+               avtonomije v gotovih mejah, ali na ta način, da se najširši krogi pritegnejo k
+               sodelovanju pri poslih javne uprave, bo stvar premisleka in izkušnje. O <hi
+                  rend="italic">avtonomiji</hi> – občinski in deželni – smo v
+                  <placeName>Avstriji</placeName> govorili dovolj, <hi rend="italic">vredna pa ni
+                  bila ne ena, ne druga nič</hi>.</p>
+            <p xml:id="No.86.PPP.14">Nam se vidi, da bo treba <hi rend="italic">javno upravo in
+                  predvsem tudi sodstvo kar le mogoče poenostaviti</hi> in, da si prihranimo ogromne
+               stroške, za drag, pa neokreten in samopašen birokratski aparat, lajiški element v kar
+               največji meri pritegniti k opravilom nižjega sodstva in uprave. Na ta način dobimo iz
+               vrst naših domačih narodnih uradnikov potrebne moči za mnogovažnejša <hi
+                  rend="italic">vodilna mesta</hi>, na drugi strani pa udejstvujemo dozdaj pri nas
+               malodane nepoznano načelo, da je vsak samopraven državljan poklican in dolžan svojim
+               zmožnostim primerno sodelovati pri javni upravi. </p>
+            <p xml:id="No.86.PPP.15">Seveda bo za prehodni čas marsikaj moralo ostati pri starem,
+               druge zadeve pa se bodo morale rešiti kompromisnim potom. Enotna uprava in sodstvo se
+               ne dasta vpeljati čez noč.</p>
+            <p xml:id="No.86.PPP.16">Končno naj se dotaknemo še <hi rend="italic">narodnostnega
+                  vprašanja</hi>. Da mora biti v <placeName>Jugoslaviji</placeName> vsakemu delu
+               troimenega naroda, dokler se še ločimo po narečjih, zajamčen <hi rend="italic"
+                  >neomejen narodni in kulturni razvoj</hi>, se razume po sebi. Na drugi strani pa
+               bodi naša zveza poklicana, poglobiti naše stike z onimi, ki so po jeziku in krvi <hi
+                  rend="italic">isti</hi>, in pripravljati pot danes nam še neznani višji kulturni
+               jednotnosti. Uverjeni smo, da bo uprav to tesno medsebojno občevanje in spoznavanje
+               za vse, danes še diferencirane skupine v Jugoslaviji obrodilo bogate sadove ter <hi
+                  rend="italic">izredno poživilo in poplemenitilo naša kulturna stremljenja</hi>.
+               Nadaljni razvoj mirnim srcem puščamo bodočnosti.</p>
+            <p xml:id="No.86.PPP.17">Mi smo tesarji in zidarji. Stvar naših potomcev bo, da naš dom
+               opremijo z udobnostjo. Zacelimo rane, ki nam jih je vsekala ta strašna vojna in <hi
+                  rend="italic">storimo vse, da pokažemo svetu dobro voljo in si pridobimo zaupanje
+                  velikih, svobodnih in civiliziranih narodov</hi>, in – vse bo prav: </p>
+            <p xml:id="No.86.PPP.18"><q>Fortunae cetera mando, quae iuvet et melius, quam tu tibi,
+                  consulat opto.</q></p>
+         </div>
+      </body>
+   </text>
+</TEI>

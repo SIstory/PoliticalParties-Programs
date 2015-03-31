@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Političnoprogramski del pravil Slovenskega društva v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30578</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-045.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30578</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title><q>Slovensko društvo</q></title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIV</biblScope>
+                     <biblScope unit="issue">24</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-19JWTNCP</pubPlace>
+                     <date when="1891-01-30">30. 1. 1891</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head><q>Slovensko društvo</q>.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.45.PPP.1">§ 2 pravil: Pospeševati slovenskega naroda duševni in gmotni
+               napredek; razširjati mej njim politično izobraženje in narodno zavest, braniti
+               njegove narodne in državljanske pravice in zlasti pripomagati, da se mu uresniči
+               ustavno zagotovljena narodna ravnopravnost. </p>
+            <gap reason="irrelevant" xml:id="No.45.PPP.2"/>
+            <p xml:id="No.45.PPP.3">§ 3 pravil: V dosego tega namena vporablja društvo vsa zakonito
+               dopuščena sredstva, zlasti ono napravlja na raznih krajih shode, na katerih se
+               pretresajo reči, ki so v narodnem, narodno-gospodarskem, ali v političnem oziru
+               važne, in izreka o njih svoje mnenje; poučuje narod z besedo, časniki, knjigami in
+               brošurami; in napravlja razne veselice, n. pr. besede, pevske večere, gledišne in
+               druge igre, berila<corr>,</corr> razlage i. t. d. </p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nujni predlog poslancev dr. Ivana Šusteršiča, Jožefa barona Schwegla, dr. Ivana
+               Tavčarja in tovarišev o spremembi deželnega reda in deželnega volilnega reda, podan
+               na seji kranjskega deželnega zbora 27. marca 1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30785</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-126.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30785</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik prve seje deželnega zbora kranjskega v Ljubljani dne
+                     27. marca 1908</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 27. marca 1908 do 29. oktobra 1910</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">47</biblScope>
+                     <biblScope unit="page">7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.126.PPP.1">Deželni zbor skleni:</p>
+            <list xml:id="No.126.PPP.2" type="simple">
+               <item>Deželni red in deželni volilni red se imata spremeniti v tem smislu, da se
+                  omogoči vsem slojem prebivalstva sodelovanje pri deželni zakonodaji in
+                  upravi.</item>
+               <item>Izvoli se ustavni odsek 12 članov in 3 namestnikov, kateremu se naroča, da
+                  izdela zakonska načrta v predstoječem smislu in poda v najkrajšem mogočem času
+                  svoje poročilo.</item>
+               <item>V formalnem oziru se predlaga, da se ta predlog obravnava kot nujni v smislu §
+                  21. opravilnika. </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

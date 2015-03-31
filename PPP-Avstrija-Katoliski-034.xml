@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o položaju goriškega delavstva, sprejeta na ustanovnem zboru Slovenske
+               ljudske stranke na Goriškem 25. novembra 1907 v Gorici</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30567</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-034.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30576</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska Ljudska Stranka na Goriškem.</title>
+               </analytic>
+               <monogr>
+                  <title>Gorica</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">97</biblScope>
+                     <pubPlace>Gorica</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-0H40IGPZ</pubPlace>
+                     <date when="1907-11-26">26. 11. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska Ljudska Stranka na Goriškem.</head>
+            <gap reason="irrelevant"/>
+            <list type="ordered" xml:id="No.34.PPP">
+               <item n="1.)">Zbor zaupnikov <q>S. L. S.</q> na <placeName>Goriškem</placeName> se
+                  čuti solidarnim z delavci v nabrežinskih kamnolomih. Delavci so sedaj odpuščeni,
+                  brez dela ter izpostavljeni največjemu pomanjkanju. – Zbor zaupnikov se obrača po
+                  svojih poslancih na vlado, da takoj priskoči brezposelnim delavcem na pomoč z
+                  denarno podporo, dokler nimajo v domovini primernega zaslužka. – </item>
+               <item n="2.)">Zbor zaupnikov nalaga svojim poslancem sveto dolžnost, naj se varuje
+                  domače delavstvo pred invazijo tujcev, ki domačemu delavstvu jemljejo in
+                  izpodkopujejo kruh. – V dosego te naloge je potrebno, da se uvede visok <hi
+                     rend="italic">delavski davek za vse delavce iz tujine</hi>. – </item>
+               <item n="3.)">V <placeName>Tržiču</placeName> dela vlada nov arzenal na stroške
+                  avstrijskih državljanov. Pri tem toli imenitno patrijotičnem delu so uposleni v
+                  veliki večini sami Italijani iz kraljestva. Slovencev ali sploh avstrijskih
+                  Italijanov se niti ne sprejema. Zbor zaupnikov zahteva po svojih poslancih od
+                  vlade, naj ista <hi rend="italic">takoj</hi> potrebno ukrene, da dobe zaslužka v
+                  arsenalu v <hi rend="italic">prvi vrsti domačini</hi> in še le <hi rend="italic"
+                     >potem tujci</hi>. – </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

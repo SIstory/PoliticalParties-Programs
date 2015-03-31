@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Slovenskega društva za državnozborske volitve leta 1891, sprejeta na
+               njegovem prvem javnem shodu 15. februarja 1891 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30580</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-047.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30580</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Prvi javni shod "Slovenskega društva" v Ljubljani.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIV</biblScope>
+                     <biblScope unit="issue">37</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-B169O9BP</pubPlace>
+                     <date when="1891-02-16">16. 2. 1891</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi javni shod <q>Slovenskega društva</q> v <placeName>Ljubljani</placeName>.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.47.PPP.1">Slovensko politično društvo pričakuje od slovenskih državnih poslancev, da bodo v
+               prihodnjem državnem zboru kolikor mogoče skupno delovali z drugimi slovanskimi
+               poslanci in da se bodo resno držali programa, vsprejetega po državno- in
+               deželnozborskih poslancih pri lanskem shodu v <placeName>Ljubljani</placeName>, in da bodo pristopili le
+               takemu klubu, ki bode omenjeni program sprejel v razpravo, ter obljubil, da bode
+               slovenske državne zastopnike pri vresničenji tega programa lojalno in pošteno
+               podpiral.</p>
+            <p xml:id="No.47.PPP.2">Istotako pričakuje društvo od slovenskih poslancev, da bodo s svojimi volilci v vedni
+               zvezi ostajali, ter jim po volilnih shodih poročali, kaj so v dotičnem zasedanji
+               storili za obči slovenski program, koliko so dosegli in v čem so se trudili.</p>
+            <p xml:id="No.47.PPP.3">Slovensko politično društvo, dasi je prepričano, da daje v naši kronovini sedanja
+               šola vse garancije za versko odgojo in da se pri nas ne kaže potreba po kakih
+               reformah, pričakuje od slovenskih državnozborskih poslancev, da naj se odločno
+               protivijo vsaki spremembi šolskih zakonov, ki bi bila v kvar verski odgoji naše
+               mladine.</p>
+            <p>(Konec prih.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

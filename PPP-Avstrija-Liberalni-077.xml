@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o oblikovanju enotnega jugoslovanskega političnega predstavniškega
+               organa, sprejeta na shodu zaupnikov narodne stranke za Štajersko 13. januarja 1918 v
+               Mariboru</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30626</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-077.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30626</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">12</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-AOGVLMTW</pubPlace>
+                     <date when="1918-01-15">15. 1. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.77.PPP">Uvažujoč, da naš jugoslovanski narod v teh usodnih trenotkih
+               neobhodno potrebuje enotno priznano predstaviteljstvo, pozivlja shod zaupnikov Nar.
+               stranke izvrševalne odbore naprednih strank, da se takoj začnejo z V. L. S. in z
+               vsemi strankami, ki stoje na stališču edinstvenosti S. H. S. in ki v ideji
+               samoodločbe vidijo pot v enotno narodno državo, pogajanja v svrho, da se osnuje
+               jugoslovanski narodni odbor, kot reprezentant naroda na zunaj, voditelj borbe za
+               narodno državo in za vse one važne narodne zadeve, ki jih vse udeležene stranke
+               priznajo za skupne.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

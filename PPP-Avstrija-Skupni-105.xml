@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razglas slovenskih poslancev bivajočih v Ljubljani za volitve v državni zbor leta
+               1891</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30643</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-105.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30643</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Volilci!</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIV</biblScope>
+                     <biblScope unit="issue">25</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-PTOFQEKV</pubPlace>
+                     <date when="1891-01-31">31. 1. 1891</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.105.PPP">
+            <head>VOLILCI!</head>
+            <p>Iznenada nas je zadela vest, da je državni zbor s cesarskim patentom z dné <date
+                  when="1891-01-23">23. januvarja 1891</date> l. razpuščen.</p>
+            <p>Pripravljati se nam je na nove volitve in lotiti se dela precej, ker že dne <date
+                  when="1891-03-03">3. marca</date> vršé se volitve v kmetskih občinah, dné <date
+                  when="1891-03-05">5. marca</date> v mestih in trgih in dne <date when="1891-03-03"
+                  >7. marca</date> v velikem posestvu.</p>
+            <p>V <placeName>Ljubljani</placeName> bivajoči narodni poslanci so se sešli in so
+               poprijeli inicijativo, da spravijo volilno gibanje v tok. Širši volilni odbor,
+               sestavljen iz poslancev in zaupnih mož iz vseh volilnih okrajev, sešel se bode
+               pozneje, ter bode postavil in volilcem nasvetoval kandidate, potem ko izvé mnenje iz
+               volilnih okrajev. Izdali so se pozivi na veliko število zaupnih mož, da se izrečejo o
+               kandidatu za svoj volilni okraj. Pisati pa se ni moglo vsem in zato se vabi tem potom
+               vsak veljaven narodnjak, da svoje in svojih sovolilcev mnenje naznanijo načelniku
+               pripravljalnega volilnega odbora, <persName>Ivanu Murniku</persName> v
+                  <placeName>Ljubljani</placeName>.</p>
+            <p>Volilci! Stojimo na pragu negotove bodočnosti. Skozi dve volilni dobi stali so naši
+               poslanci v državnem zboru v taki parlamentarni zvezi, da jim je bilo privoljevati v
+               silna bremena državljanov za uravnanje državnih financ in utrjenje državne moči in
+               varnosti. Od njihovega požrtvovanja bilo je pričakovati tudi za naš narod primernih
+               koristij, a da neso uspehi njihovemu trudu in žrtvam primerni, zakrivile so
+               poglavitno neugodne okolščine. Naudaja nas še vedno prepričanje, da se nam izpolnijo
+               obljube prestolnih govorov iz let <date when="1897">1879</date>. in <date when="1885"
+                  >1885</date>. Če se pa položaj spremeni, nalaga ta eventualnost poslancem silno
+               težavno dolžnost, brez ozirov dvigati svoj glas proti sovražnim nakanam naših
+               političnih nasprotnikov in z vsemi duševnimi močmi in z jekleno voljo postaviti se v
+               bran, da se nam ne odtegnejo s tolikim trudom dosežene skromne pridobitve.</p>
+            <p>Vkljub temu, da so nam v ustavi zagotovljene dragocene pravice, vkljub temu, da že
+               tako dolgo zahtevamo uresničenje teh pravic ustavnim potom, nam vender naša narodna
+               individualnost še ni zavarovana. Sklepi na shodu slovenskih poslancev dne <date
+                  when="1890-10-02">2. oktobra 1890.</date><note place="foot"
+                  source="#SourceBornDigital">Glej dok. št. 104.</note>v
+                  <placeName>Ljubljani</placeName> so naš program za bližno bodočnost. Mi zahtevamo
+               neprikrajšano jednakopravnost slovenskega jezika v uradih vsake vrste; – mi zahtevamo
+               slovenska srednja in obrtna učilišča; mi zahtevamo ljudsko šolo z izključno maternim
+               jezikom na verski podlagi in zahtevamo v ta namen take uravnave, katere to omogočijo
+               in zagotovijo, zahtevamo odstranjenje vsakih tem smotrom nasprotujočih, bodisi
+               državnih, bodisi privatnih uravnav. Te pravice nam izhajajo iz člena 19. temeljnih
+               zakonov in ta naš paladium čuvati bode slovenskim poslancem z vso skrbnostjo in vsemi
+               sredstvi.</p>
+            <p>S tem programom stopimo na volišče in našim poslancem stoječim na tem stališči,
+               izvojevati bode pogoje našemu narodnemu obstanku in zavarovati jih pred lokavostjo
+               sovražnika. Ta težavna naloga pripade našim poslancem. Čim višji je cilj, čim
+               težavneja naloga, tem večjih zmožnostij zahtevati je od poslanca.</p>
+            <p>Poslanec bodi <hi rend="italic">iskren in v narodni borbi utrjen rodoljub, – znane
+                  naj mu bodo potrebe naroda,</hi> – on bodi <hi rend="italic">pošten in jeklen
+                  značaj</hi>, katerega ne odvedejo osobno koristi s pravega pota, – diči naj ga dar
+                  <hi rend="italic">zgovornosti</hi> in on bodi <hi rend="italic">nezavisen na vse
+                  stranij</hi>, da ga ne opovirajo kakoršnikoli oziri v njegovem delovanji. Od
+               poslancev, kateri združujejo v svoji osebi ta svojstva, smemo pričakovati uspešnega
+               delovanja in smemo jim mirno prepuščati vodstvo slovenske politike.</p>
+            <p>Potihne naj v tem važnem trenutku domači prepir in stopimo združeni na volišče, da ne
+               izvabimo skupnega nasprotnika iz njegove reserve. – V državnem zboru razsoja se usoda
+               naroda v njegovi <hi rend="italic">celoti</hi>, marsikaj, kar nas razdvaja doma, za
+               državni zbor nima pomena.</p>
+            <p>Pod praporom <hi rend="italic"><q>Vse za vero, dom, cesarja</q></hi>, pod katerim se
+               je mali naš narod dvignil iz političnega spanja, povzdignil se bode višje in si
+               privojeval ter zagotovil svoj obstanek in napredek.</p>
+            <p>Od bivših poslancev so izjavili gospodje: dr. <persName>Ferjančič</persName>, kanonik
+                  <persName>Klun</persName>, <persName>Viljem Pfeifer</persName>, dr.
+                  <persName>Poklukar</persName> in profesor <persName>Šuklje</persName>, da prevzemó
+               vnovič poslanstvo, če volilci temu pritrdé.</p>
+            <closer>
+               <dateline><hi rend="italic">V <placeName>Ljubljani</placeName></hi>, dné <date
+                     when="1891-01-30">30. januvarja 1891</date>.</dateline>
+               <signed>
+                  <list type="simple">
+                     <head><hi rend="italic">Za pripravljalni volilni odbor:</hi></head>
+                     <item><hi rend="italic"><placeName>Ivan Murnik</placeName></hi>, načelnik in
+                        deželni odbornik;</item>
+                     <item>Dr. vitez <hi rend="italic"><placeName>Karol Bleiweis</placeName></hi>,
+                        deželni poslanec;</item>
+                     <item><hi rend="italic"><placeName>Oton Detela</placeName></hi>, deželni
+                        odbornik;</item>
+                     <item><hi rend="italic"><placeName>Peter Grasselli</placeName></hi>, župan in
+                        deželni poslanec;</item>
+                     <item><hi rend="italic"><placeName>Ivan Hribar</placeName></hi>, deželni
+                        poslanec;</item>
+                     <item><hi rend="italic"><placeName>Anton Klein</placeName></hi>, deželni
+                        poslanec;</item>
+                     <item>dr. <hi rend="italic"><placeName>Fran Papež</placeName></hi>, deželni
+                        poslanec;</item>
+                     <item><hi rend="italic"><placeName>Franc Povše</placeName></hi>, deželni
+                        poslanec;</item>
+                     <item><hi rend="italic"><placeName>Luka Svetec</placeName></hi>, deželni
+                        poslanec; </item>
+                     <item><hi rend="italic"><placeName>Feliks Stegnar</placeName></hi>, deželni
+                        poslanec; </item>
+                     <item>dr. <hi rend="italic"><placeName>Ivan Tavčar</placeName></hi>, deželni
+                        poslanec;</item>
+                     <item>dr. <hi rend="italic"><placeName>Josip Vošnjak</placeName></hi>, deželni
+                        odbornik;</item>
+                     <item><hi rend="italic"><placeName>Ignacij Žitnik</placeName></hi>, deželni
+                        poslanec.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

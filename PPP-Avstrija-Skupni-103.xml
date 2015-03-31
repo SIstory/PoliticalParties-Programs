@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o šolstvu na Primorskem in posebej v Istri, sprejeta na prvem
+               (jugoslovanskem) taboru političnega društva Edinost 27. oktobra 1878 v Dolini pri
+               Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30641</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-103.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30641</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Tabor v Dolini</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">21</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-JLJOGVSG</pubPlace>
+                     <date when="1878-11-09">9. 11. 1878</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Tabor v Dolini</head>
+         <div xml:lang="hrv">
+            <gap reason="irrelevant"/>
+            <p xml:id="No.103.PPP.1"><gap reason="irrelevant"/> neka se:</p>
+            <list xml:id="No.103.PPP.2" type="ordered">
+               <item n="1.">Ukine zakon, kojim je zabranjeno kod nas onim služiti, koji izuče na
+                  zagrebačkom sveučilišću – ono je ustrojeno kako sva cislitavska.</item>
+               <item n="2.">Neka se gimnazija njemačka u <placeName>Pazinu</placeName> pretvori u
+                  Hrvatskú, Njemaca u <placeName>Istri</placeName> nejma, zato njemačka gimnazija
+                  nejma mjesta, Talijani imaju svoju u <placeName>Kopru</placeName>. Hrvati sa
+                  Slovencim imaju dvostruko veće pravo na svoju gimnaziju nego li Talijani.</item>
+               <item n="3.">Našim mladičem neka se dopusti polaziti hrvatske gimnazije osobito onu
+                  na <placeName>Rieci</placeName>, kamo idu s manjim troškom mladici s kvarnerskih
+                  otoka i s iztočne strane <placeName>Istre</placeName>.</item>
+               <item n="4.">Na muškem učiteljišću u <placeName>Kopru</placeName> nek se podučava <hi
+                     rend="italic">sve</hi> v materinjem jeziku, a neka se Hrvati i Slovenci uče kao
+                  drugi jezik talijanski a Talijani hrvatski ili slovenski ako pedagogi dopušćajo
+                  učiti se tri jezika onda neka se uči i njemački kao predmet, dok se to ne učini
+                  ljudi ne vjeruju u rieči Preuzvišenoga gospodina ministra za <choice>
+                     <sic>bogostovje</sic>
+                     <corr>bogostlovje</corr>
+                  </choice> i nastavu, da nas ne misli germanizirati, ljudi vide da se temeljnih
+                  državnih zakona ne vrše po onih koji bi jih morali ne samo sami ovršivati nego i
+                  paziti da jih drugi vrše.</item>
+               <item n="5.">To isto neka se učini na ženskom učiteljišću u
+                     <placeName>Gorici</placeName>, a k tomu neka se ustroji hrvatski odio ili neka
+                  se dade našim djevojčicam stipendije, da mogu u <placeName>Zagrebu</placeName>
+                  polaziti nauke i odgojiti se za odgojiteljice Hrvaticam u
+                     <placeName>Istri</placeName>.</item>
+               <item n="6.">Neka se ustroji gdje u dolnoj <placeName>Istri</placeName> bar jedan
+                  pripravni tečaj za Hrvate, da se mogu za učiteljišće pripraviti.</item>
+               <item n="7.">Pučke škole neka se za sad bar toliko preurede, da se Hrvatski podučaje
+                  u toliko hrvatskih obćina koliko je hrvatski učitelja. Neka se za sad uništi
+                  valjanost našega pokrajinskoga zakona, koji se obćinam daje pravo izabirati učevni
+                  jezik, jer se pri žalostnom stanju naših obćina dogadja da ne odlučuju obćinari
+                  nego volja jednoga dvojice uglednijih i bogatijih osoba. Neka se tomu zakonu
+                  temeljni državni suprot stavi. To je vse stvar vlade. To bi sve učiniti morala
+                  vlada. To bi sve vlada učiniti imala.</item>
+            </list>
+            <p xml:id="No.103.PPP.3">Medju tim pako neka muževi ljubeći narod svoj, nastoje, da se
+               narod i izvan škole drugim putem naobrazi: govori, novinami, knjigami, družtvi,
+               čitaonicami – neka mu se uradi ustavna sviest, neka upozna svoju moć.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

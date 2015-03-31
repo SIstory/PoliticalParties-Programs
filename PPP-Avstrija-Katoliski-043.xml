@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pogledi dr. Janeza Evangelista Kreka leta 1916 o ureditvi jugoslovanske
+               države</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30576</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-043.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30576</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Dr. Janez Ev. Krek o ureditvi jugoslovanske države.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">254</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-V2O6CL8V</pubPlace>
+                     <date when="1918-11-05">5. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Dr. <persName>Janez Ev. Krek</persName> o ureditvi jugoslovanske države.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.43.PPP.1">Ako bi jaz urejeval državo, <gap reason="irrelevant"/> bi
+               vpošteval tri kriterije. Narodno življenje ima namreč trojno tendenco v svojem
+               razvoju: razvija se v politični, gospodarski in kulturni smeri. Po teh tendencah bi
+               uredil državo, a oziral bi se tudi na konkretne narodne razmere. Najprej
+               konstatirajmo, katera izmed teh treh smeri narodnega razvoja nas južne Slovane
+               zbližuje in katera razdvaja. Gospodarsko ima kmet ali delavec, pa naj bo Hrvat, Srb
+               ali Slovenec, povsod iste interese, a niti politično nismo tako daleč drug od
+               drugega: vsi hočemo biti en sam narod, združeni v eni državi, vsi smo za
+               ravnopravnost vseh plemen. Ostane en edini moment, ki nas deli, to je kulturni ali
+               bolje versko-kulturni. Pri urejevanju ustave moramo torej vse stvari, kjer je mogoča
+               medsebojna borba in spor, potisniti kolikor mogoče v ozadje, izolirati in
+               lokalizirati. Zato mislim, da bi bilo treba ustvariti močan <hi rend="bold">centralni
+                  parlament</hi> z dvema koordiniranima zbornicama: nacionalno-politično in
+               socialno-politično. <hi rend="bold">Narodno-politična zbornica</hi> bi sestajala iz
+               zastopnikov, izvoljenih na podlagi splošne, enake, tajne volilne pravice, pri čemer
+               bi dal volilno pravico tudi ženskam. Glasovalo bi se tako, da bi cela država ali vsaj
+               provinca tvorila en sam volilni okraj; stranke sestavljajo liste kandidatov, za
+               katere volilci glasujejo. Seveda bi se pri določanju, kdo je izvoljen, uporabil
+               proporcijonalni zistem. <hi rend="bold">Socialno-politična zbornica</hi> bi bila
+               stanovsko zastopstvo naroda. Vanjo bi prišli reprezentanti kmetskih zbornic,
+               delavskih, trgovskih, obrtnih organizacij in zbornic, zastopniki duhovščine,
+               uradništva, industrije, znanosti in umetnosti – vse v naprej tako urejeno, da bo
+               samovolja pri sestavi tega zastopstva popolnoma izključena. Socialnopolitični
+               zakonski načrti se najprej predlože socialno-politični zbornici in ko so v njej
+               sprejeti, se pošljejo narodno-politični zbornici, ki jih en bloc sprejme ali odkloni.
+               Pred narodno-politično zbornico prihajajo najprej državno-politični zakonski načrti,
+               nakar jih socialno-politična zbornica sprejme ali odkloni en bloc.</p>
+            <p xml:id="No.43.PPP.2">Centralni parlament ima torej eminetno <hi rend="bold"
+                  >politično</hi> nalogo: vprašanja ustave, zunanje politike, narodne brambe ter
+                  veliko<hi rend="bold"> okvirno</hi> zakonodajstvo: finančno, prosvetno, socialno,
+               notranje uprave itd.; v okviru teh zakonov se mora razviti samouprava. V glavnem bi
+               torej imel centralni parlament takozvane pragmatične posle.</p>
+            <p xml:id="No.43.PPP.3"><hi rend="bold">Ekonomski</hi> moment bi se moral vpoštevati pri
+               ustvarjanju provinc. Mislim, da bi bilo za celo državo treba 10 do 12 takih
+               organizmov. Le-ti bi imeli s svojimi pokrajinskimi zbori nalogo, da skrbe za povzdigo
+               gospodarstva: za kmetijsko produkcijo, industrijo, železnice, ceste itd. Zato morajo
+               biti pokrajine urejene brez ozira na dosedanje državne in deželne meje na čisto
+               zemljepisno-gospodarskih načelih po prometni težnji in gospodarskem značaju zemlje;
+               tako je n. pr. <placeName>Trst</placeName> s svojim zaledjem:
+                  <placeName>Gorico</placeName>, <placeName>Gradiško</placeName>,
+                  <placeName>Istro</placeName>, <placeName>Koroško</placeName> in
+                  <placeName>Kranjsko</placeName>, naravna zemljepisna in gospodarska enota. Na
+               drugi strani imata pa zopet <placeName>slovenska Štajerska </placeName>in naša
+                  <placeName>Dolenjska</placeName> naravno središče v <placeName>Zagrebu</placeName>
+               ter bodo padli ti kraji, recimo, v zagorsko gospodarsko sfero itd. Ker se gospodarski
+               interesi tako srbskega in hrvatskega kakor tudi slovenskega kmeta ali delavca vedno
+               strinjajo, je očito, da v pokrajinskih saborih ne bo nacionalnih bojev.</p>
+            <p xml:id="No.43.PPP.4">Glavna točka za spor med Hrvati in Srbi je različnost <hi
+                  rend="bold">kulturnih</hi> tendenc. Zato treba boj lokalizirati ter ga izločiti iz
+               parlamenta, kjer bi se moglo zgoditi, da bi Hrvati in Srbi naenkrat vstali drug proti
+               drugemu kot dve sovražni si fronti, kar bi bil pogin za državo, ker bi naši zunanji
+               in notranji sovražniki tak položaj izkoristili, da bi prišlo do zmede, iredente in
+               vsakršnega zla. Zato je treba to kulturno in konfesionalno stran narodnega življenja
+               decentralizirati po <hi rend="bold">občinah</hi>, ki morajo poleg svojih ostalih
+               upravnih in drugih nalog prevzeti skrb za razvoj šolstva. Te občine bi zavzemale
+               velikost tukajšnjih hrvatskih okrajev ter bi bile nekoliko samostojnejše. Po občinah
+               bi skušali ločiti Hrvate od Srbov, če bi pa bili kje <hi rend="bold">skupaj</hi> in
+               bi se sprli bi bil to samo boj lokalnega pomena.</p>
+            <p xml:id="No.43.PPP.5">To bi bile najglavnejše poteze državne uredbe. Sedaj naj jih pa
+               pojasnim na zgledu. Vzemimo <hi rend="bold">šolstvo</hi>, ker je le-to za nas
+               najeminentnejšega pomena. Centralni parlament izda zakon: vsak otrok od 7. leta dalje
+               mora obiskovati ljudsko šolo, dokler je ne dovrši. Potem ugotovi zakon organizacijo
+               ljudske šole, odredi minimum znanja, ki ga mora imeti vsak državljan iz vsake stroke,
+               zlasti mora biti v celi državi enoten pouk o narodnih in državljanskih pravicah in
+               dolžnostih, končno kdo sme snovati šole, t. j. sme jih vsakdor, ki se drži tega
+               zakona. Dolžnost snovati ljudske šole, ako jih še ni, imajo občine. Da-li naj bo šola
+               konfesionalna, interkonfesionalna ali akonfesionalna, odločajo starši otrok in to po
+                  belgijskem<note n="*">Belgijski šolski zistem je danes najnaprednejši: snovati
+                  šole more pod postavnimi kavtelami vsak, kdor hoče; vsak roditelj more vpisati
+                  svojega otroka v katero šolo hoče; pred vpisom mora za vsakega otroka dvigniti na
+                  občinskem poglavarstvu bon, ki pooblašča ravnateljstvo šole, da zahteva od občine
+                  za otroka določeno plačo. Bon pri vpisu izroči ravnatelju šole. Ravnatelji vseh
+                  šol izroče nekaj dni po vpisovanju bone občinskemu poglavarstvu, ki jim potem iz
+                  občinskega proračuna za vsak bon prizna določeno vsoto, ki odpade na vsakega
+                  otroka.</note> šolskem zistemu, ki nam more, nekoliko popravljen, služiti v
+               zgled.</p>
+            <p xml:id="No.43.PPP.6">Občina naj ta šolski zakon svobodno aplicira. Ustanovi naj
+               konfesionelno ali nekonfesionelno šolo – kakršno hoče. O tem odločuje njen zastop.
+               Čim več svobode, ker so nas doslej paragrafi strahovito dušili! Tudi srednje šele bi
+               vzdržavale občine, toda z državno, oziroma pokrajinsko pomočjo, ki bodi zopet
+               določena po glavah dijakov. Vse gospodarsko šolstvo bi bilo v glavnem v kompetenci
+               pokrajine, ki bi se mogla sporazumeti tudi z občino ali drugo institucijo in ji dati
+               v to svrho podporo. Vseučilišča bi financirala država. A nihče ne bi smel braniti, da
+               se osnujejo tudi zasebne srednje šole in zasebna vseučilišča. Še več, ustanovitelj bi
+               mogel zahtevati za šolo tudi državno, oziroma pokrajinsko podporo, ki bi se mu dala
+               po enakem načelu kakor občinska za ljudsko šolo.</p>
+            <p xml:id="No.43.PPP.7">Imeti moramo svobodno tekmo za vse kulturne nazore, vse stranke,
+               vse organizacije. In kdor je sposobnejši in delavnejši, naj zmaguje.</p>
+            <gap reason="irrelevant" xml:id="No.43.PPP.8"/>
+            <p xml:id="No.43.PPP.9">ljudje ne vpoštevajo, da pri nas noben paragraf ne bo rešil
+               Cerkve in njene organizacije, ako njeni duhovniki in lajiki ne bodo živeli in delali
+               kakor treba. Znano vam je, da sem rebus sic stantibus zagovornik ločitve Cerkve od
+               države. Dovolj so me radi tega napadali. In imajo zase mnogo logičnih in teoloških
+               argumentov. Toda zame je logika razvoja in življenja, ki v resnici ne nasprotuje
+               katolicizmu. Sicer pa kakor <placeName>Rim</placeName> hoče! On hoče konkordat, torej
+               ga hočemo tudi mi. Katoliška Cerkev mora kakor pravoslavna imeti v bodoči državi
+               javnopravni značaj; nadalje ne sme biti državne cerkve. Vsem verskim družbam sploh se
+               mora dati popolna avtonomija, a država naj se čim manj vtika v njihove posle.</p>
+            <gap reason="irrelevant" xml:id="No.43.PPP.10"/>
+            <p xml:id="No.43.PPP.11"><hi rend="bold">Hegemonijo</hi>
+               <corr>v državi</corr> bo imel sposobnejši; ako bodo to Srbi, je tudi prav, da jo
+               imajo. Ako mislite, da bodo radi svoje številne premoči imeli vedno odločujočo besedo
+               v centralnem parlamentu, potem ne vpoštevate nekaterih stvari. Vzemimo, da je država
+               ustrojena tako, kakor sedaj govorimo. Sedanja strankarska konstelacija bo imela tudi
+               na razmere v centralnem parlamentu odločilen vpliv. Najprej se bodo narodne stranke
+               zbližale. Slovenska ljudska stranka bo nastopala vzajemno s skupino okrog
+                  <q>Novin</q>, a upam, da se bo tudi med Srbi razvila analogna kulturna in
+               strankarska tendenca ter bomo morda dobili v parlament kakega srbskega klerikalca.
+               Liberalci slovenski, srbski in hrvatski bodo med seboj kooperirali, ravno tako
+               socialisti. Razen tega se bodo morda razvile kake avtonomistične stranke, ki bodo
+               težile za izpremembo ustave v smeri federalizacije <gap reason="irrelevant"/>. Poleg
+               tega se bodo javljale v parlamentu čim dalje jačje tudi socialne tedence ter bo tudi
+               to vplivalo na strukturo strank. V tem bo politično uniformiranje čimdalje bolj
+               napredovalo, centrifugalne tendence bodo izginjale in tekom treh generacij bomo v
+               resnici enoten narod. Torej bomo hegemonijo enega plemena, ako sploh bo, čutili samo
+               izpočetka. Srbske hegemonije se bojim tem manj, ker so Srbi razcepljeni naravnost v
+               nezdravo veliko število strank in strančic ter mislim, da ne bodo v nobenem slučaju
+               tvorili enega bloka. A klavzulirati, da mora biti nekaj ministrov Hrvatov in
+               Slovencev, nima zmisla, ker bodo Srbi, če dobé hegemonijo, postavili za ministre
+               svoje kreature, pa zopet nimamo nič. Zato ne ostane nič drugega, nego da vsi pošljemo
+               v parlament svoje najsposobnejše ljudi, pa naj vladajo najsposobnejši. Noben paragraf
+               in nobena ustava ne more nesposobnega naroda rešili propada, a ker Hrvatov in
+               Slovencev ne štejem med nesposobne narode, sem prepričan, da bodo znali v državni
+               upravi in reprezentanci priti na odločilna mesta.</p>
+            <gap reason="irrelevant" xml:id="No.43.PPP.12"/>
+            <p xml:id="No.43.PPP.13">V srcu sem republikanec, toda če pride pri nas do monarhije,
+               mora biti oblika takozvane republikanske monarhije kakor na
+                  <placeName>Norveškem</placeName>. Kralj je samo dedni predsednik republike in njen
+               reprezentant, toda nima pravice sankcionirati zakonov. Vendar so tri načela tega
+               troimenega naroda, ki ga morajo voditi v bodočnost: <hi rend="bold">en narod, en
+                  vladar, ena država od <placeName>Beljaka</placeName> do
+                     <placeName>Soluna</placeName> in mnogo, mnogo svobode!</hi></p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv predsednika Narodne stranke za Štajersko dr. Vekoslava Kukovca na prvi
+               hrvaško-slovenski sabor 20. oktobra 1912 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30621</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-072.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30621</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Beseda k <q>prvem hrvatsko-slovenskem saboru</q> v Ljubljani.</title>
+                  <author>Vekoslav Kukovec</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">247</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-AAVSHZ0P</pubPlace>
+                     <date when="1912-10-26">26. 10. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Beseda <q>prvem hrvatsko-slovenskem saboru</q> v
+               <placeName>Ljubljani</placeName>.</head>
+            <opener>(Glas iz <placeName>Štajerske</placeName>.)<lb/>V <placeName>Celju</placeName>,
+                  <date when="1912-10-22">22. oktobra</date></opener>
+            <p xml:id="No.72.PPP.1">Vprašal sem različne svoje prijatelje, ki se ukvarjajo veliko s
+               politiko, kaj sodijo o bratenju Vseslovenske ljudske stranke s hrvaško Stranko
+                  prava?<note source="#SourceBornDigital">Glej dok. št. 41 in dok. št. 42.</note>
+               Večina je skomizgnila z rameni, drugi so me opozorili na v <q>Slovencu</q> objavljen
+                  <persName>Šusteršičev</persName> govor na nedeljskem <q>hrvaško-slovenskem
+                  saboru</q> v Ljubljani: <q>Varovati se moramo in hočemo nesmiselnega in neplodnega
+                  frazerstva in kričaštva, ki ljubi pozo radikalno-narodnega junaštva, v resnici pa
+                  je preračunjeno komedijanstvo …</q> In dostavili so moji prijatelji: S tem je
+                  <persName>Šusteršič</persName> sam najbolje ocenil najprej <q>navdušeno</q>
+               poročilo v <q>Slovencu</q>, potem pa celi ta <q>hrvaško-slovenski sabor</q> v
+                  <placeName>Ljubljani</placeName>, na katerem so se bratili voditelji slovenskih
+               kmetov, ki jim je <placeName>Velika Hrvaška</placeName> in pohrvatenje zadnja skrb, s
+               hrvaško stranko, ki se nikoli ni brigala za Slovence.</p>
+            <p xml:id="No.72.PPP.2">Tako sodijo po <placeName>Štajerskem</placeName> ljudje,ki se ne
+               bodo nikoli povspeli do iste mere politične zagrizenosti, kakor jo vidimo in čutimo
+               vsak dan pri klerikalcih. Tem postaja ravno Slovenska<note
+                  source="#SourceBornDigital">Slovenija.</note> premajhna za aspiracije njih
+               dunajskih in rimskih komandantov ter domačih, slovensko govorečih voditeljev.
+               Poskusili so že svoj čas s hrvaško kmečko stranko. Saj nam je še živo v spominu, kako
+               navdušeno so pozdravljali <persName>Šusteršič</persName>, <persName>Krek</persName>
+               in sploh vsi aranžerji sedanjega <q>prvega hrvaško-slovenskega sabora</q> v
+                  <placeName>Ljubljani</placeName>
+               <persName>Radića</persName> in njegove seljake … Z <persName>Radičem</persName> ni
+               bilo nič, morda bodo imeli slovenski klerikalci več sreče z <persName>Mile
+                  Starčevićem</persName>. Upamo samo, da ne bo treba zopet financirati kake v
+               dolgove zakopane zagrebške tiskarne in da bo dr. <persName>Šusteršič</persName> v
+               boju za državnopravni program Stranke prava vsaj tako vstrajen, kakor za bosanske
+               kmetiče v delegacijah. Edino dobro je, da so naši slovenski klerikalni volilci tako
+               konservativne, potrpežljive in malo misleče duše: kajti njihovi voditelji in stranke
+               menjujejo hitreje imena ko suknje. Katoliško-narodna, slovenska ljudska, vseslovenska
+               ljudska stranka, to je šlo naglo drugo za drugim. Menda ne ostanejo dolgo tudi
+               planinski Hrvatje …</p>
+            <p xml:id="No.72.PPP.3">Ali se splača tu na novo konstatirati strahovito praznoto vseh
+               govorov na tem <q>prvem hrvaško-slovenskem saboru</q> v
+                  <placeName>Ljubljani</placeName>? Človek bi mislil, da je kje ob Sotli v prijazni
+               vinski kleti med veselimi vinskimi brati, ki ob čaši vinca rujnega slave pobratimi je
+               – da jih drugi dan, ko se s težko glavo vzbude, do dobrega pozabijo in gredo za
+               svojimi, včasi prav neveselimi praktičnimi posli. <hi rend="italic">Na takih
+                  zborovanjih, ki mislijo biti zgodovinska in ki se lotijo tako velikega dela, kakor
+                  je poskus raztrgati dve državi in razcepiti celo vrsto avstrijskih kronovin, se
+                  ima drugače govoriti!</hi> To je globoko naše in zelo utemeljeno prepričanje.
+               Nakopavati si mogočne sovražnike s pustimi frazami in zračnimi gradovi, ne da bi se
+               vedelo, kako in kje jih premagati in kako še poslej urediti lasten dom, je v naših
+               razmerah političen zločin, ki je tembolj obsojanja vreden, ako ga zakrivijo iz
+               osebnih in enostransko političnih nagibov izvoljeni ljudski mandatorji. Govoriti
+               danes o skupnih narodnih, gospodarskih in kulturnih ciljih Slovencev in Hrvatov je le
+               malo več, ko igranje z besedami. To, kar imamo že danes res skupnega, so povrh tega
+               ustvarili pristaši <q>gnjilega liberalizma</q> in ne
+                  <persName>Šusteršičevi</persName>
+               <q>planinski Hrvati</q>. Edino realno-politično je bilo na celem le nekoliko prehitro
+                  <persName>Šusteršičevo</persName> zatrjevanje, da on in njegova stranka ne bode
+               navzlic vsemu vseslovenstvu, pravaštvu in hrvaštvu <hi rend="italic">zapiral oči pred
+                  realnimi dejstvi</hi> … Če bode torej realna politika zahtevala kaj drugega ko
+               držati se svete prisege na državnopravni program Stranke prava, pa se bode iz
+               planinskega Hrvata dr. <persName>Šusteršiča</persName> čudovito naglo pokazal
+               najtrdnejši pristaš nedeljene <placeName>Cis- in Translitvanije</placeName>, robat
+               kmet, ki mu je agrarni program vse in ki žvižga na vse hrvaško, koncilijanten
+               voditelj avstrijskih vladinovcev in navsezadnje – deželni glavar kranjski.</p>
+            <p xml:id="No.72.PPP.4">Pred dvema letoma se je z velikim kričem ustanovila v
+                  <placeName>Ljubljani</placeName>
+               <q>Vseslovenska ljudska stranka</q>. Plačani ljudje so obsipavali dr.
+                  <persName>Šustersiča</persName> s cvetlicami in venci, <q>Slovenec</q> ni mogel
+               najti dovolj navdušenih besed o tistem <q>zgodovinskem dnevu</q> – zdi se mi, da je
+               bil <date when="1910-10-17">17. oktober</date> – in kaj je nastalo iz vsega? Nič, še
+               manj ko nič. <persName>Šusteršič</persName> izrablja prej ko slej ves parlamentarni
+               vpliv izvenkranjskih državnih poslancev za svoje namene in izključno klerikalne
+               politične cilje na <placeName>Kranjskem</placeName>. Korošce, Primorce, Štajerce se
+               odpravi z resolucijami, interpelacijami in grožnjami napram vladi, takimi seveda, ki
+               se nikoli ne uresničijo in katerih nemški politični krogi s sebi naklonjeno vlado ne
+               upoštevajo drugače kakor da se iz njih norca delajo. Tudi na <q>prvem
+                  hrvaško-slovenskem saboru</q> v <placeName>Ljubljani</placeName> se je vendar
+               zdelo aranžerjem potrebno potolažiti štajerske in koroške Slovence s prazno grožnjo
+               centralnega vodstva Vseslovenske ljudske stranke …</p>
+            <p xml:id="No.72.PPP.5">Slovenski klerikalci niso doslej ničesar teoretičnega in
+               praktičnega storili za uresničenje našega najvišjega političnega cilja, združenja
+               vseh slovenskih dežel, dasi je od tega v veliki meri odvisen naš narodni obstanek in
+               je to politično geslo popularno vsaj v izobraženih krogih našega naroda. <hi
+                  rend="bold">Že to kaže, da bodo še manj storili za državnopravne cilje Stranke
+                  prava, ki jih pri nas le malo ljudi pozna in ki bi jih široke vrste našega
+                  ljudstva, ko bi bile o njih poučene, direktno odklonile</hi>. Treba je to jasno
+               povedati in se ne loviti za kakimi fantomi. To je v interesu hrvaškega naroda.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

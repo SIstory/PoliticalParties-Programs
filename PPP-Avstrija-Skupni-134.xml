@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorandum Jugoslovanskega kluba mirovni konferenci v Brest-Litovsku, oblikovan
+               31. januarja 1918 na Dunaju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30793</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-134.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30793</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>A. Korošec – šefovima delegacija na konferenciji mira u
+                     Brest-Litovsku</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">65–67</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="hbs">
+            <gap reason="irreleant"/>
+            <p xml:id="No.134.PPP.1">Dne <date when="1917-11-09">9. novembra</date> primio je Zbor
+               Sovjeta načela za predlog mira, u kome se proglašuje aneksijom i nasilnim
+               prisvajanjem, ako ma koja država silom zadržava koji narod, ako se priznanje prava
+               narodnog glasanja uskraćuje narodu protiv njegove volje izražene bilo štampom, bilo u
+               narodnim skupštinama, bilo otporom ili ustankom protiv ugnjetavača, ili ako mu se
+               uskraćuje pravo, da sam udesi politički način vlade, a bila je svečano objavljena
+               odluka ruske vlade, da će potpisati mir, koji bi učinio kraj ovome ratu pod
+               spomenutim za sve narodnosti pravednim uvjetima.</p>
+            <p xml:id="No.134.PPP.2">Ta vlada dalje predlaže, da u pregovorima za mir učestvuju
+               predstavnici svih narodnosti i naroda, koji su uvučeni u rat ili od njega
+               stradavaju.</p>
+            <p xml:id="No.134.PPP.3">Pošto je na telegrafsku okružnicu Sovjeta narodnih povjerenika
+                  <date when="1917-11-28">28. novembra 1917</date>. austro-ugarska vlada bila
+               izjavila, da pristaje na načela ruskog programa za mir bez aneksija i ratnih naknada,
+               uz obezbijeđenje prava na narodno samoopredeljenje, svečano su izjavile <date
+                  when="1917-12-03">3. decembra 1917.</date> jugoslovenske delegacije u
+                  <placeName>Beču</placeName> i u <placeName>Zagrebu</placeName>, zajedno s
+               predstavnicima češkog i ukrajinskog naroda, u prisustvu austro-ugarske zajedničke
+               vlade, da će da istraju u potpunom i čistom izvođenju prava na samoopredjeljenje
+               svojih naroda i da zato traže dovoljne garancije, te su tom prilikom i češće kasnije
+               sasvim odlučno podigli zahtjev, da predstavnici austro-ugarskih naroda budu
+               pripušteni na pregovore o miru.</p>
+            <p xml:id="No.134.PPP.4">I ako ovi zahtjevi predstavljaju želju pretežne većine naroda
+               austro-ugarska je vlada odrešito odbila ne samo sudjelovanje predstavnika naroda pri
+               pregovorima u <placeName>Litavskom Brestu</placeName>, već je svom odlučnošću
+               izjavila, da nije voljna da prizna narodima, koji žive unutar državne granice, pravo
+               samoopredjeljenja, jer tobože ustavi koji postoje, pružaju narodima dovoljnu
+               sigurnost, da se dalje i slobodno u monarhiji razvijaju.</p>
+            <p xml:id="No.134.PPP.5">Prema ovoj činjenici i obzirom na to, da će se pri pregovorima
+               o miru odlučiti o sudbini i o opstanku našeg naroda, smatramo svojom svetom dužnosti,
+               da otvoreno izrazimo svoje stajalište u ovom pitanju.</p>
+            <p xml:id="No.134.PPP.6">Od šestoga vijeka obitava narod Slovenaca, Hrvata i Srba
+               (zajedničkim imenom Jugoslovena) u predjelima sjeverno i istočno Jadranu. Izmjenično
+               podjarmljen od Turaka i Germana, a djelomično i od Romana, proživio je naš narod u
+               ropstvu teške muke kroz vijekove. Kadgod su i u koliko su dijelovi ovog naroda sebi
+               izvojevali državnu slobodu, procvjetala je kod njih kultura i civilizacija, dok su
+               podjarmljeni dijelovi bili primorani da budu sluge i raja pod Turcima otvoreno, a pod
+               Germanima pod drugim naslovima i u drugim oblicima. Unatoč tom strašnom tlačenju,
+               održavala se u čitavom narodu živa iskra slobodne misli i vječita težnja za narodnim
+               ujedinjenjem.</p>
+            <p xml:id="No.134.PPP.7">Buknuće svjetskoga rata donijelo je našem u razne državne
+               kalupe raskidanom narodu nove teške muke.</p>
+            <p xml:id="No.134.PPP.8">Pod strašnim pritiskom vojničke organizacije uništen je cvijet
+               mladosti u izigravanju jednih protiv drugih.</p>
+            <p xml:id="No.134.PPP.9">Ujedno je počelo u monarhiji teško proganjanje Jugoslovena. Na
+               desetke hiljada porodica bile su uništene; ljudi, žene, djeca sudom i bez suda
+               pobijeni, njihovo imanje opljačkano i uništeno. Još veći broj Jugoslovena bio je uz
+               teška zlostavljanja bačen u tamnice. Opet na hiljade moradoše na silu ostavljati svoj
+               zavičaj. Na hiljade državljana uzeti su za taoce zbog sigurnosti austro-ugarske
+               vojske i dijelom posmicani. U tom krvavom građanskom ratu, vođenom protiv naroda bez
+               ikakve obrane, režim je izvukao jeftinu pobjedu. Potpunim pravom možemo tvrditi, da
+               je jugoslovenski narod najteže nastradao između svih naroda.</p>
+            <p xml:id="No.134.PPP.10">Kad je buknula ruska revolucija te se činilo da puca zora
+               slobode za proletare među narodima, osokolio se naš narod i poče otvorenu borbu za
+               svoju nezavisnost. Dne <date when="1917-05-30">30. maja</date> pročitao je
+               predsjednik Jugoslovenskog kluba<note place="foot" source="#SourceBornDigital"
+                     ><persName>Dr. Anton Korošec</persName>.</note> u bečkoj zastupničkoj kući
+                  izjavu,<note place="foot" source="#SourceBornDigital">Glej dok. št. 132.</note> u
+               kojoj se traži ujedinjenje svih krajeva monarhije, u kojima su nastanjeni Slovenci,
+               Hrvati i Srbi u jedno, samostalno, od svakog gospodstva tuđega naroda slobodno, na
+               demokratskoj podlozi izgrađeno državno tijelo pod žezlom doma
+                  <persName>Habsburg-Lotringen</persName>. U nebrojenim javnim izjavama složila se
+               zatim volja naroda bez obzira na razlike stranaka i klasa u zahtjevu za slobodnom
+               nezavisnom državom. Unatoč očajnim otporima privilegovanih naroda, Nijemaca i
+               Madžara, unatoč nečuvenom pritisku cenzure i neprestanim prijetnjama tamnicom i
+               gladom, ipak je čista volja naroda prodrla jasno na javu.</p>
+            <p xml:id="No.134.PPP.11">Na ovom mjestu moramo svečano protiv toga prosvjedovati, da
+               tobože ustavi monarhije, što postoje, pružaju narodima ma kakvu mogućnost slobodnoga
+               razvitka. Naprotiv: oni zajamčuju obim privilegovanim narodima sva sredstva državne
+               moći za tlačenje i guljenje proletarskih naroda. Austrijski državni savjet sastoji se
+               iz dvije ravnopravne kuće. Članove jedne od njih imenuje vlada. Ni jedan zakon ne
+               može biti predložen na sankciju, ako ne pristane gospodska kuća. Zastupnička kuća
+               bira se doduše prividno na osnovu općega prava glasa, ali su izborni kotari tako
+               obrazovani, da 43.000 Nijemaca, 55.000 Jugoslovena, 60.000 Čeha, 105.000 Ukrajinaca i
+               na primjer 120.000 koruških Slovenaca dobijaju jedan mandat! Tako se vještački stvara
+               od većine manjina. I provedenje ravnopravnosti naroda i svaka pomisao na promjenu
+               ustava mora da se izjalovi uslijed otpora ustavom priviligiranoga naroda.</p>
+            <p xml:id="No.134.PPP.12">Drugi dio našega naroda u ovoj monarhiji podvrgnut je
+               ugarsko-hrvatskom ustavu. Taj je ustav i stanje, koje se je odavle izrodilo, upravo
+               ruglo civilizacije. 60% naroda <placeName>Ugarske</placeName> iznose nemadžarski
+               narodi, a imaju samo 7% mandata, dok Hrvati preko hrvatskoga sabora imadu nekakvu
+               prividnu autonomiju.</p>
+            <p xml:id="No.134.PPP.13">Treći dio našega naroda u <placeName>Bosni i
+                  Hercegovini</placeName> izložen je golom apsolutizmu. Jugosloveni u
+                  <placeName>Austriji</placeName> još su pored toga tako vještački pocijepani u
+               sedam pokrajina, da većim dijelom imaju male manjine u saborima.</p>
+            <p xml:id="No.134.PPP.14">Tako na primjer slovenačka trećina
+                  <placeName>Koruške</placeName> ima samo dva zastupnika u koruškom saboru.
+               Jugosloveni u <placeName>Gorici</placeName> i <placeName>Istri</placeName>, gdje su u
+               većini od dvije trećine, odnosno od tri četvrtine, imadu samo manjinu saborskih
+               mandata. A čak i u <placeName>Kranjskoj</placeName>, gdje 98% pripada slovenačkoj
+               narodnosti, udešen je taj od grofa <persName>Czernina</persName> tako slavljeni ustav
+               na tako vješt način, da u kranjski sabor, koji i prema Parlamentu ima ograničenu
+               kompetenciju, pedeset i tri njemačka velika posjednika biraju četvrtinu zastupnika, a
+               uz to imadu veto u najvažnijim pitanjima, a naročito u pogledu promjene zemaljskoga
+               reda. Što se tvrdi, da ustavi <placeName>Austro-Ugarske</placeName> jamče narodima
+               slobodan razvitak, to je zbilja izrugivanje prava samoopredjeljenja, a to mogu da
+               tvrde samo ona lica, koja računaju na oskudno obavještenje na protivnoj strani i na
+               namjerno zavaravanje.</p>
+            <p xml:id="No.134.PPP.15">Protivno tome mi ovim najsvečanije ponavljamo prilikom
+               pregovora o miru naš zahtjev, neka se austro-ugarskim narodima zajamči potpunopravo
+               samoopredjeljenja.</p>
+            <p xml:id="No.134.PPP.16">Naš je narod u kraljevini <placeName>Hrvatskoj</placeName>,
+                  <placeName>Slavoniji</placeName> i <placeName>Dalmaciji</placeName>, kojoj
+               pripadaju virtualno još drugi važni jugoslovenski krajevi, u ostalom već vršio pravo
+               samoopredjeljenja, kad je prilikom prvoga izbora kralja iz kuće
+                  <persName>Habzburg</persName> (<date when="1527">1527</date>.) i kod određenja
+               nasljedstva u ženskoj lozi (Pragmatička sankcija <date when="1712">1712</date>.)
+               postavio svoje uvjete za očuvanje svoje samostalnosti, koje je drugi kontrahent
+               izrično primio.</p>
+            <p xml:id="No.134.PPP.17">Unatoč tome što je naš narod u toku vijekova bio potpuno
+               potlačen od zajedničkoga pritiska njemačko-madžarskoga režima, i što su mu oteta
+               ispravama utvrđena prava, ipak se nikad nije odrekao svoje samostalnosti, te i s
+               historijsko-pravnoga stajališta ima potpuno pravo, da zahtijeva pravo
+               samoopredjeljenja.</p>
+            <p xml:id="No.134.PPP.18">Naš je program, ako ga saberemo, ovaj: </p>
+            <list xml:id="No.134.PPP.19" type="ordered">
+               <item n="1.">Odmah opći demokratski mir, potpuno razoružanje, međunarodno
+                  obezbjeđenje i zaštita slobodnog razvitka svih naroda, velikih i malih.</item>
+               <item n="2.">Priznanje i potpuno osiguranje slobodno provedenoga i potpunoga prava na
+                  samoopredjeljenje naroda, osobito u pitanju, da li hoće slobodnu državu, i u kojoj
+                  će formi da je obrazuje.</item>
+               <item n="3.">Mi ne tražimo za našu državu ništa, što pripada drugom narodu i prema
+                  tome nama ne pripada; mi tražimo za našu državu samo ono zemljište, koje je u
+                  kompaktnim masama kontinuirano naseljeno od Srba Hrvata i Slovenaca.</item>
+               <item n="4.">More, naročito Jadransko, neka bude slobodno. U koliko bi promet preko
+                  luka na sjeveru Jadranskoga mora, a koje se nalaze u našem kompaktnom
+                  narodno-gospodarskom ozemlju, bio osobito koristan za privredni razvitak
+                  udaljenijih naroda, pripravni smo s njima sklopiti ugovore, koji im jamče slobodni
+                  trgovački promet preko njih.</item>
+            </list>
+            <p xml:id="No.134.PPP.20">Mir koji bi htio okameniti današnje stanje, to ne bi bio mir
+               za narode ove monarhije. To bi bio povod teške smrtne borbe austro-ugarskih Slovena,
+               teška zapreka za socialni napredak ovih naroda, koji dolaze u obzir. Ali bi
+               međunarodni mir ostao uvijek ugrožen pri takom stanju. Može li se zamisliti, da će
+               ovo moralno neodrživo stanje biti zaštićeno međunarodnom organizacijom mira? Svi
+               ugovori za svjetski mir koji su prostu silu štitili, bili su ubrzo rastrgani od
+               vlastite nemoralnosti.</p>
+            <p xml:id="No.134.PPP.21">I ako pri pregovorima o miru u <placeName>Litavskom
+                  Brestu</placeName> zvanični predstavnici monarhije pobijaju zahtjeve većine
+               austro-ugarskih naroda, i ako glas proletaraca među narodima izgleda da i kod drugih
+               učesnika nailazi na malu susretljivost, ipak se nadamo da će se vidjeti, da je
+               demokratski svjetski mir, za kojim se ide, nešto nemoguće, ako se održi današnje
+               stanje u austro-ugarskoj monarhiji, koje u sebi nosi klicu novih zapletaja. Zbog toga
+               to stanje, koje susjede uvijek ugrožava, a demokratskoj se misli izruguje, danas
+               upravo sili, da se velika načela slobode i samoopredjeljenja dosljedno provedu, ne
+               samo s one strane stare ruske državne granice, već i s ove strane.</p>
+            <p xml:id="No.134.PPP.22">I zbilja sa dubokim zadovoljstvom vidimo, kako najnoviji
+               razvitak pregovora o miru u <placeName>Litavskom Brestu</placeName> potvrđuje
+               ispravnost i neumitnost našega zahtjeva. Vidi se, da o sudbini brojnih naroda, što su
+               stradali u ratu, nemaju odlučiti jedino diplomati starih velikih sila, već samo
+               zajednički sa pozvanim predstavnicima naroda. Ukrajinski narod stupio je na
+               pozornicu. Litvancima i Kuroncima priznaje se u načelu pravo sudjelovanja pri
+               pregovorima, a <date when="1918-01-17">17. o. mj.</date> zvanično se javlja, da je sa
+               strane monarhije postignut sporazum s Ukrajincima, da su obje strane pripravne
+               stupiti u stanje mira, koje obezbijeđuje razvitak trajnoga prijateljskog odnosa i da
+               uz predpostavku potpune uzajamnosti pretresu razna politička i kulturna pitanja, što
+               ih zanimaju. Pri tome se grof <persName>Czernin</persName> kao na primjer osvrnuo na
+               pretres obezbijeđenja sudbine onih poljskih manjina, koje će pripadati novoj
+               ukrajinskoj državi.</p>
+            <p xml:id="No.134.PPP.23">Pod tom koprenom se javlja, da je sablast neuplitanja
+               oškrinuta.</p>
+            <p xml:id="No.134.PPP.24">Zato predlažemo, neka se na pregovore o miru pripuste
+               predstavnici izabrani od austro-ugarskih naroda, a napose također Jugosloveni, u
+               svrhu ugovora o neograničenom samoopredjeljenju naroda u monarhiji, koje se ima
+               potpuno slobodno provesti sa garancijama.</p>
+            <gap reason="irreleant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

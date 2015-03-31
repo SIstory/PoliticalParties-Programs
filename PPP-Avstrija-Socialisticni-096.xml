@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklepi vseslovenskega delavskega dneva 28. julija 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30662</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-096.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30662</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title/>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslov. socialno-demokratične stranke</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">170</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-07-29">29. 7. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.96.PPP.1">
+               <head>I.</head>
+               <p>Ob pričetku petega vojnega leta povdarja delavstvo ponovno in energično svojo
+                  trdno voljo po skorajšnjem splošnem miru brez aneksij in kontribucij na podlagi
+                  samoodločbe narodov, pozivlja vlado, da uredi v to svrho svojo zunanjo politiko na
+                  način, ki ne bo ovirala marveč pospeševala zbližanje med vojujočimi se narodi in
+                  tako omogočila odpraviti vojno, ki tvori poglaviten vzrok vseh dosedanjih
+                  življenjskih stisk in se pridružuje z zadoščenjem akciji socialističnih strank, ki
+                  gre za tem, da nadaljuje delavstvo iz svoje strani edino resno delo, ki nas zamore
+                  z gotovostjo privesti do zaželenega pravičnega miru.</p>
+            </div>
+            <div xml:id="No.96.PPP.2">
+               <head>II.</head>
+               <p>Vseslovenski delavski dan vabi vse strankine pristaše na združeno neumorno delo v
+                  svrho ojačenja in poglobitve strankinih organizacij, ki so edino jamstvo za
+                  uspešno izvedbo vseh onih neštevilnih bojev, ki nam jih nalaga sedanja, vse
+                  temelje človeške družbe preobrazujoča doba. Jugoslovansko delavstvo in delavstvo
+                  vseh narodov naj strne vse svoje sile, naj dela zavestno za oživotvorjenje nove,
+                  nele formalne, marveč dejansko delujoče internacionale, katere nujni predpogoj
+                  bodi zmagovito uveljavljenje ciljev miru, ciljev socialne in narodne
+                  osvoboditve.</p>
+               <p>Vseslovenski delavski dan protestira najodločnejše proti političnemu kurzu, ki
+                  ovira na zunaj sklenitev takojšnjega, sporazumnega, miru, na znotraj pa nasilno
+                  onemogočuje vsako pravično rešitev narodnih problemov ter sploh demokratizacijo
+                  celokupne države.</p>
+               <p>Jugoslovansko delavstvo bo nastopilo energično proti vsaki politiki, ki bi hotela
+                  ohraniti nadalje nadvlado enega narodnega življa nad drugim. In ker vidi v rešitvi
+                  narodnih problemov v zmislu enakopravnosti in politične samostojnosti načelo
+                  pravičnosti in naravno potrebo danega socialnega razvoja ter v delu za to rešitev
+                  eno najvažnejših nalog socialističnega boja, proglaša v zmislu svojih, žal ob
+                  indiferenci meščanskih strank pred desetletjem podanih tozadevnih izjav ponovno
+                  svojo trdno volijo po – <hi rend="italic">združitvi našega troimenega naroda v
+                     lastno demokratično državo</hi> – ter da bo v dosego tega cilja zastavilo vse
+                  svoje sile.</p>
+               <p>Glede ureditve mej <placeName>Jugoslavije</placeName> pa stoji slovensko socialistično delavstvo na
+                  stališču sporazumnega dogovora s prizadetimi narodi, ter ima biti zato naša
+                  vodilna misel načelo samoodločevanja in plebiscit. Medsebojni odnošaji med narodi,
+                  ki žive na skupnem ozemlju skupno življenje se naj urede na način, ki bo <hi
+                     rend="italic">najmanj</hi> škodoval skupnim interesom prizadetih narodov.
+                  Želimo zato predvsem, da bi se italijanski in nemški sodrugi o tem konkretnejše
+                  izrazili in stopili v dogovor z našo jugoslovansko socialno demokratično
+                  stranko.</p>
+               <p>Jugoslovansko socialistično delavstvo je v načelu in v praksi za samostojni nastop
+                  vseh političnih strank, tudi ker ve, da je i v boju za skupni cilj samostojni,
+                  paralelni nastop političnih strank češče učinkovitejši in za stvar samo
+                  koristnejši, ker ne veže rok ne enim ne drugim. Ker pa ne more izključevati v tej
+                  izvanredni zgodovinski dobi eventuelne potrebe skupnega nastopa z vsemi drugimi
+                  strankami v narodu, prepušča v takem slučaju uravnanje strankine taktike
+                  izvrševalnemu odboru, odnosno strankinemu zboru, ki se naj po potrebi nemudoma
+                  skliče ob pričetku petega leta vojne.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

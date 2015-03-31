@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Slovenske ljudske stranke na Goriškem, sprejet na njenem ustanovnem zboru
+               25. novembra 1907 v Gorici</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30566</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-033.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30566</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska Ljudska Stranka na Goriškem.</title>
+               </analytic>
+               <monogr>
+                  <title>Gorica</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">97</biblScope>
+                     <pubPlace>Gorica</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-0H40IGPZ</pubPlace>
+                     <date when="1907-11-26">26. 11. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska Ljudska Stranka na Goriškem.</head>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.33.PPP.1">
+               <head><hi rend="italic">Šolske zahteve.</hi></head>
+               <gap reason="irrelevant"/>
+               <p> C. kr. vlada naj ukrene, kar potreba:</p>
+               <list type="ordered">
+                  <item n="1.)">da se ustanovi slovensko vseučilišče v
+                        <placeName>Ljubljani</placeName> v najkrajšem času za vse slovenske
+                     pokrajine v <placeName>Avstriji</placeName>; </item>
+                  <item n="2.)">da se otvorijo na c. k. višji gimnaziji in na c. k. višji realki v
+                        <placeName>Gorici</placeName> že v <date notAfter="1908-09">početku šolskega
+                        leta 1908/9</date> slovenske paralelke;</item>
+                  <item n="3.)">da se premesti slovenski oddelek c. k. izobraževališča za
+                     učiteljišča za učitelje iz <placeName>Kopra</placeName> v središče slovenskega
+                     dela <placeName>goriške dežele</placeName>, namreč v <placeName>mesto
+                        goriško</placeName>, in sicer s <date notAfter="1908-09">početkom šolskega
+                        leta 1908/9</date>;</item>
+                  <item n="4.)">da se ustanovi nemudoma v <placeName>mestu goriškem</placeName>
+                     toliko slovenskih javnih ljudskih šol na primernih krajih, da bodo mogle
+                     sprejeti vse one šolski dolžnosti podvržene slovenske otroke v ozemlju
+                        <placeName>goriškega mesta</placeName>, ki so zdaj siljeni iskati si ljudsko
+                     šolskega pouka v zasebnih Šolah ali v zavodih, ki niso obvezne šole;</item>
+               </list>
+               <p>ter polaga <q>Slovenskemu kluba</q> državnih poslancev na
+                     <placeName>Dunaju</placeName> najtopleje na srce, naj zastavi vso svojo veljavo
+                  in svojo moč pri c. k. vladi, da se izvrši ta šolski program goriških
+                     Slovencev.<gap reason="irrelevant"/></p>
+            </div>
+            <div xml:id="No.33.PPP.2">
+               <head><hi rend="italic">Organizacija S. L. S. na
+                     <placeName>Goriškem</placeName>.</hi></head>
+               <gap reason="irrelevant"/>
+               <list type="ordered">
+                  <item n="1.)">Stranka, ki hoče delovati na krščanskem in demokratiškem temelju za
+                     duševni in gmotni prospeh slovenskega ljudstva, zlasti kmeta, delavca, obrtnika
+                     in trgovca, na <placeName>Goriškem</placeName> se imenuje <hi rend="italic"
+                           ><q>Slovenska Ljudska Stranka</q> na
+                     <placeName>Goriškem</placeName></hi>. <gap reason="irrelevant"/></item>
+                  <item n="2.)">Zbor zaupnikov <q>Slovenske Ljudske Stranke</q> pozivlje vse goriške
+                     Slovence, ki priznavajo krščansko in demokratiško stališče kot veljavno v
+                     javnem življenju, naj se priklopijo <q>S. L. S.</q> Glede načina naj se
+                     dogovore z vodstvom in izvrševalnim odborom <q>S. L. S.</q></item>
+               </list>
+               <gap reason="irrelevant"/>
+            </div>
+            <div xml:id="No.33.PPP.3">
+               <head><hi rend="italic">Težnje kmečkega stanu.</hi></head>
+               <gap reason="irrelevant"/>
+               <p>Shod zaupnikov slovenske ljudske stranke na <placeName>Goriškem</placeName>, zbran
+                     <date when="1907-11-25">25. novembra 1907</date> v
+                     <placeName>Gorici</placeName>, sprejema v svoj program zahteve <q>Kmečkih
+                     zvez</q> glede na razne potrebe kmečkega stana. <choice>
+                     <sic>Posebe</sic>
+                     <corr>Posebej</corr>
+                  </choice> še pozdravlja novi zakon proti ponarejanja vina ter poudarja potrebo, da
+                  se uvedejo zavodi za starostno zavarovanje ter okrajne bolniške blagajne tudi za
+                  kmečki stan, kakor tudi, da se ustanovijo obvezne deželne zavarovalnice proti
+                  škodi po ognju, toči in drugih nezgodah, ter da se brez odloga uredijo deželne
+                  finance z državno pripomočjo.</p>
+            </div>
+            <div xml:id="No.33.PPP.4">
+               <head><hi rend="italic">Trgovstvo in obrt.</hi></head>
+               <gap reason="irrelevant"/>
+               <p>Vpoštevajoč važnost trgovsko-obrtnega stanu hoče <q>S. L. S.</q> na
+                     <placeName>Goriškem</placeName> zastaviti ves svoj vpliv v to, da se čim preje
+                  ustanovi slovenska trgovska šola v <placeName>Gorici</placeName> ter naprosi
+                  deželne in državne poslance, da izposlujejo od dežele in države v to svrho enake
+                  podpore kot so se dale italijanski trgovski šoli.</p>
+               <p>Slovenska obrtna šola v <placeName>Gorici</placeName> naj se tako reorganizira, da
+                  bode zadovoljila obrtnike in njihove učence, ker le od take šole smemo pričakovati
+                  zaželjenega vspeha.</p>
+               <p>Naši zastopniki naj se energično potegujejo za to, da se odpravi sedajni krivični
+                  cenzus za volitve v trgovsko-obrtno zbornico. Ako ne morejo doseči, da bi vsi
+                  obrtniki in trgovci brez izjeme zadobili volilno pravico, naj pa skrbijo za to, da
+                  dobimo najnižji cenzus kakoršen velja v sosednih deželah.</p>
+               <p>Trgovska zbornica naj se loči od obrtne, ker si interesi obeh stanov pogosto
+                     nasprotujejo.<gap reason="irrelevant"/></p>
+            </div>
+            <div xml:id="No.33.PPP.5">
+               <head><hi rend="italic">Delavski stan.</hi></head>
+               <gap reason="irrelevant"/>
+               <list type="ordered">
+                  <item n="1.)">Delo je dolžnost in splošno premoženje vseh zdravih ljudi in ne sme
+                     postati žrtva oderuštva in izsesavanja kakor se mnogokrat godi.</item>
+                  <item n="2.)">Država je dolžna po postavah in opravi braniti pošteno delo in je
+                     namenu primerno organizovati, da obvaruje krivičnega izsesavanja in da zagotovi
+                     vsakemu delavcu njegovemu delu primerno plačo.</item>
+                  <item n="3.)">Otroško delo po tvornicah se mora odpraviti, žensko delo omejiti na
+                     ženski primerna dela, ki moškemu delu ne delajo konkurence.</item>
+                  <item n="4.)">Ponočno delo se dovoli le onim podjetjem, ki iz tehničnih vzrokov
+                     dela ne morejo pretrgati. Ženskam in otrokom bodi nočno delo
+                     prepovedano.</item>
+                  <item n="5.)">Ob nedeljah in zapovedanih praznikih mora vsako delo počivati. Če ni
+                     mogoče ob nedeljah dati počitka, naj se določi 36 ur med tednom v počitek,
+                     vendar tako, da ima vsako drugo nedeljo delavec prost dan.</item>
+                  <item n="6.)">Uredi se po razmerah najvišja neprestopna delavna doba; in sicer pri
+                     vseh rudo in premogokopih in pri vseh javnih strokah, koder se mehanično s
+                     stroji v velikem producira, zlasti pri težkih in zdravju škodljivih delih <hi
+                        rend="italic">8urni delavnik</hi>; pri mali obrti, rokodelstvu, trgovstvu
+                     10-urna delavna doba.</item>
+                  <item n="7.)">Zakonito naj se varujejo delavci, ki izvršujejo po svoji volji in
+                     vesti razne mandate.</item>
+                  <item n="8.)">Uvedejo naj se razsodišča, sestavljena iz delavcev in delodajalcev,
+                     ki naj razsojajo v vseh spornih točkah.</item>
+                  <item n="9.)">Skrbi naj se delavcem za zdrava in primerna stanovanja. V to svrho
+                     ustanovljena društva podpirajta dežela in država z zakoni in doneski.</item>
+                  <item n="10.)">Plača bodi tako urejena, da more vsak delavec pošteno živeti tudi z
+                     družino. Vsak delavec mora imeti pravico, da napreduje pri delu in se mu plača
+                     primerno zvišuje. Delavec imej pravico do gotovega deleža pri čistem
+                     dobičku.</item>
+                  <item n="11.)">Akordno delo naj se odpravi povsod, kjer je nevarno, ali kjer ob
+                     neugodnem času vsled njega delavci nimajo zaslužka.</item>
+                  <item n="12.)">Strogo naj se nadzorujejo vsa podjetja glede na varnost življenja
+                     in zdravja; zato naj se pomnoži obrtno nadzorstvo po dejanski potrebi. Za
+                     delavke naj se nastavijo obrtne nadzornice. Obrtnim nadzornikom naj se pridele
+                     delavci, ki jih naj odškoduje država.</item>
+                  <item n="13.)">Po večjih mestih naj uvedo občinske posredovalnice za delo, in
+                     sicer brezplačno.</item>
+                  <item n="14.)">Uvede naj se splošno državno zavarovanje za delavca vseh vrst proti
+                     bolezni, nezgodam, onemoglosti in starosti ter za udove in sirote.</item>
+                  <item n="15.)">Delavstvo ene stroke ali sorodnih strok naj se združaje po
+                     strokovnih društvih, ki so nepolitična in skrbe zgolj za izobrazbo in gmotno
+                     povzdigo delavstva ter po delavskih pol. društvih, ki skrbe za politično
+                     osamosvojo delavskega stana sploh.</item>
+               </list>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

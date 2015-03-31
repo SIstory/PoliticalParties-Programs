@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Izjava načelnika združenega slovensko-hrvaškega kluba avstrijske delegacije dr.
+               Ivana Šusteršiča o aneksiji Bosne in Hercegovine na zasedanju delegacij 7. oktobra
+               1908 v Budimpešti</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30789</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-130.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30789</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Dr. Šusteršič o aneksiji</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXVI</biblScope>
+                     <biblScope unit="issue">233</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-</pubPlace>
+                     <date when="1908-10-10">10. 10. 1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Dr. Šusteršič o aneksiji</head>
+            <p xml:id="No.130.PPP"><gap reason="irrelevant"/>Z velikim veseljem pozdravljamo
+               priklopljenje <placeName>Bosne in Hercegovine</placeName> k monarhiji. Smo pa trdno
+               prepričani, da bodo državnopravne težkoče, preko katerih bo za prvi čas morda mogoče
+               iti, kmalu dovedle do nevzdržljive situacije, ki z natorno nujnostjo sili k
+               nadaljnjemu razvoju po započeti poti. Kako si je mogoče misliti, da se naj v
+               delegacijah obravnavajo bosanske zadeve, ne da bi se izvoljenim zastopnikom te dežele
+               priznala kaka ingerenca? In kaj se ima zgoditi v slučaju, ako se bodo med sklepi
+               delegacij in novega bosanskega deželnega zbora pojavila nasprotja? Isto velja za oba
+               parlamenta, ki sta tudi po njunem sedanjem kompetenčnem delokrogu poklicana v gotovih
+               bosanskih deželnih zadevah se posvetovati. Zato se bo po mojem mnenju kmalu pokazala
+               nujnost, da <hi rend="italic">zastopniki <placeName>Bosne in Hercegovine</placeName>
+                  dobe v parlamentu in delegacijah sedež in glas</hi>. To pa je le na dva načina
+               mogoče: Ali s priklopljenjem na eno obeh državnih polovic ali pa tako, <hi
+                  rend="bold">da se ustvari tretje samostojno drž. telo, sestoječe iz jugoslovanskih
+                  dežela <placeName>Avstrije</placeName> in <placeName>Ogrske</placeName></hi>. Z
+               odločnostjo se morajo pri tej priliki zavrniti težnje Ogrske, katerim se je tudi v
+               bosanskem manifestu napravil kompliment. Sklicevanje na inavguralni diplom najboljše
+               zavračajo obstoječe pravne razmere same. Glasom inavguralnega diploma se morajo
+               nekdanje ogrske provincije, ki so se osvojile ali ki se bodo še v bodočnosti
+               osvojile, vtelesiti zopet ogrski kroni. Kako pa se more zahtevati, da se provincije,
+               katere je tudi <placeName>Avstrija</placeName> zopet si osvojila, na kojih osvojitvi
+               je <placeName>Avstrija</placeName> bila udeležena s 70. odstotki, združijo z
+                  <placeName>Ogrsko</placeName>? Leta 1867. pač nihče ni sanjal, da se bo
+                  <placeName>Bosna</placeName> z vojnim pohodom zopet osvojila, kajti drugače bi
+               bilo nerazumljivo, da se deželo, katero smo mi osvojili, pripisuje zdaj
+                  <placeName>Ogrski</placeName>. Kompromis v tem vprašanju bi bil morda na ta način
+               mogoč, da bi se en del okupacijskega ozemlja vtelesil
+                  <placeName>Dalmaciji</placeName>, drugi <placeName>Hrvatski</placeName>. Tudi to
+               bi bila le etapa na poti <hi rend="bold">osnove samostojnega jugoslovanskega
+                  državnega ozemlja pod habsburškim žezlom</hi>.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

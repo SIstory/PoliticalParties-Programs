@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv glasila Narodno napredne stranke za Kranjsko Slovenski narod na poziv
+               predsednika Narodne stranke za Štajersko dr. Vekoslava Kukovca za oblikovanje enotne
+               vseslovenske politične organizacije leta 1917</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije blob- SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30601</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Liberalni-063.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30601</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Jednotna stranka?</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-DGA6HR7G</pubPlace>
+                     <date when="1918-01-05">5. 1. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Jednotna stranka?</head>
+            <p xml:id="No.63.PPP.1">Članek dr. <persName>V. K.</persName> v ponedeljkovi številki
+               našega lista<note source="#SourceBornDigital">Glej dok. št. 73.</note> je vzbudil
+               splošno pozornost. V naši javnosti se o njem mnogo razpravlja in uredništvo je
+               prejelo celo vrsto dopisov, ki se izražajo za zenostavljenje slovenske politične
+               organizacije. To so razveseljivi pojavi. Baš ker je dr. <persName>V. K.</persName>
+               stavil temo tako enostavno, je dosegel dvoje: prvič je pokazal, kako važno je, da se
+               za skupni boj v znamenju deklaracije ustvari čim najtrdnejša politična organizacija;
+               drugič pa nam je neposredno predložil vprašanje: ali ni mogoče, da se v boju za
+               enotni cilj tudi enotno politično organiziramo?</p>
+            <p xml:id="No.63.PPP.2">To je gotovo, da je politična organizacija našega naroda daleko
+               zaostala za njega političnim programom. Z deklaracijo smo vstopili v docela novo
+               epoho naše nacijonalne politike. Preje nam je bila avtonomija zadnji cilj, sedaj nam
+               je lastna država začetek novega nacijonalnega življenja, ki naj našemu narodu
+               omogoči, da se gospodarsko, socijalno in kulturno samostojno in neodvisno razvije. V
+               zahtevi po lastni državi si je ogromna večina našega naroda povsem edina. Tu danes ni
+               razlike med naprednjaki in klerikalci, med radikalci in konservativci; upravičeno
+               smatramo tudi, da je navzlic umetničenju oficijalnega vodstva socijalne demokracije
+               tudi ogromna večina našega socijalistično organiziranega delavstva v taboru majniške
+               deklaracije. V delu za uresničenje deklaracije je torej popolna <hi rend="italic"
+                  >enotnost postopanja</hi> vseh dosedanjih skupin našega naroda ne le mogoča,
+               temveč tudi potrebna. Nastaja pa vprašanje, ali je vsled tega tudi potrebna <hi
+                  rend="italic">popolna enotnost politične organizacije</hi>, in, denimo da je, ali
+               je tudi <hi rend="italic">mogoča</hi>? Ali je izvršijivo, da se narod takorekoč
+               konstituira kot stranka?</p>
+            <p xml:id="No.63.PPP.3">Z uresničenjem majniške deklaracije delo za renesanso našega
+               naroda ni končano, temveč se <hi rend="italic">šele</hi> prične. Ako verujemo, da si
+               bodemo izvojevali svobodo in ujedinjenje, (in ta vera je temelj našega
+               deklaracijskega boja), potem moramo tudi že misliti in pripravljati, kako si bodemo
+               to našo Jugoslavijo <hi rend="italic">uredili</hi>. Lastna država bo nalagala naši
+               gospodarski, kulturni, socijalni politiki povsem nove, velike in težavne naloge,
+               stavila nas bo pred nove probleme in bo v vsakem oziru zahtevala najresnejšega
+               tekmovanja narodnih duševnih sil. V volji in zahtevi po lastni državi smo si vsi
+               edini, v načrtih in zahtevah, <hi rend="italic">kako naj bo ta država urejena</hi> pa
+               si nismo in si ne moremo biti. Tu nas ločijo zopet one večne idejne razlike, ki
+               delijo človeštvo, pripadnike vsakega na višji razvojni stopinji se nahajajočega
+               naroda v razne tabore, skupine in stranke. Ta ločitev duhov je nekaj danega,
+               neizogibnega in nobena še tako velika skupna naloga ne more <hi rend="italic"
+                  >trajno</hi> strniti konservativne, napredne, socijalistične vrste v eno enotno
+               organizacijo. Časi enotne narodne stranke spadajo v primitivno narodno dobo in se ne
+               vračajo. Tudi če poskusimo ustanoviti tako enotno stranko, takoj od začetka bi v njej
+               obstojale razne skupine in kmalu bi se pokazalo, da je enotnost le videz. Nastala bi
+               notranja nesoglasja, kmalu tudi boji in mesto moči in sile, ki smo jo hoteli dati
+               narodu z enotno politično organizacijo, bi ustvarili stranko, katera bi najbrž vso
+               svojo energijo morala porabiti za vzdržavanje notranjega ravnotežja. To bi bil stroj,
+               ki vso svojo moč uniči v lastnem kolesju. Rezultat bi bil torej ta: enotna politična
+               organizacija vsega naroda bi nas ne ojačala za deklaracijski boj toliko, kakor bi
+               pričakovali, onemogočila pa bi, da se smotreno pripravimo za novo dobo, ko bo treba
+               narodu novo hišo tudi <hi rend="italic">urediti</hi>. Da smo glede te ureditve vsi
+               ene misli in enega srca – to trditi bi bilo naivno in, ako bi bilo res, bi bilo
+               slabo, ker bi bilo dokaz politične primitivnosti, ki se še ni dokopala do spoznanja,
+               da so vse uredbe moderne države, državnega naroda, rezultati političnih bojev.</p>
+            <p xml:id="No.63.PPP.4">Praktično bi se dala enotna stranka izpeljati le na razvalinah
+               starih. Mi bi morali razpustiti vse dosedanje politične organizacije, odpraviti
+               njihove programe, ter na novi programatični podlagi snovati novo stranko. Ker bi
+               moral biti ta program tako za klerikalca kakor za naprednjaka kakor za socijalista,
+               bi se morala vsaka sedaj obstoječih strank odreči baš tistim svojim načelom, ki
+               tvorijo posebnost njene eksistence, svojim nazorom na svet, na družbo. Tak poskus bi
+               se mogel izvršiti le v popolni negaciji socijoloških zakonov, ki neodvisno od naše
+               volje ustvarjajo med nami politična nasprotstva. Opozarjamo samo na eno dejstvo.
+               Danes hvaležno pozdravljamo resolutni nastop ljubljanskega knezoškofa, ki je zastavil
+               svojo cerkveno avtoriteto za narodno stvar ter je s svojo pastirsko palico udaril po
+               onih, ki jih ves narod smatra za svoje škodljivce. Ali bodemo jutri, ko bo šlo recimo
+               za vprašanjc našega novega šolstva, z isto pripravljenostjo sprejeli škofovo
+               odločitev? Ali se bodemo brez ugovora pokoravali njegovim nazorom o demokraciji? Ali
+               bodemo priznali, da sme odstraniti kot duhovni nadpastir urednika ker le-ta ne hodi
+               po poti, ki si jo želi škof? Ali moremo na drugi strani verjeti, da bo hierarhija
+               priznala naš nazor, da interesi cerkve niso še narodni interesi in da cerkveni
+               poglavarji ne morejo biti tudi naši politični šefi?</p>
+            <p xml:id="No.63.PPP.5">Odgovor na ta banalna vprašanja je tudi odgovor na vprašanje o
+               praktični izpeljivosti in resnični koristnosti enotne politične organizacije celega
+               naroda.</p>
+            <p xml:id="No.63.PPP.6">Poskus, trajno izločiti medsebojni politični boj, se torej <hi
+                  rend="italic">mora</hi> izjaloviti. Nekaj drugega pa je seveda zahteva, da moramo
+               zaenkrat zapostaviti vse, kar nas loči ter z združenimi močmi stremeti za prvim
+               svojim ciljem, za uresničenjem deklaracije. Edini moramo biti v tem, da smo brez
+               razlike trdna opora našemu Jugoslovanskemu klubu.</p>
+            <p xml:id="No.63.PPP.7">Prepričani smo, da se da ta enotnost najbolje doseči, ako na eni
+               strani pošteno izpovemo, kaj nas sicer loči, na drugi strani pa ravnotako pošteno in
+               v medsebojnem spoštovanju iščemo oblike, ki nam omogoči smotreno, trajno skupno
+               delovanje za veliko idejo. Nositeljice te potrebne enotnosti morajo biti <hi
+                  rend="italic">stranke</hi>. Konsolidacija našega življenja je predpogoj enotnosti
+               naše narodne politike. Danes smo ne toliko programatično kakor organizatorično
+               razcepljeni, provincijalizirani. V času boja za narodno edinstvo imamo zlasti
+               naprednjaki še vedno pokrajinske stranke. Socijalna demokracija je že od vsega
+               začetka enotno organizirana, reorganizacijo je izvedla sedaj tudi V. L. S., le
+               napredno Slovenstvo se še ni povzpelo do odločilnega čina. To se mora v najkrajšem
+               času zgoditi in se bo tudi zgodilo. Zgodovinska naloga naprednega Slovenstva je, da
+               se organizatorično in programatično pripravi na novo dobo.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

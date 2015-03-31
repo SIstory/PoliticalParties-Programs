@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Izjava ljubljanske škofije, Slovenske ljudske stranke na Kranjskem, Narodno
+               napredne stranke na Kranjskem ter Slovenske katoliške delavske demokracije v podporo
+               majniški deklaraciji 15. septembra 1917 (Ljubljana/septemberska izjava)</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30792</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-133.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30792</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Izjava</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">211</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-CDQGB5AA</pubPlace>
+                     <date when="1917-09-15">15. 9. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Izjava</head>
+            <list xml:id="No.133.PPP" type="ordered">
+               <item n="1.">Podpisani zastopniki Slovencev izjavljamo, da se solidarno pridružujemo
+                  državnopravni deklaraciji Jugoslovanskega kluba z dne <date when="1917-05-30">30.
+                     maja t. l.</date> Po našem živem prepričanju je bodočnost habsburške monarhije
+                  mogoča le na načelu resnične svobode narodov, a bodočnost našega naroda le na
+                  načelu združenja Slovencev, Hrvatov in Srbov, ki prebivajo v naši monarhiji.
+                  Oboje, svobodo in edinstvo, pa more našemu narodu zagotoviti in ohraniti le
+                  samostojna na načelu samoodločbe narodov zgrajena jugoslovanska država pod žezlom
+                  habsburške dinastije. Zato zahtevamo, da se čimpreje izvede to jugoslovansko
+                  edinstvo in se v tem oziru zaupljivo zanašamo na očetovsko naklonjenost nositelja
+                  habsburške krone, ki je v kratki dobi svojega vladanja tolikrat posvedočil svojo
+                  pravičnost nasproti svojim narodom.</item>
+               <item n="2.">Prav tako se skupno pridružujemo mirovni želji papeža
+                     <persName>Benedikta XV</persName>. Če države sprejmejo za podlago mirovnih
+                  dogovorov misli, začrtane v njegovi noti, tedaj smo prepričani, da se bo skoraj
+                  med narode vrnil mir res trajen in blagonosen v srečo narodov in držav. Vojska pa
+                  je tudi jasno pokazala, da mora namesto sile stopiti pravica. Ideje o razoroženju,
+                  o svobodi morja, o razsodiščih, o pravičnosti nasproti težnjam narodov, so zmožne
+                  započeti novo dobo človeštva, ko narodi ne bodo več tekmovali v politiki sovraštva
+                  in tehniki oboroževanja, marveč v mirnem delu za pravi kulturni napredek. Obenem
+                  hvaležno pozdravljamo resno prizadevanje našega vladarja, ki vse meri na to, da bi
+                  se čimpreje končalo to strašno klanje in bi zopet zasijala narodom zlata zarja
+                  miru in nove lepše bodočnosti.</item>
+               <closer>
+                  <dateline>V <placeName>Ljubljani</placeName>, dne <date when="1917-09-15">15.
+                        septembra 1917</date>.</dateline>
+               </closer>
+               <signed>
+                  <list type="simple">
+                     <item><persName>Dr. Anton Bonaventura Jeglič, l. r.<lb/>
+                           <roleName>knezoškof ljubljanski</roleName></persName></item>
+                     <item><persName>Prelat Andrej Kalan, l. r.<lb/>
+                           <roleName>stolni kanonik</roleName></persName></item>
+                     <item><persName>Dr. Josip Gruden, l.r.<lb/>
+                           <roleName>stolni kanonik</roleName></persName></item>
+                  </list>
+                  <list type="simple">
+                     <head>Za slovensko ljudsko stranko:</head>
+                     <item><persName>Dr. Ivan Šusteršič, l. r.<lb/>
+                           <roleName>t. č. načelnik stranke</roleName></persName></item>
+                  </list>
+                  <list type="simple">
+                     <head>Za Narodno napredno stranko:</head>
+                     <item><persName>Dr. Ivan Tavčar, l. r.</persName></item>
+                     <item><persName>Dr. Karel Triller, l. r.</persName></item>
+                  </list>
+                  <list type="simple">
+                     <head>Za Slov. kat. delavsko demokracijo</head>
+                     <item><persName>Mihael Moškerc, l. r.</persName></item>
+                     <item><persName>Franc Vidic, l. r.</persName></item>
+                     <item><persName>Anton Žnidaršič, l. r.</persName></item>
+                  </list>
+               </signed>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oklic osnovalnega odbora Slovenskega društva na društveni ustanovni shod 2.
+               februarja 1891 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30579</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-046.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30579</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenskim rodoljubom!</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIV</biblScope>
+                     <biblScope unit="issue">20</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-EEZYCM53</pubPlace>
+                     <date when="1891-01-26">26. 1. 1891</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.46.PPP">
+            <head>Slovenskim rodoljubom!</head>
+            <p>Narodno vprašanje, ki pretresa že toliko let <placeName>Evropo</placeName>, še ni
+               rešeno, marveč vidimo, da ono prevladuje vse politično delovanje in da so njemu
+               podrejena vsa druga vprašanja.</p>
+            <p>Že nad 40 let jo minulo, odkar je proglašena jednakopravnost avstrijskih narodov, in
+               že nad 20 let je le-ta vsprejeta mej temeljne državno določbe. A kako oddaljeni smo
+               še od jednakopravnosti in kako malo smo dosegli tega, kar nam ona zagotavlja!</p>
+            <p>Od severa in od juga prežé na našo zemljo in naše ljudstvo mogočni in pohlepni
+               sosedje. Tem navalom v bran se postaviti je dolžnost vsacega slovenskega
+               rodoljuba.</p>
+            <p>Videti je bilo pred nekolikimi leti, da se nam hočejo izpolniti naše želje in
+               uresničiti pravice že davno nam zajamčene v ustavi. Pritisk na nas je bil odjenjal in
+               prosteje smo si pripravljali pogoje narodnega obstanka in napredka. Nadepolno smo
+               zrli v bodočnost, videči, da je moč naših sovražnikov oslabela, ker neso imeli opore
+               v državnih oblastvih. – A varali smo se. Naši sovražniki so organizujejo, napovedali
+               so nam boj na narodnem in gospodarskem polji ter ga vojujejo z vso brezozirnostjo.
+               Naše pridobitve neso tako utrjene, da bi jih ne zmajala sila nasprotnikov. Od
+               vladajočih oblastev nemamo pričakovati podpore, ona ne da bi nas podpirala v našem
+               boji, nam še odtegujejo to, kar smo si s trudom priborili.</p>
+            <p>V vseh strokah uprave vidimo nazadovanje. Treba je torej tudi nam organizacije in
+               spoznanje te potrebe je rodilo <hi rend="bold"><q>Slovensko društvo</q></hi>. Našega
+               društva naj se oklene vsakdo, komur je mari obstanek in napredek naroda. Naše društvo
+               bode poklicano, da se ustavlja pogubnim nakanam nam sovražnih elementov, ono bode
+               imelo pazno uho za preteče nam nevarnosti in bode dvigalo svoj glas, kadar in
+               kjerkoli se nam kratijo in rušijo naše <hi rend="italic">narodne </hi>pravice.</p>
+            <p>Vrhu tega bode delalo naše društvo na to, da se povsod pospešujejo in zboljšajo <hi
+                  rend="italic">trgovinski</hi> in <hi rend="italic">obrtni</hi> interesi ter
+               povzdigne <hi rend="italic">kmetski stan</hi> v gmotnem in kulturnem oziru. Tuja je
+                  <hi rend="italic"><q>Slovenskemu društvu</q></hi> vsaka nakana konkurence v
+               lastnem taboru in ono radovoljno priznava opravičenost vsake druge združitve, ako po
+               drugih potih doseza iste smotre.</p>
+            <p><hi rend="italic"><q>Slovensko društvo</q></hi> tudi ne bode rušilo narodne
+               discipline in bode rado prepuščalo prvo besedo v vseh važnejših zadevah tudi odslej
+               zvezi naših narodnih zastopnikov.</p>
+            <p>Na noge torej slovenski rodoljubi, da dobi društvo najširšo podlago in se trdno
+               ukorenini!</p>
+            <p>Da bi mu bila osoda mila in njegovo delovanje uspešno, v to Bog pomozi!</p>
+            <p>Ker so društvena pravila potrjena in se je že oglasilo po pravilih potrebno število
+               društvenikov, vršil se bode <hi rend="bold">ustanovni shod v
+                     <placeName>Ljubljani</placeName> dné <date when="1891-02-02">2. februvarja t.
+                     l.</date> ob 11. uri dopoludne v čitalnični dvorani</hi>.</p>
+            <closer>
+               <dateline>
+                  <hi rend="italic">V <placeName>Ljubljani</placeName></hi> meseca <date
+                     when="1891-01">januvarja 1891</date>.</dateline>
+               <orgName>Osnovalni odbor Slovenskega društva.</orgName>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

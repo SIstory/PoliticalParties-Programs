@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv načelnika Jugoslovanske demokratske stranke dr. Ivana Tavčarja na
+               Šukljetovo zamisel o ureditvi jugoslovanske države</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30633</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-084.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30633</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>In necessariis unitas!</title>
+                  <author>Ivan Tavčar</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">241</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-YKYOA23T</pubPlace>
+                     <date when="1918-10-17">17. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <opener>Dež. posl. dr. <persName>Ivan Tavčar</persName>:</opener>
+            <head>In necessariis unitas!</head>
+            <p xml:id="No.84.PPP.1">Bila bi skoraj preobrabljena fraza, če bi vzkliknil, da se nam
+               bo slabo godilo, ako sedanji veliki čas naleti med nami na pritlikav rod! Ali vendar
+               je tako! Ustanovitev ujedinjene in mogočne jugoslovanske države je na poti in gorje
+               nam, če bomo takrat, ko se bo rodila ta država, malenkostni in tako površni, da ne
+               bodemo védeli drugega, nego šteti travnate bilke, češ, ta je moja, ta pa tvoja! Bog
+               ne daj, da bi se Slovenci v tej monumentalni dobi postavili nekako na tisto stališče,
+               na katerem je stal svojčas del ribniške doline, ko je neprestano gonil svojo pesem,
+               da hoče imeti postajo v <placeName>Žlebiču</placeName>, ker je s to postajo zanj
+               dolenjska železnica velikega pomena, brez te postaje pa brez vsakega pomena!</p>
+            <p xml:id="No.84.PPP.2">Te postaje se spominjam, ko premišljujem o prijatelja
+                  <persName>Šukljeja</persName> člankih <q>V zaželjeni deželi</q>,<note
+                  source="#SourceBornDigital">Glej dok. št. 44.</note> a na
+                  <placeName>Žlebič</placeName> sem mislil tudi takrat, ko sem prečital prijatelja
+                  <persName>Hribarja</persName> protičlanek <q>Uprava
+                     <placeName>Jugoslavije</placeName></q> v <q>Slovencu</q> z dne <date
+                  when="1918-10-15">15. t. m.</date></p>
+            <p xml:id="No.84.PPP.3"><persName>Šuklje</persName> piše: <q>Tako tedaj si predstavljam
+                  upravo slovenske skupine naše jugoslovanske samostojnosti. Namenoma ne segam
+                  dalje, ne grem preko Sotle in Kolpe! Naj si bratje Hrvati in Srbi uredijo svojo
+                  upravo po svojih lastnih potrebah, željah in tradicijah, dobro bomo shajali,
+                  nemoteni eden od drugega.</q> – <persName>Hribar</persName> pa se objema teh-le
+               stavkov: <q>Ta omejenost avstrijske državne modrosti je naša sreča, kajti del
+                  svobodne, samosvoje in neodvisne jugoslovanske države bode zedinjena
+                     <placeName>Slovenija</placeName> v taki popolnosti, v kakršni si je pred nekaj
+                  leti najsmelejši med nami še predstavljati ni upal. Deželne meje bodo padle. Med
+                  nami ne bode več Kranjcev. Štajercev, Korošcev, Goričanov, Tržačanov, Istranov.
+                  Vsi bodemo samo Slovenci.</q></p>
+            <p xml:id="No.84.PPP.4">Niti na misel mi ne prihaja, da bi <persName>Šukljeju</persName>
+               in <persName>Hribarju</persName> podtikal kake slabe namene. Kar sta zapisala,
+               zapisala sta v pošteni in dobri veri. Vzlic temu pa se mi vidi, da plešeta oba na eni
+               in isti napeti vrvi, samo kolec, s katerim se vzdržujeta v balansi, je pri enem nekaj
+               daljši, pri drugem nekaj krajši; pri obeh pa je velika nevarnost, da zdrkneta k
+               zemlji.</p>
+            <p xml:id="No.84.PPP.5">Če si predstavljam jugoslovansko državo, ne morem si je
+               predstavljati, da bi v njej nastala posebna slovenska, posebna hrvatska in posebna
+               srbska skupina. Istotako si ne morem predstavljati, da bi ta država obsegala
+               zedinjeno <placeName>Slovenijo</placeName>, samo zase in ločeno od zedinjene
+                  <placeName>Hrvatske</placeName> ali zedinjene <placeName>Srbije</placeName>. <hi
+                  rend="italic">Pri ljubem Bogu! Ali naj se ustanovitev in ureditev jugoslovanske
+                  države izroči trem krojačem, katerih vsak bo skušal izstriči iz državice, ki bo
+                  takoj hirala na angleški bolezni, svojo krpo?</hi> Pri vprašanju, kako daleč naj
+               sega slovenska krpa ali pa srbska in hrvatska krpa, bodemo, kakor kaže
+                  <persName>Šukljejeva</persName>
+               <q>Uprava v Istri</q>, takoj zlezli v prepire in naši krojači bodo svoj posel s tem
+               opravljali, da si bodo eden drugemu škarje v trebuh suvali! In če bodo tukaj tri
+               krpe, imeli bodemo zopet tri stare kronovine; če pa bodo
+                  <placeName>Čakovci</placeName> morda tudi hoteli imeti svojo krpo, potem bodo
+               naenkrat štiri kronovine v <placeName>Jugoslaviji</placeName> itd.</p>
+            <p xml:id="No.84.PPP.6">Moje ponižno mnenje je – vsiljujem ga nikomur, tudi si ne
+               prisvajam nikake avtoritete, – da se mora jugoslovanska država urediti brez vsakega
+               takega krpanja! Ta država se ima takoj spočetka postaviti na temelj, da prebiva <hi
+                  rend="italic">v njej en sam narod</hi>. Teorije, da v teh pokrajinah živi več
+               narodov, na noben način ne pustimo veljati, ker se morejo kvečjemu redakterji zabitih
+               nemškonacijonalnih listov postavljati na stališče, da naš jezik ni samo <hi
+                  rend="italic">narečje</hi> enega in istega naroda, ki je seveda postalo odličen
+               kulturen faktor in se bo tudi v <placeName>Jugoslaviji</placeName> uveljavljalo.
+               Bodoča naša država mora biti izklesana iz enega samega kamna: njena ustava mora biti
+               v skladu z <hi rend="italic">enotnim</hi> tem državnim značajem. Njena uprava morala
+               se bo istotako povsod urediti po <hi rend="italic">enotnih</hi> principih, ki bodo
+               odgovarjali <hi rend="italic">ujedinjeni enotni državi</hi>. Sprejela se bo enotna
+               ustava in sprejela se bo enotna uprava, ki bode dajala popolno poroštvo za to, da
+               bode novoustanovljena država nekaj krepkega, stalnega in trdnega. Tukaj se ne spuščam
+               v nikake podrobnosti. Samo mimogrede omenjam: če bi ustava ali uprava ustvarili kako
+               zapostavljenje enega izmed treh glavnih veroizpovedanj v bodoči
+                  <placeName>Jugoslaviji</placeName>, bi ustava in uprava nosili kal razpada v sebi!
+               Nikdo bi se za kaj takega ogrevati ne mogel. Če pa se nova država pri ustavi in
+               upravi opre na princip enotnosti in če bi vsled tega vpliv vseh naših narečij ne bil
+               popolnoma enak, bomo kaj takega že prenesli, če smo v resnici pravi Jugoslovani in ne
+               samo Jugoslovani, kakor jih zadnje čase iz svoje miznice na dan postavljajo
+                  <persName>Šusteršičeve</persName>
+               <q>Novice</q>!</p>
+            <p xml:id="No.84.PPP.7">V drugem pa bi si usojal z vso ponižnostjo pripomniti, da o <hi
+                  rend="italic">detajlih</hi>, kako bodi urejena uprava v Jugoslovanski državi,
+               danes še ni čas govoriti, ker pri tem lahko pridemo v položaj, da smo podobni
+               gospodarju, ki hoče zidati novo hišo, ki pa hoče zidanje s tem pričeti, da si postavi
+               najprej visok dimnik. Čim bo ogromni obris naše države gotov, bodo prišli detajli na
+               vrsto. In takrat se bodemo razgovarjali in pretehtali podrobne načrte, sklepal in
+               odločal pa bo skupni zakonodajni zastop, katerega delo bo kontroliral narod in
+               katerega bo vsak smel tudi svobodno kritizirati. Končno pa se bo moral vendarle
+               vsakdo podvreči legislativnemu zastopstvu nove države, o katerem upamo, da ga bo
+               sveti duh toliko razsvetlil, da ne bo ustvarjalo kronovinskih mej, ne povzročalo
+               globokih razpok v komaj postavljeni stavbi, kratko: da nam bo ustvarilo <hi
+                  rend="italic">enotno državo</hi>, ki nikakor ne bo podobna telesu, na katerem se
+               posamezni udje med sabo puntajo, kakor v znani basni <persName>Menenita
+                  Agrippe</persName>, ali kako se je mož že imenoval.</p>
+            <p xml:id="No.84.PPP.8">Samo ob sebi je umevno, da se v kake polemike ne bom
+               spuščal.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

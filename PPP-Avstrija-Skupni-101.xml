@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adresa cesarskemu in kraljevemu apostolskemu veličanstvu Francu Jožefu I.,
+               sprejeta na prvem (jugoslovanskem) taboru političnega društva Edinost 27. oktobra
+               1878 v Dolini pri Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30639</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-101.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30639</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Tabor v Dolini</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">21</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-JLJOGVSG</pubPlace>
+                     <date when="1878-11-09">9. 11. 1878</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Tabor v Dolini</head>
+            <gap reason="irrelevant"/>
+            <opener>Vše c. in k. apostolsko Veličanstvo!</opener>
+            <p xml:id="No.101.PPP.1">Na taborji zbrani Slovenci in Hrvatje na
+                  <placeName>Primorskem</placeName> se preponižno poklanjajo Vašemu c. in k.
+               apostolskemu Veličanstvu ter izrekajo najtoplejša čutila pokorščine, udanosti i
+               neomejene zvestobe do presvitlega prestola.</p>
+            <p xml:id="No.101.PPP.2">Osodopobna,<note place="foot" source="#SourceBornDigital"
+                  >Usodepolna.</note> zgodovinska doba, v katerej hrabra naša vojska, mej njo i naši
+               bratje i sinovi, bije zmagonosne boje za pravico i človeštvo, ter vije nove vence
+               okoli presijajne staroslavne habsburško-lorenske krone, napolnuje naša srca z velicim
+               veseljem i navduševanjem, ker od slave presvitlega vladarja leskeče i naša slava.
+               Lapidarmini črkami zapiše zgodovina te slavne boje v svojo knjigo, ker bili so se za
+               najsvetejše namene.</p>
+            <p xml:id="No.101.PPP.3">Če se pa mi pridobitve dveh lepih dežel na jugu presrčno
+               veselimo, skuša nam neka majhna podkupljena stranka tujega naroda veselje s tem
+               greniti, da počenja dela, katera se studijo vsacemu poštenemu i zvestemu državljanu.
+               Ker so naša srca zaprta zapeljivosti i tacim nameram, ki so obrnene zoper državno
+               blagost, započete iz vzroka, da bi zdrobile biser neskaljene naše svestobe do
+               presvitle cesarske hiše; zato javno na taborji izrekamo, da zvestobo do presvitlega
+               prestola, katero smo podedovali od svojih očetov, hranimo globoko v srcih ko
+               najdražji dar, ter jo marljivo i zvesto cepimo v prsa svojemu zarodu. Neskaljeno smo
+               prejeli od dedov, neskaljeno izročamo potomcem.</p>
+            <p xml:id="No.101.PPP.4">Kako draga nam je ona, kako gorke čute gojimo za Vaše c. in k.
+               Veličanstvo, našega Gospoda i cesarja, to smo dejansko pokazali letos na večer pred
+               rojstnim dnevom Vašega Veličanstva, kajti napravili smo po gorah ob vsej meji
+               italijanske kopne zemlje, ob vsem morskem bregu nepretrgane vrsto kresov ter
+               navdušeno nazdravljali Vašemu Veličanstvu, da se je daleč čez meje razlegalo.</p>
+            <p xml:id="No.101.PPP.5">Blagovolite tedaj, presvitli mogočni naš Gospod in Vladar, od
+               zbranega slovenskega i hrvaškega ljudstva na <placeName>Primorskem</placeName>, ker
+               sprejeti najponižnišo prisego največje pokorščine, žive udanosti, neomejene
+               zvestobe.</p>
+            <p xml:id="No.101.PPP.6">Bog živi, Bog ohrani, Bog blagoslovi Vaše Veličanstvo!</p>
+            <closer>
+               <dateline>Na <placeName>Taborji v Dolini</placeName>, dne <date when="1878-10-27">27.
+                     oktobra 1878</date>.</dateline>
+            </closer>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

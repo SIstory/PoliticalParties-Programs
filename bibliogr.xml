@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="bibliogr" xml:id="bibliogr">
+            <head>Viri</head>
+            <listBibl>
+               <biblStruct xml:id="bibl.Slovenec.1890-01-13">
+                  <analytic>
+                     <title>Pravila "katoliškega političnega društva" v Ljubljani</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XVIII</biblScope>
+                        <biblScope unit="issue">9</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <date when="1890-01-13">13. 1. 1890</date>
+                     </imprint>
+                  </monogr>
+                  <idno type="dLib">URN:NBN:SI:DOC-JLMWOO38</idno>
+               </biblStruct>
+               <biblStruct xml:id="bibl.Slovenec.1890-03-13">
+                  <analytic>
+                     <title>Prvi shod katol. polit. društva.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XVIII</biblScope>
+                        <biblScope unit="issue">60</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <date when="1890-03-13">13. 3. 1890</date>
+                     </imprint>
+                  </monogr>
+                  <idno type="dLib">URN:NBN:SI:DOC-HNQFBKJ9</idno>
+               </biblStruct>
+               <biblStruct xml:id="bibl.Slovenec.1890-03-18">
+                  <analytic>
+                     <title>Katoliško politično društvo</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XVIII</biblScope>
+                        <biblScope unit="issue">64</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-UGTBKT6F</pubPlace>
+                        <date when="1890-03-18">18. 3. 1890</date>
+                     </imprint>
+                  </monogr>
+                  <idno type="dLib">URN:NBN:SI:DOC-UGTBKT6F</idno>
+               </biblStruct>
+               <biblStruct xml:id="bibl.Slovenec.1890-10-27">
+                  <analytic>
+                     <title>Šesti shod katol. pol. društva.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XVIII</biblScope>
+                        <biblScope unit="issue">247</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <date when="1890-10-27">27. 10. 1890</date>
+                     </imprint>
+                  </monogr>
+                  <idno type="dLib">URN:NBN:SI:DOC-RNLC30N2</idno>
+               </biblStruct>
+               <biblStruct xml:id="bibl.Slovenec.1891-02-03">
+                  <analytic>
+                     <title>Rojaki!</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XIX</biblScope>
+                        <biblScope unit="issue">26</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <date when="1891-02-03">3. 2. 1891</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl.Slovenec.1895-11-02">
+                  <analytic>
+                     <title>Volilcem za dež. zbor kranjski!</title>
+                  </analytic>
+                  <monogr>
+                     <title>Slovenec</title>
+                     <title>politični list za slovenski narod</title>
+                     <imprint>
+                        <biblScope unit="volume">XXIII</biblScope>
+                        <biblScope unit="issue">252</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <pubPlace>http://www.dlib.si/details/</pubPlace>
+                        <date when="1895-11-02">2. 11. 1895</date>
+                     </imprint>
+                  </monogr>
+                  <idno type="dLib">URN:NBN:SI:DOC-PRVCA1EU</idno>
+               </biblStruct>
+               <biblStruct xml:id="bibl.KranjskiDezelniZbor.1902-06-21">
+                  <analytic>
+                     <title>Stenografični zapisnik druge seje deželnega zbora kranjskega v Ljubljani
+                        dné 21. junija 1902.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                     <title>od 30. decembra 1901 do 23. junija 1902</title>
+                     <title>po stenografičnih zapisnikih</title>
+                     <imprint>
+                        <biblScope unit="issue">43</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <publisher>deželni odbor kranjski</publisher>
+                        <date when="1902">1902</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl.KranjskiDezelniZbor.1903-09-22">
+                  <analytic>
+                     <title>Stenografični zapisnik prve seje deželnega zbora kranjskega v Ljubljani dne
+                        22. septembra 1903.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                     <title>od 22. septembra 1903 do 7. novembra 1903</title>
+                     <title>po stenografičnih zapisnikih</title>
+                     <imprint>
+                        <biblScope unit="issue">44</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <publisher>deželni zbor kranjski</publisher>
+                        <date when="1903">1903</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl.KranjskiDezelniZbor.1904-09-27">
+                  <analytic>
+                     <title>Stenografični zapisnik prve seje deželnega zbora kranjskega v Ljubljani dne
+                        27. septembra 1904.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                     <title>od 27. septembra 1904 do 17. oktobra 1904</title>
+                     <title>po stenografičnih zapisnikih</title>
+                     <imprint>
+                        <biblScope unit="issue">45</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <publisher>deželni odbor kranjski</publisher>
+                        <date when="1905">1905</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl.KranjskiDezelniZbor.1905-10-25">
+                  <analytic>
+                     <title>Stenografični zapisnik prve seje deželnega zbora kranjskega v Ljubljani dne
+                        25. oktobra 1905.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                     <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                     <title>po stenografičnih zapisnikih</title>
+                     <imprint>
+                        <biblScope unit="issue">46</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <publisher>deželni odbor kranjski</publisher>
+                        <date when="1908">1908</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl.KranjskiDezelniZbor.1905-11-03">
+                  <analytic>
+                     <title>Stenografični zapisnik druge seje deželnega zbora kranjskega v Ljubljani
+                        dné 3. novembra 1905.</title>
+                  </analytic>
+                  <monogr>
+                     <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                     <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                     <title>po stenografičnih zapisnikih</title>
+                     <imprint>
+                        <biblScope unit="issue">46</biblScope>
+                        <pubPlace>Ljubljana</pubPlace>
+                        <publisher>deželni odbor kranjski</publisher>
+                        <date when="1908">1908</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Članek Slovenca Združeni hrvaško-slovenski narod, objavljen po sprejemu
+               komunikeja Hrvaške stranke prava in Vseslovenske ljudske stranke 19. septembra 1912 v
+               Opatiji</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30572</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-039.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30572</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Združeni hrvaško-slovenski narod.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XL</biblScope>
+                     <biblScope unit="issue">217</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-QJEE7DPM</pubPlace>
+                     <date when="1912-09-21">21. 9. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Združeni hrvaško-slovenski narod.</head>
+            <p xml:id="No.39.PPP.1">Včeraj smo objavili komunike o sklepih hrvaško slovenskih
+               voditeljev v <placeName>Opatiji</placeName>. Vest o teh sklepih je vzbudila
+               upravičeno pozornost najširše politične javnosti ter iskreno navdušenje med hrvaškim
+               in slovenskim narodom. Ideja, ki se je oživotvorila te dni v
+                  <placeName>Opatiji</placeName>, je naravnost zgodovinskega pomena. Slovenci in
+               Hrvatje nočemo več biti dva naroda, temveč samo eden edinstveni narod v duhu programa
+               blagopokojnega <persName>Ante Starčeviča</persName> in drugih naših narodnih
+               veljakov. <hi rend="bold">En narod živi od benečanske planjave do romunske meje in od
+                  Drave in Mure doli do turške meje, do <placeName>Albanije</placeName></hi>. To je
+               rešilna ideja, ki se je mnogokrat poudarjala od najrazsvetlenejših mož našega naroda,
+               ki se pa žalibog do slej ni nikdar oživotvorila. Opatijski dnevi pa so dali tej ideji
+               realno življenje. Možje, ki so se tam zbrali in ki uživajo zaupanje celega hrvaško
+               slovenskega naroda se niso omejili na zagotovila medsebojne bratske ljubezni in na
+               sklepanje papirnatih resolucij, temveč so si segli v roke za resno, moško delo in
+               ustvarili so takoj skupno slovensko hrvaško politično organizacijo, <hi rend="bold"
+                  >ustanovivši stalen Hrvaško-slovenski Zvršilni Odbor, ki naj vodi odslej
+                  edinstvene politične posle hrvaško slovenskega naroda</hi>. To se pravi: odslej se
+               bo delala skupna hrvaško slovenska realna politika v okviru habsburške monarhije. </p>
+            <p xml:id="No.39.PPP.2">V četrtek, ko so bila zaključena opatijska posvetovanja, so se
+               razšli zbrani možje z iskrenim vzklikom: <hi rend="bold">Živela združena velika
+                     <placeName>Hrvaška</placeName>!</hi> Razširila se je v tem trenotku slovenska
+               domovina daleč preko dosedanjih mej ob obali jadranskega morja in daleč notri v
+               <placeName>Balkan</placeName>. In razširila se je hrvaška domovina preko vseh slovenskih dežel gori v
+               koroške hribe in do najsevernejše slovensko-nemške jezikovne meje na
+                  <placeName>Štajerskem</placeName>.</p>
+            <p xml:id="No.39.PPP.3"><hi rend="bold">Dne <date when="1912-10-20">20. oktobra</date>
+                  pa se snidejo v <placeName>Ljubljani</placeName> vsi državni in deželni poslanci
+                  Hrvaške Stranke Prava in Slovenske Ljudske Stranke</hi>, da slovesno zapečatijo v
+               imenu vesoljnega hrvaško slovenskega ljudstva pogodbo, ki so jo sklenili veljaki v
+                  <placeName>Opatiji</placeName>. A predno se še to zgodi, bode, o tem ne dvomimo,
+               ves hrvaško slovenski narod radostno odobril nerazrušljivo zvezo, ki se je sklenila
+               pretekli četrtek v <placeName>Opatiji</placeName> ob obali jadranskega morja, na eni
+               najkrasnejših točk hrvaško slovenske zemlje.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

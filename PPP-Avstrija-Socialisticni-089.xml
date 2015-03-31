@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dodatka k <q>Tivolski</q> resoluciji</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30655</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-089.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30655</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Jugoslovanska socialno-demokratična konferenca</title>
+               </analytic>
+               <monogr>
+                  <title>Rdeči prapor</title>
+                  <title>Glasilo jugoslovanske socialne demokracije</title>
+                  <imprint>
+                     <biblScope unit="volume">XII</biblScope>
+                     <biblScope unit="issue">128</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-EUYUA8WT</pubPlace>
+                     <date when="1909-11-25">25. 11. 1909</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Jugoslovanska socialno-demokratična konferenca</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.89.PPP.1">Jugoslovanska socialna demokracija izraža mnenje, da s podobno
+               zaključkom zadnjega češkega in nemškega strankinega zbora stopi tudi vodstvo
+               jugoslovanske socialno-demokratične stranke v dotiko s socialno demokracijo ostalih
+               narodov v <placeName>Avstriji</placeName> za posvetovanje o reviziji brnskega
+               programa, pri čemer naj ji bodo izhodišče zaključki današnje konference.<note
+                  place="foot" source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
+                     <persName>Etbina Kristana</persName>.</note></p>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.89.PPP.2">Prva jugoslovanska socialno-demokratična konferenca izraža
+               željo, da se povabijo na posvetovanje o narodnostnem programu avstrijskih
+               socialno-demokratičnih strank tudi soc. dem. stranke <placeName>Ogrske</placeName>,
+                  <placeName>Hrvatske</placeName>, <placeName>Bosne in Hercegovine</placeName> v
+               namen, da se izvede skupen narodnostni program za socialno demokracijo cele
+                  <placeName>Avstro-Ogrske</placeName>.<note place="foot"
+                  source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
+                     <persName>Juraja Demetrovića</persName>.</note></p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

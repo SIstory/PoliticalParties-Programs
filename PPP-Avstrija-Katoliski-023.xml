@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programska stališča Slovenske ljudske stranke na Kranjskem, sprejeta na shodu
+               njenih zaupnikov 27. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30556</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-023.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30556</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zborovanje zaupnikov Slov. Ljudske Stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">296</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LEV4RGLS</pubPlace>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.23.PPP.1">Čisto napačno bi bilo, če bi se S. L. S. zavzela samo za en
+               stan, vse druge pa bi porinila v stran. S. L. S. ne more in ne sme biti stranka
+               duhovnikov, ne uradnikov, ne kmeta, ne delavca, ne obrtnika in ne industrijca, temveč
+               je in mora ostati ljudska stranka, v kateri imajo prostora vsi sloji brez <hi
+                  rend="bold">katoliške vere in resolucije katoliških shodov ne samo na programih in
+                  oklicih, ampak predvsem v dejanju</hi>. <gap reason="irrelevant"/></p>
+            <p xml:id="No.23.PPP.2">Kdor se načel naše sv. vere ne drži tudi v življenju, lahko s S.
+               L. S. simpatizira, lahko z njo sodeluje, a njen član biti ne more, še manj pa mu sme
+               stranka poveriti kak mandat ali kako zastopstvo. <gap reason="irrelevant"/></p>
+            <p xml:id="No.23.PPP.3">V narodnem oziru želi in hoče S. L. S. z vsemi, tudi z onimi
+               Slovenci, ki so ji v svetovnem naziranju popolnoma nasprotni, delovati v popolni
+               edinosti in najtrdnejši zvezi in zato iskreno pozdravlja združenje vseh slovenskih
+               poslancev v jugoslovanskem klubu ter hoče ta klub z vsemi močmi podpirati. Nikakor pa
+               S. L. S. v imenu narodnosti ne more skleniti premirja v verskem oziru z onimi
+               slovenskimi brati, ki nasprotujejo veri in njenemu blagodejnemu uplivu. <gap
+                  reason="irrelevant"/></p>
+            <p xml:id="No.23.PPP.4">Z ozirom na notranjo organizacijo stranke, dalje z ozirom na
+               razmerje do izvenkranjskih Slovencev kakor tudi z ozirom na kulturno delovanje
+               stranke se S. L. S. v polni meri strinja in odobruje resolucijo sklenjene na shodu
+               somišljenikov vseslovenske ljudske stranke, dne <date when="1917-09-11">11. septembra
+                  t. l.</date> in hoče skrbeti, da vse te resolucije čimpreje postanejo dejanje. – </p>
+            <p xml:id="No.23.PPP.5">Vse svoje delovanje pa hoče S. L. S. razviti strogo v okviru
+               majniške deklaracije, v neomajni zvestobi in udanosti do naše habsburške vladarske
+               hiše, v okrilju naše skupne habsburške domovine, v čisti, neskaljeni ljubezni do
+               jugoslovanskega naroda, v edinosti in pokorščini do našega višjega nadpastirja. <gap
+                  reason="irrelevant"/></p>
+            <p xml:id="No.23.PPP.6">S. L. S. zelo obžaluje, da je med njo in precejšnjim delom
+               kranjske duhovščine prišlo do nerazporazumljenja, ker se zaveda, da je bila
+               duhovščina dosedaj njena največja opora in da je ravno vsled te opore mogla
+               blagodejno delovati. Zato S. L. S. želi, da bi vsako nesporazumljenje čimpreje
+               izginilo. S. L. S. iskreno prosi vse čč. gg. duhovnike, da bi bili tudi v naprej
+               njeni zvesti prijatelji in zvesti sodelavci. Tiste gg. duhovnike pa, ki menijo, da ji
+               še ne morejo zaupati prosi, naj upoštevajo, da se mora politična stranka, v kolikor
+               ji to dopuste njena temeljna načela, prilagoditi toku časa in razvoju idej, ki v
+               sedanjem vojskinem času dozorevajo in katerih se je vse slovensko ljudstvo v ogromni
+               večini oprijelo. V tem smislu naj blagovolijo č. gg. duhovniki opazovati delovanje
+               pomlajene S. L. S., ki si je v svesti, da mirne vesti prepušča sodbo o svojih načelih
+               in o svojem delovanju, Bogu in zgodovini. <gap reason="irrelevant"/></p>
+            <p xml:id="No.23.PPP.7">Tako bodi naše stališče, stališče S. L. S. Zvestoba veri naših
+               očetov, zvestoba cesarju, zvestoba naši avstrijski domovini, zvestoba ožji
+                  <placeName>Jugoslaviji</placeName>, zvestoba zdravemu demokratizmu. Čuvajmo,
+               delajmo, da to stališče ostane čisto, neskaljeno. Če se to zgodi, potem smemo danes
+               obnovljeni in premlajeni S. L. S. zaklicati:</p>
+            <p xml:id="No.23.PPP.8"><placeName>Judaea</placeName> et
+                  <placeName>Jerusalem</placeName>, nolite timere; eras egrediemini et Dominus erit
+               vobiscum! S. L. S., ne boj se! V novo <date when="1918">leto 1918.</date> greš nova,
+               mlada, čila in zdrava, krepko naprej! Bog bo s teboj! <gap reason="irrelevant"/></p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

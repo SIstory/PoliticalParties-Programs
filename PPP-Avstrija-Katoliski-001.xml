@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pravila Katoliškega političnega društva v Ljubljani ustanovljenega 26. januarja
+               1890</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30531</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-001.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30531</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Pravila "katoliškega političnega društva" v Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-JLMWOO38</pubPlace>
+                     <date when="1890-01-13">13. 1. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Pravila <q>katoliškega političnega društva</q> v Ljubljani.</head>
+            <div>
+               <head>§ 1.</head>
+               <p>Katoliško politično društvo ima svoj sedež v
+                     <placeName>Ljubljani</placeName>.</p>
+            </div>
+            <div xml:id="No.1.PPP.2">
+               <head>§ 2.</head>
+               <p>Društvu je namen: Pospeševati slovenskega naroda duševni in gmotni napredek v
+                  verskih, državnih, občinskih, šolskih, gospodarskih in socijalnih zadevah;
+                  razširjati med Slovenci versko, narodno in gospodarsko izobraženost; braniti
+                  verske, narodne in državne pravice slovenskega naroda in pospeševati ustavni
+                  razvoj avstrijske države po geslu: <hi rend="italic">Vse za vero, dom, cesarja!
+                  </hi></p>
+            </div>
+            <div xml:id="No.1.PPP.3">
+               <head>§ 3.</head>
+               <p>Da društvo dosega svoj namen, uporablja v to vse zakonito dovoljene pripomočke,
+                  vzlasti napravlja društvo na raznih krajih vojvodine
+                     <placeName>Kranjske</placeName> društvene shode, na katerih se razpravljajo
+                  zadeve, ki so važne v verskem, narodnem, narodno-gospodarskem ali v političnem
+                  oziru in izraža o njih svoje nazore, podučuje ljudstvo z govori, časniki,
+                  knjigami, napravlja razne <q>besede</q>, podučne in zabavne, ter veselice. </p>
+            </div>
+            <div>
+               <head>§ 4.</head>
+               <p>Društvo je ustanovljeno, kader pristopi vsaj 20 udov in kader se izvoli odbor. Ud
+                  sme biti vsak polnoletni avstrijski državljan moškega spola, ako se zglasi pri
+                  društvenem vodstvu, ako ga odbor sprejme in ako mu postava ne brani pristopiti k
+                  političnemu društvu. Ako komu odbor odreče sprejem, ni odboru treba naznanjati
+                  vzrokov za to; tudi ima odbor pravico, uda, ki bi nasprotoval društvenim namenom
+                  ali bi opomnjen ne vplačal letnine o pravem času, izključiti brez naznanila
+                  razlogov. Kdor pa sam izstopi, mora svoj izstop ustno ali pismeno naznaniti
+                  vodstvu.</p>
+            </div>
+            <div>
+               <head>§ 5.</head>
+               <p>Troške svoje plačuje društvo z doneski svojih udov, z darili, z dohodki društvenih
+                     <q>besed</q>.</p>
+            </div>
+            <div>
+               <head>§ 6.</head>
+               <p>Vsak ud ima pravico:</p>
+               <list type="ordered">
+                  <item n="a)">prejemati, brati in izposojati si tiskovine, ki jih izdaja
+                     društvo;</item>
+                  <item n="b)">vdeleževati se društvenih shodov in zborov;</item>
+                  <item n="c)">na zborih in shodih govoriti, predloge staviti, glasovati, voliti in
+                     voljen biti;</item>
+                  <item n="d)">vdeleževati se društvenih <q>besed</q>, podučnih in zabavnih ter k
+                     društvenim zborom ali shodom privajati goste, ki naj se javijo predsedniku, a
+                     nimajo pravice glasovati.</item>
+               </list>
+            </div>
+            <div>
+               <head>§ 7.</head>
+               <p>Vsak ud ima dolžnost:</p>
+               <list type="ordered">
+                  <item n="a)">pospeševati in podpirati po svoji moči društvene namene;</item>
+                  <item n="b)">ravnati se po zborovih in odborovih sklepih;</item>
+                  <item n="c)">vplačevati v društveno blagajnico 1 gld. vsako leto in pridobivati
+                     novih udov. Manj premožnim udom sme odbor društvenino poljubno znižati. Darovi
+                     v društvene namene se hvaležno sprejemalo</item>
+               </list>
+            </div>
+            <div>
+               <head>§ 8.</head>
+               <p>Vodstvo. — Društvene zadeve oskrbuje a) občni zbor; b) društveni odbor.</p>
+            </div>
+            <div>
+               <head>§ 9.</head>
+               <p>Občni zbor snide se vsako leto; čas in kraj zborovanju odločuje odbor. Izredni
+                  občni zbor se skliče, kadar večina odbora to potrebno spozna. Dnevni red občnemu
+                  zboru se naznani udom vsaj 8 dnij poprej. Ako hoče kedo poseben nasvet staviti
+                  občnemu zboru, naznani ga 14 dnij poprej pismeno odboru, ki določi, ali se postavi
+                  na dnevni red ali ne.</p>
+               <p>Občni zbor ima pravico:</p>
+               <list type="ordered">
+                  <item n="a)">voliti društveni odbor; to je: deset odbornikov, izmed katerih jih
+                     mora vsaj šest stanovati v <placeName>Ljubljani</placeName>, in dva namestnika, katerih vsaj eden
+                     stanuje v <placeName>Ljubljani</placeName>;</item>
+                  <item n="b)">izbrati izmed udov dva pregledovalca letnih računov;</item>
+                  <item n="c)">prenarejati po potrebi društvena pravila;</item>
+                  <item n="d)">sklepati o razhodu društva;</item>
+                  <item n="e)">imenovati častne ude;</item>
+                  <item n="f)">sklepati o vsem, kar se postavi pri občnem zboru na dnevni
+                     red.</item>
+               </list>
+            </div>
+            <div>
+               <head>§ 10.</head>
+               <p>Opravilna dôba odboru je enoletna. Dokler se ne izvoli novi odbor, posluje
+                  poprejšnji. Odbor voli izmed odbornikov: predsednika, dva podpredsednika, tajnika,
+                  blagajnika, sprejema in izključuje društvenike ter sploh opravlja vse društvene
+                  zadeve, v kolikor niso pridržane občnemu zboru. Odbor si sostavi svoj opravilni
+                  red in imenuje izmed društvenikov poverjenike po raznih krajih, da mu poročajo o
+                  društvenih zadevah.</p>
+            </div>
+            <div>
+               <head>§ 11.</head>
+               <p>Občni zbor veljavno sklepa, ako je vsaj dvajset društvenikov navzočih; odbor pa,
+                  ako so poleg predsednika saj štirje odborniki pričujoči. Vsaki sklep je veljaven,
+                  ako ma pritrdi nadpolovična večina glasov. Za premembo pravil je treba pri občnem
+                  zboru dve tretjini, za razdružitev društva tri četrtine glasov. Pri enakem številu
+                  glasov odločuje predsednik. Volitve se vrše ustno ali po listkih; pri enakem
+                  številu odločuje žreb.</p>
+            </div>
+            <div>
+               <head>§ 12.</head>
+               <p>Predsednik in če je zadržan, prvi ali drugi podpredsednik ali v potrebi kak drug
+                  odbornik vodi društvo in je zastopa na zunaj, predseduje zborovim in odborovim
+                  sejam in shodom ter izvršuje društvene sklepe. Vsako razglasilo, pismo in
+                  potrdilo, podpiše predsednik ali njegov namestnik in še eden odbornikov.</p>
+            </div>
+            <div>
+               <head>§ 13.</head>
+               <p>Društvene prepire udov razsoja neprizivno izbrano sodišče, v katero voli vsaka
+                  stranka po enega razsodnika, odbor pa prvomestnika.</p>
+            </div>
+            <div>
+               <head>§ 14.</head>
+               <p>Društvo se razdruži</p>
+               <list type="ordered">
+                  <item n="a)">ako to sklene občni zbor;</item>
+                  <item n="b)">če je razpusti politično oblastvo.</item>
+               </list>
+               <p>V prvem slučaju odloči o premoženju občni zbor, v drugem pa se izroči:
+                  <q>Katoliškemu tiskovnemu društvu v <placeName>Ljubljani</placeName></q>.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

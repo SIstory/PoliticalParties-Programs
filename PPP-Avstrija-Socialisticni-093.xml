@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o taktiki, sprejeta na X. zboru Jugoslovanske socialnodemokratske
+               stranke 25. in 26. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30658</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-093.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30658</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title/>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslov. socialno-demokratične stranke</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">138</biblScope>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.93.PPP">
+            <p>Jugoslovanska socialno demokratična stranka je zastopnica delavskega ljudstva, ki
+               tvori nje jedro in moč. Zategadelj mora biti vsa notranja organizacija in taktika
+               oprta na delavsko ljudstvo. Stranka pa je tudi realna in splošno politična. Stoji na
+               stališču razrednega boja. S tem poudarja, da je delavstvo oni faktor, po kojem se
+               doseže poln demokratizem, kar pa ne izraža nadvlade delavstva nad drugimi
+               stanovi.</p>
+            <p>V lastnem političnem, strokovnem in gospodarskem oziru pa zahteva delavstvo polno
+               samoodločevanje.</p>
+            <p>Jugoslovanska socialno demokratična stranka dosledno povdarja svoje internacionalno
+               stališče, zato tudi obžaluje, da se je avstrijska internacionala opustila v veliko
+               škodo proletarijata vseh narodov v državi. Pozivlja eksekutivo, da stori brez odloga
+               energične korake, da se vspostavi zopet internacionala na podlagi polnega
+               samoodločanja posameznih narodnih skupin.</p>
+            <p>Glede deklaracije jugoslovanskih poslancev v državnem zboru z dne 30. maja<note
+                  place="foot" source="#SourceBornDigital">Glej dok. št. 130.</note> izjavlja zbor,
+               da jo pozdravlja kot prvi enotni in politični izraz združenih meščanov in kmetov za
+               važno politično idejo, katero je razredno organizovano delavstvo že <date when="1909"
+                  >l. 1909</date><note place="foot" source="#SourceBornDigital">Glej dok. št.
+                  82.</note> ob pravem času na pravem mestu ter v pravi obliki izreklo ob polni
+               indiferentnosti vse jugoslovanske javnosti.</p>
+            <p>Kot demokratična stranka pa spoštuje vsako versko ali politično prepričanje, zato pa
+               tudi zahteva popolno svobodo in spoštovanje za svojo stranko in njene naprave.</p>
+         </div>
+         <gap reason="irrelevant"/>
+      </body>
+   </text>
+</TEI>

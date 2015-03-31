@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zakonski načrt kranjskega deželnega zbora o spremembi volilnega reda za deželni
+               zbor vojvodine Kranjske, sprejet 19. junija 1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30788</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-129.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30788</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Priloga 24</title>
+               </analytic>
+               <monogr>
+                  <title>Dodatek II. k 47. zvezku deželnozborskih obravnav obsegajoč priloge izza
+                     let 1908, 1909 in 1910</title>
+                  <imprint>
+                     <biblScope unit="page">878–885</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik tretje seje deželnega zbora kranjskega v Ljubljani
+                     dné 19. junija 1908</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 27. marca 1908 do 29. oktobra 1910</title>
+                  <title>po stenogradičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">47</biblScope>
+                     <biblScope unit="page">39–42</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>deželni odbor kranjski</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.129.PPP.1">S pritrditvijo deželnega zbora Svoje vojvodine Kranjske
+               ukazujem tako:</p>
+            <div xml:id="No.129.PPP.2">
+               <head>Člen I.</head>
+               <p>Spreminjaje in dopolnjevaje volilni red za deželni zbor vojvodine Kranjske, izdan
+                  z zakonom z dne 5. novembra 1898. l., štev. 40. dež. zak., stopijo na mesto spodaj
+                  oznamenjenih paragrafov volilnega reda za deželni zbor, oziroma kot ustavki k
+                  posameznim paragrafom nastopna določila:</p>
+               <list>
+                  <label>§ 3.</label>
+                  <item>
+                     <p>Za volitev poslancev mest in trgov tvori:</p>
+                     <list type="ordered">
+                        <item n="1.)">deželno stolno mesto <placeName>Ljubljana</placeName> dva
+                           volilna okraja in sicer<list type="ordered">
+                              <item n="a)">volilni okraj mesto <placeName>Ljubljana</placeName>
+                                 1,</item>
+                              <item n="b)">volilni okraj mesto <placeName>Ljubljana</placeName>
+                                 2.</item>
+                              <note>Volilni okraj mesto <placeName>Ljubljana</placeName> 1 tvorijo
+                                 mestni okraji II, III in V (Jakobski okraj, Dvorski okraj.
+                                 Predkraji: Hauptmanca, Hradeckyjeva vas, Ilovica, Karolinska
+                                 zemlja, Orlove ulice, Črnavas, Dolenjska cesta).</note>
+                              <note>Volilni okraj mesto <placeName>Ljubljana</placeName> 2 tvorijo
+                                 mestni okraji I, IV in VI (Šolski okraj, Kolodvorski okraj,
+                                 Vodmat).</note>
+                           </list>
+                        </item>
+                        <item n="2.)">mesto <placeName>Idrija</placeName> eden volilni okraj,</item>
+                        <item n="3.)"><placeName>Kranj</placeName>,
+                              <placeName>Škofjaloka</placeName> skupaj eden volilni okraj,</item>
+                        <item n="4.)"><placeName>Tržič</placeName>,
+                              <placeName>Radovljica</placeName>, <placeName>Kamnik</placeName>
+                           skupaj eden volilni okraj,</item>
+                        <item n="5.)"><placeName>Postojna</placeName>,
+                              <placeName>Vrhnika</placeName>, <placeName>Lož</placeName> skupaj eden
+                           volilni okraj,</item>
+                        <item n="6.)"><placeName>Novo mesto</placeName>,
+                              <placeName>Višnjagora</placeName>, <placeName>Črnomelj</placeName>,
+                              <placeName>Metlika</placeName>, Kostanjevica,
+                              <placeName>Krško</placeName>, <placeName>Ribnica</placeName> skupaj
+                           eden volilni okraj,</item>
+                        <item n="7.)"><placeName>Kočevje</placeName> eden volilni okraj.</item>
+                     </list>
+                  </item>
+                  <label>§ 5.</label>
+                  <item>
+                     <p>Izmed osmih v § 3 naštetih volilnih okrajev imata volilna okraja mesto
+                           <placeName>Ljubljana</placeName> 1 in 2 po dva poslanca voliti, vsak drug
+                        volilni okraj voli samo po enega poslanca.</p>
+                     <p>Vsi volilci vsakega volilnega okraja tvorijo eno volilno skupino.</p>
+                  </item>
+                  <label>§ 7 <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>Volilni okraji za volitev poslancev splošnega volilskega razreda so:</p>
+                     <list type="ordered">
+                        <item n="1.)">Deželno stolno mesto <placeName>Ljubljana</placeName>
+                           (Krajevna občina).</item>
+                        <item n="2.)">sodni okraj <placeName>Ljubljana</placeName> brez krajevne
+                           občine <placeName>Ljubljana</placeName>,</item>
+                        <item n="3.)">sodni okraji <placeName>Radovljica</placeName>,
+                              <placeName>Kranjska gora</placeName>,
+                           <placeName>Tržič</placeName>,</item>
+                        <item n="4.)">sodna okraja <placeName>Kranj</placeName>,
+                              <placeName>Škofjaloka</placeName>,</item>
+                        <item n="5.)">sodna okraja <placeName>Kamnik</placeName>,
+                              <placeName>Brdo</placeName>,</item>
+                        <item n="6.)">sodni okraji <placeName>Vrhnika</placeName>,
+                              <placeName>Logatec</placeName>, <placeName>Idrija</placeName>,
+                              <placeName>Cerknica</placeName>,</item>
+                        <item n="7.)">sodni okraji <placeName>Postojna</placeName>,
+                              <placeName>Senožeče</placeName>, <placeName>Ilirska
+                              Bistrica</placeName>, <placeName>Vipava</placeName>,
+                              <placeName>Lož</placeName>,</item>
+                        <item n="8.)">sodni okraji <placeName>Litija</placeName>,
+                              <placeName>Višnjagora</placeName>,
+                           <placeName>Radeče</placeName>,</item>
+                        <item n="9.)">sodni okraji <placeName>Krško</placeName>,
+                              <placeName>Kostanjevica</placeName>, <placeName>Mokronog</placeName>,
+                              <placeName>Trebnje</placeName>,</item>
+                        <item n="10.)">sodni okraji <placeName>Kočevje</placeName>,
+                              <placeName>Velike Lašče</placeName>, <placeName>Ribnica</placeName>,
+                              <placeName>Žužemperk</placeName>,</item>
+                        <item n="11.)">sodni okraji <placeName>Novomesto</placeName>,
+                              <placeName>Černomelj</placeName>,
+                           <placeName>Metlika</placeName>.</item>
+                     </list>
+                  </item>
+                  <label>§ 8 <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>Določila § 4., zadnji odstavek, ter § 8. se analogno uporabljajo za volitev
+                        v splošnem volilskem razredu.</p>
+                  </item>
+                  <label>§ 9 <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>Izmed volilnih okrajev naštetih v § 7 <hi rend="italic">a</hi> voli vsak po
+                        enega poslanca. Ravnotam imenovane sodne okraje oziroma krajevno občino
+                           <placeName>Ljubljana</placeName> je razumevati po obsegu okoliša,
+                        kakoršen je ob času volitve.</p>
+                     <p>Vsi volilci vsakega volilnega okraja splošnega volilskega razreda tvorijo
+                        eno volilno skupino.</p>
+                  </item>
+                  <label>§ 13.</label>
+                  <item>
+                     <p>Poslance v § 3. naštetih mest in trgov in v § 7. naštetih kmetskih občin
+                        volijo neposredno vsi tisti občani, ki imajo po posebnem občinskem štatutu
+                        mesta <placeName>Ljubljane</placeName> ali po občinskem zakonu pravico
+                        voliti občinski zastop in ki niso po §§ 16. in 16. <hi rend="italic">a</hi>
+                        volilnega reda za deželni zbor izključeni odnosno izvzeti od volilne pravice
+                        in kateri</p>
+                     <list type="ordered">
+                        <item n="a)">v občinah s tremi volilnimi razredi spadajo v prvi in drugi
+                           razred in kateri v tretjem razredu plačujejo najmanj po <hi rend="italic"
+                              >osem kron</hi> cesarskega neposrednega davka na leto;</item>
+                        <item n="b)">v občinah, ki imajo manj ko tri volilne razrede, pa tisti po
+                           velikosti letnega cesarskega neposrednega davka razvrščeni občinski
+                           volilci, ki plačujejo prve dve tretjini vsega tega davka, in razen teh
+                           tisti, ki plačujejo najmanj po <hi rend="italic">osem kron</hi>
+                           cesarskega neposrednega davka na leto.</item>
+                     </list>
+                     <p>Tem je prišteti častne občane in vse tiste občane, kateri imajo po § 1.
+                        točka 2. občinskega volilnega reda te dežele volilno pravico brez ozira na
+                        to, plačujejo li davek ali ne.</p>
+                  </item>
+                  <label>§ 13 <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>V splošnem volilskem razredu ima volilno pravico vsaka oseba moškega spola,
+                        katera je spolnila 24. leto svoje dobe, katera ima avstrijsko državljanstvo
+                        ter po določilih tega zakona od volilne pravice ni izključena ali izvzeta in
+                        katera ima v tisti občini vojvodine <placeName>Kranjske</placeName>, v
+                        kateri naj se izvršuje volilna pravica, na dan, ko se razpiše volitev, vsaj
+                        eno leto svoje stanovališče (§ 66, odstavek 1., zakona z dne 1. avgusta
+                        1895, drž. zak. štev. 111).</p>
+                  </item>
+                  <label>§ 14.</label>
+                  <item>
+                     <p>Volilci smejo svojo volilno pravico izvrševati praviloma samo osebno.
+                        Izjemoma se sme volilna pravica v volilskem razredu velikega posestva
+                        izvrševati po pooblaščencih. Ženske, potem vojaške osebe v aktivni službi,
+                        razun vojaških uradnikov, izvršujejo svojo volilno pravico, katera jim
+                        pristoja v volilskem razredu velikega posestva, samo po pooblaščencih.
+                        Pooblaščenec mora imeti volilno pravico v tem volilskem razredu ter sme samo
+                        enega volilca zastopati.</p>
+                     <p>Pooblastilo za izvrševanje volilne pravice v volilskem razredu velikega
+                        posestva se mora glasiti na izvrševanje volilne pravice v tem volilskem
+                        razredu ter mora imenovati volitev, za katero se daje.</p>
+                     <p>Izven vojvodine <placeName>Kranjske</placeName> izdana pooblastila in
+                        preklici pooblastil morajo biti pravilno poverjeni. – Kdor ima pravico
+                        voliti v velikem posestvu, ne sme voliti niti v volilskem razredu mest in
+                        trgov, niti v volilskem razredu kmetskih občin.</p>
+                     <p>Kdor ima pravico voliti v volilskem razredu mest in trgov, ne sme voliti v
+                        nobeni kmetski občini.</p>
+                     <p>Ako je volilec volilskih razredov mest in trgov ter kmetskih občin občan več
+                        občin, tedaj izvršuje svojo volilno pravico samo v občini svojega rednega
+                        stanovališča, in če v nobeni dotičnih občin nima rednega stanovališča, pa
+                        tam, kjer plačuje največ neposrednega davka.</p>
+                     <p>Člani trgovinske in obrtne zbornice, potem člani takih korporacij in družeb,
+                        katere imajo volilno pravico, niso zadržani izvrševati svojo osebno volilno
+                        pravico v svojem volilskem razredu.</p>
+                     <p>Volilna pravica v volilskih razredih, navedenih v predstoječih odstavkih, ne
+                        izključuje izvrševanja volilne pravice v splošnem volilskem razredu.</p>
+                  </item>
+                  <label>§ 15.</label>
+                  <item>
+                     <p>V deželni zbor se sme voliti vsak, kdor ni izključen niti izvzet od volilne
+                        pravice v zmislu tega zakona, če je</p>
+                     <list type="ordered">
+                        <item n="a)">avstrijski državljan,</item>
+                        <item n="b)">trideset let star,</item>
+                        <item n="c)">samopraven in če</item>
+                        <item n="d)">ima volilno pravico za deželni zbor v kateremkoli volilskem
+                           razredu dežele.</item>
+                     </list><p>Isto velja tudi glede poslancev trgovske in obrtne zbornice.</p>
+                  </item>
+                  <label>§ 16 <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>Trajno ali časno aktivno službujoči častniki, vojaški duhovni, gažisti brez
+                        činovnega reda in osebe iz moštvenega stanja oborožene sile, oziroma
+                        orožništva – vštevši časno na dopustu bivajoče osebe – ne morejo, izvzemši v
+                        § 14. navedeni slučaj, niti voliti, niti biti voljeni.</p>
+                     <p>Od zmožnosti voljeni biti so razun zgoraj navedenih oseb izvzeti tudi vsi
+                        trajno ali časno aktivno službujoči uradniki oborožene sile.</p>
+                     <p>Določila tega paragrafa pa ne veljajo glede tistih oboroženi sili
+                        pripadajočih oseb, katere službujejo ob dotičnem času aktivno samo vsled
+                        zakonite dolžnosti do opravljanja orožnih (službenih) vaj.</p>
+                  </item>
+                  <label>§ 18.</label>
+                  <item>
+                     <p>Splošne volitve je razpisati tako, da se najprvo volijo poslanci splošnega
+                        volilskega razreda, na to poslanci za kmetske občine, potem poslanci za
+                        mesta in trge ter trgovsko in obrtno zbornico, naposled pa poslanci za
+                        veliko posestvo, ter da vsaki izmed prvonavedenih treh volilskih razredov
+                        voli po vsej deželi na eden dan.</p>
+                  </item>
+                  <label>§ 19.</label>
+                  <item>
+                     <p>Razpis splošnih volitev je dati na znanje po uradnem deželnem časniku in z
+                        lepaki po vseh občinah vojvodine <placeName>Kranjske</placeName>.</p>
+                     <p>Posamezne volitve se za veliko posestvo razpišejo po uradnem deželnem
+                        časniku, za mesta in trge, za kmetske občine in za splošni volilski razred
+                        pa tudi z lepaki po tistih občinah, katere tvorijo volilni okraj.</p>
+                  </item>
+                  <label>§ 20.</label>
+                  <item>
+                     <p>Volilce vseh volilskih razredov, kateri tvorijo po določilih tega volilnega
+                        reda eno volilno skupino, izvzemši volilce trgovske in obrtne zbornice, je
+                        vpisati v posebne imenike (volilske imenike) po abecednem redu. </p>
+                     <p>V volilskem razredu mest in trgov je volilce vsakega po § 3., v ta volilski
+                        razred uvrščenega kraja vpisati v eden volilski imenik.</p>
+                     <p>V volilskem razredu kmetskih občin in v splošnem volilskem razredu je
+                        volilske imenike sestaviti po krajevnih občinah.</p>
+                     <p>Ako naj volilci več krajevnih občin volijo v skladnem volilnem kraju, tedaj
+                        imajo biti podlaga volitvi volilski imeniki posameznih krajevnih občin,
+                        razvrščeni kot delni imeniki drug poleg drugega, ne da bi bilo treba iz njih
+                        sestaviti skupni, vse za volitev v tem volilnem kraju poklicane volilce po
+                        abecednem redu obsegajoči imenik.</p>
+                     <p>Organi, ki so poklicani za sestavo volilskih imenikov, morajo iste imeti v
+                        evidenci.</p>
+                  </item>
+                  <label>§ 24.</label>
+                  <item>
+                     <p>Volilske imenike za druge volilske razrede sestavi občinski predstojnik
+                        (župan), kateremu se je pri tem natančno ravnati po določilih §§ 10., 13.,
+                        13. <hi rend="italic">a</hi>, 16. in 16. <hi rend="italic">a</hi>.</p>
+                     <p>Imenike mora občinski predstojnik v občinskem uradu razgrniti vsakomur na
+                        vpogled. Istočasno je objaviti to razgrnitev z dostavkom, da se smejo zoper
+                        imenike vlagati ugovori tekom osemdnevne reklamacijske dobe pričenjajoče se
+                        z dnevom izvršene objave.</p>
+                     <p>Istopis volilskega imenika mora občinski predstojnik predložiti neposredno
+                        predpostavljenemu državnemu političnemu oblastvu.</p>
+                     <p>Pri sestavljenju volilskih imenikov za volilski razred mest in trgov, kakor
+                        tudi za volilski razred kmetskih občin, morajo za podlago služiti imeniki
+                        občinskih volilcev, ki so bili pri poslednji volitvi občinskega zastopa
+                        veljavno popravljeni.</p>
+                  </item>
+                  <label>§ 27.</label>
+                  <item>
+                     <p>Za izvršitev volitve poslancev je volilcem z izkaznicami vred dostaviti
+                        glasovnice, katere morajo biti prirejene za toliko poslancev, kolikor jih je
+                        voliti, ter imeti za volitve velikega posestva in trgovske in obrtne
+                        zbornice uradni pečat deželnega oblastva, za druge volitve pa uradni pečat,
+                        neposredno predstojnega državnega političnega ali izkaznice izdavajočega
+                        občinskega oblastva (§ 26.), in pa nadalje vsekakor opazko, da se bode vsaka
+                        druga ne uradno izdana glasovnica smatrala za neveljavno.</p>
+                     <p>Namestu glasovnic, ki so se izgubile ali postale neporabne, mora na zahtevo
+                        volilcev izročiti jim druge glasovnice tisto oblastvo, kateremu pristaje
+                        njih prvo izdajanje, ali pa na dan volitve volilni komisar.</p>
+                     <p>Volilni komisar daje tudi za izvršitev ožje volitve (§ 43.) potrebne
+                        glasovnice.</p>
+                  </item>
+                  <label>§ 29.</label>
+                  <item>
+                     <p>V vsaki volilni skupini se vodstvo volitve, ki jo je izvršiti ob navzočnosti
+                        volilnega komisarja, poveri volilni komisiji, katera ima sestavljena biti
+                        takole:</p>
+                     <list type="ordered">
+                        <item n="1.)">Za volilski razred velikega posestva iz štirih od volilcev in
+                           iz treh od deželnega predsednika imenovanih članov;</item>
+                        <item n="2.)">za vsaki kraj, ki je uvrščen v volilski razred mest in trgov,
+                           odnosno za vsako volišče, iz župana ali od njega postavljenega namestnika
+                           in iz treh članov občinskega zastopa volilnega kraja in iz treh od
+                           volilnega komisarja izmed volilcev imenovanih članov;</item>
+                        <item n="3.)">za trgovsko in obrtno zbornico v
+                              <placeName>Ljubljani</placeName> po predpisih obstoječih za druge
+                           volitve v trgovski in obrtni zbornici;</item>
+                        <item n="4.)">za vsak volilni kraj, odnosno za vsako volišče kmetskih občin
+                           in splošnega volilskega razreda iz dveh od občinskega zastopa volilnega
+                           kraja in iz dveh od volilnega komisarja izmed volilcev imenovanih članov.
+                           Na ta način določeni štirje člani izvolijo z nadpolovično večino petega
+                           člana volilne komisije. Če se taka večina glasov tudi pri ponovljeni
+                           volitvi ne doseže, imenuje tega člana volilni komisar.</item>
+                     </list>
+                     <p>Volitev članov, ki jih imajo voliti volilci velikega posestva ter volilci
+                        mest in trgov, je izvršiti z glasovnicami, katere oddado na poziv volilnega
+                        komisarja ob pričetku te volitve navzoči in izkazani volilci, izvršujoči pri
+                        tem svojo, kakor tudi v volilskem razredu velikega posestva od njih
+                        zastopano volilno pravico.</p>
+                     <p>Presojati volilno legitimacijo pri tej volitvi pristaje volilnemu komisarju.
+                        Ugovorov ali protestov nima dopuščati.</p>
+                     <p>Tiste, ki so pri tem glasovanju dobili največ glasov, smatrati je
+                        izvoljene.</p>
+                     <p>Če je več oseb, nego jih je potrebnih za polno število, dobilo enako število
+                        glasov, odloči med njimi žreb, ki ga vzdigne volilni komisar.</p>
+                     <p>Ako se ni sešlo za ustanovitev volilne komisije potrebno število volilcev,
+                        opravi posle volilne komisije volilni komisar.</p>
+                     <p>Volilnega komisarja za veliko posestvo, za v § 3. pod 1., in v § 7. <hi
+                           rend="italic">a</hi> pod 1., omenjene volilne okraje in za trgovsko in
+                        obrtno zbornico v <placeName>Ljubljani</placeName> imenuje deželni
+                        predsednik, za ostale volilne okraje politično oblastvo prve stopinje.</p>
+                     <p>Posel volilnega komisarja je, brezkvarno določilom veljavnim za javne
+                        uradnike, častna služba, katero prevzeti je vsak dolžan, kdor ima v volilnem
+                        kraju volilno pravico.</p>
+                  </item>
+                  <label>§ 32.</label>
+                  <item>
+                     <p>Predsednik volilne komisije mora zbrane volilce opozoriti na vsebino §§ 15.,
+                        16. in 16. <hi rend="italic">a</hi> volilnega reda o svojstvih, ki so
+                        potrebna za zmožnost voljen biti; razložiti jim mora, kako se bodo oddajali
+                        in šteli glasovi, ter jih pozvati, naj oddajo svoje glasove po svobodnem
+                        prepričanju brez vseh samopridnih postranskih namenov tako, kakor mislijo po
+                        svoji najboljši vednosti, da je najkoristneje za splošni blagor.</p>
+                  </item>
+                  <label>§ 42.</label>
+                  <item>
+                     <p>Kadar se pri glasovanju za tega ali onega poslanca, ki ga je voliti, ne
+                        doseže nadpolovična večina glasov, je odrediti ožja volitev.</p>
+                     <p>Če se pokaže pomanjkanje potrebne večine glasov v slučajih § 40. pri po
+                        glavni volilni komisiji izvršenem skupnem štetju glasov, provzroči okrajni
+                        glavar v vseh dotičnih volilnih krajih ožjo volitev, katere skupni izid mora
+                        tudi dognati glavna volilna komisija iz volilnih spisov posameznih volilnih
+                        komisij.</p>
+                     <p>Za volilne okraje, navedene v § 3. pod 1., in § 7. <hi rend="italic">a</hi>
+                        pod 1. odredi ožjo volitev deželni predsednik.</p>
+                  </item>
+                  <label>§ 45.</label>
+                  <item>
+                     <p>Deželni predsednik mora, pregledavši dospele volilne spise, vsakemu
+                        izvoljenemu poslancu, zoper katerega ne obstoji nobeden v § 16. in 16. <hi
+                           rend="italic">a</hi> določenih izključivnih oziroma izjemnih razlogov,
+                        izgotoviti in dostaviti dati volilno poverilo.</p>
+                     <p>To volilno poverilo daje izvoljenemu poslancu pravico vstopiti v deželni
+                        zbor in vstvarja domnevo veljavnosti njegove volitve za toliko časa, dokler
+                        se ne določi nasprotno.</p>
+                     <p>Vse volilne spise mora deželni predsednik poslati deželnemu odboru; le ta
+                        jih ima presoditi in o njih poročati deželnemu zboru, kateremu pristaje
+                        odločba o dopustitvi izvoljenih (§ 31. deželnega reda).</p>
+                  </item>
+                  <label>§ 46.</label>
+                  <item>
+                     <p>Za sklep deželnega zbora o nasvetovanih spremembah deželnozborskega
+                        volilnega reda je potrebna navzočnost najmanj treh četrtin vseh članov in
+                        pritrditev najmanj dveh tretjin navzočih poslancev. Spremembe §§ 1., 2., 3.,
+                        11., 12. in 46. se pa morejo skleniti le ob navzočnosti najmanj
+                        dvainštiridesetih poslancev in ob pritrditvi najmanj treh četrtin navzočih
+                        zborničnih članov.</p>
+                  </item>
+               </list>
+            </div>
+            <div xml:id="No.129.PPP.3">
+               <head>Člen II.</head>
+               <p>Ta zakon stopi ob enem z zakonom z dne . . . . . . . . štev. . . . . . dež. zak.,
+                  s katerim se spreminja deželni red za vojvodino Kranjsko, v veljavo.<note
+                     place="foot" source="#SourceBornDigital">Zakona o spremembi volilnega reda za
+                     deželni zbor vojvodine Kranjske in spremembi deželnega reda za vojvodino
+                     Kranjsko sta bila izdana <date when="1908-08-26">26. 8. 1908</date>. – <hi
+                        rend="italic">15.</hi> Zakon z dné 26. avgusta 1908, <hi rend="italic"
+                        >veljaven za vojvodino Kranjsko, s katerim se spreminja volilni red za
+                        deželni zbor vojvodine Kranjske</hi>. Deželni zakonik za vojvodino Kranjsko
+                     : leto 1908 : X. kos : izdan in razposlan 12. septembra 1908. Ljubljana :
+                     Učiteljska tiskarna, str. 52–60; <hi rend="italic">14.</hi> Zakon z dné 26.
+                     avgusta 1908, <hi rend="italic">veljaven za vojvodino Kranjsko, s katerim se
+                        spreminja deželni red za vojvodino Kranjsko</hi>. Deželni zakonik za
+                     vojvodino Kranjsko : leto 1908 : X. kos : izdan in razposlan 12. septembra
+                     1908. Ljubljana : Učiteljska tiskarna, str. 48–51.</note></p>
+            </div>
+            <div xml:id="No.129.PPP.4">
+               <head>Člen III.</head>
+               <p>(Prehodna določba).</p>
+               <p>Takoj, ko stopi ta zakon v veljavo se imajo razpisati dopolnilne volitve dveh
+                  novih poslancev mesta <placeName>Ljubljana</placeName> iz mestne kurije (§ 3 točka
+                  1.) in poslancev splošnega volilnega razreda (§ 7 <hi rend="italic">a</hi>). Vsi
+                  ti mandati ugasnejo enodobno z mandati že izvoljenih poslancev drugih volilskih
+                  razredov. Za kompletorično volitev dveh novih poslancev ljubljanskih v
+                  cenzus-kuriji bo veljala še cela Ljubljana kot en sam volilni okraj.</p>
+            </div>
+            <div xml:id="No.129.PPP.5">
+               <head>Člen IV.</head>
+               <p>Mojemu ministru za notranje zadeve je naročeno, izvršiti ta zakon.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

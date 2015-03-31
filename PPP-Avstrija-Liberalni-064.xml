@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o pravici do samoodločbe in državni združitvi Slovencev, Hrvatov in
+               Srbov na podlagi Majniške deklaracije, sprejeta na shodu zaupnikov Narodno napredne
+               stranke za Kranjsko 2. februarja 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30602</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-064.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30602</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Shod zaupnikov Narodno-napredne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">28</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-S56MHETE</pubPlace>
+                     <date when="1918-02-04">4. 2. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Shod zaupnikov Narodno-napredne stranke.</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Za samostojnost in neodvisnost</head>
+               <p xml:id="No.64.PPP">Zaupniki Narodno napredne stranke kranjske, zbrani na shodu v
+                     <placeName>Ljubljani</placeName> dne <date when="1918-02-02">2. svečana
+                     1918</date>, izjavljajo: da je za ustanovitev trajnega miru med narodi bistven
+                  pogoj vsestransko priznanje pravice samoodločbe narodov: sklicujoč se na pravico
+                  samoodločbe narodov, vidijo spas slovenskega naroda v združitvi Hrvatov, Srbov in
+                  Slovencev v eno državno ozemlje v zmislu majniške deklaracije;<note
+                     source="#SourceBornDigital">Glej dok. št. 130.</note> notranja uprava te
+                  narodne državne skupnosti se mora urediti in izvesti po demokratičnih načelih v
+                  najširšem zmislu, pri čemur je sporazumno vpoštevati posebnosti vseh treh delov
+                  troimenskega naroda; pozdravljajo z navdušenjem in priznanjem dosedanje korake
+                  Jugoslovanskega kluba v dosego teh ciljev in pozivljajo vse narodne zastopnike to
+                  in onstran Litve, da zastavijo vse svoje sile za vresničenje skupnega programa:
+                  združitev Hrvatov, Srbov in Slovencev v lastnem državnem ozemlju.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

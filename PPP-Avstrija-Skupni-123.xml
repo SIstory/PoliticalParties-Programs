@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklep kranjskega deželnega zbora, da se njegovi zapiski pišejo izključno v
+               slovenskem jeziku, sprejet 21. novembra 1905</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30782</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-123.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30782</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik devete seje deželnega zbora kranjskega v Ljubljani,
+                     dne 21. novembra 1905</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">46</biblScope>
+                     <biblScope unit="page">206</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.123.PPP">Zapisnik zborničnih sej v zmislu § 12. opravilnega reda se ima
+               zapisovati in čitati izključno v slovenskem jeziku.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

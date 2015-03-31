@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o gmotnem, prosvetnem in narodnopolitičnem napredku primorskih
+               Slovencev, sprejeta na prvem (jugoslovanskem) taboru političnega društva Edinost 27.
+               oktobra 1878 v Dolini pri Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30640</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-102.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30640</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Tabor v Dolini</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">21</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-JLJOGVSG</pubPlace>
+                     <date when="1878-11-09">9. 11. 1878</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Tabor v Dolini</head>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.102.PPP.1" type="ordered">
+               <item n="1.">Naj visoka vlada, ako želi blagostanje našemu narodu, predlaga in dela
+                  na to, da zadobimo zasluženo zedinjenje <placeName>Slovenije</placeName>. </item>
+               <item n="2.">Naj visoka vlada, predlaga in dela na to, da se volilni sistem tako
+                  predrugači, da bode našemu narodu vsaj bolj pravičen.</item>
+               <item n="3.">Naj visoka vlada natančno in vestno pretrese okoliški lanski protest
+                  gledé obširnega razširjenja mesta.</item>
+            </list>
+            <gap xml:id="No.102.PPP.2" reason="irrelevant"/>
+            <p xml:id="No.102.PPP.3">Za zboljšanje naših šol ni druzega pripomočka, nego da visoka
+               vlada predlaga in dela na to, da tržaška okolica zadobi lasten šolski svet, kajti ni
+               mogoče, da se naše slovenske šole pod italijanskim šolskim svetom zboljšajo.</p>
+            <gap xml:id="No.102.PPP.4" reason="irrelevant"/>
+            <p xml:id="No.102.PPP.5"><hi rend="italic">Naši narodni zastopniki v deželnih in
+                  državnih zborih naj po izgledu narodnih poslancev kranjskih pri vsaki dani jim
+                  priliki odločno tirjajo zedinjenje vseh slovenskih pokrajini z
+                     <placeName>Istro</placeName> vred v eno samo polit. in administrativno celoto
+                  in naj še zastopniki drugih Slovanov v <placeName>Avstriji</placeName> edino na to
+                  delajo, da se <placeName>Avstrija</placeName> uže kmalo preustroji v
+                  federalistično državo</hi>.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pogodba med Narodno stranko in Nemci v Kranjskem deželnem zboru, sklenjena
+               januarja 1896</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30584</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-051.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30584</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iz mojih spominov</title>
+                  <author>Fran Šuklje</author>
+                  <imprint>
+                     <biblScope unit="volume">2</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Slovenska matica</publisher>
+                     <date when="1995">1995</date>
+                     <biblScope unit="page">43</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.51.PPP">Obe stranki druga drugi jamčita subvencijo slovenskega in nemškega
+               gledališča v dosedanjem obsegu; volitve v vse odseke po številu poslancev – 12
+               članski odsek: 5 klerikalcev, 4 veleposestniki, 3 liberalci; ohranitev 600
+               goldinarjev za nemški pouk na slovenskih ljudskih šolah <gap reason="irrelevant"/>.
+               Nobenih nacionalnih napadov s strani slovenske liberalne stranke in če bi do njih
+               prišlo s tretje strani, predhoden sporazum z nami glede odnosa, ki ga je zavzeti. Mi
+               v plenumu zbornice volimo člana slovenske liberalne stranke, ki ga bo ta imenovala za
+               deželni odbor.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

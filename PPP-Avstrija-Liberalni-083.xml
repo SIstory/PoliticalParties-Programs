@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odziv nekdanjega načelnika Narodno napredne stranke na Kranjskem in člana
+               načelstva Jugoslovanske demokratske stranke Ivana Hribarja na Šukljetovo zamisel o
+               ureditvi jugoslovanske države</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30632</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-083.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30632</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Uprava Jugoslavije.</title>
+                  <author>Ivan Hribar</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">237</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-MC2OEHCY</pubPlace>
+                     <date when="1918-10-15">15. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Uprava <placeName>Jugoslavije</placeName>.</head>
+            <p xml:id="No.83.PPP.1">Dvorni svétnik <persName>Šuklje</persName> začel je pod naslovom
+                  <q>V zaželjeni deželi</q><note source="#SourceBornDigital">Glej dok. št.
+                  44.</note> glede uprave <placeName>Jugoslavije</placeName> priobčevati serijo
+               člankov, katerih prvi trije leže pred mano. Hvalevredno je, da se za to važno
+               vprašanje zanima naša javnost in rad priznavam, da je gospod dvorni svétnik takorekoč
+               poklican povedati o njem svoje mnenje. Bogate upravne izkušnje ima. Pridobil si jih
+               je kot načelnik zaloge šolskih knjig na <placeName>Dunaju</placeName> in kot deželni
+               glavar kranjski. Vendar njegovih nazorov ni mogoče pustiti brez odgovora in brez
+               ugovora.</p>
+            <p xml:id="No.83.PPP.2">Saj bi morebiti bilo bolje počakati z odgovorom dotlej, da
+               gospod dvorni svétnik svojo študijo konča. Stvar zaenkrat tudi ni Bog si ga vedi kako
+               nujna, ker gre s početka le za prehodno upravo in se bode dokončni način uprave po
+               zrelem uvaževanju in po obsežnih posvetovanjih določal, ko se sestane na podlagi
+               splošnih, direktnih in tajnih volitev izvoljeno ljudsko zastopstvo. A neka načela,
+               katera avtor člankov postavlja, silijo mi že danes pero v roke, ker ne bi rad, da bi
+               si jih osvojilo širje naše občinstvo, katero o stvari morebiti samo ne razmišlja in
+               ker bi molk utegnil marsikje sprejet biti – z začudenjem.</p>
+            <p xml:id="No.83.PPP.3">Gospod dvorni svétnik nazivlje se sam pripadnika zgodovinske
+               smeri. Ni čuda. Profesor zgodovine je bil in pozna jo tako temeljito, ko malokdo med
+               nami. Morebiti se je zato preveč enostransko angaževal ter se ne more izmotati iz
+               miljeja, kateri je ob povsem drugačnih razmerah in predpostavah ustvarila –
+               špecijalno avstrijska – zgodovina.</p>
+            <p xml:id="No.83.PPP.4">Meni je zgodovina – nepogrešljiva učiteljica. Nič več in nič
+               manje. Zato zgodovinskega prava ne priznavam drugače, ko toliko, da narodom, ki so
+               imeli kdaj slavno zgodovino, daje moralno oporo v borbi za življenjske pogoje
+               sedanjosti. V tem smislu bila je zgodovina Čehov, Hrvatov, Srbov, Poljakov
+               velikanskega odgojevalnega pomena za te narode, da jim je vzbujala ponos ter jih
+               bodrila k smotrenemu delu, zato, da dosežejo zopet ono veljavo in moč, katero so v
+               družbi narodov imeli nekdaj. Zgodovinskega prava, pa naj so se tudi nanj sklicevali,
+               ni jim bilo mogoče uveljavljati, ker so vladali močnejši nad njimi. Zato si pa
+               zgodovinsko pravo pišejo v naših dneh sami, s svojo iz slavne svoje zgodovine zajeto
+               zavednostjo in iz nje izvirajočimi čini. <hi rend="italic">Še celo nam ubogim
+                  Slovencem</hi>, katerih usoda je bilo stoletno hlapčevstvo in robstvo, <hi
+                  rend="italic">piše zgodovina z jeklenim črtalom zgodovinsko pravo</hi>. Pa ne
+               zato, ker bi se mogli nanje sklicevati, češ, da nam je dedščina preteklosti, temveč
+               zato, ker smo o pravem času čuli njen klic in ga razumeli.</p>
+            <p xml:id="No.83.PPP.5">Gospod dvorni svétnik se – naj mi te pripomnje ne zameri – ne
+               more iznebiii ideologije, v kateri se gibljejo malodane vsi državniki in birokratje
+                  <placeName>Avstrije</placeName>. Ne glede uprave same. Njo zametava tudi on. Po
+               vsej pravici. Saj ni bila drugega, ko sredstvo za poniževanje in podjarmljevanje
+               narodov. Poleg nepraktičnosti in neprimerne draginje, kateri gospod dvorni svétnik
+               naglaša, perhoreskovati je torej dvojno upravo po avstrijskem načinu že – in to pred
+               vsem – iz gorenjega razloga. <placeName>Avstrija</placeName> dajala je narodom nekaj
+               avtonomne uprave, da je s tem odvračala njihov odpor proti politični upravi, pri
+               kateri narodi sami niso imeli nikake besede. V <placeName>Jugoslaviji</placeName>
+               tega slepila treba ne bode, kajti vsa politična uprava bode avtonomna, v rokah naroda
+               samega, urejena iz naroda za narod.</p>
+            <p xml:id="No.83.PPP.6">Ako se v tem z gospodom dvornim svétnikom strinjam, ne morem pa
+               pritrditi njegovim nazorom glede razdelitve upravnega ozemlja. Tu je dvorni svétnik
+                  <persName>Šuklje</persName> preveč Avstrijec. Pred očmi mu mrgole zgodovinske meje
+               kronovin, o katerih so avstrijski državniki o primernih in neprimernih prilikah
+               povdarjali, da so nedotakljive. Zlasti nasproti nam, kadar smo zahtevali zedinjeno
+               Slovenijo. Bili bi se zadovoljili z njo v skromnejših mejah ko dandanes in brez
+               suverenosti. Avstrijski državniki imeli so premalo pameti, da bi bili razumeli duha
+               časa in premalo bistrovidnosti, da bi bili spoznali bližajoče se dogodke. <hi
+                  rend="italic">Ta omejenost avstrijske državne modrosti je naša sreča, kajti del
+                  svobodne, samostojne in neodvisne jugoslovanske države bode zedinjena Slovenija v
+                  takej popolnosti, v kakršni si je pred nekaj leti najsmelejši med nami še
+                  predstavljati ni upal</hi>. Deželne meje bodo padle. Med nami ne bode več
+               Kranjcev, Štajercev, Korošcev, Goričanov, Tržačanov, Istranov. <hi rend="italic">Vsi
+                  bodemo samo Slovenci</hi>. Zato mora izginiti vse, kar bi nas utegnilo spominjati
+               na bivšo delitev po deželah. Zato se tudi naša bodoča okrožja ne smejo po gospoda
+               dvornega svétnika a tout prix utesnjevati v dosedanje deželne meje, temveč
+               prilagodovati le praktičnim zahtevam in potrebam. Tako n. pr. našemu osrednjemu
+               okrožju nikakor ne bode kazalo več prideljevati vipavske doline in senožeškega ter
+               enega dela ilirskobistriškega okraja, ker lega ozemlja in njega prometne razmere
+               glasno kličejo po združitvi z južnim okrožjem. Nasprotno pa vso savinjsko dolino
+               vežejo življenjski pogoji in praktični oziri veliko bolje na osrednje, kot na severno
+               okrožje.</p>
+            <p xml:id="No.83.PPP.7">Iz teh pripomenj sledi, da se tudi jaz strinjam z mislijo
+               upravnih okrožij. Po mojem ne bodemo grešili, ako jih uredimo po priliki tako, kakor
+               so urejene hrvatske županije. Koliko naj jih bode, ne upam si danes že izreči
+               dokončne sodbe. Le toliko se mi zdi, da bi jih bilo troje premalo. Toda to je stvar
+               resnega proučevanja mož, ki imajo v upravnih stvareh znanja in izkušenj.</p>
+            <p xml:id="No.83.PPP.8">V začaranem avstrijskem risu giblje se gospod dvorni svétnik
+               tudi tedaj, ko govori o upravnih ozemljih. On hoče poleg
+                  <placeName>Slovenije</placeName> imeti še <placeName>Hrvatsko</placeName> v ožjem
+               smislu in <placeName>Bosno-Hercegovino</placeName>, združeno z
+                  <placeName>Dalmacijo</placeName>. <hi rend="italic">To mu je potemtakem tudi
+                  vse!</hi> Neglede na to poslednje, zdi se mi jako nevarno, hoteti napravljati
+               upravna ozemlja brez soglasja naroda. Če že mi hočemo združeno <placeName>Slovenijo</placeName>, ali naj se
+               Hrvatje zadovolje z nečem manjšim? Kakor mi do slovenskega, imajo oni pravico do
+               upravnega ozemlja, katero naj obsega vse hrvatsko ozemlje. In to določiti, bodi
+               prepuščeno njim samim po dogovoru s srbskim delom našega naroda. Gospod dvorni
+               svétnik namerava celo <placeName>Dalmacijo</placeName> odcepiti od <placeName>Hrvatske</placeName>. Ne vem, kakšni občutki so
+               navdajali brate Hrvate, ko so to čitali. Saj je faktična združitev <placeName>Dalmacije</placeName> s
+               <placeName>Hrvatsko</placeName>, kateri ta dežela itak de jure pripada, ena najdoslednejših zahtev vsakega
+               zavednega Hrvata!</p>
+            <p xml:id="No.83.PPP.9">Ker gospod dvorni svétnik vse, kar ne spada v skupne zadeve,
+               prepušča zakonodajstvu posameznih državnih skupin, naravno je, da bi Hrvatje
+               potemtakem imeli dvoje zakonodajalnih zborov. Kje najde g. dvorni svétnik Hrvata, ki
+               bi temu pritrdil? Še dr. <persName>Pilarja</persName> ne.</p>
+            <p xml:id="No.83.PPP.10">Nemogši iz začaranega avstrijskega risa, prisvaja gospod dvorni
+               svétnik tudi istrske Hrvate slovenski upravni skupini. Zdi se mu to čisto <q>naravno</q>.
+               Meni – priznavam to odkrito – ne. Za tako uredbo ne govore ne legopisni in ne kakšni
+               drugi razlogi, razen ako namerava na ta način <placeName>Sloveniji</placeName> zagotoviti nekaj obsežnejše
+               morsko obrežje. To bi bil nek razlog, a le dozdevne veljave, ker bode plovstvo
+               spadalo v skupne zadeve <placeName>Jugoslavije</placeName> in bode vsak njen državljan do vsega morskega
+               obrežja imel enake pravice, A naj bi ta razlog bil tudi tehten: <hi rend="italic"
+                  >kedar govori etnografija svojo veljavno besedo, morajo se umakniti vsi drugi
+                  razlogi.</hi> Tedaj morate obmolkniti tudi ortografija in hidrografija. Ker torej
+               po narodnosti spada del Istranov k Hrvatom, bode tudi ozemlje, na katerem stanujejo,
+               moralo priti k hrvatski upravni skupini. Etnografsko načelo je, katero nas vodi k
+               boljši bodočnosti, ne izpodkopavajmo mu torej sami veljave!</p>
+            <p xml:id="No.83.PPP.11">Te misli so mi vstajale ob čitanju člankov dvornega svétnika
+               pl. <persName>Šukljeta</persName>. V podrobnosti njegovih izvajanj se ne bom spuščal, priznavam pa, da je
+               podal mnogo dobrih nasvetov. Eden teh je oni glede ustanovitve velikih občin.
+               <placeName>Hrvatska</placeName> jih že ima nekaj desetletij. Obnesle so se prav dobro. Po vzorce za nje nam
+               torej ne bode treba daleč hoditi.</p>
+            <p xml:id="No.83.PPP.12">Še eno. Na demokratskih temeljih bode slonelo naše bodoče
+               državno življenje. Demokratska načela morajo torej prevevati vso javno upravo. Njim
+               mora biti zato prilagodena tudi nje uredba. Ne plašimo se potemtakem tudi misli na
+               volitev javnih funkcijonarjev za vse važnejše upravne službe!</p>
+            <closer><dateline>V <placeName>Cerkljah</placeName>, dne <date when="1918-10-11">11.
+                     oktobra 1918</date></dateline>
+               <lb/>
+               <persName>Ivan Hribar</persName>.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

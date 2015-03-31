@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Napredne stranke na Goriškem, sprejet na njenem zaupnem (ustanovnem)
+               shodu 8. marca 1900 v Gorici</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30607</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-069.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30607</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zaupni shod <q>narodno-napredne stranke</q> na Goriškem.</title>
+               </analytic>
+               <monogr>
+                  <title>Soča</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">28</biblScope>
+                     <pubPlace>Gorica</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-P7KKP91Z</pubPlace>
+                     <date when="1900-03-08">08.03.1900</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Zaupni shod <q>narodno-napredne stranke</q> na Goriškem.</head>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.69.PPP.1">
+            <head>I.</head>
+            <p>Zaupni shod <hi rend="italic"><q>narodo-napredne stranke na
+                        <placeName>Goriškem</placeName></q></hi>, zbran dne <date when="1900-03-08"
+                  >8. marca 1900</date>
+               <placeName>v Gorici</placeName>, naglaša potrebo ožje organizacije na temelju teh
+               načel:</p>
+            <list type="ordered">
+               <item n="1.">Vsestranski svobodni razvoj slovenskega ljudstva v duševnem in gmotnem
+                  oziru.</item>
+               <item n="2.">Vsem stanovom se priznavajo enake pravice, pa tudi enake dolžnosti; zato
+                  se izključuje nadvladje kateregakoli stanu.</item>
+               <item n="3.">V verska in cerkvena vprašanja se stranka kratko ni malo ne vtika,
+                  obsoja pa profanacijo in zlorabo vere in cerkve v politiške svrhe.</item>
+               <item n="4.">Svobodna šola in svobodno učiteljstvo, kateremu je zagotoviti po državi
+                  in deželi stanu primerno gmotno podlago, da more skrbeti za potrebni ugled in
+                  vsestransko daljno izobraževanje.</item>
+               <item n="5.">Obžalovati je dosedanje popolno zanemarjenje našega <hi rend="italic"
+                     >posestnika</hi> od strani vseh poklicanih činiteljev, zahtevati nujno povzdigo
+                  živinoreje in mlekarstva, vinarstva in sadjarstva, delovati na intenzivneje
+                  gospodarstvo in odpreti domačim pridelkom stalen in ugodnejši trg.</item>
+               <item n="6.">Vsled posebnih politiških razmer v deželi se pokazuje čimdalje večja
+                  važnost <hi rend="italic">trgovskega</hi> in <hi rend="italic">obrtnega</hi> stanu
+                  za boljšo bodočnost vsega našega prebivalstva; zato treba posvetiti temu stanu
+                  največjo pozornost. – Izključujejo se zadruge, ki služijo politiškim svrham
+                  splošne klerikalne organizacije.</item>
+               <item n="7.">Pozdravljamo gibanje <hi rend="italic">delavstva</hi>, želimo mu krepke
+                  organizacije, katero hočemo pospeševati.</item>
+               <item n="8.">
+                  <list type="ordered">
+                     <item n="a)">Zahtevamo popolno <hi rend="italic">enakopravnost</hi> in <hi
+                           rend="italic">enakoveljavnost</hi> slovenske narodnosti in jezika v vseh
+                        državnih in avtonomnih uradih, v cerkvi, v šoli in sploh v vsem javnem
+                        življenju.</item>
+                     <item n="b)">V deželnem in državnem zboru ter v trgovinsko-obrtnijski zbornici
+                        mora biti slovenska 2/3-ska večina primerno zastopana. – Izvéde naj se
+                        splošna volilna pravica za trgovinsko in obrtnijsko zbornico in V. kurija za
+                        deželni zbor.</item>
+                     <item n="c)">Državna uprava mora obrniti veliko več pozornosti na našo
+                        pokrajino ob italijanski meri, skrbeti za dobre prometne zveze po vsej
+                        deželi, za potrebne ceste in železnice, ki zvežejo mejo z osrčjem države, za
+                        uravnavo rek in hudournikov, za ureditev zdravstvenih razmer, v obče več
+                        brigati se za moralno in materijalno povzdigo slovenskega ljudstva.</item>
+                  </list>
+               </item>
+               <item n="9.">Narodno-napredna stranka na <placeName>Goriškem</placeName> bo iskala vedno najožjo dotiko z
+                  narodnimi strankami na <placeName>Slovenskem</placeName>, ne pustivši nikdar izpred očij vzajemnosti z
+                  vsemi slovanskimi narodi.</item>
+               <item n="10.">Stranka stoji na stališču narodne samouprave.</item>
+            </list>
+         </div>
+         <div xml:id="No.69.PPP.2">
+            <head>II.</head>
+            <p>Da se izvede organizacija stranke po gornjih načelih, se izvoli <hi rend="italic"
+                  >izvrševalni odbor</hi> 21 članov, kateri ob vseh važnejših vprašanjih poprašuje
+               za mnenje zaupnikov, sklicuje zaupne shode, kedar se mu zdi umestno, zlasti ob vseh
+               načelno važnih pojavih, in vodi politiko stranke na znotraj in na zunaj. – Odbor je
+               sklepčen, kedar je navzočih 9 članov, in se popolnuje do prihodnega zaupnega shoda
+               sam.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklep kranjskega deželnega zbora o pospešitvi predpriprav za ustanovitev univerze
+               v Ljubljani, sprejet 24. novembra 1905</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30784</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-125.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30784</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Priloga 155</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">46</biblScope>
+                     <biblScope unit="page">413</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.125.PPP" type="ordered">
+               <item n="1.">C. kr. osrednja vlada se glede na sklepe deželnega zbora kranjskega v
+                  sejah dne 28. februarija<note place="foot" source="#SourceBornDigital">Glej dok.
+                     št. 118. </note> in 28. decembra 1898<note place="foot"
+                     source="#SourceBornDigital">Glej dok. št. 119.</note> nujno pozivlja, da
+                  pospeši vse predpriprave za ustanovitev vseučilišča z bogoslovno, pravoslovno in
+                  modroslovno fakulteto v <placeName>Ljubljani</placeName> in da kar najpreje mogoče
+                  pri državnem zboru izposluje ustanovitev tacega vseučilišča.</item>
+               <item n="2.">Izvoli se pod predvoditeljstvom deželnega glavarja odposlanstvo še dveh
+                  članov deželega zbora v ta namen, da zaprosi avdijence pri Njegovem Veličanstvu
+                  cesarju ter ob vznožji Najvišjega prestola izroči najudanejšo prošnjo za
+                  ustanovitev vseučilišča v <placeName>Ljubljani</placeName>.</item>
+               <item n="3.">Izvolijo naj se iz deželnega zbora trije člani v ta namen, da stopijo v
+                  stalen vseučiliški odbor, v katerem naj bodo z enakim številom odposlancev
+                  zastopani: občinski svet ljubljanski, <q>Matica Slovenska</q>, društvo
+                     <q>Pravnik</q>, <q>Leonova družba</q> in profesorski zbor knezoškofijskega
+                  semenišča v <placeName>Ljubljani</placeName>. Ta odbor naj stopi na primeren način
+                  v dotiko tudi z zastopniki slovenske akademične mladine na dunajskem, graškem in
+                  praškem vseučilišču.</item>
+               <item n="4.">Dovoli se iz deželnega zaklada svota 3000 kron, ki naj se izplača
+                  navedenemu vseučiliškemu odboru v ta namen, da razpiše darila po 1000 kron za
+                  troje najboljših znanstvenih spisov, katerih eden naj bode pravoslovne, drugi
+                  modroslovne, tretji pa bogoslovne vsebine in katerih vsak obsegaj najmanj pet
+                  tiskanih pol. Ta svota izplača se pa temu odboru le tedaj, če se zaveže poskrbeti
+                  za to, da oni spisi, katerim prisodi darila, izidejo v tisku.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

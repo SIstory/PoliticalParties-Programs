@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o gospodarskih zahtevah, sprejeta na vseslovenskem in istrskohrvaškem
+               shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30651</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-114.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30651</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Vseslovenski shod</head>
+            <list xml:id="No.114.PPP" type="ordered">
+               <item n="a)">
+                  <p>Vseslovenski in isterskohrvatski shod priznava kot nujno potrebo, da se
+                     delujoči stanovi našega naroda organizujejo v posamezne strokovne zadruge, v
+                     katerih bodo sami o svojih potrebah in namenih odločevali.</p>
+                  <p>Zato pozdravlja shod predlog kmetijskega ministerstva, po katerem se imajo
+                     osnovati kmetijske zadruge. Priporoča in nalaga svojim poslancem, da skrbé za
+                     to, da se v vseh pokrajinah, koder bivajo slovenski in hrvatski kmetovalci,
+                     osnujejo za nje, po vzgledu zadrug na <placeName>Češkem</placeName> in
+                        <placeName>Tirolskem</placeName>, posebne, neodvisne in samostalne kmetijske
+                     zadruge.</p>
+               </item>
+               <item n="b)">Zahteva se, da se po vseh pokrajinah osnujejo kmetijske in obrtne šole s
+                  slovenskim, oziroma hrvatskim poučnim jezikom; prav tako naj vlada ustanovi za naš
+                  narod trgovinsko učilišče.</item>
+               <item n="c)">Vseslovenski in isterskohrvatski shod zahteva od vlade izdatne podpore v
+                  svrho pospešitve in izboljšanja poljedelstva, osobito vinogradarstva
+                     <corr>in</corr> živinoreje.</item>
+               <item n="d)">Da se delujočim našim stanovom, kmetijskim in obrtnim, pomore, snujejo
+                  naj se povsod posojilnice, deželni zastopi pa naj to podpirajo s podporami in
+                  posojili; prav tako naj skrbé za konvertovanje visokoobrestnih dolgov v
+                  nižjeobrestne.</item>
+               <item n="e)">Vlada naj že skoro izroči drž. zboru že obljubljeni zakon o
+                  pristojbinah, po katerem se imajo pristojbine urediti, oziroma znižati osobito za
+                  manjša posestva pri podedovanju ali prevzetju od starišev.</item>
+               <item n="f)">Državno in deželno zakonodajstvo ozira naj se na potrebe delujočih
+                  stanov, zlasti kmeta, obrtnika in delavca, naj izdaje zakone, potrebne v obrambo
+                  in varstvo poštene produkcije.</item>
+               <item n="g)">Da se izboljša naše socijalno stanje, da se obrani in osiguri imetje
+                  naših stanov, pospešijo naj deželni zastopi raznovrstno zavarovanje in država naj
+                  se loti zavarovanja delavcev za čas onemoglosti in starosti.</item>
+               <item n="h)">Od vlade zahteva se, da izdatno podpira osobito malo obrt, da ta zmožna
+                  postane vstrajati v tekmovanju na domačem in svetovnem trgu.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Izvrševalnega odbora Jugoslovanske socialnodemokratske stranke,
+               sprejeta 4. junija 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30661</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-095.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30661</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Sodrugom in sodružicam!</title>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslov. socialno-demokratične stranke</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">126</biblScope>
+                     <date when="1918-06-06">6. 6. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Sodrugom in sodružicam!</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.95.PPP.1">Celokupni izvrševalni odbor najodločnejše protestira proti
+                  <persName>Seidlerjevi</persName> vladi, ki preti s persekucijami jugoslovanskemu
+               narodu vsled njegovega stremljenja po svobodni državi troimenskega naroda. Obenem
+               protestira proti intervenciji južnoštajerskih in koroških nacionalnih Nemcev ter
+               nemškutarjev pri cesarju <date when="1918-05-25">dné 25. maja t. l.</date> ter jim
+               odreka vsako pravico govoriti v imenu slovenskega ljudstva.</p>
+            <p xml:id="No.95.PPP.2">Jugoslovanska socialno demokratična stranka stoji neomajno na sklepih jugoslovanske
+               tivolske konference iz leta <date when="1909">1909</date>.<note place="foot"
+                  source="#SourceBornDigital">Glej dok. št. 82.</note> ter na sklepih strankinega
+               zbora <date when="1917-12">decembra 1917</date>;<note place="foot"
+                  source="#SourceBornDigital">Glej dok. št. 87.</note> smatra zato za svojo
+               dolžnost, da v sedanjem času, ko vlada preti celemu narodu s persekucijami in
+               preganjanji odločno in jasno pové tako v svojem časopisju kakor na shodih, da se
+               jugoslovanski proletarjat v bistvu strinja z ostalim narodom <gap reason="censorship"
+                  />.<note place="foot" source="#SourceBornDigital">Tu je del besedila črtala
+                  cenzura.</note></p>
+            <p xml:id="No.95.PPP.3">Samo po sebi je umevno, da stoji stranka slej ko prej na stališču samoodločbe
+               narodov. Kakor zahtevamo svobodo za svoj narod, prav tako moramo prepustiti tudi
+               drugim narodom, da določajo in odločajo o svoji usodi.</p>
+            <p xml:id="No.95.PPP.4">Izvrševalni odbor smatra za potrebno, da stopi v tozadevni dogovor z italijanskimi in
+               nemškimi sodrugi ter se z njimi sporazume.</p>
+            <gap xml:id="No.95.PPP.5" reason="irrelevant"/>
+            <p xml:id="No.95.PPP.6">Glede ustanovljenega Narodnega Sveta<note place="foot" source="#SourceBornDigital"
+                  >Glej dok. št. 134 in dok. št. 135. </note> izjavlja celokupni izvrševalni odbor,
+               da jugoslovanska socialno demokratična stranka ne vstopi v Narodni Svet, pač pa ne
+               odklanja sodelovanja, pridržuje si za izvršitev sprejetih sklepov povsem prosto
+               roko.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

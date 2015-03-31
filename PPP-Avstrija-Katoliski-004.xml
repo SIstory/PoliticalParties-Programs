@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o ustanovitvi višje dekliške šole v Ljubljani, sprejeta na šestem
+               shodu Katoliškega političnega društva v Ljubljani 26. oktobra 1890</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30534</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-004.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30534</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Šesti shod katol. pol. društva.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">247</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-RNLC30N2</pubPlace>
+                     <date when="1890-10-27">27. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Šesti shod katol. polit. društva.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.4.PPP.1">Šesti shod <q>Katol. polit. društva</q> v <placeName>Ljubljani</placeName> izjavlja prepričanje, da je za
+               slovenski ženski naraščaj potrebna višja izobražba na versko-narodni podlagi;</p>
+            <p xml:id="No.4.PPP.2">vendar pa smatra, da bi bila ustanovitev novega višjega dekliškega izobraževališča v
+               <placeName>Ljubljani</placeName> pri sedanjih finančnih razmerah <placeName>dežele kranjske</placeName> in vzlasti <placeName>mesta
+               ljubljanskega</placeName> neizpeljiva, iz krščansko-pedagogičnih ozirov pa neumestna;</p>
+            <p xml:id="No.4.PPP.3">zato pozdravlja z veseljem otvoritev višje slovenske gospodinjske šole pri uršulinkah
+               v <placeName>Ljubljani</placeName> kot primeren začetek za višje izobraževanje slovenske ženske mladine;</p>
+            <p xml:id="No.4.PPP.4">slednjič izraža željo, da slavni deželni odbor vsprejme od uršulinskega reda ponudeno
+               mu nadzorstvo nad slednjim zavodom brez prikratbe nadzorovalne pravice državne šolske
+               oblasti.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

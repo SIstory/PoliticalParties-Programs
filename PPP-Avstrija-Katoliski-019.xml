@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vdanostna izjava Ljubljanskemu knezoškofu dr. Antonu Bonaventuri Jegliču sprejeta
+               na shodu zaupnikov Slovenske ljudske stranke na Kranjskem 27. decembra 1917 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30552</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-019.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30552</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zborovanje zaupnikov Slov. Ljudske Stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">296</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LEV4RGLS</pubPlace>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <gap reason="irrelevant"/>
+            <opener>Udanostna izjava Presvetlemu gospodu knezoškofu ljubljanskemu dr.
+                  <persName>Antonu B. Jegliču</persName>.</opener>
+            <p xml:id="No.19.PPP.1">Zbor zaupnikov S. L. S., zbran dne <date when="1917-12-27">27.
+                  decembra 1917</date> v Ljubljani, izraža svojemu škofu sinovsko udanost ter se mu
+               iskreno zahvaljuje: </p>
+            <p xml:id="No.19.PPP.2">da po navodilih sv. očeta <persName>Benedikta XV.</persName>
+               tako vneto deluje za svetovni mir, da je v najodličnejši dobi življenja Slovencev vse
+               sinove slovenskega naroda ob deklaracijskem programu združil in zedinil, da je tako
+               jasno, odločno in možato nastopil za obstoj in edinost S. L. S.</p>
+            <p xml:id="No.19.PPP.3">Nadejamo se, da bo Presvetli vladika končno kot sad svojega
+               plemenitega stremljenja za blagor Cerkve in naroda videl vso svojo duhovščino
+               združeno in zedinjeno.</p>
+            <closer>Za zbor zaupnikov<lb/> S. L. S. prelat <persName>Kalan</persName></closer>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

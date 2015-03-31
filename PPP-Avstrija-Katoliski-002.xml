@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peticija gosposki zbornici državnega zbora na Dunaju za versko šolo na podlagi
+               materinega jezika, sprejeta na prvem shodu Katoliškega političnega društva v
+               Ljubljani 9. marca 1890</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30532</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-002.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30532</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Prvi shod katol. polit. društva.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">60</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-HNQFBKJ9</pubPlace>
+                     <date when="1890-03-13">13. 3. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi shod katol. polit. društva.</head>
+            <head>(Dalje.)</head>
+            <gap reason="irrelevant"/>
+            <opener xml:id="No.2.PPP.1">Visoka gosposka zbornica!</opener>
+            <p xml:id="No.2.PPP.2">1. Ko je bil sedaj veljavni zakon za državne ljudske šole
+               sklenen, obetali so si od zakona najboljših vspehov za splošno ljudsko omiko. A kar
+               so upali in pričakovali, ni se izpolnilo in se tudi ni moglo izpolniti.</p>
+            <p xml:id="No.2.PPP.3">Nekaj teh napak je sicer odstranjenih vsled šolske novele za
+               ljudske šole od <date when="1883-05-02">2. maja 1883</date>, ostale so pa še druge in
+               sicer najbolj pomenljive in odločilne in treba jih je odstraniti toliko hitreje,
+               kolikor očitneje se kažejo dan za dnevom žalostni nasledki, vsled katerih previdni
+               krogi s skrbjo gledajo v prihodnost. </p>
+            <p xml:id="No.2.PPP.4">Visoka naučna uprava je sama uvidela potrebo, da se spremeni
+               državni zakon za ljudsko šolo; zato je predložila tak predlog visoki gosposki
+               zbornici, kateri sedaj razpravlja v to odbrani odsek. </p>
+            <p xml:id="No.2.PPP.5">Toda tudi ta državni predlog naučnega ministerstva se nič ne
+               ozira na najbolj pomanjkljive in bistvene nedostatnosti sedanjega državnega zakona za
+               ljudske šole.</p>
+            <p xml:id="No.2.PPP.6">Že pri prvem posvetovanju o tej šolski predlogi v visoki gosposki
+               zbornici poudarjalo je poročilo manjšine odsekove, odbrane za pripravljajoča
+               posvetovanja, da nravno prepričanje, ki je neobhodno potrebno za vrejeno družbeno
+               življenje, ima le v veri stalno poroštvo in trdno podlago, na kateri stoječ se človek
+               vzdrži v vsakem viharju strastij in pohlepnosti.</p>
+            <p xml:id="No.2.PPP.7">Ni pa dovolj, vzbujati in pospeševati to nravno čutilo v človeku
+               le s tem, da se v ljudski šoli poučuje veronauk, marveč treba, da se ta <hi
+                  rend="italic">nauk ne loči od drugega pouka</hi>, ker ljudska šolanima samo
+               naloge, človeka seznanjati s koristnimi vednostmi, marveč prav posebno tudi ljudi
+               vzgojevati. Da, skušnja vseh stoletij dokazuje, da je v letih, ko se človek razvija,
+               najvažnejša <hi rend="italic">vzgoja</hi>, ki mora prešinjati ves pouk, ker vzgoja
+               določuje, kako bo človek vporabljal svoje vednosti v življenju. Vsi pa, ki poznajo
+               natoro človeško, edini so v tem, da je ta vporaba vednosti odvisna od nravnega
+               prepričanja, ki človeku ni prirojeno, marveč po vplivanju drugih, dobro vzgojenih
+               ljudij pridobljeno. Enako gotova je resnica, da je neizogibna podlaga nravnega
+               razvoja <hi rend="italic">vera</hi>, katere odločilni vpliv na vzgojo je človeški
+               naravi vtrjena in neizogibna potreba.</p>
+            <p xml:id="No.2.PPP.8">To načelo priznavajo tudi naši postavodajalni krogi, ker
+               zaznamujejo v našem sedanjem državnem zakonu za ljudske šole nravno-versko omiko kot
+               izrečen, določen namen ljudske šole. Tega edino pravega načela niso mogli in niso
+               smeli zatajiti, toda opustili so izvesti tudi njega posledice. Kajti ako se izraža,
+               da je versko-nravna vzgoja vrhovno načelo pri vzgojevanju mladine opomni prav
+               primerno zgorej omenjeno poročilo manjšine – tedaj sledi naravnost, da se šoli ohrani
+               oni verski značaj, ki je last občinam, za katere so šole zgrajene, ker ta verski
+               značaj šole edin je zmožen, da se versko-nravna vzgoja krepko razvija za življenje;
+               zato pa nimajo samo katoliki pravice, da se vzgoja njih mladine vrejuje po načelih
+               njih katoliške vere, isto pravico imajo vse druge vere, da hranijo isto podlago vsake
+               prave vzgoje.</p>
+            <p xml:id="No.2.PPP.9">Toda ako morajo stariši pošiljati svoje otroke v šole, ki jim ne
+               dajejo poroštva, da se bodo otroci vzgojevali po načelih svoje vere, tedaj tako
+               postopanje ne prekrši samo zgoraj omenjenega edino pravega načela, marveč krši tudi
+               starišem po postavi zagotovljeno svobodo vesti, ki jim daje pravico, vzgojevati svoje
+               otroke v oni veri, katero spoznajo kot edino pravo in zveličalno.</p>
+            <p xml:id="No.2.PPP.10">2. Nadaljna zeló občutljiva nedostatnost pri sedaj veljavnem
+               državnem zakonu za ljudske šole je v tem, da se ne izraža tako jasno in določno o
+               učnem jeziku, da bi bila izključena vsaka samovolja; kajti § 6., ki govori o učnem
+               jeziku in o poduku v drugem deželnem jeziku, ni se potrdil vkljub raznim ondi
+               nahajajočim se oprezilom. Sicer je res, da so deželna šolska oblastva po besedah
+               istega paragrafa pri svojih odlokih vezana <q>na mejo odločeno jim po zakonih</q>, s
+               čemer se misli na § XIX. Temeljnega državnega zakonika o splošnih pravicah
+               državljanov; kljub temu se vendar v mnogih jezikovno mešanih deželah niso ménila za
+               ta določila in so poskušala posebno na <placeName>Štajarskem</placeName>,
+                  <placeName>Koroškem</placeName> in <placeName>Primorskem</placeName> omejevati
+               pravice materinega jezikav ljudski šoli, ali ga celó popolno izpodriniti iz osnovnih
+               šol. To samovoljno in zlorabno vporabo zakona je v mnogem pospeševal omenjeni
+               paragraf veljavnega državnega zakona za ljudske šole, ker se ne izrazi o tem dovolj
+               natančno. Treba torej tudi vtem oziru nujne premembe.</p>
+            <p xml:id="No.2.PPP.11">Dostojno podpisano <q>katol. politično društvo</q> v
+                  <placeName>Ljubljani</placeName> misli, da je nepotrebno in celó razžaljivo za
+               razumnost in modrost odličnih članov gosposke zbornice, da bi hotelo še le dokazovati
+               vsestransko in od vseh pedagogov priznano načelo: da je le tedaj pričakovati v
+               ljudski šoli vspešnega in sadonosnega poduka, ako se isti vrši na podlagi vsem
+               otrokom umevnega, torej materinega jezika.</p>
+            <p xml:id="No.2.PPP.12">Kvarijo se talenti, pregreši se hudo na ljudski omiki, kdor iz
+               strankarsko-političnih ozirov preganja materin jezik iz ljudske šole in svoje poskuse
+               napravlja s kakim tujim učnim jezikom. Nujno je tedaj in treba, da se ljudsko-šolski
+               zakon v svojih besedah popolno in izrečno ozira na to potrebo in da dotičnemu
+               določilu gledé učnega jezika dá tako jasne besede, da ne bo sploh mogoče dvomiti o
+               njih pomenu, da mora v ljudski šoli izključljivo le materin jezik veljati kot učni
+               jezik.</p>
+            <p xml:id="No.2.PPP.13">Ker se pa predloga izročena visoki gosposki zbornici ne ozira ne
+               na potrebe verstva in ne materinega jezika kot učni jezik, zato stavi vdano podpisano
+                  <q>katol. politično društvo v <placeName>Ljubljani</placeName></q>, ki si je
+               stavilo nalogo pospeševati slovenskega naroda duševni in gmotni napredek v verskem,
+               narodnem in državnem oziru, zbrano na društvenem shodu v Ljubljani dné <date
+                  when="1890-03-09">9. marca 1890</date>, skromno prošnjo:</p>
+            <p xml:id="No.2.PPP.14">Visoka gosposka zbornica izvôli predloženi postavni načrt vis.
+               c. kr. vlade gledé nekaterih prememb državnega zakona za ljudske šole odkloniti in
+               skleniti tako ljudsko-šolsko postavo, ki bo popolno vstrezala veri učencev in
+               določevala jasno materin jezik kot učni jezik v šoli.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklep kranjskega deželnega zbora glede volilne reforme za volitve v deželni in
+               državni zbor, sprejet 17. novembra 1905</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30781</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-122.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30781</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik sedme seje deželnega zbora kranjskega v Ljubljani
+                     dne 17. novembra 1905.</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 25. oktobra 1905 do 29. decembra 1907</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">46</biblScope>
+                     <biblScope unit="page">143, 155</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.122.PPP.1">
+               <head>I.</head>
+               <list type="ordered">
+                  <item n="1.)">Deželni zbor se izreka za načelo splošne, enake, neposredne in tajne
+                     volilne pravice pri volitvah v deželni zbor in v poslansko zbornico državnega
+                     zbora, ter uvideva nujno potrebo, da se izvrši čimpreje volilna preosnova, ki
+                     oživotvori označena načela.</item>
+                  <item n="2.)">C. kr. osrednja vlada se pozivlje, da nemudoma predloži državnemu
+                     zboru zakonski načrt v pod 1. označenem zmislu.</item>
+                  <item n="3.)">C. kr. vlada se pozivlje, da nujno izdela zakonska načrta o
+                     spremembi deželnega reda in deželnega volilnega reda v pod 1. navedenem zmislu
+                     in ju predloži deželnemu zboru, ki naj se baš v svrho sklepanja o teh zakonskih
+                     načrtih skliče v izredno zasedanje vsaj meseca januarja 1906.</item>
+               </list>
+            </div>
+            <div xml:id="No.122.PPP.2">
+               <head>II.</head>
+               <p>Za slučaj, da bi nujno oživotvorjenje označene reforme parlamentarnim potom
+                  izkazalo se kot nemogoče, se c. kr. osrednja vlada pozivlje, nasvetovati na
+                  najvišjem mestu, da se sedanji deželno- in državnozborski volilni red, ki sloni na
+                  oktroiranem februarskem patentu iz l. 1861., potom najvišje odločitve razveljavi
+                  in istim potom uvede za državni in deželni zakonodajni zastop nov volilni red po
+                  načelih splošne, enake, neposredne in tajne volilne pravice.</p>
+            </div>
+            <div xml:id="No.122.PPP.3">
+               <head>III.</head>
+               <p>C. kr. osrednja vlada se pozivlje skrbeti za to, da se v vsakem slučaju, enodobno
+                  z oživotvorjenjem novih volilnih redov uveljavi tudi poseben zakon v osiguranje
+                  popolne svobode vsacega k volitvi upravičenega državljana. </p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

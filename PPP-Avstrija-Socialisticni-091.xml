@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nastop pripadnika Jugoslovanske socialnodemokratske stranke Ivana Cankarja proti
+               integralističnemu jugoslovanstvu <q>Tivolske</q> resolucije</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30657</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-091.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30657</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Zarja.1913-04-16">
+            <biblStruct>
+               <analytic>
+                  <title>Slovenci in Jugoslovani</title>
+                  <author>
+                     <forename>Ivan</forename>
+                     <surname>Cankar</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title>Zarja</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">558</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-A01OVTMD</pubPlace>
+                     <date when="1913-04-16">16. 4. 1913</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Zarja.1913-04-17">
+            <biblStruct>
+               <analytic>
+                  <title>Slovenci in Jugoslovani</title>
+                  <author>
+                     <forename>Ivan</forename>
+                     <surname>Cankar</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title>Zarja</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">559</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-BKQQJHNO</pubPlace>
+                     <date when="1913-04-17">17. 4. 1913</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Zarja.1913-04-16">
+            <head>Slovenci in Jugoslovani</head>
+            <opener>(Predavanje <persName>Ivana Cankarja</persName> v ljubljanskem <name>Mestnem
+                  domu</name>
+               <date when="1913-04-12">12. aprila 1913</date>.)</opener>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.91.PPP.1"><gap reason="irrelevant"/>Že prej sem dovolj jasno povedal, kateri da je tisti daljni
+               cilj, ki nam vsem živi v srcih, ki je naturen in ki se bo torej končno vkljub vsemu
+               in vsem tudi uresničil, kakor se prej ali slej uresniči vse, kar ukazuje naturni
+               razvoj. Daljni cilj, sem rekel: zakaj ovire, ki so na poti do njegovega utelešenja,
+               so danes vsaj na videz še nepremagljive. Jugoslovanska plemena so razdrobljena v
+               petero držav in pol. V <placeName>avstro-ogrski monarhiji</placeName> sami smo tako
+               rekoč razsekani na drobne kosce. Politični stiki med temi kosci so malodane
+               onemogočeni. Lahko bi rekel, da je v političnem oziru kljub <hi rend="italic"
+                  >enemu</hi> žezlu in <hi rend="italic">eni</hi> himni
+                  <placeName>Zagreb</placeName> skoraj dalj od <placeName>Ljubljane</placeName>,
+               nego <placeName>Pariz</placeName> ali <placeName>Madrid</placeName>. Treba bo silnega
+               napora in dolgega potrpljenja, da se uravna, kar sta izkrivenčila zgodovina in pa
+               zlohotna politika. V zadnjih letih smo začeli iskati potov, da pridemo do političnih
+               stikov vsaj med onimi kosi Jugoslovanstva, ki so obsojeni na življenje v monarhiji.
+               Po mojih mislili smo zares našli pot, ki je za zdaj edino možna in primerna – to pot
+               namreč, da se seznanjajo in zbližujejo sorodne politične stranke v posameznih
+               deželah. Slovenska socialno demokratična stranka je pred štirimi leti sklicala v
+                  <placeName>Ljubljano</placeName> jugoslovansko konferenco, katere so se udeležili
+               zastopniki vseh jugoslovanskih bratskih strank – samo Bolgara, če se prav spominjam,
+               ni bilo nobenega. Kar se je tam govorilo in sklepalo, zame ni toliko važno, kakor že
+               samo dejstvo, da so zastopniki delavstva vseh jugoslovanskih narodov začutili potrebo
+               medsebojnega razgovora. Neprijetno mi je bilo edinole, da se konferenca ni omejila na
+               strankine in politične zadeve, temveč da je mimogrede sklepala tudi o čisto kulturnih
+               in celo jezikovnih vprašanjih. Prepričan sem, da prihodnja konferenca te napake ne bo
+                  ponovila.<gap reason="irrelevant"/></p>
+            <p xml:id="No.91.PPP.2">Vse to stremenje po sporazumu in zbližanju med posameznimi političnimi strankami
+               četverih jugoslovanskih narodov se mi zdi naravno, potrebno in razveseljivo. Kmalu bi
+               bil ponosen, da se v tej stvari največ in skoraj edino prizadevajo Slovenci, naj se
+               že prištevajo tej ali oni stranki. Toda v tem hvalevrednem prizadevanju se je
+               pojavilo še nekaj drugega, kar ni prav nič naravno, prav nič potrebno, še najmanj pa
+               razveseljivo. To je poglavje, ki je žalostno in smešno, ali žalostno precej bolj.
+               –</p>
+            <milestone xml:id="No.91.PPP.3" unit="section" n="__________"/>
+            <p xml:id="No.91.PPP.4">Kakor ste videli, sem smatral jugoslovanski problem za to, kar je: namreč za
+               izključno političen problem. Za problem razkosanega plemena, ki se v življenju
+               človeštva ne more uveljaviti, dokler se ne združi v celoto. To je vse! Kakšno
+               jugoslovansko vprašanje v kulturnem ali celo v jezikovnem smislu zame sploh ne
+               eksistira. Morda je kdaj eksistiralo; toda rešeno je bilo takrat, ko se je
+               jugoslovansko pleme razcepilo v četvero narodov s četverim čisto samostojnim
+               kulturnim življenjem. Po krvi smo si bratje, po jeziku vsaj bratranci – po kulturi,
+               ki je sad večstoletne separatne vzgoje, pa smo si med seboj veliko bolj tuji, nego je
+               tuj naš gorenjski kmet tirolskemu, ali pa goriški viničar furlanskemu. Bodi tega
+               kriva zgodovina, bodi kriv kdorkoli – jaz, ki dejstvo konštatiram, ga čisto gotovo
+               nisem zakrivil.<gap reason="irrelevant"/></p>
+         </div>
+         <div decls="#bibl.Zarja.1913-04-17">
+            <gap xml:id="No.91.PPP.5" reason="irrelevant"/>
+            <p xml:id="No.91.PPP.6">Poglavitna naloga, ki je prisojena nam Slovencem ob reševanju jugoslovanskega
+               problema, je ta-le: uveljavimo svoje jugoslovanstvo za zdaj le v toliko, da se vsi
+               skupaj, kolikor nas je, naučimo na izust star srbsko-hrvaški rek – <q>Uzdaj se use i
+                  u svoje kljuse!</q> – Toliko bodo priznali gotovo tudi najbolj hripavi Ilirci: ako
+               pride kdaj do političnega združenja jugoslovanskih narodov – in ne samo moja vroča
+               želja je, temveč tudi moje trdno prepričanje, da do tega združenja res pride – tedaj
+               se to ne more izvršiti drugače, kakor da se združijo enakopravni in enakovredni
+               narodi. Že sama ta enostavna misel nam kaže polje, kjer moramo orati in sejati ne le
+               zase, temveč za vse jugoslovanstvo. To pa je naše lepo domače slovensko polje. Pod
+               avstrijskim valptom, v svoji ječi in revščini in mnogoštevilnih nadlogah smo
+               povzdignili svojo kulturo tako visoko, da je kras in veselje. To je izraz narodne
+               moči, ki ne zaostaja prav nič za tisto močjo, ki se je pojavila pred
+                  <placeName>Lozengradom</placeName> in pri <placeName>Kumanovu</placeName>. Glejmo,
+               da bomo v sebi zdravi, močni in vsaj duševno bogati (če že ne drugače), tako da nekoč
+               ne pridemo k bratom prosit miloščine, temveč da jim prinesemo darov; ali pa še boljše
+               – da si pridejo bratje sami po te darove, preden bi jih mi ponujali.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

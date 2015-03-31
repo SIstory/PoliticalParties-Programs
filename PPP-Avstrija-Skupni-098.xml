@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programske usmeritve Edinosti – glasila političnega društva Edinost v
+               Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30636</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-098.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30636</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Program</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-KBM7PNV2</pubPlace>
+                     <date when="1876-01-08">8. 1. 1876</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>PROGRAM</head>
+            <p xml:id="No.98.PPP.1">Velika važnost tržaškega mesta za Slovane in vzlasti Slovence,
+               neugodne razmere tržaškega slovenskega ljudstva in prebivalcev po okolici neobhodno
+               zahtevajo, da se v <placeName>Trstu</placeName> ustanovi slovensk časopis.</p>
+            <p xml:id="No.98.PPP.2">Sprevidevši to potrebo, sklenolo je politično društvo
+                  <q>Edinost</q> izdajati časnik, ki bode:</p>
+            <list xml:id="No.98.PPP.3" type="ordered">
+               <item n="a)">popolnem <hi rend="italic">neodvisen</hi> imel pred očmi z društvom
+                  enake namere;</item>
+               <item n="b)">on bode <hi rend="italic">svobodoljuben</hi>, nikakor pa ne svobodnjašk;
+                  njegovo svobodoljublje bo sezalo do tiste meje, do katere sega pravica in
+                  poštenje;</item>
+               <item n="c)">on bode <hi rend="italic">miroljuben</hi>, ne bode budil domačih
+                  prepirov, ampak priporočeval bo edinost i slogo; mir zemlji, dobra volja
+                  ljudém!</item>
+               <item n="d)">on bode <hi rend="italic">naroden</hi> in tedaj bo odločno odbijal
+                  sovražne napade na slovensko narodnost, naj dohajajo od kodar koli si bode;
+                  potezal se bo za to, da se našemu jeziku dá v šolah, pisarnicah in javnih zavodih
+                  tista pravica, katera mu pristuje po ustavnih določbah i naravi;</item>
+               <item n="e)">on bode budil slovensko rodoljubje, učíl, dramil in jačil prosto naše
+                  ljudstvo;</item>
+               <item n="f)">z verskimi zadevami se ne bo pečal i le to želí, da vsak ohrani mirno i
+                  čisto vest, pa bode njemu i vsem najbolj prav.</item>
+            </list>
+            <p xml:id="No.98.PPP.4">Ták je naš program. Bog daj vspeh in srečo blagemu namenu!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

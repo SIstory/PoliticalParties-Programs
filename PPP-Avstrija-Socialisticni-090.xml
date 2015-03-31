@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nastop pripadnika Jugoslovanske socialnodemokratske stranke dr. Antona Dermote
+               proti integralističnemu jugoslovanstvu <q>Tivolske</q> resolucije</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30656</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-090.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30656</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Odgovori na <title>Vedino</title> anketo o jugoslovanskem vprašanju</title>
+               </analytic>
+               <monogr>
+                  <title>Veda</title>
+                  <title>dvomesečnik za znanost in kulturo</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">4-5</biblScope>
+                     <pubPlace>Gorica</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-YU18E5AY</pubPlace>
+                     <date when="1913">1913</date>
+                     <biblScope unit="page">376–377</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Odgovori na <title>Vedino</title> anketo o jugoslovanskem vprašanju</head>
+            <gap reason="irrelevant"/>
+            <opener>Dr. <persName>Anton Dermota</persName>, <placeName>Gorica</placeName>.<lb/><date
+                  when="1913-04-23">23. aprila 1913</date></opener>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.90.PPP.1">Govorim zgolj v svojem imenu; vendar pa opozarjam, da je bila <date from="1909-11-21"
+                  to="1909-11-22">21. in 22. nov. 1909.</date> v <placeName>Ljubljani</placeName>
+               prva konferenca delegatov jugoslovanskih socialno demokratičnih strank, ki je naš
+               problem precej globoko načela. Ta konferenca je načrtala nekakšen program, – vendar
+               pa ni rečeno nikjer, da pristaš stranke ne bi smel imeti v posameznostih tudi malce
+               drugačnega naziranja.</p>
+            <p xml:id="No.90.PPP.2">Jugoslovani smo baje enoten narod; Slovenci, Srbi, Hrvati in Bolgari smo njegovi
+               deli. Ali se s to konštatacijo nismo morda prenagnili? Enega <hi rend="italic"
+                  >rodu</hi> smo, – toda <hi rend="italic">enoten narod?</hi> Samo radi tega? Oh,
+               koliko nam do te enotnosti, do enotne narodnosti še manjka! Ali mislite, da bi nam
+               enotni jezik že vtisnil neizbrisno znamenje enotnega naroda? Četudi bi bila zgodovina
+               in preteklost posameznih jugoslovanskih rodov, ki naj bi tvorili ta narod, različna,
+               življenski in eksistenčni pogoji različni, kultura in kulturna stremljenja
+               različna?</p>
+            <p xml:id="No.90.PPP.3">Ne gre mi za to, da bi sebe poviševal, da bi bili ponižani drugi; dovoljeno pa mora
+               biti, da dvomim o tej enotnosti, ker so razlike prehude, in sicer takšne, da se
+               Slovencem ni treba sramovati biti Slovenec.</p>
+            <p xml:id="No.90.PPP.4">Ali tendenca sploh gre k enotnosti? Nočem biti pesimist in nočem kar zanikati tega
+               vprašanja.</p>
+            <p xml:id="No.90.PPP.5">Toda druga stvar je: ali je res praktično, da se ženemo za približevanjem našega
+               jezika srbohrvaščini, že sedaj in v prvi vrsti? Ali nimamo potov, ki bi se po njih
+                  <hi rend="italic">prej in večji praktični uspeh dosegel</hi> v našem stremljenju
+               po jugoslovanskem edinstvu? Ali ni sploh sila nepraktično, sedaj in predvsem
+               pospeševati to edinstvo s približevanjem jezikov? Ali se Vam ne zdi ta procedura
+               nekoliko protinaravna? Ali Vam ni prišlo še na misel, da bi zbliževanje moralo roditi
+               rezultat, da se slovenščina stopi s srbohrvaščino, da bi Slovenci morali sami ubiti
+               svoje kulturno delo in stremljenje, in da bi Srbohrvatom in Slovencem s tem
+               samoubojstvom Slovencev ne bilo prav nič pomagano? Če Slovenci kot taki ne moremo
+               vzdržati in obstati, – kaj niste pomislili, da tudi kot Jugoslovani brez svoje
+               narodne individualnosti nič prida ne bodemo mogli pomeniti?</p>
+            <p xml:id="No.90.PPP.6">Ali je res treba, da uganjamo to približevanje jezikov? Saj nam vendar to ni cilj? In
+               tudi ni prav nič treba, da bi nam bilo sredstvo! Če bi si bili jugoslovanski jeziki
+               res tako tuji, da se drug drugega ne bi razumeli, potem bi morda tako umetno
+               zbliževanje imelo smisel, kakor ga ima esperanto; ker pa te odtujenosti med jeziki
+               ni, marveč nas loči v tem oziru samo <hi rend="italic">indolenca</hi>, se mi zdi, da
+               je trud zaradi zbliževanja jezikov nepotreben, ako imamo pred seboj cilj, da dosežemo
+               jugoslovansko edinstvo.</p>
+            <p xml:id="No.90.PPP.7">S tega stališča se mi zdijo vsi pomisleki in ugovori, češ, da se književnost in
+               kultura sploh posameznih jugoslovanskih narodov ne bi mogla spraviti do veljave,
+               neutemeljeni. Naš problem ni toliko problem književnih vprašanj ali jezikovnih,
+               marveč v prvi vrsti političen, gospodarski in socialen. Ni res, da bi že v sedanjih
+               razmerah ne mogli ali ne smeli stremiti za uresničenjem tega problema: saj ni treba,
+               da smo zaradi tega stremljenja veleizdajniki in iredentisti!</p>
+            <p xml:id="No.90.PPP.8">Iz tega posnemate, da zame <q>približevanje slovenskega jezika srbo-hrvaščini</q> ni
+               noben problem, in še celo ne <q>eden naših temeljnih problemov</q>. Za svoje
+               življenje si praktično uredim razmerje med jugoslovanskimi jeziki in njih odnošaji so
+               mi potem dani: izkušam, da ovladam, če že ne vseh, vsaj večino teh jezikov; prav
+               nobenega razloga pa ne vidim, zakaj naj bi se to godilo na škodo moji slovenski
+               materinščini; nasprotno: če se smatram za kulturnega delavca in če prav ocenjujem
+               svoje sile in sposobnosti, bom skrbel za povzdigo kulture doma in si želel, da drugi
+               drugod tudi tako storijo. Kdor pa misli, da more in mora več, – njegova stvar!</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

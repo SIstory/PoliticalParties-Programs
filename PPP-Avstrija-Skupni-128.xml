@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zakonski načrt kranjskega deželnega zbora o spremembi deželnega reda za vojvodino
+               Kranjsko, sprejet 19. junija 1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30787</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-128.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30787</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Priloga 24</title>
+               </analytic>
+               <monogr>
+                  <title>Dodatek II. k 47. zvezku deželnozborskih obravnav obsegajoč priloge izza
+                     let 1908, 1909 in 1910</title>
+                  <imprint>
+                     <biblScope unit="page">874–877</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik tretje seje deželnega zbora kranjskega v Ljubljani
+                     dné 19. junija 1908</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>zasedanja od 27. marca 1908 do 29. oktobra 1910</title>
+                  <title>po stenogradičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">47</biblScope>
+                     <biblScope unit="page">34–38</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>deželni odbor kranjski</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.128.PPP.1">S pritrditvijo deželnega zbora Svoje vojvodine
+                  <placeName>Kranjske</placeName> ukazujem tako:</p>
+            <div xml:id="No.128.PPP.2">
+               <head>Člen I.</head>
+               <p>Spreminjaje in dopolnjevaje deželni red za vojvodino
+                     <placeName>Kranjsko</placeName>, izdan z mojim patentom z dne <date
+                     when="1861-02-26">26. februarja 1861</date>. l. drž. zak. št. 20, stopijo
+                  namesto spodaj oznamenjenih paragrafov deželnega reda, oziroma kot ustavki k
+                  posameznim paragrafom nastopna določila:</p>
+               <list type="simple">
+                  <label>§ 3.</label>
+                  <item>
+                     <p>Deželni zbor obstoji iz petdesetih članov, namreč:</p>
+                     <list type="ordered">
+                        <item n="a)">Knezoškofa ljubljanskega; </item>
+                        <item n="b)">z devetinštirideset izvoljenih poslancev in sicer:<list
+                              type="ordered">
+                              <item n="I.">deset poslancev velikega posestva,</item>
+                              <item n="II.">dvanajst poslancev mest in trgov navedenih v volilnem
+                                 redu ter trgovske in obrtne zbornice,</item>
+                              <item n="III.">šestnajst poslancev za ostale občine vojvodine Kranjske
+                                 (kmetske občine),</item>
+                              <item n="IV.">enajst poslancev splošnega volilskega razreda.</item>
+                           </list></item>
+                     </list></item>
+                  <label>§ 11.</label>
+                  <item>
+                     <p>Deželni odbor, ki je upravni in izvrševalni organ deželnega zastopa, obstoji
+                        pod predsedstvom deželnega glavarja iz petero iz srede deželnega zbora
+                        izvoljenih prisednikov.</p>
+                     <p>Deželni glavar imenuje za slučaj zadržka namestnika za vodstvo deželnega
+                        odbora iz njegove sredine.</p>
+                  </item>
+                  <label>§ 12.</label>
+                  <item>
+                     <p>Enega prisednika deželnega odbora volijo poslanci velikega posestva (§ 3.,
+                        I.), enega poslanci mest in trgov ter trgovske in obrtne zbornice (§ 3.,
+                        II.), enega poslanci kmetskih občin (§ 3., III.), enega poslanci splošnega
+                        volilskega razreda (§ 3. IV.), ter enega vsi zbrani deželni poslanci iz
+                        srede deželnega zbora.</p>
+                     <p>Vsaka taka volitev se izvrši z nadpolovično večino glasujočih.</p>
+                     <p>Če se pri prvi in pri ponovljeni volitvi ne doseže nadpolovična večina, se
+                        ima vršiti ožja volitev med tistima dvema osebama, kateri ste pri drugi
+                        volitvi dobili največ glasov.</p>
+                     <p>Pri enakosti glasov odloči žreb.</p>
+                  </item>
+                  <label>§ 15. <hi rend="italic">a</hi>).</label>
+                  <item>
+                     <p>Vse volitve, katere ima izvršiti deželni zbor v pripravljalne deželnozborske
+                        odseke, se morajo urediti tako, da volijo poslanci volilskega razreda
+                        velikega posestva (§ 3., I.), odnosno poslanci volilskega razreda mest in
+                        trgov ter trgovske in obrtne zbornice (§ 3., II.), potem poslanci volilskega
+                        razreda kmetskih občin (§ 3., III.) in poslanci splošnega volilskega razreda
+                        (§ 3., IV.) po enega odsekovega člana, vsi zbrani poslanci pa ostale
+                        odsekove člane iz srede deželnega zbora.</p>
+                     <p>Za posamezne nove volitve veljaj volilni način, po katerem se je bil volil
+                        odsekov član, čegar mesto se ima izpolniti.</p>
+                  </item>
+                  <label>§ 33.</label>
+                  <item>
+                     <p>Vsled pravilnega sklicanja zbrani deželni zbor ima v svoj delokrog spadajoče
+                        zadeve razpravljati in reševati v sejah.</p>
+                     <p>Razpravna jezika deželnega zbora in njegovih odsekov sta oba deželna
+                        jezika.</p>
+                     <p>Deželni glavar odreja, otvarja in zaključuje seje.</p>
+                     <p>Prvosednik je dolžan skrbeti za vzdržavanje miru in reda med posvetovanji
+                        deželnega zbora in za to, da se varuje parlamentarna dostojnost. Motenje
+                        razprav deželnega zbora in pregreške njegovih članov proti parlamentarni
+                        dostojnosti kaznuje prvosednik s klicem <q>k redu</q>.</p>
+                     <p>Ako eden ali več članov deželnega zbora hudo moti mir, se težko pregreši
+                        zoper parlamentarni red ali kruto žali deželni zbor ali prvosednika, smejo
+                        se dotični člani na dobo največ treh sej izključiti iz deželnega zbora.</p>
+                     <p>Ako misli prvosednik, da je dan povod za izključenje kakega člana, ima
+                        sklicati disciplinarni odsek ter, če treba, prekiniti deželnozborsko
+                        sejo.</p>
+                     <p>Disciplinarni odsek, ki se ustanovi za deželnozborsko volitveno dobo,
+                        obstoji iz petero članov in petero namestnikov. Člani, kakor tudi njihovi
+                        namestniki se volijo po predpisu § 15. a tega zakona.</p>
+                     <p>Ako je kak odsekov član začasno zadržan, stopi na njegovo mesto namestnik,
+                        ki je bil izvoljen za dotičnega člana.</p>
+                     <p>Če je mesto odsekovega člana trajno izpraznjeno, se ima izvršiti nova
+                        volitev (§ 15. a, drugi odstavek).</p>
+                     <p>Za sklepanje v disciplinarnem odseku je potrebna navzočnost vsaj treh
+                        članov; predseduje odseku po letih najstarejši izmed navzočih članov. O
+                        izključenju in o dobi izključenja sklepa odsek v tajni seji z večino glasov.
+                        Svoji razsodbi mora pridejati disciplinarni odsek razloge.</p>
+                     <p>Sklep disciplinarnega odseka ima predsednik deželnega zbora takoj v deželnem
+                        zboru razglasiti.</p>
+                     <p>Ako se glasi sklep disciplinarnega odseka na izključenje, pozove prvosednik
+                        dotičnega poslanca, da zapusti dvorano.</p>
+                     <p>Priziv zoper ta sklep na deželni zbor je nedopusten.</p>
+                     <p>Izključeni člani ne dobivajo za dobo izključenja nobenih dnevščin.</p>
+                     <p>Ako se deželni zbor odloži ali sklene, se konča veljavnost izključenja.</p>
+                  </item>
+                  <label>§ 34.</label>
+                  <item>
+                     <p>Deželnozborske seje so javne.</p>
+                     <p>Ako poslušalci motijo razprave deželnega zbora, je po naročilu prvosednika
+                        odstraniti nepokojnike, eventuelno izprazniti galerije.</p>
+                     <p>Izjemoma se more napraviti tajna seja, če to želi prvosednik ali vsaj petero
+                        članov, in če se po odstranjenju poslušalcev za to odloči deželni zbor.</p>
+                  </item>
+                  <label>§ 38.</label>
+                  <item>
+                     <p>Za sklepanje v deželnem zboru je treba, da je nad polovico vseh članov
+                        navzočih, in za veljavnost sklepa je treba nadpolovične večine navzočih
+                        poslancev. Če je število glasov enako, je v razpravi stoječi predlog
+                        padel.</p>
+                     <p>Za sklepe o nasvetovanih spremembah deželnega reda je potrebna navzočnost
+                        vsaj treh četrtin vseh članov in pritrditev vsaj dveh tretjin navzočih
+                        poslancev. Spremembe §§ 3, 12, 15 a, 33 in 38 se pa morejo skleniti le ob
+                        navzočnosti vsaj dvainštiridesetih poslancev in ob pritrditvi vsaj treh
+                        četrtin navzočih zborničnih članov.</p>
+                  </item>
+               </list>
+            </div>
+            <div xml:id="No.128.PPP.3">
+               <head>Člen II.</head>
+               <p>Določbe glede opravilnega reda deželnega zbora in deželnega odbora, katere so v
+                  protislovju z določbami tega zakona, se razveljavijo.</p>
+            </div>
+            <div xml:id="No.128.PPP.4">
+               <head>Člen III.</head>
+               <p>Ta zakon stopi v veljavo ob enem z zakonom z dne . . . . . . št. . . . . dež.
+                  zak., s katerim se spreminja volilni red za deželni zbor vojvodine
+                     <placeName>Kranjske</placeName>.<note place="foot" source="#SourceBornDigital"
+                     >Zakona o spremembi deželnega reda za vojvodino <placeName>Kranjsko</placeName>
+                     in spremembi volilnega reda za deželni zbor vojvodine
+                        <placeName>Kranjske</placeName> sta bila izdana <date when="1908-08-26">26.
+                        8. 1908</date>. – <hi rend="italic">14.</hi> Zakon z dné 26. avgusta 1908,
+                        <hi rend="italic">veljaven za vojvodino Kranjsko, s katerim se spreminja
+                        deželni red za vojvodino Kranjsko</hi>. Deželni zakonik za vojvodino
+                     Kranjsko : leto 1908 : X. kos : izdan in razposlan 12. septembra 1908.
+                     Ljubljana : Učiteljska tiskarna, str. 48–51; <hi rend="italic">15.</hi> Zakon z
+                     dné 26. avgusta 1908, <hi rend="italic">veljaven za vojvodino Kranjsko, s
+                        katerim se spreminja volilni red za deželni zbor vojvodine Kranjske</hi>.
+                     Deželni zakonik za vojvodino Kranjsko : leto 1908 : X. kos : izdan in razposlan
+                     12. septembra 1908. Ljubljana : Učiteljska tiskarna, str. 52–60.</note> Po
+                  izvršitvi dopolnilnih volitev, ki jih ukazuje čl. III. (prehodna določba) zadnje
+                  imenovanega zakona, ima deželni zbor v smislu §§ 11., 12. in 13. tega deželnega
+                  reda brez odloga spopolniti deželni odbor z izvolitvijo prisednika in namestnika
+                  iz splošnega volilskega razreda.</p>
+            </div>
+            <div xml:id="No.128.PPP.5">
+               <head>Člen IV.</head>
+               <p>Mojemu ministru za notranje zadeve je naročeno, izvršiti ta zakon.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

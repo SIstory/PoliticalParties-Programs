@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Narodno napredne stranke za Kranjsko o politiki kranjske Slovenske
+               ljudske stranke, sprejeta na shodu strankinih zaupnikov 2. februarja 1909 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30594</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-061.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30594</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Shod zaupnikov narodno napredne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLII</biblScope>
+                     <biblScope unit="issue">26</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-G5C2LWOT</pubPlace>
+                     <date when="1909-02-03">3. 2. 1909</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Shod zaupnikov narodno napredne stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.61.PPP"><hi rend="italic">Narod.-napredna stranka</hi> je po <date
+                  when="1908-09-20">20. septembru 1908</date> mnogo žrtvovala in zapostavila, da
+               omogoči skupen boj slovenskih strank, da pade vladni sistem in se vzame nemštvu
+               njegovo nenaravno moč. Obžaluje pa, da mora danes konstatirati, da v <q>S. L. S.</q>
+               ta smer ni našla poštenega odziva, dasi je ta stranka na zunaj to zatrjevala, v
+               resnici pa položaj le v svoje strankarske svrhe izrabljala. Narodno-napredna stranka
+               hoče vztrajati v najradikalnejšem odporu proti vladi in nemštvu brez ozira na levo in
+               desno in brez kompromisov, pri tem pa nikakor zanemarjati svojih kulturnih in
+               gospodarskih teženj, temuč<note source="#SourceBornDigital">Temveč.</note> delati
+               vztrajno, da se uresničijo; k temu delu pa združiti v močno vrsto vse, kar v deželi
+               čuti narodno in napredno.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

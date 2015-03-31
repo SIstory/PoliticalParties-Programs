@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program vseslovenske liberalne Jugoslovanske demokratske stranke, sprejet na
+               njenem ustanovnem zboru 29. in 30. junija v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30630</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-081.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30630</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Program Jugoslovanske demokratične stranke (J. D. S.)</title>
+                  <title>predlog pripravljalnega odbora.</title>
+               </analytic>
+               <monogr>
+                  <title>Domovina</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">14</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-T8MC71SD</pubPlace>
+                     <date when="1918-05-03">3. 5. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Program Jugoslovanske demokratične stranke (J. D. S.)</head>
+            <head>predlog pripravljalnega odbora.</head>
+            <div xml:id="No.81.PPP.1">
+               <head n="I.">Splošna politična načela.</head>
+               <div>
+                  <head n="1.">Narodnost in nje pojmovanje.</head>
+                  <p>J. D. S. je narodna stranka. V naši narodnosti vidimo poleg skupnosti jezika,
+                     skupnost kulturnih in socijalnih posebnosti, ki jih je ustvarilo ljudstvo tekom
+                     stoletij. Te posebnosti jamčijo našemu narodu nravni in gmotni obstoj, zato
+                     zahtevamo, da se vpoštevajo in goje. Narodnost nam je živa tvorna sila, ki se
+                     mora uveljavljati v vsem javnem in zasebnem življenju: v rodbini, v šolstvu, v
+                     skupni družabni vzgoji, v znanosti, umetnosti, slovstvu, pri izvajanju
+                     politike, v javni upravi, v pravnih in socijalnih uredbah.</p>
+               </div>
+               <div>
+                  <head n="2.">Enakopravnost in svoboda državljanov.</head>
+                  <p>J. D. S. je demokratska stranka. Volja ljudstva je merodajni činitelj javnega
+                     življenja. Vsi državljani so enakopravni. Ne priznavamo posameznikom, stanovom
+                     in napravam nobenih predpravic. Pod zunanje enakimi predpogoji naj si vsakdo
+                     lahko vstvari človeka vredno življenje. Odklanjamo vsakršno omejitev
+                     državljanske svobode.</p>
+               </div>
+               <div>
+                  <head n="3.">Stanovska in razredna nasprotstva ter vsenarodna politika.</head>
+                  <p>Ne utajujemo si nasprotij med stanovi in razredi prebivalstva. Vendar se spričo
+                     današnjega stanja naroda ne moremo odločiti za tvorbo političnih strank, ki bi
+                     združevale le pripadnike enega stanu in razreda. Naš narod se bori še za
+                     svobodo in narodno državo, to je, za pogoje neodvisnega gospodarskega in
+                     duševnega napredka. Ogromno njegovo večino <choice>
+                        <sic>tvori</sic>
+                        <corr>tvorita</corr>
+                     </choice> kmet in od njegovega prospeha odvisno malomeščanstvo z relativno
+                     maloštevilnim industrijskim delavstvom. Med temi stanovi so razredne razlike še
+                     malo nerazvite in niso dovolj jake, da bi same po sebi onemogočale enotno
+                     politično organizacijo. J. D. S. stoji na stališču, da se more narodna celota
+                     uspešno razvijati le, če se enakomerno dvigajo vsi stanovi naroda in zlasti
+                     šibki sloji. J. D. S. je proti vsaki politiki, ki bi merila na to, da bi živel
+                     en stan na stroške drugih stanov, zlasti pa tudi odklanja izigravanje enega
+                     stanu proti drugemu. Le demokratska politika, ki ima pred očmi vse stanove in
+                     celoto naroda, more preustrojiti državo ter dvigniti v njej posameznike. J. D.
+                     S. stremi za koncentracijo sil in jih hoče izravnavati v prid skupnemu
+                     smotru.</p>
+               </div>
+               <div>
+                  <head n="4.">Žensko vprašanje.</head>
+                  <p>Žena bodi možu enakopravna v kulturnem, pravnem, političnem in socijalnem
+                     oziru.</p>
+               </div>
+               <div>
+                  <head n="5.">Volilna pravica in plebiscit.</head>
+                  <p>Uvede naj se za moške in ženske splošna, enaka, tajna ter direktna volilna
+                     pravica s proporcem v vse zakonodajne, avtonomne in strokovne javne zastope.
+                     Ker hočemo, da pride pri volitvah do izraza čista volja ljudstva zahtevamo
+                     sredstva, ki jamčijo za popolno volilno svobodo. – V zadevah, ki so odločilnega
+                     pomena za narodno, kulturno, politično, gospodarsko socijalno življenje države,
+                     naj odločuje ljudstvo s plebiscitom.</p>
+               </div>
+               <div>
+                  <head n="6.">Narodna država Slovencev, Hrvatov in Srbov.</head>
+                  <p>Stoječ na stališču narodnega edinstva S. H. S. ter naslanjajoč se na načelo
+                     samoodločbe narodov, zahteva J. D. S. – v zmislu izjav naših jugoslovanskih
+                     državnih poslancev – svojo neodvisno, na demokratskih načelih urejeno narodno
+                     državo Slovencev, Hrvatov in Srbov.</p>
+               </div>
+            </div>
+            <div xml:id="No.81.PPP.2">
+               <head n="II.">Uprava.</head>
+               <div>
+                  <head n="1.">Občina kot temelj.</head>
+                  <p>Temelj državne organizacije bodi avtonomna velika občina, v nje delokrog
+                     spadajo javnopravna opravila najnižje inštance. Dualizem avtonomne in državne
+                     uprave mora pasti.</p>
+               </div>
+               <div>
+                  <head n="2.">Okrožja.</head>
+                  <p>Ravnotako skrbi avtonomna okrožna organizacija na svojem ozemlju za širše
+                     naloge javne uprave.</p>
+               </div>
+               <div>
+                  <head n="3.">Načela v upravnem poslovanju.</head>
+                  <p>Uprava bodi demokratična in enostavna, da more s čim manjšimi stroški vršiti
+                     svoje naloge, in tako urejena, da so izključeni pojavi strankarstva in
+                     korupcije.</p>
+               </div>
+               <div>
+                  <head n="4.">Upravno sodstvo.</head>
+                  <p>Vsi sklepi, odločbe in ukrepi upravnih oblasti morajo biti vselej utemeljeni z
+                     razlogi. Podvrženi so neodvisnemu upravnemu sodstvu, da se s tem onemogoči
+                     vsaktera pristranost, osebnost in korupcija. Upravni činovniki so za svoje
+                     poslovanje osebno odgovorni. Z njimi jamči nerazdelno država, oziroma prizadeta
+                     javna korporacija.</p>
+               </div>
+               <div>
+                  <head n="5.">Uradniško in jezikovno vprašanje.</head>
+                  <p>Uradnik bodi politično povsem neodvisen in varovan nasilja in krivičnosti
+                     predstojnikov. Samoobsebi umevno spadajo na vsa javna uradniška mesta v našem
+                     narodu le njega sinovi. Njegov jezik je izključno uradni jezik.</p>
+               </div>
+            </div>
+            <div xml:id="No.81.PPP.3">
+               <head n="III.">Sodstvo.</head>
+               <p>Zahtevamo kazensko in civilnopravno zakonodajo, ki naj ustreza socijalnim in
+                  gospodarskim razmeram današnje dobe. Smrtno kazen je odpraviti. K sodstvu je kar
+                  najbolj pritegniti ljudstvo.</p>
+            </div>
+            <div xml:id="No.81.PPP.4">
+               <head n="IV.">Prosveta.</head>
+               <div>
+                  <head n="1.">Splošna načela.</head>
+                  <p>J. D. S. je za svobodo prepričanja ter za njega svobodno izražanje in
+                     uveljavljanje.</p>
+                  <p>V umski zmožnosti posameznikovi, v njega strokovni in moralni sposobnosti
+                     vidimo temelj in izhodišče vsakega zdravega napredka.</p>
+                  <p>Povzdiga moralne osebnosti v dosego poštenega in energičnega značaja v zasebnem
+                     in javnem življenju je bistven del našega programa.</p>
+               </div>
+               <div>
+                  <head n="2.">J. D. S. in umetnost.</head>
+                  <p>V popolnost kulturnega življenja spada tudi umetnost. Hočemo iskati in
+                     uporabljati sredstva, s katerim se povzdigne med narodom smisel za lepoto v
+                     vseh strokah umetnosti.</p>
+               </div>
+               <div>
+                  <head n="3.">Izobrazba in vzgoja v šoli.</head>
+                  <p>Šola izobražuj državljana, da bo duševno in telesno pripravljen za praktično
+                     življenje, in svoboden po duhu in željan napredka. Vzgaja naj ga v
+                     demokratičnem duhu zdrave človečnosti, socijalne odgovornosti in narodne
+                     zavednosti, ki rodi v posamezniku čut socijalne pravičnosti, ljubezen do dela
+                     in plemenito samozavest.</p>
+               </div>
+               <div>
+                  <head n="4.">Brezplačnost šolstva.</head>
+                  <p>J. D. S. zahteva podržavljenje in brezplačnost vsega šolstva. Nadarjene ljudi,
+                     ki so brez sredstev, je treba iz javnih sredstev podpirati tako, da se bodo
+                     mogli brez skrbi posvetiti poljubnim študijam.</p>
+               </div>
+               <div>
+                  <head n="5.">Šolstvo.</head>
+                  <p>Na temelju ljudskim potrebam ustrezajoče praktične in obvezne ljudske šole je
+                     zgraditi praktično nadaljevalno, strokovno, kmetijsko, obrtno, umetniško-obrtno
+                     in trgovsko šolstvo, ki naj zbudi vse ljudske zmožnosti in ustvari temelj za
+                     gospodarsko in umstveno napredovanje.</p>
+                  <p>Srednje in višje šolstvo vseh strok naj ostane vedno v stiku z narodom. Skrbi
+                     naj za to, da se širi med ljudstvom vse, kar je dognala znanost. Poglobi naj mu
+                     umevanje znanstvenega dela in jači spoštovanje do njega.</p>
+               </div>
+               <div>
+                  <head n="6.">Ljudska izobrazba.</head>
+                  <p>Osnuje naj se organizacija, vzdrževana iz javnih sredstev, tudi za ljudsko
+                     višjo izobrazbo.</p>
+                  <p>Širiti ljudsko izobrazbo s knjižnicami, čitalnicami, izobraževalnimi društvi,
+                     predavanji, razstavami in drugimi sredstvi je zlasti dolžnost inteligence.
+                     Posebno važnost je pri tem polagati na sodelovanje dijaštva.</p>
+               </div>
+               <div>
+                  <head n="7.">Verstvo.</head>
+                  <p>Spoštujemo verstva kot naraven činitelj v človeškem čustvovanju. Isto velja za
+                     njega javno udejstvovanje; njega svobodo mora varovati država. Stojimo na
+                     stališču verske strpnosti in enakopravnosti vseh verskih naziranj, smo pa zoper
+                     vsako strankarsko zlorabljanje verstva. Cerkvene organizacije naj so neodvisne
+                     in napram državi povsem enakopravne.</p>
+               </div>
+            </div>
+            <div xml:id="No.81.PPP.5">
+               <head n="V.">Gospodarsko in socijalno vprašanje.</head>
+               <div>
+                  <head n="1.">Uvod.</head>
+                  <p>Jugoslovanska zemlja, ležeča na važnem križišču ob Jadranskem morju, bogata
+                     vodnih sil, rud, gozdov in drugih prirodnih zakladov, ima vse predpogoje, da se
+                     v njej kot samostojni državi razvije blagostanje. Poklicana je zavzemati
+                     odlično mesto tudi v svetovnem gospodarstvu.</p>
+               </div>
+               <div>
+                  <head n="2.">Gospodarska osamosvojitev.</head>
+                  <p>Narod, ki je gospodarsko odvisen, še ni svoboden, ko je dosegel politično
+                     svobodo. Radi tega stremimo na vso moč za tem, da se nam narod in njega država
+                     na gospodarskem polju vsestransko osamosvojita; produkcija domačega
+                     poljedelstva, domače industrije in obrti naj se nam z izrabo vseh sil, ki jih
+                     nudi naša zemlja, dvigne tako visoko, da bomo krili svoje potrebe čim največ
+                     sami, popolnoma pa zlasti vse one, ki so za življenje neobhodno potrebne.
+                     Trgovina na domačih tleh in ono, ki pojde preko njih, zaslužek iz vseh vrst
+                     transporta, zlasti brodarstva, moramo držati v lastnih rokah.</p>
+               </div>
+               <div>
+                  <head n="3.">Splošna vodila gospodarskega programa.</head>
+                  <p>Socijalno strukturo družbe hočemo izpremeniti pred vsem s tem, da izročamo
+                     politično moč v roke širokih mas s popolno demokratizacijo uprave in sodstva.
+                     Demokratizem pa tudi ni čist, če imajo enostransko premoč gospodarsko šibkejši
+                     sloji. Stojimo načelno na strani gospodarsko šibkejših in hočemo pospeševati,
+                     ustanavljati in podpirati vse vrste strokovnih organizacij ter druge
+                     gospodarske samopomožne združitve.</p>
+               </div>
+               <div>
+                  <head n="4.">Socijalizacija gospodarstva.</head>
+                  <p>Smo za socijalizacijo gospodarstva. Vse gospodarstvo naj se podredi interesu
+                     celote (družbe). Veliki obrati, zlasti taki, ki imajo namen zadovoljevati
+                     potrebe širokega kroga prebivalstva, naj v čim večji meri preidejo v javne roke
+                     (v roke države, okrožja, občine, kakor so pač interesi obsežni), n. pr.:
+                     železnice, premogovniki, izraba vodnih sil itd. Posebno pospeševanje gre vsem
+                     obratom, ki naj zadovolje pereče potrebe ljudstva (hrano, obleko, obutev itd.).
+                     Kjer je oblika zasebnega gospodarstva tudi interesom celote najbolj prikladna
+                     (srednje in malo kmetijstvo, kakor tudi obrti), tam naj se z javno pomočjo in z
+                     asocijacijo (zlasti z zadružništvom) nudijo tem obratom kapital, stroji in
+                     druga pomožna sredstva, da čim najbolj izrabijo ugodnosti večjih obratov. Pri
+                     vsem tem se še vedno lahko razvija osebna podjetnost, ki bo rodila nove obrate,
+                     za katere zadružna oblika še ni dovolj gibčna. V zdravem delovanju ne bo
+                     zasebnega prizadevanja nič ovirala regulacija, ki si jo nad njim pridrži
+                     družba. Ta naj odpravi vse širokim slojem škodljive izrastke.</p>
+               </div>
+               <div>
+                  <head n="5.">Strokovne organizacije.</head>
+                  <p>Posebno važnost polaga J. D. S. na stanovske strokovne organizacije, ki so
+                     najuspešnejše sredstvo za okrepitev gospodarsko šibkega delavstva, obrtništva
+                     in kmetijstva. Strokovno združevanje, ki naj tvori gospodarsko organizacijo
+                     posameznih stanov, naj bo po zakonu obvezno, a strokovni pripadniki naj se
+                     združujejo ne glede na raznost splošnih političnih nazorov.</p>
+                  <p>Zahtevamo ločitev trgovskih zbornic od obrtnih ter ustanovitev delavskih,
+                     kmetijskih svetov in drugih strokovnih javnih zastopstev, kjer naj praktiki in
+                     teoretiki tekmujejo v prizadevanju za duševno, socijalno in gospodarsko
+                     povzdigo posameznih stanov.</p>
+               </div>
+               <div>
+                  <head n="6.">Socijalno varstvo ljudstva.</head>
+                  <p>Socijalna zakonodaja naj varuje zdravje ljudstva in naj v ta namen regulira
+                     delavnik in delavske pogoje, zakaj noben gospodarski napredek ni trajen, ako
+                     rentabiliteta sloni na zlorabi zdrave sile ljudstva. Še posebno varstvo je
+                     potrebno za šibkejše: za stare ljudi, za mladostne, za žene. Bolniško, nezgodno
+                     in starostno zavarovanje <corr>je</corr> treba posplošiti, a pri tem uvaževati
+                     posebne stanovske razmere. Vse vrste zavarovanja (zlasti tudi proti požaru,
+                     ujmam, smrti in nezgodam) naj prevzame javna uprava.</p>
+               </div>
+               <div>
+                  <head n="7.">Gospodarska podjetja in politično strankarstvo.</head>
+                  <p>Gospodarska podjetja naj stoje, kolikor so namenjena splošnim potrebam, izven
+                     strankarsko-političnih borb. Zlasti velja to za zadružništvo, kjer naj bi se s
+                     sporazumom strank izločila vsaka strankarska politika in zloraba v strankarske
+                     svrhe. Zadružništvo smatramo za vsenarodno zadevo. Zavzemati se hočemo za njega
+                     enotno organizacijo.</p>
+               </div>
+               <div>
+                  <head n="8.">Kmetijstvo.</head>
+                  <p>Vojna je znova pokazala važnost kmetijskega stanu, ki je zdravo ogrodje zlasti
+                     našemu narodu. Vsi stanovi so spoznali, da je intenzivna produkcija na domačih
+                     tleh življenjske važnosti za ves narod. Dalekosežen je pomen velikega izvoza
+                     poljedelskih pridelkov ter nujnost poljedelske industrije, ki bi – ako bi se
+                     pri nas smotreno in temeljito organizirala – najbolj pospeševala kmetijstvo.
+                     Treba, da država in javnost storita vse, da se ohrani ta stan na domači zemlji,
+                     in sicer zdrav, podjeten in neodvisen. Fidejkomisi naj se odpravijo,
+                     razdrobljenje kmetij pa zapreči, da se nam tako varuje zdravo zaokrožena
+                     kmetija, ki more, moderno izrabljena, nuditi kmetovalcu toliko, da lahko z
+                     družino pošteno živi in preskrbi deco.</p>
+               </div>
+               <div>
+                  <head n="9.">Delavstvo.</head>
+                  <p>Vrednosti nastajajo zlasti iz dela. Krivično je, če gospoduje denar nad delom
+                     in človekom, ki dela. Zato zahteva J. D. S., naj bo pri dobičku iz produkcije
+                     pravično soudeležen tudi delavec.</p>
+                  <p>Zahtevamo od zakonodaje, da ravno tako, kakor druge stanove, čuva in brani tudi
+                     delavca kapitalističnega izkoriščanja ter tudi temu stanu omogoči se dvigniti
+                     socijalno in gospodarsko. Delavno razmerje ne sme biti samo urejeno z enostavno
+                     pogodbo, marveč mora biti radi ekonomske šibkosti delavca napram delodajalcu v
+                     pretežni meri podvrženo zakonitemu varstvu in javnemu vplivu: Zahtevamo splošno
+                     socijalno zakonodajo, ki bo v prid delavcu v vseh vrstah obratov, v prid
+                     njegovemu zavarovanju zoper bolezen, v prid zavarovanju za slučaj materinstva,
+                     proti nezgodam, za invaliditeto, za starost in brezposelnost. Za obrate, kjer
+                     si stojita nasproti kapital in delavstvo, zahtevamo kolektivno pogodbo z
+                     obveznim tarifom in razsodiščem. V tem razsodišču naj bodo enakomerno zastopani
+                     delavci in delodajalci, predseduje pa naj mu od postavodajne skupščine imenovan
+                     funkcijonar. To razsodišče je stalno. Rešuje vse spore. Zlasti je poklicano v
+                     zvezi z razsodišči iste stroke regulirati delovno dobo. Na podlagi izjave
+                     veščakov in z ozirom na splošne zdravstvene razmere okoliša in posebne razmere
+                     obrata se določi taka delavna doba, dopusti in počitki, da more povprečni
+                     delavec izhajati, ne da bi preko normalne obrabe trpelo njegovo zdravje.
+                     Priznavamo za upravičeno zahtevo industrijskih delavcev po splošni uvedbi
+                     največ 8-urni delavnik. V okviru zakonitih posebnih varstev naj se analogno
+                     posebej uredi delavna doba žensk, starcev, mlajših ljudi in
+                     rekonvalescentov.</p>
+                  <p>Priznavamo, da je v gospodarskih vprašanjih, ki so za delavstvo življenjskega
+                     pomena, in v bojih za demokratske politične pravice solidarno postopanje tega
+                     razreda potrebno. Priznavamo njega pravico, da so proti početju kapitalističnih
+                     moči in vlad, v kolikor ti delujejo od države do države, od naroda do naroda,
+                     od stroke do stroke, v enakem razmerju organizirani tudi delojemalci.</p>
+               </div>
+               <div>
+                  <head n="10.">Obrtništvo.</head>
+                  <p>Delitev dela je nujna, a delo vseh stanov je enako potrebno za celoto. To velja
+                     zlasti tudi za obrtni stan, ki si je kljub rastočemu kapitalizmu obdržal znaten
+                     del svojega prejšnjega stališča. V obrti se vežba in udejstvuje tudi
+                     individualna nadarjenost za stroko in podjetnost. Obrtni stan je treba držati
+                     in sicer ga bosta podpirali njegova samopomoč in smotrena zakonodaja, da se
+                     napram velekapitalu ne le vzdrži, temveč da se priuči nadomestiti z
+                     individualno sposobnostjo prednosti v tekmovanju, ki jih ima veleobrat. Zato
+                     posvečamo posebno paznost produkcijskemu zadružništvu obrtnikov. Samostojnim,
+                     avtonomnim prisilnim organizacijam zadrug naj se prizna tudi pravica za
+                     izvrševanje sklepov.</p>
+               </div>
+               <div>
+                  <head n="11.">Industrija.</head>
+                  <p>J. D. S. hoče podpirati razvoj narodne industrije kot bogat vir blagostanja v
+                     narodu.</p>
+                  <p>Posebej je treba pospeševati vse panoge industrije (čipkarstvo, pletiljstvo,
+                     žebljarstvo, obrt lesnih izdelkov, lončarjev, pečarjev, sitarjev, ščetarjev,
+                     slamopletcev itd.), ki prinaša ob izrabi modernih sredstev – ako se nudi tem
+                     strokam strokoven pouk in potrebno materijalno pomoč – izdatno in stalno
+                     podporo, zlasti našemu gospodarsko šibkemu človeku.</p>
+               </div>
+               <div>
+                  <head n="12.">Trgovina.</head>
+                  <p>Z narodnega in gospodarskega stališča nam je treba solidne in podjetne domače
+                     trgovine, ki posreduje v prostem prometu stoječe blago v domači in prekomejni
+                     trgovini.</p>
+                  <p>Birokratične gospodarske centrale so se izkazale še kot nezrele za izravnavo
+                     interesov med konsumentom in producentom. Potrebno je javno nadzorstvo zoper
+                     zlorabe na tem polju. Če javna zastopstva začno v prid prebivalstvu s
+                     trgovskimi akcijami, naj sodeluje pri njih prosti trgovec in naj se uporabljajo
+                     njegove izkušnje; to bo v interesu javnih zastopstev in prostega trgovskega
+                     stanu.</p>
+                  <p>Manjše trgovstvo, ki se zadovoljuje z meščanskim dobičkom – zlasti na kmetih,
+                     kjer se bavi tudi z drugim delom, je trgovina nedvomno cenejša nego je režija
+                     in riziko zadružne oblike konsumenta – je treba z organizacijo čuvati navzgor
+                     proti kapitalistični premoči. To manjše trgovstvo lahko nastopa roko v roki s
+                     kmetijskim zadružništvom in mu daje na razpolago svoje znanje, delo in svoje
+                     zveze.</p>
+               </div>
+            </div>
+            <div xml:id="No.81.PPP.6">
+               <head n="VI.">Skrb za zdravje naroda.</head>
+               <p>Negovanje ljudskega zdravja je važna zahteva J. D. S. Posvečati hočemo ljudskemu
+                  zdravju tem večjo pažnjo, ker nam je v tem oziru povzročila dolgotrajna vojna še
+                  posebno škodo. Potrebne so reforme v zakonih (obrtni red, stavbeni red, mladinski
+                  zakon itd.) in socijalne naprave, ki bi posredno ali neposredno dvigale zdravstvo
+                  naroda, večale njegovo plodovitost ter manjšale umrljivost otrok. Zlasti hočemo,
+                  da bo javna uprava čuvala žensko kot mater in mladino obojega spola. V skrb javne
+                  uprave spada tudi podpora rodbin s številnimi otroki.</p>
+               <p>Uvede naj se brezplačna zdravniška pomoč za neimovite. Zgrade naj se zlasti za
+                  tuberkulozne ljudi ljudska zdravilišča. Lekarne naj se odkupijo v prid javnim
+                  korporacijam.</p>
+            </div>
+            <div xml:id="No.81.PPP.7">
+               <head n="VII.">Mir in vojne posledice.</head>
+               <p>Najkrepkejše poudarjamo zahtevo po splošnem miru, a pri sklepanju miru naj pride
+                  do veljave volja naroda brez vsake potvore.</p>
+               <p>Posebno paznost hoče J. D. S. posvečati obnovi vseh od vojne prizadetih pokrajin.
+                  Ker so te pokrajine trpele za druge, naj se jim vsa škoda poravna, in sicer
+                  zahtevamo, da se o tem s popolno odgovornostjo izjavi država s posebnim zakonom;
+                  seveda ima država pravico, da potem k poravnavi škode pritegne tudi druge
+                  vojskujoče se države. Pri obnovi pa ne smejo naši kraji in naša zemlja služiti v
+                  pohlepne kolonizačne<note source="#SourceBornDigital">Kolonizacijske.</note>
+                  namene tujih narodnosti.</p>
+               <p>Invalidom ima država s premišljenimi načrti in zakoni zagotoviti tako gospodarsko
+                  stališče, da bodo v lastni domačiji lahko živeli in si ustanavljali svoje družine.
+                  V nje skrb spada tudi podpora vdov in sirot po moških, padlih v vojni.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

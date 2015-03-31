@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o razmerah na Goriškem, sprejeta na vseslovenskem in istrskohrvaškem
+               shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30648</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-110.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30648</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Vseslovenski shod</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.110.PPP.1">4. Vseslovenski in istrsko-hrvatski shod v
+                  <placeName>Ljubljani</placeName>, <hi rend="italic">priznava</hi>:</p>
+            <list xml:id="No.110.PPP.2" type="simple">
+               <item>da se Slovencem na <placeName>Goriškem</placeName>, osobito v mestu in okraju
+                  goriškem, kratijo v državnih temeljnih zakonih zajamčene državljanske pravice; da
+                  se v nasprotju z naravnim pravom ter z državnimi in deželnimi zakoni Slovenci na
+                     <placeName>Goriškem</placeName> siloma ovirajo v svojem kulturnem razvoju; da
+                  vlada prezira dosledno in čedalje očitneje slovensko narodnost na
+                     <placeName>Goriškem</placeName>, ki šteje v mestu nad jedno tretjino, na deželi
+                  pa dve tretjini prebivalstva; da je vladino postopanje nasproti goriškim Slovencem
+                  rodilo v njih prepričanje, da jih vlada smatra za pleme manjše vrednosti in
+                  veljave;</item>
+               <item><hi rend="italic">protestuje</hi> najodločneje proti tem odnošajem na
+                     <placeName>Goriškem</placeName>, ki so zakrivili, da je v tamošnjem slovenskem
+                  ljudstvu izginila vera v temeljno načelo naše države;</item>
+               <item><hi rend="italic">zahteva</hi>: naj visoka c. kr. vlada uvede na
+                     <placeName>Goriškem</placeName> zakonite razmere v vsakem oziru; naj omogoči
+                  goriškim Slovencem uživanje državljanskih pravic in tak kulturni razvoj, kakoršni
+                  zahteva naravno pravo ter ga jamčijo obstoječi zakoni; naj tirja od sebi
+                  podrejenih uradov in uradnih oseb strogo in dosledno, da postopajo popolno
+                  nepristransko, uljudno in zakonito tudi nasproti slovenskemu prebivalstvu na
+                     <placeName>Goriškem</placeName> v smislu svoja uradniške prisega; ter</item>
+               <item><hi rend="italic">pričakuje</hi>: da bo visoka c. kr. vlada zahtevala jednako
+                  postopanje, kakor od svojih uradnikov, nasproti slovenskemu prebivalstvu na
+                     <placeName>Goriškem</placeName> tudi od mestnega urada v
+                     <placeName>Gorici</placeName> in njegovih organov ter od kupčijske in
+                  obrtnijske zbornice goriške, in to tem bolj, ker gospodujoča, Slovencem sovražna
+                  stranka v <placeName>Gorici</placeName> in sploh na
+                     <placeName>Goriškem</placeName> se vzdržuje jedino le z vladino pomočjo.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

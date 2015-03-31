@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucije, sprejete na ustanovnem zboru Slovenske ljudske stranke na Kranjskem
+               27. novembra 1905 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30545</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-012.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30545</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska ljudska stranka</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXIII</biblScope>
+                     <biblScope unit="issue">272</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Y5Q5YTFK</pubPlace>
+                     <date when="1905-11-27">27. 11. 1905</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska ljudska stranka</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.12.PPP.1">Zaupniki kat. narodne stranke izrekajo, da je <hi rend="italic"
+                  >boj za splošno in enako volivno pravico</hi> za državni in deželni zbor tako
+               pretežne važnosti za duševno in gmotno blagostanje in napredek slovenskega ljudstva,
+               da se morajo za tem bojem zapostaviti vsa druga javna vprašanja.</p>
+            <p xml:id="No.12.PPP.2">Državni in deželni poslanci se za to pozivljejo, da uporabijo v
+               državnem in deželnem zboru najskrajnejša sredstva v dosego splošne in enake volivne
+               pravice, ne zmeneč se za nikake posledice in zapostavljajoč vse druge kakršnekoli
+               ozire, bodisi politiškega ali gospodarskega značaja. Pooblaščajo se zajedno, da
+               podpirajo ono vlado, od koje se prepričajo, da ima resno voljo in zmožnost izvesti v
+               kratkem času splošno in enako volivno pravico.</p>
+            <p xml:id="No.12.PPP.3">Zaupniki stranke na današnjem shodu izrekamo glede razmerja
+               napram Ogrom in bratom Hrvatom:</p>
+            <list type="ordered" xml:id="No.12.PPP.4">
+               <item n="I.">Dasi priznavamo ugodnosti, katere ima skupnost omenjenega zastopstva in
+                  vojne sile kakor tudi enako carinsko in trgovinsko ozemlje za obe državni
+                  polovici, odklanjamo vendar očividno preobremljnje naše državne polovice,
+                  obžalujemo dalje, da se je tekom zadnjih let z nekaterimi dejstvi, kakor s
+                  samostojnim nastopom Ogrske na slad[k]orni konferenci v
+                     <placeName>Bruselju</placeName>, dalje z vpeljavo sladkorne <q>surtaxe</q> in z
+                  nekaterimi daleč segajočimi vojaškimi ukrembami kršilo bistvo one celokupnosti,
+                  katera je celo po nagodbi iz leta <date when="1867">1867</date> še preostala
+                     <placeName>habsburški monarhiji</placeName> ter želimo revizijo nagodbenih
+                  zakonov v to svrho, da se uvede strajno povoljno razmerje med
+                     <placeName>Avstrijo</placeName> in <placeName>Ogrsko</placeName>.</item>
+               <item n="II.">Naglašamo, da po našem prepričanju bi bila ničeva in nezakonita vsaka
+                  revizija ogrske nagodbe, koji ne bi pritrdilo zakonodajstvo trojedine kraljevine,
+                  t. j. kraljestvo <placeName>Hrvatske</placeName>, <placeName>Slavonije</placeName>
+                  in <placeName>Dalmacije</placeName>.</item>
+               <item n="III.">Glede reške resolucije smo uverjeni, da je ona izliv čistega
+                  hrvatskega rodoljubja, po vsej pravici užaljenega vsled tožnega položaja hrvaškega
+                  naroda v obeh državnih polovicah. Z druge strani pa ne moremo prezirati, da pomeni
+                  resolucija v svojih praktičnih posledicah usodno državnopravno ločitev Slovencev
+                  in Hrvatov, dveh narodov tedaj, ki bi morala biti edina po svojem prizadevanju,
+                  kakor sta si edina po krvi in po skupni zgodovini. Nadejamo se od modrosti
+                  hrvaških rodoljubnih zastopnikov, da bodo uvaževali prevažne pomisleke svojih
+                  slovenskih bratov.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

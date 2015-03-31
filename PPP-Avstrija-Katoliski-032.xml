@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Izjava Slovenske kmečke zveze, sprejeta na njenem ustanovnem zboru 21. januarja
+               1907 v Mariboru</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30565</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-032.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30565</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska kmečka zveza.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski gospodar</title>
+                  <title>list ljudstvu v pouk in zabavo</title>
+                  <imprint>
+                     <biblScope unit="volume">XLI</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <pubPlace>Maribor</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-HMMTGE0R</pubPlace>
+                     <date when="1907-01-24">24. 1. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska kmečka zveza.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.32.PPP.1">Spodnještajerski slovenski kmetje, zbrani na ustanovnem zboru
+                  <q>Slovenske kmečke zveze</q>, slovesno izjavljajo, da vkljub vsem gonjam zadnjega
+               časa trdno in nepremično vstrajajo na dosedanjem verskem in narodnem programu
+               spodnještajerskih Slovencev:</p>
+            <p xml:id="No.32.PPP.2">istotako slovesno izjavljajo, da bodo povsod in z vsemi silami
+               delovali za svoje kmečke pravice in koristi ter pozivljajo vse dobromisleče rojake na
+                  <placeName>Spodnjem Štajerskem</placeName>, da podpirajo težnje katoliškega
+               slovenskega kmečkega stanu po zboljšanju njegovega položaja;</p>
+            <p xml:id="No.32.PPP.3">zahtevajo od sedanje vlade, da ne odpre mej tuji živini in
+               prekomorskemu mesu, ker bi to pomenilo hud udarec za našo živinorejo in blagostanje
+               kmečkega stanu;</p>
+            <p xml:id="No.32.PPP.4"><hi rend="italic">naročajo odboru, naj strogo pazi na to, da
+                  bodo pri prihodnjih volitvah kandidatje za državni zbor priznali brezpogojno
+                  kmečki program ter se ozirali na versko in narodno mišljenje slovenskega
+                  kmeta.</hi>
+               <gap reason="irrelevant"/></p>
+            <p xml:id="No.32.PPP.5"><hi rend="italic">Z Bogom! Na delo!</hi></p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

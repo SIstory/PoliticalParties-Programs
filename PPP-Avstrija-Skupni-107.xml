@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o splošnem političnem položaju, sprejeta na vseslovenskem in
+               istrskohrvaškem shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30645</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-107.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30645</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski in istersko-hrvatski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXV</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-5SNA3EY7</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1897-09-14">
+            <head>Vseslovenski in istersko-hrvatski shod</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije</head>
+               <div>
+                  <head>Splošni politični položaj</head>
+                  <list xml:id="No.107.PPP" type="ordered">
+                     <item n="1.">Vseslovenski in istersko-hrvatski shod sprejme združenje vseh slovenskih in
+                        hrvatskih državnih poslancev z veseljem na znanje in odobrava v vseh točkah
+                        program <q>Slovanske krščansko-narodne zveze</q>.</item>
+                     <item n="2.">Slovenskim in istersko-hrvatskim državnim poslancem se izreka popolno
+                        zaupanje in se isti pozivljejo, naj v parlamentarni večini vstrajajo, dokler bode
+                        odločno in neodvisno od trenotnih vladnih tendenc, dejansko izvrševala svoj
+                        program.</item>
+                  </list>
+               </div>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

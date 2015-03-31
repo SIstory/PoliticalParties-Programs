@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o volilni reformi, sprejeta na shodu zaupnikov Narodno napredne
+               stranke za Kranjsko 25. marca 1906 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30588</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-055.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30588</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Shod zaupnikov narodno-napredne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXIX</biblScope>
+                     <biblScope unit="issue">69</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-2GS1QZAV</pubPlace>
+                     <date when="1906-03-26">26. 3. 1906</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Shod zaupnikov narodno-napredne stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.55.PPP.1">Shod zaupnikov narodnonapredne stranke, zbran dne <date when="1906-03-25">25. marca
+                  1906</date> v <placeName>Ljubljani</placeName> skleni soglasno:</p>
+            <list type="ordered" xml:id="No.55.PPP.2">
+               <item n="1.)">da protestuje z največjo ogorčenostjo zoper razdelitev volilnih okrajev
+                  na <placeName>Koroškem</placeName> v vladni predlogi državnozborske volilne
+                  reforme, ker ta razdelitev bije v lice načelu splošne in enake volilne pravice ter
+                  narodne ravnopravnosti, obsojajoč v politično smrt nad 50.000 koroških
+                  Slovencev.</item>
+               <item n="2.)">da odklanja z vso odločnostjo preziranje mest, trgov in industrijalnih
+                  krajev pri določitvi volilnih okrajev na <placeName>Kranjskem</placeName> v isti
+                  vladni predlogi, ker izroča to preziranje spričo naših posebnih razmer na milost
+                  in nemilost vse neagrarne volilce eni sami politični stranki in zahteva vsled
+                  tega:</item>
+               <item n="3.)">da se koroške Slovence združi v dva posebna volilna okraja;</item>
+               <item n="4.)">da se ustanovita za <placeName>Kranjsko</placeName> poleg
+                     <placeName>Ljubljane</placeName> še dva mestna volilna okraja;</item>
+               <item n="5.)">naroča narodnonaprednim deželnim poslancem, da pritrde svoj čas le taki
+                  deželnozborski volilni reformi, ki bo zajamčila v okviru splošne in enake volilne
+                  pravice primerno zastopstvo vsem produktivnim stanovom prebivalstva.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

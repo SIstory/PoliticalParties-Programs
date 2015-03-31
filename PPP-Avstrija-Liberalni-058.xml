@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o volilni reformi, sprejeta na shodu zaupnikov Narodno napredne
+               stranke za Kranjsko 15. novembra 1906 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30591</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-058.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30591</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Shod zaupnikov narodno-napredne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXIX</biblScope>
+                     <biblScope unit="issue">264</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-QYH83BWY</pubPlace>
+                     <date when="1906-11-17">17. 11. 1906</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Shod zaupnikov narodno-napredne stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.58.PPP.1">Zbor zaupnih mož narodnonapredne stranke na <placeName>Kranjskem</placeName>, sklican
+               na dan <date when="1906-11-15">15. novembra 1906</date> v
+                  <placeName>Ljubljano</placeName>:</p>
+            <list xml:id="No.58.PPP.2" type="ordered">
+               <item n="1.)">Konstatuje, sklicujé na svojo resolucijo z dne <date when="1906-03-25"
+                     >25. marca 1906</date>, da načrt državnozborske volilne reforme, kakor je bil
+                  sprejet v odseku ter predložen zbornici, ne-le v ničemer ne popravlja kričečega
+                  kršenja narodnih pravic obmejnih in zlasti koroških Slovencev temveč to krivico
+                  deloma celo poostruje;</item>
+               <item n="2.)">pribije sramotno zgodovinsko dejstvo, da je ta poraz celokupnega
+                  slovenskega naroda sad nezaslišanega strankarskega egoizma in očitne narodne
+                  verolomnosti slovenske klerikalne delegacije v volilnem odseku, ki je za
+                  strankarsko hegemonijo na <placeName>Kranjskem</placeName> rade volje žrtvovala in prodala narodne
+                  pravice obmejnih in v prvi vrsti koroških Slovencev;</item>
+               <item n="3.)">priznava, da narodnonaprednim poslancem navzlic vsemu vstrajnemu in
+                  poštenemu trudu in dasi so zvesti naročilu stranke, bili pripravljeni obmejnim
+                  Slovencem na korist žrtvovati vsak strankarski interes, ni bilo mogoče preprečiti
+                  tega sramotnega narodnega izdajstva, to pa tem manj, ker so v to odrekli svojo
+                  pomoč v trdovratnem in vsega obžalovanja vrednem preziranju slovanske vzajemnosti
+                  in svojih svobodomiselnih načel žal celo mladočeški člani volilnega odseka;</item>
+               <item n="4.)">prepušča previdnosti narodnonaprednih državnozborskih poslancev, <hi
+                     rend="bold">izrekajoč jim svoje zaupanje</hi>, da v znak slovesnega protesta
+                  zoper tako gazenje principa enakosti volilne pravice obmejnim Slovencem na kvar in
+                  zlasti, ako bi se tudi v tretjem branju ne dosegel niti za koroške Slovence vsaj
+                  eden popolnoma siguren mandat, izvajajo iz takega uzakonjenja popolne narodne
+                  brezpravnosti izdatnega dela slovenskega naroda, primerne posledice.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

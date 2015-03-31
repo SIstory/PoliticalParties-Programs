@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o jezikovnem vprašanju, sprejeta na vseslovenskem in istrskohrvaškem
+               shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30646</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-108.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30646</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski in istersko-hrvatski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXV</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-5SNA3EY7</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1897-09-14">
+            <head>Vseslovenski in istersko-hrvatski shod</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije</head>
+               <div>
+                  <head>Jezikovno vprašanje.</head>
+                  <p xml:id="No.108.PPP.1">Vseslovenski in istersko-hrvatski shod zahteva, da se v
+                     članu 19. temeljnega zakona o splošnih pravicah državljanov z dne <date
+                        when="1867-12-21">21. decembra leta 1867</date> št. 142 drž. zak. zajamčena
+                     narodna in jezikovna jednakopravnost v šoli, uradu in javnem življenju izvrši
+                     tudi glede slovenskega in oziroma hrvatskega jezika na
+                        <placeName>Kranjskem</placeName>, <placeName>Štajerskem</placeName>,
+                        <placeName>Koroškem</placeName> in <placeName>Primorskem</placeName>. </p>
+                  <p xml:id="No.108.PPP.2">Toraj se zahteva, da so pri vseh državnih uradih v teh
+                     deželah uradniki, ki imajo občevati s slovenskim odnosno hrvatskim narodom,
+                     vešči v govoru in pismu slovenskega oziroma hrvatskega jezika in da se jezika
+                     neveščim že nastavljenim uradnikom določi rok, v katerem se morajo izkazati s
+                     tem znanjem.</p>
+               </div>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

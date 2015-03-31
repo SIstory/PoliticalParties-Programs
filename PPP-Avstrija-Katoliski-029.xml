@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija za slovenske državne poslance, sprejeta na prvem občnem zboru
+               Katoliško-političnega in gospodarskega društva za Slovence na Koroškem 17. aprila
+               1890 v Celovcu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30562</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-029.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30562</idno>
+            <date>2014</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Prvi občni zbor.</title>
+               </analytic>
+               <monogr>
+                  <title>Mir</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">8</biblScope>
+                     <pubPlace>Celovec</pubPlace>
+                     <date when="1890-04-25">25. 4. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi občni zbor.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.29.PPP">Vprvič zbrano <q>Katoliško-politično in gospodarsko društvo za
+                  Slovence na <placeName>Koroškem</placeName></q> porablja to priliko, da izreka
+               svojo toplo zahvalo <hi rend="italic">slovenskim državnim poslancem</hi>, ki se že
+               več let ne utrudijo, možato potegovati se za nas koroške Slovence in braniti naše
+               politične in národne pravice. Prosimo jih, naj pri tem plemenitem delu ne odnehajo,
+               ampak naj visoko vlado čedalje glasneje opominjajo, da je na
+                  <placeName>Koroškem</placeName>, <placeName>Štajerskem</placeName> in
+                  <placeName>Primorskem</placeName>
+               <hi rend="italic">sprava med národi še bolj potrebna, kakor je bila na
+                     <placeName>Češkem</placeName>, ker bi mi veseli bili, ko bi imeli vsaj tiste
+                  pravice, kakor so jih imeli Nemci na <placeName>Češkem</placeName> že pred
+                  spravo</hi>. Vlada naj ne pozabi, da notranji boji v
+                  <placeName>Avstriji</placeName> ne bodo prej ponehali, <hi rend="italic">dokler se
+                  ne doseže resnična in odkritosrčna sprava med narodi na podlagi popolne
+                  enakopravnosti</hi>.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

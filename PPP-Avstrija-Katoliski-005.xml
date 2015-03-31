@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o shodu slovenskih poslancev, sprejeta na šestem shodu katoliškega
+               političnega društva v Ljubljani 26. oktobra 1890</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30535</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-005.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30535</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Šesti shod katol. pol. društva.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">247</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-RNLC30N2</pubPlace>
+                     <date when="1890-10-27">27. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Šesti shod katol. polit. društva.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.5.PPP">Katoliško politično društvo, zbrano na VI. društvenem shodu v
+                  <placeName>Ljubljani</placeName>, izreka svoje soglasje z resolucijami,
+               sklenjenimi dné <date when="1890-10-02">2. oktobra t. l.</date> na shodu slovenskih
+               poslancev v <placeName>Ljubljani</placeName>,<note source="#SourceBornDigital">Glej dok. št. 98.</note> in
+               izjavlja svojo radost, da so tudi slovenski poslanci s svojimi resolucijami priznali
+               načela, ki vodijo <q>Katoliško politično društvo</q>, kot prava in slovenskemu narodu
+               koristna, ter izraža željo, da bi gospodje poslanci prej ko mogoče uresničili te
+               resolucije, in zagotavlja, da bodo pri tem poslu radovoljno podpiralo delovanje
+               slovenskih poslancev. </p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

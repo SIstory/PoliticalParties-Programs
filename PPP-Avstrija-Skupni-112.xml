@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o razmerah na Koroškem, sprejeta na vseslovenskem in istrskohrvaškem
+               shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30650</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-112.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30650</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1897-09-15">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski in istersko-hrvatski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXV</biblScope>
+                     <biblScope unit="issue">210</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-EKEFG7DN</pubPlace>
+                     <date when="1897-09-15">15. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-15">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1897-09-15">
+            <head>Vseslovenski in istersko-hrvatski shod</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije.</head>
+               <div>
+                  <head>Koroške razmere.</head>
+                  <div xml:id="No.112.PPP.1">
+                     <head n="I.">Deželna vlada.</head>
+                     <p> Osrednja vlada se pozivlje, da premeni upravni sistem pri c. kr. deželni
+                        vladi na Koroškem in skrbi za to, da bode deželni predsednik brez ozira na
+                        katerokoli politično stranko pravičen obema narodoma, ki prebivata na
+                        Koroškem, in z jednako ljubeznijo skrbel za duševno in gmotno blagostanje
+                        nemškega in slovenskega ljudstva v deželi.</p>
+                  </div>
+                  <div xml:id="No.112.PPP.2">
+                     <head n="II.">Slovenščina in c. kr. uradi na
+                        <placeName>Koroškem</placeName>.</head>
+                     <p>Vlada naj se ozira na dejanske potrebe koroških Slovencev in naj nastavlja
+                        pri vseh državnih uradih v slovenskem in mešanem ozemlju take uradnike, ki
+                        so poleg druge službene sposobnosti popolnoma vešči slovenskega jezika;
+                        podložnim uradnikom naj pokaže, da je resne volje strogo izvajati jezikovno
+                        ravnopravnost.</p>
+                  </div>
+                  <div xml:id="No.112.PPP.3">
+                     <head n="III.">Slovenščina pri prometnih uradih na
+                           <placeName>Koroškem</placeName>.</head>
+                     <p>Slovenski jezik ne uživa pri prometnih državnih uradih slovenske koroške
+                        pokrajine pravic, katere so mu po ustavi zagotovljene; nujno potrebno je, da
+                        pride najvišja prometna uprava tem nedostatkom v okom ter jih kratkomalo
+                        odpravi.</p>
+                  </div>
+                  <div xml:id="No.112.PPP.4">
+                     <head n="IV.">Šolske zadeve.</head>
+                     <p>Dosedanja jezikovna uredba ljudskih šol po slovenskih pokrajinah koroške
+                        dežele je krivična, kvarljiva in nepostavna. Poduk slovenskih otrok na
+                        podlagi tujega jezika zavira pravo in dobro vzgojo slovenske mladine,
+                        zabranjuje duševno izomiko in gmotni napredek, ob jednem narodni obstanek
+                        koroških Slovencev.</p>
+                     <p>Vseslovenski in istrsko-hrvatski shod zahteva, da najvišja šolska uprava
+                        postavi tudi ljudske šole na <placeName>slovenskem Koroškem</placeName> na
+                        jedino pravo pedagogično didaktično podlago maternega jezika, kakor to
+                        zahtevajo državno-osnovni in šolski zakoni, na vseh šolah koroškim Slovencem
+                        namenjenih naj bode učni jezik slovenski.</p>
+                     <p>Zato shod tudi zahteva, da se umaknejo temu načelu nasprotni učni načrti za
+                        ljudske šole, ki jih je proglasil c. kr. koroški deželni šolski svet z
+                        odlokoma od dné <date when="1890-09-26">26. septembra 1890.</date> l., št.
+                        1623 in od dné <date when="1891-11-09">9. novembra 1891.</date> l., št. 3178
+                        – ter smatra vsako drugačno vredbo malih šol kot nepostavno.</p>
+                     <p>Nadalje zahteva shod, naj visoka deželna šolska oblast iz
+                        pedagogično-didaktičnih ozirov skrbi tudi za slovenske manjšine na
+                           <placeName>Koroškem</placeName> tako, da se povsod, kjer se nahaja
+                        postavno število slovenskih otrok, osnujejo javne ljudske šole s slovenskim
+                        učnim jezikom. Če pa število slovenskih otrok ne dosega postavnega števila
+                        za ustanovitev slovenske šole in jih je najmanj deset, naj se otroci v
+                        skupni šoli ločijo po maternem jeziku v skupine ali oddelke. Samo ob sebi se
+                        razumeva, da ima dotični učitelj vešč biti obeh učnih jezikov.</p>
+                     <p>Po tem načelu in vodilu naj se uredi tudi poduk v tistih nadaljevalnih in
+                        strokovnih šolah, katere obiskujejo slovenski mladeniči.</p>
+                     <p>Ob jednem pa zahteva shod, da naj se preosnovi celovško učiteljišče tako, da
+                        se bodo na tem zavodu vzgojevali učitelji, ki bodo zmožni poučevati
+                        slovensko mladino. Učitelj, ki ni dokazal pri maturi in pri izpitu
+                        učiteljske zmožnosti, da je vešč slovenskega jezika v govoru in pisavi, ne
+                        sme se namestiti na šoli, katero obiskujejo slovenski otroci.</p>
+                     <p>Ako bi se na pripravnici v <placeName>Celovcu</placeName> ne oglasilo
+                        zadostno število slovenskih pripravnikov, naj se razpišejo letne podpore
+                        istim pripravnikom na učiteljiščih v <placeName>Ljubljani</placeName>,
+                           <placeName>Mariboru</placeName>, <placeName>Kopru</placeName>, ki se
+                        zavežejo, da hočejo vsaj 6 let delovati na <placeName>Koroškem</placeName>.
+                        Tako bi dobili v teku nekaterih let zadostno število takih učiteljev, ki so
+                        zmožni slovenščine v govoru in pismu.</p>
+                  </div>
+                  <div xml:id="No.112.PPP.5">
+                     <head n="V.">Volilni red v deželni in državni zbor.</head>
+                     <p>Volilne razmere na <placeName>Koroškem</placeName> za deželni in državni
+                        zbor so Slovencem neugodne in krivične. Visoka c. kr. vlada naj skrbi, da se
+                        dosedanji volilni red v obeh ozirih prenaredi in sicer za drž. zbor po
+                        predlogu, ki so ga nasvetovali slovenski poslanci dne <date
+                           when="1897-05-24">24. maja t. l.</date> v 17. seji v ravno preteklem
+                        zasedanju drž. zbora.</p>
+                  </div>
+               </div>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

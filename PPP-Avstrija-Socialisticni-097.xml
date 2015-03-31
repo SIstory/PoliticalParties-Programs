@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poročilo o jugoslovanski socialistični konferenci 6. oktobra 1918 v
+               Zagrebu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30663</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-097.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30663</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title/>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslov. socialno-demokratične stranke</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">230</biblScope>
+                     <date when="1918-10-08">8. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.97.PPP.1">Danes <corr><date when="1918-10-06">6. oktobra 1918</date></corr> se je vršila tukaj
+               jugoslovanska socialistična konferenca. Konferenco je otvoril v imenu hrvaških
+               sodrugov sodrug <persName>Bugšek</persName>, ki je v pozdravnem govoru želel, naj bi
+               bili sklepi konference sad temeljitih razprav in poštenega sporazuma med jugoslov.
+               socialističnimi strankami. V predsedstvo so bili izvoljeni sodrugi
+                  <persName>Bugšek</persName>, <persName>Ferfolja</persName> in
+                  <persName>Raušer</persName>. Za zapisnikarje pa sodrugi
+                  <persName>Petejan</persName> in <persName>Kavrič</persName>. Govorili so k
+               dnevnemu redu: <q>Stališče jugoslovanskih socialističnih strank napram aktuelnim
+                  narodnim vprašanjem</q> sodrugi <persName>Bugšek</persName>, <persName>A.
+                  Kristan</persName>, <persName>Jakšič</persName>, <persName>Korač</persName>,
+                  <persName>Regent</persName>, <persName>Gaspari</persName>,
+                  <persName>Golouh</persName>, <persName>Delič</persName>,
+                  <persName>Čobal</persName> in drugi.</p>
+            <p xml:id="No.97.PPP.2">Po dolgi razpravi je bila sprejeta od slovenskih in hrvatskih delegatov sledeča
+               resolucija:</p>
+            <div xml:id="No.97.PPP.3">
+               <head>I.</head>
+               <p>Jugoslov. socialistična konferenca, vršeča se <date when="1918-10-06">6. okt.
+                     1918.</date> izjavlja, da stoji v soglasju s svojimi dosedanjimi
+                  programatičnimi izjavami v narodnem oziru neomejeno na stališču popolne
+                  samoodločbe narodov ter zahteva zato združitev S. H. S. v samostojno demokratično
+                  jugoslovansko državo. Nacionalno državo je namreč smatrati kot predpogoj za
+                  uspešnejši razredni boj.</p>
+               <p>Glede obmejnih, narodno mešanih krajev smatra konferenca za potrebno, da se njih
+                  pripadnost uredi dogovorno s prizadetimi narodi ter odklanja vsako nasilstvo tako
+                  napram svojemu narodu kakor napram drugim. Obsoja seve vsako tako narodno
+                  politiko, ki bi onemogočila sporazum z narodi, ki so bili doslej v svojem
+                  gospodarskem življenju navezani na trgovske in prometne zveze skozi naš
+                  jugoslovanski teritorij.</p>
+            </div>
+            <div xml:id="No.97.PPP.4">
+               <head>II.</head>
+               <p>Konferenca smatra, da je z ozirom na zgodovinsko dobo, v koji se nahajamo, tako v
+                  interesu jugoslov. proletarijata kakor tudi v interesu nujne rešitve jugoslov.
+                  vprašanja, da stranka sodeluje v <choice>
+                     <abbr>N. S.</abbr>
+                     <expan>Narodnih Svetih</expan>
+                  </choice> oz. v <choice>
+                     <abbr>N. O.</abbr>
+                     <expan>Narodnem Odboru</expan>
+                  </choice><note place="foot" source="#SourceBornDigital">Mišljeno je Narodno Vijeće
+                     Slovencev, Hrvatov in Srbov, ustanovljeno na sestanku odposlancev Slovencev,
+                     Hrvatov in Srbov iz <placeName>habsburške monarhije</placeName>
+                     <date from="1918-10-05" to="1918-10-06">5. in 6. 10. 1918</date> v
+                        <placeName>Zagrebu</placeName>.</note> skupno z ostalimi strankami v narodu
+                  S. H. S. v vseh točkah, ki ne nasprotujejo našim socialističnim načelom. Vsled
+                  tega konferenca izjavlja, da jugoslovanske soc. dem. stranke stopijo v posamezne
+                  Narodne Svete oziroma v osrednji Narodni Odbor ter tam uveljavljajo svoja
+                  socialistična načela, ki se tičejo rešitve narodnih, političnih, gospodarskih in
+                  kulturnih vprašanj ter da v potrebi odločno nastopijo proti vsemu onemu, kar bi
+                  našim načelom nasprotovalo.</p>
+            </div>
+            <div xml:id="No.97.PPP.5">
+               <head>III.</head>
+               <p>Z ozirom nato, da bode taktika jugoslov. soc. dem. strank v Narodnih Svetih in v
+                  Narodnem Odboru, kakor tudi drugod enotna, smatra konferenca za potrebno, da se
+                  izvoli stalen jugoslov. socialistični svet, ki naj bo sestavljen iz 3 zastopnikov
+                  vsake jugoslov. soc. dem. stranke in v katerem naj bodo <choice>
+                     <sic>posebe</sic>
+                     <corr>posebej</corr>
+                  </choice>,vsled specialnih razmer zastopane tudi jugoslov. soc. dem. organizacije
+                  iz <placeName>Dalmacije</placeName> in iz <placeName>Ogrske</placeName>.</p>
+            </div>
+            <div xml:id="No.97.PPP.6">
+               <head>IV.</head>
+               <p>Konferenca je mnenja, da je vspostavitev proletarske internacionale nujno potrebna
+                  z ozirom na to, ker bodo razredni interesi, v nacionalnih državah zahtevali
+                  medsebojno internacionalno pomoč. Zato se nalaga Jugoslov. Socialističnemu Svetu,
+                  da s svoje strani išče način, kako se internacionala znova oživotvori.</p>
+               <p>Bosanski sodrugi niso glasovali za to resolucijo radi svojega stališča, ki soglaša
+                  s stališčem sklepov soc. zborovanja v <placeName>Zimmerwaldu</placeName> in so
+                  izjavili, da jim je žal, ako ni prišlo na konferenci do skupnega sklepa. Sicer
+                  bodo predložili sklep izvrševalnemu odboru bosanske soc. stranke v pretres.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

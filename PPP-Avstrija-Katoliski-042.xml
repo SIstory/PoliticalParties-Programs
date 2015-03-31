@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Skupna hrvaškoslovenska resolucija, ki sta jo sprejeli Vseslovenska ljudska
+               stranka in Hrvaška stranka prava na prvem hrvaškoslovenskem saboru 20. oktobra 1912 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30575</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-042.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30575</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Prvi hrvatsko-slovenski sabor dne 20. oktobra 1912.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XL</biblScope>
+                     <biblScope unit="issue">242</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-MDVN90AQ</pubPlace>
+                     <date when="1912-10-21">21. 10. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi hrvatsko-slovenski sabor dne <date when="1912-10-20">20. oktobra
+               1912</date>.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.42.PPP">Izjavljamo, da tvorimo Hrvati in Slovenci eno narodno celoto.
+               Vsled tega hočemo pristaši Stranke prava in Vseslovenske Ljudske Stranke skupno
+               delovati v duhu in pravcu programa Stranke prava za jedinstvo, pravice in svobodni
+               razvoj hrvatsko slovenskega naroda v okviru <placeName>habsburške
+                  monarhije</placeName>. V svesti smo si, da so hrvatskoslovenske dežele odločilnega
+               pomena za pozicijo monarhije kot velevlasti in kakor se zavedamo svojih dolžnosti
+               napram monarhiji, tako odločno zahtevamo in pričakujemo, da se zave tudi monarhija
+               svojih dolžnosti napram našemu narodu.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

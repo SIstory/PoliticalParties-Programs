@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o pisanju Domoljuba, sprejeta na shodu zaupnikov Slovenske ljudske
+               stranke na Kranjskem 27. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30557</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-024.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30557</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zborovanje zaupnikov Slov. Ljudske Stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">296</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LEV4RGLS</pubPlace>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.24.PPP.1">Ker <q>Domoljub</q> že dolgo časa zanemarja svojo dolžnost, ko o za
+               nas najvažnejšem političnem vprašanju, jugoslovanski deklaraciji, premalo ali skoraj
+               nič ne piše,</p>
+            <p xml:id="No.24.PPP.2">ko pušča slovensko ljudstvo v popolni nejasnosti glede S. L. S.
+               in ne najde besede, da obsodi nepotrebno in škodljivo kmečko stranko<note
+                  source="#SourceBornDigital">Glej dok. št. 139.</note></p>
+            <p xml:id="No.24.PPP.3">– pozivajo zbrani zaupniki S. L. S. uredništvo tega lista naj mu
+               smer takoj spremeni, sicer bi mu morali odtegniti svoje zaupanje in pomoč ter ga
+               pozvati, naj odstopi.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

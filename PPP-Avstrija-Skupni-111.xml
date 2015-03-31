@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o razmerah na Štajerskem, sprejeta na vseslovenskem in istrskohrvaškem
+               shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30649</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-111.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30649</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski in istersko-hrvatski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXV</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-5SNA3EY7</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1897-09-14">
+            <head>Vseslovenski in istersko-hrvatski shod</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije</head>
+               <div>
+                  <head>Štajerske razmere-</head>
+                  <list xml:id="No.111.PPP" type="ordered">
+                     <item n="1.">Da se ugodi opravičenim težnjam vseh Slovencev na
+                           <placeName>spodnjem Štajerskem</placeName> po jednakopravnosti, treba, da
+                        se one slovenske župnije, katere spadajo sedaj še pod sekovsko škofijo,
+                        združijo z lavantinsko vladikovino v <placeName>Mariboru</placeName>, ter da
+                        se sodiščni okraji <placeName>Radgona</placeName>,
+                           <placeName>Cmurek</placeName> in <placeName>Arviž</placeName> podredijo
+                        novemu okrožnemu sodišču v <placeName>Mariboru</placeName>.</item>
+                     <item n="2.">Brezpogojna potreba je, da se ljudska šola, namenjena za poduk
+                        slovenskim otrokom, vredi skozi in skozi na podlagi materinega jezika kot
+                        izključljivega podučnega jetika, ter da neha biti ista v rokah
+                        nemško-nacijonalnih in liberalnih šolskih nadzornikov golo sredstvo za
+                        ponemčevanje slovenskega naroda.</item>
+                     <item n="3.">Treba je, da se deželni šolski svet štajerski razdeli v dva
+                        oddelka, nemškega in slovenskega, kateri opravlja vsaki samostojno vse
+                        posle, zadevajoče njemu podredjene šole.</item>
+                     <item n="4.">Učiteljišče v <placeName>Mariboru</placeName>, namenjeno vzgoji
+                        učiteljev za slovenske spodnještajerske šole, mora se vrediti tako, da bode
+                        poduk v večini podučnih otrok v slovenskem jeziku.</item>
+                     <item n="5.">Vprašanje poduka v slovenskem jeziku na celjski gimnaziji v
+                           <placeName>Celji</placeName> naj se reši tako, da se na gimnaziji
+                        napravijo slovenske paralelke za slovenske dijake ter da se za tako
+                        popolnjeno gimnazijo zgradi državno, srednje šole dostojno poslopje.</item>
+                     <item n="6.">Za štajerske Slovence treba osnovati v
+                           <placeName>Celji</placeName> državno nižjo kmetijsko šolo za praktičen
+                        poduk v umnem kmetijstvu in za vinorejo in sadjerejo, potem državno
+                        podkovsko šolo, obe seveda s slovenskim podučnim jezikom.</item>
+                     <item n="7.">Na srednjih šolah naj se nastavljajo slovenskega jezika zmožni in
+                        slovenski mladini naklonjeni možje, ne pa odločni nasprotniki
+                        nemško-nacijonalnega in liberalnega mišljenja, kakor se to godi za
+                           <placeName>Celje</placeName>.</item>
+                     <item n="8.">Nadzorstvo gledé vseh spodnještajerskih ljudskih in srednjih šol
+                        mora se odvzeti možem, ki so znani protivniki slovenskega naroda, ter
+                        izročiti možem, katerih preteklost daje jamstvo, da jim bo napredek
+                        slovenske šole zares na srci.</item>
+                     <item n="9.">
+                        <p>Pri imenovanju uradnikov za <placeName>spodnje Štajersko</placeName> mora
+                           nehati sedanja krivična praksa, po katerej se izključujejo navadno
+                           uradniki slovenske narodnosti, in sicer celo domačini, od službenih mest
+                           na spodnjem Štajerskem.</p>
+                        <p>Uradniška mesta na <placeName>spodnjem Štajerskem</placeName> morajo biti
+                           pristopna tudi, in to v prvi vrsti, uradnikom slovenske narodnosti, in to
+                           mesta ravno c. kr. predsednikov okrožnih sodišč, okrajnih glavarjev in
+                           drugih predstojnikov jednako, kakor nižjih tem podredjenih uradnikov, pri
+                           sodiščih, pri politični in finančni upravi, pri šolah, pošti in
+                           železnicah.</p>
+                        <p>Pri imenovanju uradnikov za <placeName>spodnje Štajersko</placeName>
+                           gledati je strogo na to, da vsak imenovanec ima že pri imenovanju popolno
+                           znanje slovenščine ter da je zmožen uradovati v slovenskem jeziku ustno
+                           in pismeno.</p>
+                     </item>
+                     <item n="10.">Krivični volilni red treba spremeniti tako, da bodo Slovenci na
+                           <placeName>spodnjem Štajerskem</placeName> dobili svojemu številu
+                        primeren broj zastopnikov v državnem zboru in da se uvrstijo v mestno
+                        skupino vsi sedaj izpuščeni trgi.</item>
+                  </list>
+               </div>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

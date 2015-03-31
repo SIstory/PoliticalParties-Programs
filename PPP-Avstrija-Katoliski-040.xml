@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Komunike Hrvaško-Slovenske narodne zveze, sprejet po posvetovanju predstavnikov
+               Hrvaške stranke prava in Vseslovenske ljudske stranke v prostorih državnozborskega
+               Hrvaško-Slovenskega kluba 9. in 10. oktobra 1912 na Dunaju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30573</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-040.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30573</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Hrvaškoslovenska narodna zveza.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XL</biblScope>
+                     <biblScope unit="issue">234</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-YU093MKJ</pubPlace>
+                     <date when="1912-10-11">11. 10. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Hrvaškoslovenska narodna zveza.</head>
+            <opener>
+               <dateline>
+                  <placeName>Dunaj</placeName>, <date when="1912-10-10">10. oktobra</date>
+               </dateline>
+            </opener>
+            <p>Včeraj in danes se je novoustanovljena <q>Hrvaško-slovenska narodna zveza</q> v
+               prostorih državnozborskega <q>Hrvaško-slovenskega kluba</q> posvetovala. Posvetovanja
+               so se danes popoldne končala. Soglasno se je, kakor poroča <q>Hrvaška
+                  korespondenca</q>, sklenil sledeči komunike:</p>
+            <p xml:id="No.40.PPP.1">Danes so se končala posvetovanja hrvaško-slovenskega
+               eksekutivnega komiteja, za voditelja stranke sta izvoljena dr. <persName>Mile <hi
+                     rend="italic">Starčević</hi></persName> in dr. <persName>Ivan <hi rend="italic"
+                     >Šusteršič</hi></persName>, za zapisnikarja pa <persName>Cezar
+                  Akačič</persName> in dr. <persName>Janko Brejc</persName>. Sklenilo se je, da
+                  <date when="1912-10-20">20. oktobra</date> zborujejo v
+                  <placeName>Ljubljani</placeName> vsi državni in deželni poslanci obeh združenih
+               strank. Pred tem shodom zborujeta vodstvi hrvaške stranke prava in Vseslovenske
+               Ljudske Stranke v <placeName>Ljubljani</placeName>, na katerih zborih se ratificirajo
+               v <placeName>Opatiji</placeName> in na <placeName>Dunaju</placeName> sklenjeni
+               sklepi.</p>
+            <p xml:id="No.40.PPP.2">Ko se je razmotrival politični položaj, se je soglasno zavzelo
+               stališče, <hi rend="bold">da monarhija svojih dolžnosti nasproti Hrvatom in
+                  Slovencem, ki se svojega pomena za velemoč monarhije glede na Adrijo in na <placeName>Balkan</placeName>
+                  zavedajo, ni izpolnjevala in da je tozadevno potrebna temeljita
+               izprememba</hi>.</p>
+            <p xml:id="No.40.PPP.3">Posvetovanj so se udeležili za hrvaško stranko prava predsednik
+               dr. <persName>Mile Starčević</persName> (<placeName>Zagreb</placeName>),
+                  <persName>Akačič</persName> (<placeName>Reka</placeName>), posl. prof.
+                  <persName>Spinčič</persName> (<placeName>Istra</placeName>), posl. dr.
+                  <persName>Perišič</persName> (<placeName>Sarajevo</placeName>), posl. dr.
+                  <persName>Drinkovič</persName> (<placeName>Dalmacija</placeName>); za Vseslovensko
+               Ljudsko Stranko pa kranjski deželni glavar dr. <persName>Ivan Šusteršič</persName>
+                  (<placeName>Ljubljana</placeName>), posl. dr. <sic>dr.</sic>
+               <persName>Krek</persName> (<placeName>Ljubljana</placeName>), posl. dr.
+                  <persName>Korošec</persName> (<placeName>Štajersko</placeName>), posl.
+                  <persName>Fon</persName> (<placeName>Primorsko</placeName>) in dr.
+                  <persName>Brejc</persName> (<placeName>Koroško</placeName>).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

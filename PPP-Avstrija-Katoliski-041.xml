@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija osrednjega vodstva Vseslovenske ljudske stranke in Hrvaške stranke
+               prava, sprejeta na prvem hrvaško-slovenskem saboru 20. oktobra 1912 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30574</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-041.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30574</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Prvi hrvatsko-slovenski sabor dne 20. oktobra 1912.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XL</biblScope>
+                     <biblScope unit="issue">242</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-MDVN90AQ</pubPlace>
+                     <date when="1912-10-21">21. 10. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi hrvatsko-slovenski sabor dne <date when="1912-10-20">20. oktobra
+               1912</date>.</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije osrednjega vodstva Vseslovenske Ljudske Stranke in Hrvatske Stranke
+                  Prava</head>
+               <p xml:id="No.41.PPP.1">Osrednje vodstvo Vseslovenske ljudske stranke, ki je
+                  zborovalo dne <date when="1912-10-20">20. t. m.</date> dopoldne v
+                     <placeName>Ljubljani</placeName>, <hi rend="bold">je soglasno odobrilo
+                     opatijske in dunajske resolucije</hi><note source="#SourceBornDigital">Glej
+                     dok. št. 38 in dok. št. 40.</note> zastopnikov V. L. S. in stranke prava.
+                  Obenem je sklenilo sledečo resolucijo:</p>
+               <p xml:id="No.41.PPP.2">Centralno vodstvo V. L. S. jemlje z ogorčenjem na znanje
+                  poročilo koroškega strankinega vodstva <hi rend="bold">o nečuvenem zatiranju
+                     slovenskega ljudstva v vseh panogah javne, avtonomne in državne uprave na
+                     Koroškem, protestira proti sistematični zlorabi javne oblasti</hi> v
+                  ponemčevalne namene in proti raznim poskusom vtisniti deželi na umeten način pečat
+                  izključno nemškega značaja, konstatira, da je ljudsko štetje falzifikat dejanskih
+                  razmer, ki vsled tega za presojo narodnostnih zadev in vprašanj ne more priti v
+                  poštev in končno od poslancev V. L. S. nujno pričakuje, da nevzdržljivim razmeram
+                  na <placeName>Koroškem</placeName> posvečajo svojo najintenzivnejšo skrb in
+                  pozornost ter se pri tem eventualno poslužujejo tudi <hi rend="bold">najostrejših
+                     parlamentarnih sredstev</hi>. </p>
+               <p xml:id="No.41.PPP.3">Koroškim pritožbam se pridružujejo tudi <hi rend="bold"
+                     >štajerski</hi> zaupniki ter kažejo na vedno silnejši pritisk od Nemcev pod
+                  očividno zaslombo sovražne nam vlade.</p>
+               <p xml:id="No.41.PPP.4">V plenarni seji hrvatskih narodnih zastopnikov, ki se je
+                  istega dne v <placeName>Ljubljani</placeName> vršila in kateri je prisostvovalo iz
+                  kraljevine <placeName>Hrvatske</placeName> in <placeName>Slavonije</placeName> 16
+                  bivših narodnih zastopnikov razpuščenega hrvatskega sabora v
+                     <placeName>Zagrebu</placeName>, 8 narodnih zastopnikov iz
+                     <placeName>Dalmacije</placeName>, 6 narodnih zastopnikov iz <placeName>Bosne in
+                     Hercegovine</placeName> in 3 narodni zastopniki iz
+                  <placeName>Istre</placeName>, <hi rend="bold">so se istotako vzeli na znanje
+                     opatijski in dunajski sklepi</hi> in sledeči komunike sklenil:</p>
+               <list type="ordered" xml:id="No.41.PPP.5">
+                  <item n="1.">Vrhovna uprava stranke prava je z velikim zadovoljstvom in iskreno
+                     radostjo vzela na znanje poročilo o sklepih, storjenih <date when="1912-09-19"
+                        >19. rujna</date><note source="#SourceBornDigital">Septembra.</note> v
+                        <placeName>Opatiji</placeName> in <date when="1912-10-09">9. listopada<note
+                           source="#SourceBornDigital">Oktobra.</note> 1912</date> na Dunaju med
+                     delegati stranke prava in Vseslovenske ljudske stranke, vsled kojih stopa
+                     Vseslovenska ljudska stranka v vrste Stranke prava in v celoti sprejme njen
+                     državnopravni program od leta <date when="1894">1894</date>.</item>
+                  <item n="2.">Da se doseže edinstvo in svoboda, smatra vrhovna uprava stranke prava
+                     za koristno sodelovanje vseh narodnih sil in želi v tem delu pozdraviti kot
+                     soborilce vse plasti naroda brez razlike vere in plemena.</item>
+                  <item n="3.">Hrvatski narod, svest si potrebe svojega daljnega narodnega razvitka,
+                     svojih narodnih pravic in važnosti geografskega položaja, bolno čuti politično
+                     razkosanost kraljevine <placeName>hrvatske</placeName>, z globokim ogorčenjem
+                     prenaša pritisek protinarodnega sistema, ki osobito v
+                        <placeName>Banovini</placeName> uničuje vsak napredek in prava hrvatskega
+                     naroda.</item>
+                  <item n="4.">Hrvatski narod, v svesti si, da so zemlje, v katerih on in njegovi
+                     sorojaki živijo, odločilne važnosti za položaj monarhije kot velevlasti in da
+                     je vedno v polni meri vršil svojo dolžnost nasproti svojemu zakonitemu
+                     vladarskemu domu in nasproti narodom habsburške monarhije ter doprinesel same
+                     žrtve, za gotovo pričakuje, spoštujoč prava in svobodo drugih narodov, da
+                     monarhija in njeni narodi v svojem lastnem interesu izpolnijo svojo dolžnost
+                     nasproti potlačenemu hrvatskemu narodu.</item>
+                  <item n="5.">Plenum vseh hrvatskih narodnih zastopnikov, članov Stranke prava iz
+                     vseh zemelj, na svojem sestanku v <placeName>Ljubljani</placeName>
+                     <date when="1912-10-20">20. listopada t. l.</date>, soglasno odobrava in
+                     sprejema te izjave svoje vrhovne uprave ter izjavljajo,<note
+                        source="#SourceBornDigital">Izjavlja.</note> da bodo z vso odločnostjo
+                     nadaljevali borbo in delo v duhu programa stranke prava.</item>
+               </list>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

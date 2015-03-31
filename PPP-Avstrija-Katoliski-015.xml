@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stališče dr. Janeza Evangelista Kreka o slovenskem narodnopolitičnem programu
+               leta 1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30548</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-015.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30548</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="KrekJanezE.Narodni_politiski_program">
+            <biblStruct>
+               <analytic>
+                  <title>Narodni politiški program</title>
+                  <author>Janez Evangelist Krek</author>
+               </analytic>
+               <monogr>
+                  <title>Čas</title>
+                  <title>znanstvena revija</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">1-2</biblScope>
+                     <biblScope unit="page">52</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LYH7WCZK</pubPlace>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="KrekJanezE.K_poglavju_Narodna_avtonomija">
+            <biblStruct>
+               <analytic>
+                  <title>K poglavju »Narodna avtonomija«</title>
+                  <author>Janez Evangelist Krek</author>
+               </analytic>
+               <monogr>
+                  <title>Čas</title>
+                  <title>znanstvena revija</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">4-5</biblScope>
+                     <biblScope unit="page">161</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9QZVKVPA</pubPlace>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#KrekJanezE.Narodni_politiski_program">
+            <head>Narodni politiški program</head>
+            <head>Državni poslanec prof. Jan. Ev. Krek</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.15.PPP.1">Slovenski narodni politiški program je imel od svojega začetka formulo:
+               ravnopravnost v šoli in uradu. Ob času taborov se je pridružila zahteva
+               <q>združene Slovenije</q>; v novejši dobi se je ta zahteva razširila v zmislu
+               hrvaškega državnega prava. <gap reason="irrelevant"/> Narodni politiški program mora pri nas obsegati
+               za svoj temelj dosledno in jasno krščansko demokratiško načelo v zvezi z
+               državnopravnim ciljem. Demokratiška bodi naša realna politika; njen cilj pa
+               ostani v avstrijski državi upravno zedinjen slovanski jug.</p>
+         </div>
+         <gap reason="irrelevant"  xml:id="No.15.PPP.2"/>
+         <div decls="#KrekJanezE.K_poglavju_Narodna_avtonomija">
+            <head>K poglavju <q>Narodna avtonomija</q></head>
+            <head>Državni poslanec prof. Jan. Ev. Krek</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.15.PPP.3">tudi nam velja geslo narodne avtonomije. Eno je po moji sodbi gotovo:
+               centralistiško načelo se bo umaknilo avtonomnemu v vseh ozirih, tudi v narodnem.
+               Meje med posamnimi deželami kmalu ne bodo več nepremostne. Demokratizacija
+               javnega življenja bo izbrisala mnogo stvari, ki so se zdele do nedavno
+               neizbrisne, gospodarsko, kulturno, predvsem pa narodno načelo bo zmagalo
+               konservativno zgodovinsko. Drugi časi, druga zgodovina! Ali bomo Slovenci
+               pripravljeni za ta preobrat? That is the question.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

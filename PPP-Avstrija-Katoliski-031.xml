@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glavne točke programa Slovenske kmetske zveze, predstavljene na njenem ustanovnem
+               zboru 21. januarja 1907 v Mariboru</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30564</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-031.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30564</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Ustanovni shod »Slovenske kmečke zveze« v Mariboru dne 21. t. m.</title>
+               </analytic>
+               <monogr>
+                  <title>Domovina</title>
+                  <title>mesečna priloga »Slovenski Tednik«</title>
+                  <imprint>
+                     <biblScope unit="volume">XVII</biblScope>
+                     <biblScope unit="issue">10</biblScope>
+                     <pubPlace>Celje</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-74P6VQR4</pubPlace>
+                     <date when="1907-01-23">23. 1. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Ustanovni shod <q>Slovenske kmečke zveze</q> v <placeName>Mariboru</placeName> dne
+                  <date when="1907-01-21">21. t. m.</date></head>
+            <gap reason="irrelevant"/>
+            <p>Glavne točke programa <q>S. k. z.</q> pa so:</p>
+            <list type="ordered" xml:id="No.31.PPP">
+               <item n="1.">Razdolženje kmetskih posestev.</item>
+               <item n="2.">Omejitev razkosavanja zemljišč in zabranitev predragih prepodaj od očeta
+                  na sina.</item>
+               <item n="3.">Odprava sedanjega zemljiškega davka in upeljava progresivnega
+                  dohodninskega davka.</item>
+               <item n="4.">Prepoved uvoza živine iz tujih držav, posebno iz balkanskih, ki so <gap
+                     reason="irrelevant"/> ognjišče vseh kužnih bolezni na vseh vrstah domačih
+                  živali.</item>
+               <item n="5.">Uravnava občinskih davkov.</item>
+               <item n="6.">Uravnava cen pridelkov, prepoved uvoza vseh vegetabilnih masti, kakor
+                  Kumerol itd.</item>
+               <item n="7.">Podeljevanje državnih podpor za ceste, podržavljenje privatnih železnic.
+                  Osnovanje državnih ali deželnih zavarovalnic, zavarovanje živine itd.</item>
+               <item n="8.">Zadružništvo.</item>
+               <item n="9.">Ustanovitev svojega slovenskega kmetijskega društva.</item>
+               <item n="10.">Skrb za to, da prevzame država stroške za ljudske šole, ker so ti za
+                  občine preveliki.</item>
+               <item n="11.">Skrb za nadaljevalne in nedeljske šole za odrasle.</item>
+               <item n="12.">Omogočenje potom zadrug, da se tudi mali kmetje lahko udeleže dodavanja
+                  (sena, žita in drugih živil) za vojsko. </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

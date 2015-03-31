@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucije, sprejete na seji načelstva Slovenske ljudske stranke na Kranjskem 18.
+               septembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30550</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-017.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30550</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Sijajna manifestacija S. L. S. za svetovni mir in jugoslovensko
+                     edinstvo.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">214</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-IHBLTGWM</pubPlace>
+                     <date when="1917-09-19">19. 9. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Sijajna manifestacija S. L. S. za svetovni mir in jugoslovensko edinstvo.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.17.PPP.1"><hi rend="bold">S. L. S. pozdravlja z globoko hvaležnostjo noto
+                     <persName>sv. Očeta Benedikta XV.</persName> z dne <date when="1917-08-01">1.
+                     avgusta t. l.</date> za svetovni mir.</hi></p>
+            <p xml:id="No.17.PPP.2"><hi rend="bold">Iskreno in brez vsakega pridržka si osvaja S. L.
+                  S. bistvene točke mirovnega predloga sv. očeta, ki so narekovane po visokem duhu
+                  popolne nepristranosti in nespodbojne pravičnosti ter označujejo edino pravo pot
+                  iz labirinta spornih vprašanj, v katera so zapletene vojskujoče se
+               države.</hi></p>
+            <p xml:id="No.17.PPP.3"><hi rend="bold">Namestitev orožne sile po naravni sili pravice,
+                  sodobno in vzajemno razoroženje vseh držav, obvezno razsodišče za države, čigar
+                  avtoriteta je zasidrana v solidarnosti vseh narodov sveta, resnična svoboda za vse
+                  narode in svoboda morja – tvorijo pravo podlago za pravičen in trajen svetovni
+                  mir, zajamčujoč zdravo reorganizacijo narodov ter ožjo in tesnejšo zvezo vseobče
+                  ljudske družine v osrečujočem znamenju prave svobode in visoke
+               pravičnosti.</hi></p>
+            <p xml:id="No.17.PPP.4"><hi rend="bold">Svesta si pritrjevanja celokupnega katoliškega
+                  slovenskega ljudstva, daje S. L. S. svoje skromne moči v dosego visokega smotra
+                  sv. očetu na razpolago in združuje svoje iskrene molitve z verniki celega sveta,
+                  da bi Vsegamogočni blagoslovil korak, ki ga je v najresnejši uri započel Njegov
+                  namestnik na zemlji.</hi></p>
+            <p xml:id="No.17.PPP.5"><hi rend="bold">Naj bi prav kmalu napočil dan, ko se združijo
+                  vsi narodi sveta okoli vznesene zastave miru, ki jo je dvignil namestnik Kristusov
+                  na zemlji.</hi></p>
+            <p xml:id="No.17.PPP.6">Načelniku stranke se naroča, da ta sklep priobči na primeren
+               način sv. stolici.</p>
+            <p xml:id="No.17.PPP.7"><hi rend="bold">S. L. S. odobrava in si osvaja državnopravno
+                  deklaracijo jugoslovanskih poslancev v avstrijskem državnem zboru z dne <date
+                     when="1917-05-30">30. maja t. l.</date></hi><note source="#SourceBornDigital"
+                  >Glej dok. št. 130.</note><hi rend="bold"> in hoče slejkoprej zastaviti svoje moči
+                  za uresničenje jugoslovanskega edinstva pod žezlom habsburško-lorenske
+                  dinastije.</hi></p>
+            <gap xml:id="No.17.PPP.8" reason="irrelevant"/>
+            <p xml:id="No.17.PPP.9"><hi rend="bold">S. L. S. vzame z zadovoljstvom na znanje, da se
+                  je ustanovila v <placeName>Curihu</placeName> mednarodna katoliška unija. Poročilo
+                  načelnika stranke o čedalje uspešnejšem delovanju Katoliške unije se odobri. S. L.
+                  S. hoče z vsemi močmi sodelovati, da se dosežejo vzvišeni smotri te velepomembne
+                  katoliške organizacije.</hi></p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

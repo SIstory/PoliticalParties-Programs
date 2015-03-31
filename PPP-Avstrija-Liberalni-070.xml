@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Narodno napredne stranke na Goriškem, sprejet na shodu strankinih
+               zaupnikov 24. januarja 1907 v Gorici</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30608</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-070.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30608</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Načrt programa <q>narodno-napredne stranke</q> na Goriškem</title>
+               </analytic>
+               <monogr>
+                  <title>Soča</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXVII</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <pubPlace>Gorica</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-P7KKP91Z</pubPlace>
+                     <date when="1907-01-05">5. 1. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Načrt programa <q>narodno-napredne stranke</q> na Goriškem</head>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.70.PPP" type="ordered">
+               <item n="1.">Narodno-napredna stranka na <placeName>Goriškem</placeName> je narodna,
+                  ljudska in svobodomiselna.</item>
+               <item n="2.">Stranka stoji na stališču narodne samouprave, katere konečni smoter bodi
+                  zjedinjena <placeName>Slovenija</placeName> in združitev s
+                     <placeName>Hrvatsko</placeName>.</item>
+               <item n="3.">Zahtevamo popolno enakopravnost slovenske narodnosti in jezika v vseh
+                  državnih in avtonomnih uradih, v cerkvi, v šoli in sploh v vsem javnem
+                  življenju.</item>
+               <item n="4.">Vsem stanovom se priznavajo enake pravice in enake dolžnosti; zato se
+                  izključuje nadvladje kateregakoli stanu. – </item>
+               <item n="5.">Stranka se protivi zlorabi vere in cerkve v politične in posvetne
+                  namene.</item>
+               <item n="6.">Zahteva svobodno šolo in svobodno učiteljstvo s stanu primerno gmotno
+                  podlago, da more skrbeti za potrebni ugled in vsestransko dalnje
+                  izobraževanje.</item>
+               <item n="7.">Stranka se hoče zavzeti z vsemi silami za gospodarski napredek našega
+                  posestnika <hi rend="italic">in povzdigo kmetijstva sploh</hi>; zato nujno
+                  zahteva, <hi rend="italic">da se zboljša in razširi kmetijski poduk</hi>, da se
+                  pospešuje <hi rend="italic">posebno</hi> živinoreja in mlekarstvo, vinarstvo in
+                  sadjarstvo; hoče delovati na intenzivnejše gospodarstvo, odpreti domačim pridelkom
+                  stalen in ugodnejši trg; podpira produkcijsko zadružništvo, izključuje pa zadruge,
+                  ki služijo politiškim strankarskim svrham.</item>
+               <item n="8.">Stranka polaga veliko važnost to, da zadobi slovenski narod krepko in
+                  svobodno trgovino, obrt in lastno industrijo; v to svrho bo pospeševala
+                  združevanje domačega kapitala in izkoriščanje prirodnih sil v uporabo v deželi;
+                  dobavo cenega kredita; spopolnitev obrtnega zadružništva. Skrbeti je za potrebno
+                  splošno in strokovno izobrazbo.</item>
+               <item n="9.">Stranka bo podpirala delavstvo v njegovih težnjah, hoče pa, da si ohrani
+                  narodno podlago; zlasti se bo zavzemala za ureditev bolniških blagajn, za
+                  starostno in invaliditetno preskrbo delavstva ter delovala na to, da se pravično
+                  uredi razmerje mej delodajalcem in delavcem.</item>
+               <item n="10.">
+                  <p>Za državni in deželni zbor in za avtonomne zastope zahteva stranka splošno,
+                     enako in tajno volilno pravico, izreka se pa za proporcijonalni volilni
+                     sistem.</p>
+                  <p>Stranka naglaša, da nova volilna reforma za državni zbor ne zadošča pravicam
+                     Slovencev, in goriških Slovencev posebej; zahteva, da se brez odlašanja izvede
+                     na podlagi načela splošne, enake in tajne volilne pravice volilna reforma za
+                     deželni zbor tako, da bo primerno zastopana slovenska 2/3-ska večina. Dosledno
+                     naj se za trgovsko in obrtno zbornico razširi volilna pravica na vse trgovce in
+                     obrtnike.</p>
+               </item>
+               <item n="11.">Stranka zahteva, da državna in deželna uprava posvetita veliko več
+                  pozornosti naši deželi, skrbita za potrebne ceste in železnice, za uravnavo rek in
+                  hudournikov, za ureditev zdravstvenih razmer in v obče za moralno in materijalno
+                  povzdigo prebivalstva.</item>
+               <item n="12.">Narodno-napredna stranka na <placeName>Goriškem</placeName> bo iskala
+                  dotiko z narodnimi strankami na <placeName>Slovenskem</placeName>, imajoča vedno
+                  pred očmi splošne slovenske koristi in vzajemnost z vsemi slovanskimi
+                  narodi.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

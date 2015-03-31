@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programska vodila Katoliške narodne stranke, predstavljene ob volitvah v Kranjski
+               deželni zbor 21. in 25. novembra 1895</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30540</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-007.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30540</idno>
+            <date>2014</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Volilcem za dež. zbor kranjski!</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIII</biblScope>
+                     <biblScope unit="issue">252</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-PRVCA1EU</pubPlace>
+                     <date when="1895-11-02">2. 11. 1895</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Volilcem za dež. zbor kranjski!</head>
+            <p>V kratkem se bodo vršile nove volitve za kranjski deželni zbor!</p>
+            <p>V kratkem bode tedaj ljudstvo imelo določiti svojo lastno usodo za prihodnjih šest
+               let!</p>
+            <p>Voliti bode imelo ljudstvo mej <hi rend="italic">katoliško-narodnimi možmi in
+                  narodno-liberalno stranko, mej katoliškimi in liberalnimi načeli.</hi></p>
+            <p xml:id="No.7.PPP.5">Zvestoba Bogu in domu je od pravekov dičila slovenski rod. Dovolj
+               je imel poguma, da jo je branil proti zunanjim sovražnikom; zato se pa po pravici
+               nadejamo, da jo bo z ravno tako možato značajnostjo branil proti domačim nasprotnikom
+               in njihovim zapeljancem.</p>
+            <p xml:id="No.7.PPP.6">Razsodnemu, vernemu Slovencu ni treba dolgo razmišljati, kje je
+               zanj pravo mesto. Javno življenje se snuje pred njegovimi očmi in stranke,ki
+               nastopajo, so po svojih <hi rend="italic">načelih</hi> in po svojem <hi rend="italic"
+                  >delovanju</hi> očite vsakomer.</p>
+            <p xml:id="No.7.PPP.7"><hi rend="italic">Katoliško-narodna stranka</hi> povdarja v
+               svojih načelih, da je živa, dejanjska <hi rend="italic">katoliška vera temelj</hi>
+               vsemu zasebnemu in družabnemu življenju, jedina trdna opora nravnemu in gmotnemu
+               zdravju posamnih ljudij, pa tudi družin, občin, dežel, narodov in držav. – Zato
+               spoštuje vsako <hi rend="italic">zakonito oblast</hi> in se ustavlja vsakemu napadu
+               proti nji. Zato povdarja, da mora krščanska <hi rend="italic">pravičnost</hi> zopet
+               zavladati v zakonodavstvu in upravi in da se mora dati <hi rend="italic">vsakemu
+                  svoje</hi>. Vzlasti zahteva pravic za priprosto ljudstvo, <hi rend="italic">kmete,
+                  obrtnike in delavce</hi>. – Za svoje delo rabi in bo rabila samo poštena sredstva.
+               Od mož, ki se pod njenim praporom bojujejo, zahteva pred vsem <hi rend="italic"
+                  >vestnega izpolnjevanja vseh dolžnostij</hi>, ki jih naklada služba v javnih
+               zastopih <hi rend="italic">in neustrašeno, nesebično, požrtvovalno, vestno skrb za
+                  javni blagor</hi>.</p>
+            <p>Liberalna stranka govori o veri samo kot o <hi rend="italic">verskem čutu</hi> in se
+               brani verskemu vplivu v javnosti. Od Boga postavljeno oblast, vzlasti duhovsko,
+               pobija in blati. Najgrje napada sv. Očeta, škofe in duhovnike, zaničuje pa tudi vse
+               priprosto ljudstvo, očitajoč mu nerazsodnost in neumnost, kar se je vzlasti pokazalo
+               gledé na prisilno legalizacijo. Strankarske koristi so ji nad pravičnostjo in
+               sebičnost ji je vodilo. Ta načela kaže jasno v vsem svojem delovanju. Druži se tudi z
+               narodnimi nasprotniki, koder ji kaže, koder se namreč gre za liberalna načela in
+               proti krščanskemu ljudstvu. Vse, tudi najboljše predloge in nasvete v blagor ljudstva
+               pobija, če bi utegnili škodovati nji ali posamnim njenim udom. Zato se protivi
+               omejitvi prisilne legalizacije; zato ovira snovanje vzajemnih ljudskih posojilnic;
+               zato zagovarja kmečkemu stanu tako škodljivi lovski zakon; zato brez ozira na splošni
+               blagor gospodari z javnim imetjem, kakor priča novo gledališče, nova bolnišnica in
+               nespametna zahteva »višje dekliške šole« itd.</p>
+            <p>Liberalne stranke so si v tem povsod jednake, in sad njihovega delovanja je vedno <hi
+                  rend="italic">narodova škoda</hi>. Naša liberalna stranka je vredna sestrica
+               nemških liberalcev. Posamnih njenih članov ne presojamo in ne govorimo o njihovem
+               zasebnem življenju, toda to pa trdimo: V javnem delovanju so merodajna strankina
+               načela, ne pa posamnikovo mnenje; klubov terorizem nadvladuje pri vseh liberalnih
+               strankah posamnikovo voljo. Zato volitev poslanca ni samo osebno, marveč pred vsem
+               načelno vprašanje. V slabi, neznačajni, za splošni blagor nebrižni stranki tudi
+               zasebno najboljši mož ne moro ničesar opraviti. In taka je vsaka liberalna
+               stranka.</p>
+            <p>Zato se vzdramljeno ljudstvo povsod otresa njenega gospodstva. Vrgli so jo na
+                  <placeName>Gorenjeavstrijskem</placeName>, v <placeName>Solnogradu</placeName> in
+               celo na <placeName>Dunaju</placeName>, vreči jo moramo tudi pri nas. Tega nam ne
+               narekava nobena sebična strankarska strast, marveč le ljubezen do naroda in skrb za
+               njegov duševni in gmotni obstoj. Le, ko premaga tudi naše ljudstvo liberalizem, bo
+               mogoče izvršiti vse to, kar nameravajo katoliško-narodni možje.</p>
+            <p><hi rend="italic">V parlamentarnem življenju zmaguje večina; pošteno, za splošni
+                  blagor vneto večino si mora izvojevati tudi slovensko ljudstvo na
+                     <placeName>Kranjskem</placeName> v svoj deželni zbor; potem bo mogoče izvršiti
+                  vse točke našega programa, mogoče bo vspešno braniti pogoje narodovega blagostanja
+                  in doseči politično in gospodarsko celoto ljudstva.</hi></p>
+            <p>Želeč, da se to zgodi, pričenjamo pod katoliško-narodnim praporom volilno borbo.
+               Posebej, povdarjamo, da je naš namen skrbeti za zdravo, splošno ljudsko omiko,
+               truditi se za naše narodne pravice, braniti domačo zemljo proti špekulaciji
+               mejnarodnega velikega kapitala in <hi rend="italic">skrbeti pred vsem za steber
+                  slovenskega naroda — za naš kmečki stan</hi>. Z vsemi silami hočemo povspeševati
+               živinorejo in delati na to, da se kmetu vrnejo njegove stare pašne pravice, vzlasti
+               da so v starih mapah kot pašniki vpisane parcele v novem katastru zopet vpišejo za
+               pašnike.</p>
+            <p>Volilna pravica se mora razširiti na vse stanove, ki so sedaj izključeni od nje; <hi
+                  rend="italic">vzlasti pa se morajo izdatno pomnožiti zastopniki kmečkega
+                  stanu</hi>.</p>
+            <p>Podpirati hočemo težnje, da se ustanové kmečki domovi in gospodarske zadruge, da se
+               uravnajo hudourniki, v suhih pokrajinah napravijo vodovodi in da se povzdigne
+               trtoreja in sadjereja. Posebno hočemo pospeševati snovanje in delovanje narodnih
+               posojilnic po načinu Raiffesenovem, pospeševati prizadevanje, <hi rend="italic">da se
+                  notarijat podržavi</hi>, vsaj pa preje ko mogoče <hi rend="italic">omeji prisilna
+                  legalizacija</hi>; delovati na to, da <hi rend="italic">se zavarovanje proti
+                  ognju</hi> in drugim elementarnim nezgodam in <hi rend="italic">zavarovanje</hi>
+               živine <hi rend="italic">podeželi</hi>; prizadevati se, da se sklene tak <hi
+                  rend="italic">lovski zakon, ki bode varoval koristi kmeta</hi>; pospeševati <hi
+                  rend="italic">gradbo novih železnic na <placeName>Kranjskem</placeName></hi>;
+               prizadevati se, da se povodom nove pravosodne organizacije osnuje zadostno število
+               kolegijalnih sodišč po raznih krajih naše dežele in v obče novi sodnijski okraji
+               razdelijo tako, da bo ugajalo potrebam ljudstva; podpirati težnje da se uvedó mirovna
+               sodišča; <hi rend="italic">sploh, delovati v vseh strokah za duševni in gmotni blagor
+                  ljudstva!</hi></p>
+            <p>Da se ta program vresniči, treba je odločnega in vstrajnega delovanja vseh slojev
+               ljudstva.</p>
+            <p>Slovensko ljudstvo! oddaj pri bodočih volitvah svoje glasove zvestim in značajnim
+               katoliško-narodnim možem in položilo bodeš temelj za pogoje svojemu blagostanju.</p>
+            <p>Slovenski narod ne sme zaostati. Tudi on se mora najodločneje oglasiti: <hi
+                  rend="italic">Proč z liberalizmom in proč iz javnega življenja z njegovimi
+                  zastopniki! Rešitev in zmaga je le v večnih idejah krščanstva!</hi></p>
+            <p>Sleherni stori svojo dolžnost in na volilni dan bode zmagalo staro slovensko
+               geslo:</p>
+            <p><hi rend="bold">Vse za vero, dom, cesarja!</hi></p>
+            <closer><hi rend="bold">Osrednji volilni odbor<lb/>Katoliško-narodne
+               stranke</hi></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

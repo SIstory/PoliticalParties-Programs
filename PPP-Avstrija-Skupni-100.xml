@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poziv na prvi (jugoslovanski) tabor političnega društva Edinost 27. oktobra 1878
+               v Dolini pri Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30638</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-100.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30638</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Tabor v Dolini</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">20</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-B3EKRSDD</pubPlace>
+                     <date when="1878-10-26">26. 10. 1878</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>TABOR V DOLINI</head>
+            <div xml:id="No.100.PPP.1">
+               <opener><hi rend="bold">Bratje južni Slovani!</hi></opener>
+               <p>Uže 10 let je minolo, ker se je naš narod zbiral v tabore, da javno proglaša svoje
+                  želje in težnje, svoj narodni program, od katerega nij odstopil nikoli in ne bode.
+                  Nastopila je potem tiha doba; delali smo mirno na narodnem polji dolgih 10 let;
+                  naš narod pa še zmerom čaka svojih najsvetejših pravic. – Prišli so resni časi:
+                  važno slovansko prašanje na Jutrovem rešuje se prav zdaj in pretresa vso Evropo.
+                  Tudi naše cesarstvo je močno prešinola ta nova doba, katera mora poroditi
+                     osodopolne<note place="foot" source="#SourceBornDigital">Usodepolne.</note>
+                  prenaredbe. Teh prenaredeb pa se némamo bati mi Avstrijski Slovani, ki se vedno
+                  zaupljivo obračamo na mogočnega našega vladarja, katerega želja je, naj kraljuje
+                  mir in pravica mej narodi, pod njegovim žezlom živečimi.</p>
+               <p>K temu sili nas še posebno polit. težnja bližnjega kraljestva,<note place="foot"
+                     source="#SourceBornDigital">Mišljena je Kraljevina
+                        <placeName>Italija</placeName>.</note> da raztegne svoje gospodarstvo tudi
+                  čez primorske pokrajine, v katerih bivamo mi južni Slovani v ogromni večini. – Ta
+                  težnja pa je našla odmev tudi na <placeName>Primorskem</placeName>; osnovala se je
+                  mej Italijani v <placeName>Trstu</placeName>, <placeName>Gorici</placeName> in
+                  nekaterih Istrskih mestih neka stranka, ki drzno proglaša primorske pokrajine za
+                  del italijanskega kraljestva in te nakane javi po veleizdajskih činih. – Mi južni
+                  Slovani, ki smo naravni gospodarji jadranskega primorja, ne moremo vsega tega
+                  mirno gledati, ampak slovesno nam je <hi rend="italic">protestovati</hi> proti
+                  onim činom. Glede na to in pa tudi z ozirom na druge silne potrebe našega naroda,
+                  kliče vas, <hi rend="italic">južni Slovani</hi>, odbor političnega društva <hi
+                     rend="italic">Edinost</hi> v tabor v <hi rend="italic"><placeName>Dolino pri
+                        Trstu</placeName></hi>. Ta tabor bode <date when="1878-10-26">27. t.
+                     m.</date> na velikem prostoru blizo cerkve v <hi rend="italic"
+                        ><placeName>Dolini</placeName></hi> in se začne ob 2½ uri popoludne. –
+                  Obravnavale in sklepale se bodo te le točke:</p>
+               <list type="ordered">
+                  <item n="1)">Adresa udanosti na cesarja in protest proti rogoviljenju one
+                     italijanske stranke, ki dela na spojenje primorskih slovanskih pokrajin z
+                        <placeName>Italijo</placeName>.</item>
+                  <item n="2)">Nasveti in sklepi, kako bi se dalo pospeševati gmotno in duševno
+                     blagostanje našega naroda sploh, in primorskih Slovanov posebe.</item>
+                  <item n="3)">Nasveti in sklepi, kako bi se dalo povzdignoti šolstvo na
+                        <placeName>Primorskem</placeName>, posebno pa v
+                     <placeName>Istri</placeName>.</item>
+                  <item n="4)">Nasveti in sklepi, kako bi se dale pogozditi mnoge goličave na Krasu
+                     in v <placeName>Istri</placeName>.</item>
+               </list>
+            </div>
+            <div xml:id="No.100.PPP.2">
+               <opener><hi rend="bold">Južni Slovani!</hi></opener>
+               <p>Vse te točke so preimenitne, in sveta dolžnost nam je, potezati se za narodnost
+                  našo, za omiko, za svobodo in <hi rend="italic">edinost</hi>, kajti drugače ne
+                  moremo rešiti našega naroda velike nevarnosti.</p>
+               <p>Dojdite torej iz <hi rend="italic"><placeName>Istre</placeName>,
+                        <placeName>Goriškega</placeName>, <placeName>Kranjskega</placeName></hi>,
+                  sploh iz vseh južnih slovanskih pokrajin in izrecite javno in pred vsem svetom, da
+                  niti pedi slovanske zemlje néma zgubiti naš narod, naša
+                     <placeName>Avstrija</placeName>! Konečno prosi podpisani odbor vse rodoljube
+                  vsacega stanú, naj mej narodom širijo vest o taboru in odbor podpirajo na vso moč,
+                  da bode tabor lep, reden in živ dokaz zrelosti našega naroda. Živela vzajemnost
+                  slovanstva!</p>
+            </div>
+            <closer xml:id="No.100.PPP.3">
+               <dateline>V <placeName>Trstu</placeName>, <date when="1878-10-20">20. oktobra
+                     1878</date>.</dateline>
+            </closer>
+            <closer><hi rend="bold">Odbor političnega društva "EDINOST".</hi></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

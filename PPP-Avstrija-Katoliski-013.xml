@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija organizacijskega odseka tretjega slovenskega katoliškega shoda 26.–28.
+               avgusta 1906 v Ljubljani o oblikovanju Vseslovenske katoliške politične
+               stranke</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30546</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-013.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30546</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>III. slovenski katol. shod v Ljubljani</title>
+                  <title>dne 26., 27. in 28. avg. 1906</title>
+                  <title>govori, posveti in sklepi</title>
+                  <edition>Evgen Lampe</edition>
+                  <imprint>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Katoliška bukvarna</publisher>
+                     <date>1907</date>
+                     <biblScope unit="page">82–83</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.13.PPP.1">Namen organizacije je, združiti razkropljene sile posameznikov,
+               da postanejo po skupnosti zmožne doseči velikih vspehov, katerih posameznik ne zmore.
+               3. slov. katol. shod ponavlja želje, izrečene na 2. slov. katol. shodu, opozarja
+               zopet na potrebo organizacije za ohranitev našega naroda na temelju katoliške vere in
+               slovenske narodnosti ter priporoča:</p>
+            <p xml:id="No.13.PPP.2">1. Vsi katoliško misleči Slovenci naj se združijo v veliko
+               stranko, ki obsegaj vse sloje in vse pokrajine slovenskega ljudstva. Ta stranka stoj
+               na najširši demokratični podlagi, tako da volijo njeno vodstvo zaupniki iz vseh
+               stanov. Izvrševalni odbori naj bodo po vseh slovenskih pokrajinah ter naj delujejo
+               samostojno. O stvareh, ki so važne za ves slovenski narod, naj se posvetuje osrednji
+               odbor, ki ga tvorijo odposlanci vseh teh pokrajinskih odborov. Ta velika politična
+               organizacija se naslanjaj na politična društva, ki se naj osnujejo v vsakem volilnem
+               okraju, in naj vpliva na državni zbor in na deželne zbore, ter na občine, da se v
+               njih varujejo katoliška načela in da dobé Slovenci vse pravice, ki jim gredo v
+               šolstvu ljudskem, srednjem in višjem, v uradu, cerkvi in sploh v javnopravnem
+               življenju. Politična društva naj skrbé, da bodo najširši ljudski sloji po shodih in v
+               časopisju vedno poučeni o ustavnem življenju.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

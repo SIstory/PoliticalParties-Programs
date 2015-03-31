@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o poskusu razdružitve Slovenske ljudske stranke na Kranjskem, sprejeta
+               na shodu njenih zaupnikov 27. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30553</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-020.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30553</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Zborovanje zaupnikov Slov. Ljudske Stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLV</biblScope>
+                     <biblScope unit="issue">296</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-LEV4RGLS</pubPlace>
+                     <date when="1917-12-28">28. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.20.PPP.1">Zbor zaupnikov S. L. S., kateri je po § 3. strankinega pravilnika kot <q>vrhovna oblast
+               v vseh zadevah stranke, bodisi načelno-pragmatičnih ali taktičnih, parlamentarnih ali
+               izvenparlamentarnih in čegar sklepi so merodajni za postopanje stranke odnosno njenih
+               organov v vsakem oziru in povsodi</q>, izjavlja:</p>
+            <list type="ordered" xml:id="No.20.PPP.2">
+               <item n="1.">da obsoja poskus razdružitve stranke,</item>
+               <item n="2.">ugotavlja, da S. L. S. prej kakor slej obstoji.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

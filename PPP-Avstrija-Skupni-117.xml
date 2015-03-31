@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sklep Kranjskega deželnega zbora o obrambi ustavnih pravic slovenskega naroda,
+               sprejet na njegovi seji 28. februarja 1898</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30724</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-117.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30724</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik sedemnajste seje deželnega zbora kranjskega v
+                     Ljubljani dne 28. februarija 1898</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>od 28. decembra 1897 do 28. februarja 1898</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="volume">39</biblScope>
+                     <biblScope unit="page">440</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor kranjski</publisher>
+                     <date when="1898">1898</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.117.PPP">C. kr. vlada se pozivlja, takoj storiti vse potrebno, da se bodo
+               varovale slovenskemu, oziroma hrvatskemu prebivalstvu na
+                  <placeName>Kranjskem</placeName>, <placeName>Štajerskem</placeName>,
+                  <placeName>Koroškem</placeName> in <placeName>Primorskem</placeName> v ustavi
+               zajamčene mu pravice in da se ščiti to prebivalstvo nasilstva večine, kjer je vsled
+               manjšega števila v deželi ali pa vsled umetno prikrojenega volilnega reda v
+               zakonodajnih zborih v manjšini.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

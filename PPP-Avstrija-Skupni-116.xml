@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spravna pogodba med Narodno stranko in Katoliško narodno stranko, sklenjena 23.
+               februarja 1898 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30723</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-116.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30723</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1898-03-18">
+            <biblStruct>
+               <analytic>
+                  <title>Sprava</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXVI</biblScope>
+                     <biblScope unit="issue">63</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-BZMNIHEX</pubPlace>
+                     <date when="1898-03-18">18. 3. 1898</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1898-03-18" corresp="#bibl.Slovenec.1898-03-18">
+            <biblStruct>
+               <analytic>
+                  <title>Spravna pogodba</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXI</biblScope>
+                     <biblScope unit="issue">63</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-RVMLDK17</pubPlace>
+                     <date when="1898-03-18">18. 3. 1898</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1898-03-18">
+            <p xml:id="No.116.PPP.1">Mej kluboma napredne narodne in katoliško narodne stranke v
+               deželnem zboru je bila sklenjena in od vodstev obeh strank potrjena naslednja spravna
+                  pogodba:<note place="foot"
+                  source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">Ta odstavek je
+                  natisnil le <hi rend="italic">Slovenski narod</hi>.</note></p>
+            <div xml:id="No.116.PPP.2">
+               <head>I.</head>
+               <p>Kluba katoliško-narodne in narodne stranke<note place="foot"
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
+                        rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in katoliško
+                     narodne stranke.</note> v deželnem zboru kranjskem skleneta med sabo za tekočo
+                  volilno dobo trdno in neločljivo zvezo.</p>
+               <p>Oba sprijateljena kluba bodeta delovala za razvoj javnega življenja v kulturnem,
+                  socijalnem in gospodarskem oziru na krščanski podlagi in zlasti odločno potegovala
+                  se <hi rend="italic">za</hi> narodne pravice ter politični, gospodarski in
+                  socijalni napredek slovenskega ljudstva.</p>
+               <p>Kot svojo posebno nalogo bodeta sprijateljena kluba smatrala:</p>
+               <list type="ordered">
+                  <item n="a)">potezati se za pravice in napredek celokupnega slovenstva v zmislu
+                     resolucij vseslovenskega in istersko-hrvatskega shoda z dne <date
+                        when="1897-09-14">14. septembra 1897</date>;<note place="foot"
+                        source="#SourceBornDigital">Glej dok. št. 107–114.</note></item>
+                  <item n="b)">dosledno pripravljati pot za združenje vsega slovenskega ozemlja v
+                     jedno upravno skupino s središčem v <placeName>Ljubljani</placeName>;</item>
+                  <item n="c)">delovati za socijalne reforme v korist kmetskega, trgovskega,
+                     obrtnega in delavskega stanu;</item>
+                  <item n="d)">potezati se za politično svobodo ljudstva in za razširjenje
+                     političnih pravic – zlasti volilne pravice v vse javne zastope – na najširše
+                     kroge prebivalstva.</item>
+               </list>
+            </div>
+            <div xml:id="No.116.PPP.3">
+               <head>II.</head>
+               <p>Da poslancem katoliško-narodne in onim narodne stranke<note place="foot"
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
+                        rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in onim
+                     katoliško-narodne stranke.</note> ne bode potreba odrekati se – zlasti onim
+                  katoliško-narodne stranke katoliško narodnih, in onim narodne stranke naprednih –
+                     načel,<note place="foot"
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
+                        rend="italic">Slovenskem narodu</hi> je natisnjeno: ne bode potreba odrekati
+                     se – zlasti onim narodne stranke naprednih – in onim katoliško-narodne stranke
+                     katoliško-narodnih načel.</note> ki so jih doslej vodila pri njihovem javnem
+                  delovanju, ostanejo tudi poslej še v dosedanjih klubovih zvezah.</p>
+               <p>V posredovanje vzajemnega postopanja sprijateljenih klubov se osnuje skupni odbor.
+                  Skupni odbor obstoji iz 8 članov in 4 namestnikov.</p>
+               <p>V ta odbor voli vsak sprijateljenih klubov 4 zastopnike in 2 namestnika iz svoje
+                  sredine.</p>
+               <p>Volitev skupnega odbora velja za dobo zasedanja in se ima tedaj pričetkom vsacega
+                  zasedanja obnoviti.</p>
+            </div>
+            <div xml:id="No.116.PPP.4">
+               <head>III.</head>
+               <p>Vsaka zadeva, ki ima priti v deželnem zboru v razpravo ali glasovanje, mora se
+                  preje pretresati v skupnem odboru, ki sklepa z nadpolovično večino glasov.</p>
+               <p>Sklepu in izrecilu<note place="foot" source="#SourceBornDigital">Izreku.</note>
+                  skupnega odbora morata se brezpogojno pokoravati oba sprijateljena kluba, izvzemši
+                  šolstvo, glede katerega se jima prepušča popolna svoboda, dokler se ne doseže
+                  skupni klub. Vendar si pa oba kluba prizadevajta doseči tudi v tem vprašanji
+                  jednotno postopanje.</p>
+            </div>
+            <div xml:id="No.116.PPP.5">
+               <head>IV.</head>
+               <p>Skupni odbor izbere iz svoje srede po dva načelnika in dva namestnika in sicer
+                  tako, da se izmed odposlancev vsacega kluba izbere po jeden načelnik in jeden
+                  namestnik. V predsedovanju vrstita se načelnika odnosno namestnika tako, da vsaki
+                  seji predseduje drugi. Za prvo predsedstvo v zasedanju odločuje žreb.</p>
+               <p>Skupni odbor je sklepčen le tedaj, če je vsak klub zastopan po štirih članih
+                  odnosno namestnikih. Predsednik se vselej udeležuje glasovanja.</p>
+               <p>Posvetovanje in sklepanje v skupnem odboru se mora za 24 ur odložiti, če to
+                  zahteva polovica članov.</p>
+               <p>V obnovljeni seji zopetna odložitev iste zadeve ni več dopustna, če je ne zahteva
+                  večina članov.</p>
+            </div>
+            <div xml:id="No.116.PPP.6">
+               <head>V.</head>
+               <p>Ko bi se o kakej zadevi v skupnem odboru ne dosegla večina, spraviti je stvar pred
+                  skupno sejo obeh sprijateljenih klubov.</p>
+               <p>Skupno sejo skliče in vodi tisti predsednik skupnega odbora, ki je zadevni
+                  neuspešni seji poslednjega predsedoval.</p>
+               <p>V skupni seji sprijateljenih klubov poročata najpreje za vsako stranko skupnega
+                  odbora po jeden poročevalec.</p>
+               <p>Poročilu sledi debata, ki se vrši po določilih poslovnega reda deželnega
+                  zbora.</p>
+               <p>Potem se glasuje in odloči z dvetretjinsko večino, a navzoče morajo biti tri
+                  četrtine členov obeh klubov.</p>
+            </div>
+            <div xml:id="No.116.PPP.7">
+               <head>VI.</head>
+               <p>V doslej spornih točkah gledališča in višje dekliške šole se bode dogovorno
+                  naslednje postopalo:</p>
+               <list type="ordered">
+                  <item n="a)">glede podpore nemškemu gledališču prepušča se članom obeh klubov
+                     svoboda;</item>
+                  <item n="b)">slovenskemu gledališču se osigura letna podpora najmanje 6000
+                     gld.;</item>
+                  <item n="c)">slovenski višji dekliški šoli v <placeName>Ljubljani</placeName> se
+                     osigura letna podpora najmanje 2000 gl. in k večjemu 3000 gld. pod pogojem, da
+                     se deželnemu odboru konceduje pravica, biti v kuratoriju zastopan po svojem
+                     odposlancu.</item>
+               </list>
+            </div>
+            <div xml:id="No.116.PPP.8">
+               <head>VII.</head>
+               <p>Volitve v odseke vršé se tako, da imata v njih oba sprijateljena kluba po jednako
+                  število članov. Za načelo velja, da se veleposestniškej stranki prepusti za odseke
+                  po tretjina mandatov.</p>
+            </div>
+            <div xml:id="No.116.PPP.9">
+               <head>VIII.</head>
+               <p>Oba kluba zavežeta se delovati k temu, da se ublažé nasprotja, ki so nastala vsled
+                  mejsebojnih bojev katoliško-narodne in narodne stranke na političnem,
+                  gospodarskem, socijalnem in zlasti tudi časnikarskem polju.</p>
+               <p>Oba sprijatejena kluba se zavežeta varovati sedanje posestno stanje obeh strank
+                  mej spravno dobo in sicer tako, da se vsaka stranka obveže, ko bi v kakem volilnem
+                  okraju v tekočej volilni dobi iz kakoršnega koli vzroka koli prišlo do nadomestne
+                  volitve za deželni ali državni zbor, ne delovati proti izvolitvi kandidata one
+                  stranke, kateri je pripadal prejšnji poslanec. Glede volitev v samoupravne zastope
+                  se pa zavežeta oba kluba delovati na to, da se sporazumno in mirno vršé.</p>
+               <p>Vselej pa, kadar bi vsled udeležitve nemške stranke prišel v nevarnost kandidat
+                  one slovenske stranke, katere posestno stanje se ima varovati, je sprijateljena
+                  jej stranka obvezana, udeleževati se volitve in glasovati za tega kandidata.</p>
+            </div>
+            <div xml:id="No.116.PPP.10">
+               <head>IX.</head>
+               <p>V prvi seji po ratifikaciji te spravne pogodbe odpovesta se iz vse zbornice
+                  izvoljena dr. <persName>Ivan Tavčar</persName> in dr. <persName>Danilo
+                     Majaron</persName> deželnemu odborništvu odnosno namestništvu in oba kluba se
+                  zavežeta pri nadomestni volitvi voliti tista kandidata, katera nominuje klub
+                  narodne stranke.</p>
+               <p>Ker je pričakovati, da se v tem slučaju odpové tudi dr. <persName>Adolf
+                     Schaffer</persName> svojemu mandatu v deželnem šolskem svetu, obvezani so vsi
+                  slovenski deželni odborniki, na njegovo mesto voliti tistega deželnega odbornika,
+                  katerega odloči klub katoliško-narodne stranke.</p>
+            </div>
+            <div xml:id="No.116.PPP.11">
+               <head>X.</head>
+               <p>Za okrajne cestne odbore in c. kr. okrajne šolske svete imenoval bode vsak
+                  sprijateljeni klub po jednega kandidata in slovenski deželni odborniki obvezani
+                  so, glasovati za te kandidate.</p>
+            </div>
+            <div xml:id="No.116.PPP.12">
+               <head>XI.</head>
+               <p>Da se pospeši zbliževanje obeh strank, katero je nemogoče, dokler bode trajal
+                  gospodarski boj med njunimi pristaši, zavežete<note place="foot"
+                     source="#SourceBornDigital">Zavežeta.</note> se klubovi vodstvi delovati na to,
+                  da se snovanje novih denarnih zavodov v krajih, kjer že kateri posluje – izvzemši
+                  deželno stolno mesto <placeName>Ljubljano</placeName> – po mogočnosti ovira. Pač
+                  pa bosta oba kluba zavezana podpirati ustanovljanje
+                     <persName>Raiffeisenovih</persName> posojilnic po večjih krajih, kjer še
+                  nobenega denarnega zavoda ni.</p>
+            </div>
+            <div xml:id="No.116.PPP.13">
+               <head>XII.</head>
+               <p>Ker se snovanje konsumnih društev iz narodnega stališča zamore odobravati le tam,
+                  kjer je slovenski živelj v boju z drugorodnim življem, z narodno-gospodarskega
+                  stališča pa le tam, kjer domača trgovina ne vstreza gospodarskim razmeram
+                  kosumentov, – zavezujeta se oba sprijateljena kluba, delovati na to, da se v takih
+                  krajih dežele kranjske, kjer niso dani zgorajšnji predpogoji, konsumna društva ne
+                  snujejo. Kadar bi se pa v kakem kraju imelo osnovati konsumno društvo po vplivu
+                  ali inicijativi jedne ali druge stranke, jo vodstvo konsumno društvo snujoče
+                  stranke zavezano, o tem obvestiti vodstvo prijateljsko stranke, da so doseže
+                  skupno postopanje.</p>
+            </div>
+            <div xml:id="No.116.PPP.14">
+               <head>XIII.</head>
+               <p>Zaradi velike važnosti, katera je v narodnem oziru pripisovati okrepljenju
+                  kmetijstva in malega obrtništva, obvezujeta se oba kluba, da bodeta skupno
+                  delovala za snovanje kmetijskih in obrtnih produktivnih zadrug po vseh večjih
+                  krajih dežele Kranjske.</p>
+            </div>
+            <div xml:id="No.116.PPP.15">
+               <head>XIV.</head>
+               <p>Ko bi deželni zbor kranjski prišel v položaj, da bi iz svoje srede imel izbirati
+                  poslance za državni zbor, zavezujeta se oba sprijateljena kluba, glasovati
+                  soglasno za devet kandidatov, katerih pet bode imenoval klub katoliško-narodne,
+                  štiri pa klub narodne stranke. V slučaju, da bi iz tako voljenega državnega zbora
+                  vršile se volitve v delegacije, imata se voliti pravi član in njega namestnik
+                  jedenkrat iz narodne, drugokrat iz katoliško-narodne stranke.</p>
+            </div>
+            <div xml:id="No.116.PPP.16">
+               <head>XV.</head>
+               <p>Prepovedano je poslancem obeh klubov stopati v zadevah, o katerih je odločal
+                  skupni odbor ali pa skupščina obeh klubov, v dogovor z nemško deželnozborsko
+                  stranko. Kdor bi ravnal proti tej določbi, zahtevati smé skupni odbor, da se
+                  izključi iz kluba.</p>
+            </div>
+            <div xml:id="No.116.PPP.17">
+               <head>XVI.</head>
+               <p>Ta dogovor sklenjen je za sedanjo deželnozborsko volilno dobo in se v tej dobi ne
+                  more odpovedati.</p>
+               <p>Izgotovi se pa v dveh jednakih izvodih, katere podpišejo vsi poslanci, ki so člani
+                  sprijateljenih klubov. Od teh izvodov shrani po jednega načelnik vsakega
+                  kluba.</p>
+               <p>Ta dogovor odobruje[ta]</p>
+               <p><hi rend="italic">Vodstvo katoliško-národne stranke</hi></p>
+               <p>[in] [vodstvo narodne stranke.]<note place="foot"
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18"><hi rend="italic"
+                        >Slovenski narod</hi>, leto XXXI, št. 63, Ljubljana, 18. 3. 1898, Spravna
+                     pogodba.</note></p>
+               <p><hi rend="italic">V Ljubljani</hi>, dné 24. februvarija 1898.<note place="foot"
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
+                        rend="italic">Slovenskem narodu</hi> je spravna pogodba datirana z 23. 2.
+                     1898.</note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

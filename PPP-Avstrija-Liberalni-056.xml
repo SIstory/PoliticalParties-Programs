@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Narodno napredne stranke za Kranjsko in Jugoslovanske
+               socialnodemokratske stranke proti tretjemu katoliškemu shodu, sprejeta na njunem
+               skupnem shodu 26. avgusta 1906 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30589</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-056.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30589</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Sijajen ljudski shod v <q>Narodnem domu</q>.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXIX</biblScope>
+                     <biblScope unit="issue">195</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-KLRTJ6L0</pubPlace>
+                     <date when="1906-08-27">27. 8. 1906</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Sijajen ljudski shod v <q>Narodnem domu</q>.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.56.PPP.1">Dne <date when="1906-08-26">26. t. m.</date> v
+                  <placeName>Ljubljani</placeName> zborujoči ljudski shod izreka:</p>
+            <p xml:id="No.56.PPP.2">Katoliški shod v <placeName>Ljubljani</placeName>, ki naj bi s
+               svojim imenom sugeriral javnosti mnenje, da se zbirajo katoličani na posvetovanje o
+                  <hi rend="italic">katoliških</hi>, torej o verskih in cerkvenih interesih, je po
+               načinu prireditve, po svojem dnevnem redu in po resolucijah, ki mu jih predlagajo
+               odseki, navadna demonstracija klerikalne stranke, nastopajoče pod protektoratom
+               cerkve in njenih dostojanstvenikov s političnoreakcionarnimi nameni. Klerikalci
+               vlačijo s tem sami katolicizem na polilično areno in v dnevne boje, vsled česar je
+               prebivalstvo neklerikalnega mišljenja brez obzira na svoje verske čute opravičeno, da
+               postavi proti klerikalni demonstraciji svojo demonstracijo. Nameni klerikalizma, ki
+               jih zadostno osvetljuje katoliški shod, pa naravnost velevajo neklerikalnemu
+               prebivalstvu, da točno označi svoje stališče napram katoliškemu shodu in napram
+               klerikalnim nakanam ter da se ravnotako odločno pripravi na delo v obrambo duševne in
+               politične svobode, kulture in vsestranskega napredka, kakor se pripravlja
+               klerikalizem na svoje reakcionarno delo.</p>
+            <p xml:id="No.56.PPP.3">Shod izreka, da uživaj katoliška cerkev, kakor vsaka druga in
+               kakor vsaka organizacija in vsaka individualnost najpopolnejšo svobodo. Odločno pa
+               protestira shod proti klerikalnemu zavijanju, ki zlorablja ime svobode, hoteč doseči
+               nadvlado cerkve nad državo, protestira proti zlorabljanju cerkve v
+               politično-agitatorične namene, protestira proti privilegijem cerkve in proti
+               favoriziranju duhovništva napram drugim stanovom. Svoboda cerkve in svoboda države je
+               mogoča le tedaj, ako je druga od druge popolnoma neodvisna; dosledno zahteva shod
+               ločitev cerkve in države tako, da ima vsaka svoj delokrog in sicer ima cerkev skrbeti
+               izključno za verstvo v svojem lastnem področju.</p>
+            <p xml:id="No.56.PPP.4">Shod protestira proti neresnični trditvi, da glavar katoliške
+               cerkve ne uživa potrebne svobode, kajti nihče mu ne krati osebne svobode, nihče ga ne
+               ovira v izvrševanju njegovega poklica. Shod izreka, da je državnopravni položaj
+               papežev popolnoma pravilen, da iz njegove cerkvene funkcije ne izvira nobena pravica
+               do svetovne vlade in da se zemeljsko gospodstvo sploh ne ujema z njegovo nalogo.
+               Stremljenje za vzpostavo cerkvene države je povsem neverskega značaja in edini namen
+               mu je, spraviti najvišjo svetovno moč v roke klerikalne organizacije ter podjarmiti
+               ne le religiozno, temveč vse politično, socialno in kulturno življenje narodov
+               zaželjeni papeževi avtokraciji.</p>
+            <p xml:id="No.56.PPP.5">Shod protestira proti vmešavanju cerkve v najintimnejše razmere
+               posameznika, v zakonsko življenje tistih, ki si ga žele urediti svobodno in neodvisno
+               od katoliške cerkve. Pač ima cerkev v svojem delokrogu pravico, po svojih nazorih
+               ustanoviti določbe tudi za zakonske zveze za tiste, ki se hočejo sami pokoravati
+               njenim predpisom. Država pa ni poklicana, služiti zahtevam posamezne cerkve, temveč
+               je dolžna zadovoljevati potrebe svojih članov, državljanov in ščititi njih svobodo.
+               Zato zahteva shod reformo zastarelega zakonskega prava v modernem svobodnem
+               smislu.</p>
+            <p xml:id="No.56.PPP.6">V stremljenju klerikalizma po reakcionarni reformi šolskega
+               zakona izpoznava shod hrepenenje klerikalizma po absolutni vladi v šoli, s čemur bi
+               dobili priložnost, preparirati bodoči naraščaj že v prvi mladosti za svoje škodljive
+               namene, napolniti ga z zelotskim duhom in tako pripraviti tla za absolutno vlado
+               klerikalizma v človeški družbi. Shod naglaša, da so šolske naloge povsem različne od
+               cerkvenih; šola ima posredovati mladini objektivno znanje in vzgajati jo ima, brez
+               obzira na cerkveno pripadnost tako, da doseže čim večjo sposobnost za realno,
+               predsmrtno življenje. Vsled tega nima cerkev nobene etične ali kakršnekoli pravice do
+               vpliva v šoli in je dosledno treba strogo ločiti oba področja. Shod zahteva torej z
+               vso odločnostjo reformo šolskega zakona v smislu popolne, vsako dvomljivo
+               komentiranje izključujoče osvoboditve šole od cerkve, ki pa ima pravico posredovati
+               cerkveni verski pouk v lastnem okviru vsem tistim, ki ga sami žele. Shod zahteva tudi
+               v sedanjih razmerah strogo izvrševanje zakonske določbe, da se ne sme nikogar siliti
+               na udeležbo pri cerkvenih obredih in vajah. Učiteljstvu bodi zajamčen v šoli tisti
+               upliv, ki ga mora imeti, da more uspešno izvrševati svoj poklic.</p>
+            <p xml:id="No.56.PPP.7">Takozvane socialne zahteve klerikalizma označuje shod za ceneno
+               vabo, ki naj bi se nanjo ujeli gospodarsko odvisni sloji v nesocialni namen, da
+               izgube svojo lastno moč v socialnih bojih ter se izroče na milost in nemilost
+               klerikalizmu. Organizacija kat. cerkve je tako tesno združena s sedanjim
+               kapitalističnim družabnim redom, hierarhija je sama tako kapitalističnega značaja, da
+               je prisiljena varovati forme, ki omogočajo izkoriščanje in je vsled tega za resno
+               socialno delo sploh nesposobna. Delavstvo, ki se bojuje za svoje pravice, odklanja
+               milosti klerikalizma, ki bi ga le degradirale in potlačile njegovo dostojanstvo.</p>
+            <p xml:id="No.56.PPP.8">Zgodovina dokazuje na vsaki strani, da je klerikalizem ogromna
+               ovira vsakemu napredku, vsakemu zdravemu razvoju, da je škodljiv kulturi ter da
+               uničuje svobodo posameznikov in narodov. Od časov nasilnega pokristjanjevanja, od
+               križarskih vojsk hodi klerikalizem, ki je vedno znal izrabljati sile močnejših v
+               svojo korist in na škodo slabejših, v smeri uničevanja Mauriskov, preganjanja
+               drugovercev, zatiranja znanosti, mučenja in uničevanja njenih pionirjev, svete
+               inkvizicije, autodaféjev, protireformacij, cenzure, izrabljanja cerkve v politične
+               svrhe, po poti najtemnejše reakcije.</p>
+            <p xml:id="No.56.PPP.9">Klerikalizemje torej narodna, socialna in kulturna nevarnost,
+               proti kateri se je treba v interesu splošne povzdige posameznika in človeštva upreti
+               z vsemi legalnimi sredstvi. Ta naloga zadeva zlasti slovenski narod, ki je majhen po
+               številu in mora torej vse storiti, da potencira svoje kulturne moči in si tako
+               zavaruje enako stopnjo med drugimi narodi.</p>
+            <p xml:id="No.56.PPP.10">Shod poziva torej vse ude slovenskega naroda na energičen
+               legalen boj proti klerikalnemu fanatizmu ter izreka, da je naloga vsakega posameznika
+               v svojem krogu po najboljših močeh delovati za razširjanje prave, neodvisne kulture v
+               narodu in da je v neustrašenem boju zoper pogubni klerikalizem treba združevati vse
+               moči brez obzira na gospodarska in politična nasprotja, ki jih ni treba ne tajiti, ne
+               zapostavljati, ki pa ne smejo ovirati koncentracije vseh moči v varstvo skupnih
+               interesov proti antikulturnemu klerikalizmu.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

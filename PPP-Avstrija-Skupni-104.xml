@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucije, sprejete na shodu slovenskih in istrskohrvaških državnih in deželnih
+               poslancev 2. oktobra 1890 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30642</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-104.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30642</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1890-10-03">
+            <biblStruct>
+               <analytic>
+                  <title>Po shodu slovenskih poslancev</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">227</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-DKJUADDV</pubPlace>
+                     <date when="1890-10-03">3. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenec.1890-10-04">
+            <biblStruct>
+               <analytic>
+                  <title>Po shodu slovenskih poslancev</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">228</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-D7SMWBQG</pubPlace>
+                     <date when="1890-10-04">4. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenec.1890-10-06">
+            <biblStruct>
+               <analytic>
+                  <title>Po shodu slovenskih poslancev</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">229</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-1QRCWPXU</pubPlace>
+                     <date when="1890-10-06">6. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-03" corresp="#bibl.Slovenec.1890-10-03">
+            <biblStruct>
+               <analytic>
+                  <title>Shod slovenskih poslancev v Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIII</biblScope>
+                     <biblScope unit="issue">227</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-YTZLSX0O</pubPlace>
+                     <date when="1890-10-03">3. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-04" corresp="#bibl.Slovenec.1890-10-04">
+            <biblStruct>
+               <analytic>
+                  <title>Shod slovenskih poslancev v Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIII</biblScope>
+                     <biblScope unit="issue">228</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-PTOFQEKV</pubPlace>
+                     <date when="1890-10-04">4. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-06" corresp="#bibl.Slovenec.1890-10-06">
+            <biblStruct>
+               <analytic>
+                  <title>Shod slovenskih poslancev v Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXIII</biblScope>
+                     <biblScope unit="issue">229</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-HC9LBA1W</pubPlace>
+                     <date when="1890-10-06">6. 10. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1890-10-03">
+            <head>Po shodu slovenskih poslancev</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.104.PPP.1">Slovenski in istersko-hrvatski državni in deželni poslanci,
+               neomahljivo stoječ na temelju svojih národnih in državnih pravic, izjavljajo, da bodo
+               v državnem in deželnih zborih skupno delovali, ter uporabljali vse svoje moči v to
+               svrho, da se odstranijo krivice, ki se godé slovenskemu in hrvatskemu narodu.</p>
+         </div>
+         <div decls="#bibl.Slovenec.1890-10-04">
+            <gap reason="irrelevant"/>
+            <p xml:id="No.104.PPP.2">Iz člena 19. tem. zak. z dné <date when="1867-12-21">21.
+                  decembra 1867</date> št. 142 drž. zak. izhaja pravica zahtevati, da uradi vsake
+               vrste s slovenskim prebivalstvom v slovenskih pokrajinah izključno slovenski
+               poslujejo in se zahteva v ta namen:</p>
+            <list xml:id="No.104.PPP.3" type="ordered">
+               <item n="a)">da vlada imenuje za urade v slovenskih pokrajinah uradnike v govoru in
+                  pismu popolnoma zmožne slovenščine, katere znanje imajo dokazati pred redno
+                  komisijo višjega sodišča, oziroma namestništva;</item>
+               <item n="b)">da vlada tudi sama čuva nad tem, da se oblastva v poslovanji s
+                  slovenskim prebivalstvom v istini slovenščine poslužujejo.</item>
+            </list>
+            <p xml:id="No.104.PPP.4">Ravno isto se zahteva gledé uradov za hrvatski jezik v
+                  <placeName>Istri</placeName>.</p>
+            <p xml:id="No.104.PPP.5">V pospeševanje in olajšanje tega se zahteva, da se napravi <hi
+                  rend="italic">oddelek štajerskega namestništva </hi>za <placeName>Spodnji
+                  Štajer</placeName> po vzgledu onega za <placeName>južno Tirolsko</placeName>, da
+               se ustanovi v <placeName>Ljubljani</placeName> višje deželno sodišče za slovenske in
+               isterske pokrajine; da se ustanovi v <placeName>Ljubljani</placeName> pravniška
+               akademija z vsemi pravicami vseučiliških fakultet in popolno pariteto slovenskega in
+               hrvatskega učnega jezika.</p>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.104.PPP.6">Opiraje se na ravno isti člen temeljnih zakonov je gledé
+               šolstva zahtevati:</p>
+            <list xml:id="No.104.PPP.7" type="ordered">
+               <item n="a)">da se ljudska šola, namenjena odgoji slovenske oziroma istersko-hrvatske
+                  mladine, povsod vredi na podlagi verskega izpovedanja in z izključno materinim
+                  učnim jezikom, da se za njo potrebno učiteljsko osobje pridobi s primerno
+                  vreditvijo dotičnih učiteljišč, ter da se šolsko nadzorstvo deželno kakor tudi
+                  okrajno izroča le nadzornikom, ki so slovenskega, oziroma hrvatskega jezika
+                  popolnoma zmožni.</item>
+            </list>
+            <p xml:id="No.104.PPP.8">Ravno isto velja gledé obrtnih šol, katerih ustanovitev naj
+               vlada nadaljuje, v prvi vrsti pa naj popolni obrtno šolo v
+                  <placeName>Ljubljani</placeName>, obrtno šolo v <placeName>Trstu</placeName> pa
+               tako preustroji, da se bode nekoliko predmetov podučevalo tudi v slovenskem
+               jeziku.</p>
+            <list xml:id="No.104.PPP.9" type="ordered">
+               <item n="b)">Da se na novo oživotvori gimnazija v <choice>
+                     <sic>Kranj</sic>
+                     <corr>Kranju</corr>
+                  </choice> in popolni v višjo gimnazijo, ter da se napravijo slovenske vzporednice
+                  razun na gimnaziji v <placeName>Mariboru</placeName> tudi na gimnazijah v
+                     <placeName>Celji</placeName>, <placeName>Gorici</placeName> in
+                     <placeName>Trstu</placeName>, za hrvatsko mladino v
+                     <placeName>Istri</placeName> pa da se na novo otvori gimnazija v
+                     <placeName>Pazinu</placeName> s hrvatskim učnim jezikom, ali pa, da se vsaj
+                  napravijo hrvatske paralelke na državni gimnaziji v
+                  <placeName>Pulji</placeName>.</item>
+            </list>
+            <p xml:id="No.104.PPP.10">Vodstvo in nadzorništvo za slovensko in hrvatsko mladino
+               namenjenih srednjih šol, oziroma paralelk, naj se izroča takim ravnateljem in
+               deželnim šolskim nadzornikom, kateri so slovenskega, oziroma hrvatskega jezika zmožni
+               v besedi in pisavi.</p>
+            <list xml:id="No.104.PPP.11" type="ordered">
+               <item n="c)">Deželni šolski svèt v <placeName>Gradcu</placeName> in
+                     <placeName>Celovcu</placeName> naj se razdeli v dva oddelka, v slovenski in
+                  nemški.</item>
+               <item n="d)">Pravica absolviranih srednješolskih dijakov iz
+                     <placeName>Dalmacije</placeName> in <placeName>Istre</placeName> obiskovati
+                  vseučilišče v <placeName>Zagrebu</placeName> naj so raztegne tudi na mladeniče s
+                     <placeName>Tržažkega</placeName>, <placeName>Goriškega</placeName>,
+                     <placeName>Kranjskega</placeName>, <placeName>Štajarskega</placeName> in
+                     <placeName>Koroškega</placeName>.</item>
+            </list>
+         </div>
+         <div decls="#bibl.Slovenec.1890-10-06">
+            <gap reason="irrelevant"/>
+            <p xml:id="No.104.PPP.12">Zbrani slovenski in istersko-hrvatski poslanci spoznavajo za
+               potrebno, da se preustroji objektivno postopanje v tiskovnih zadevah in obdá z
+               garancijami, da njegova uporaba ne bode, kakor je bila doslej, pogubna svobodnemu
+               tisku v obče ter slovenskemu in hrvatskemu posebej.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

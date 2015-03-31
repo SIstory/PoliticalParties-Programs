@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statut Narodnega sveta za slovenske dežele in Istro, sprejet 16. avgusta 1918 v
+               Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30795</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-136.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30795</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Statut Narodnog veća (Narodni svet) u Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">254–255</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.136.PPP.1">
+            <head>Uvod</head>
+            <list type="ordered">
+               <item n="1.">Naš namen je, da se za v monarhiji živeče Slovence, Hrvate in Srbe
+                  ustanovi skupni <q>Narodni odbor</q>, kjer bodo po medsebojno dogovorjenem
+                  proporcu zastopani vsi politični činitelji, ki na temelju edinstvenosti
+                  jugoslovanskega naroda hočejo izvojevati samostojno jugoslovansko državo.</item>
+               <item n="2.">Za ozemlja <placeName>Cislajtanije</placeName> se osnuje Narodni svet,
+                  katerega namen in delokrog je, sklepati in odločevati o vseh zadevah, ki jih v
+                  Narodnem svetu zastopani činitelji priznajo za skupne.</item>
+               <item n="3.">Skupne zadeve v smislu točke 2. so zlasti:<list type="ordered">
+                     <item n="a)">Delo za ujedinjenje jugoslovanskega naroda v samostojno
+                        državo.</item>
+                     <item n="b)">Smotreno delo za popolno ravnopravnost našega jezika v šolah,
+                        uradih in v vsem javnem življenju.</item>
+                     <item n="c)">Varstvo narodnih manjšin, uredba <choice>
+                           <sic>majšinskega</sic>
+                           <corr>manjšinskega</corr>
+                        </choice> dela in boj za narodno šolstvo.</item>
+                     <item n="d)">Uveljavanje našega jezika v vseh javnih uradih in
+                        podjetjih.</item>
+                     <item n="e)">Obramba in pospešavanje skupnih kulturnih zadev.</item>
+                     <item n="f)">Obramba in gojitev skupnih gospodarskih interesov ter zavesti
+                        gospodarske osamosvojitve.</item>
+                     <item n="g)">Reprezentacija naroda in pospešavanje narodnih koristi na zunaj,
+                        dogovorno s parlamentarno delegacijo.</item>
+                     <item n="h)">Vprašanja, ki se tičejo narodne časti in discipline.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div xml:id="No.136.PPP.2">
+            <head>Organizacija Narodnega sveta.</head>
+            <list type="ordered">
+               <item n="4.">
+                  <p>Narodni svet sestoji iz 50. članov. Od teh jih odpade na
+                        <placeName>Dalmacijo</placeName> 12, ki jih izberejo tamkajšni politični
+                     činitelji v medsebojnem sporazumu, na <placeName>Istro</placeName> 5, ki jih imenuje politično društvo
+                     za <placeName>Istro</placeName> v <placeName>Pazinu</placeName>, na <placeName>Trst</placeName> 2 (politično društvo Edinost), na Vseslovensko
+                     Ljudsko Stranko 18 in na Jugoslovansko demokratsko stranko 10. Socijalnim
+                     demokratom pritičejo 3 mandati. Stranke izbirajo svoje zastopnike potom
+                     izvrševalnih odborov, oziroma odborov političnih društev in sicer za dobo enega
+                     leta. Imajo pa pravico jih vsaki čas odpoklicati. V tem slučaju, kakor tudi v
+                     slučaju odstopa in smrti morajo izvrševalni odbori, odbori političnih društev
+                     imenovati nove člane tekom enega meseca za ostalo funkcijsko dobo.</p>
+                  <p>Sedež Narodnega sveta si izberejo člani z večino glasov.</p>
+                  <p>Sedeži strank, ki niso pristopile, pa priznavajo načela Narodnega sveta,
+                     ostanejo nezasedeni, vendar more Narodni svet te stranke po potrebi vabiti k
+                     sejam.</p>
+               </item>
+               <item n="5.">Narodni svet deluje:<list type="ordered">
+                     <item n="a)">v plenumu, ki se shaja k rednim sejam vsako četrtletje, k izrednim
+                        na poziv predsednika ali na zahtevo vsaj 10 članov in sicer v tem slučaju
+                        najkasneje v 8 dneh po obvestitvi predsednika. Plenum voli predsedstvo,
+                        odseke, sprejema poročila predsedstva in sklepa o njih, daje navodila za
+                        njega delovanje, odbira nadzorovalni odbor za financijelno poslovanje in
+                        sklepa na željo polovice svojih članov o predlogih, ki v predsedstvu niso
+                        dosegli dvetretjinske večine;</item>
+                     <item n="b)">v predsedstvu, ki sestoji iz 8 članov (predsednika,
+                        podpredsednika, tajnika in 4 članov) in ki vodi vse poslovanje Narodnega
+                        sveta, ki ga predstavlja na zunaj, osnuje pisarno, sprejema poročila
+                        odsekov, sklepa in izvršuje njih predloge, imenuje zaupnike, izbira in
+                        upravlja denarna sredstva. Člani predsedstva, ki bivajo izven sedeža
+                        Narodnega sveta imajo vsak svojega namestnika, izvoljenega na predlog
+                        izvoljenega člana od plenuma izmed članov Narodnega sveta. Namestnik pa ne
+                        izvršuje posebnih funkcij svojega mandata, temveč je zgolj prisednik;</item>
+                     <item n="c)">
+                        <p>v odsekih za priprave važnih skupnih nalog. Pri teh odsekih se imajo
+                           pritegniti na delo zastopniki važnih stanov in strok. Osnujejo se s
+                           sklepom plenuma, ki imenuje člane, ti pa se lahko kooptirajo, in si
+                           sestavijo poslovni red v sporazumu s predsedstvom. Taki odseki, ki se
+                           osnujejo po potrebi, so n. pr. za propagando, tisk, za izdajo brošur, za
+                           narodno statistiko, za določitev narodnih mej, za ustavne reforme, za
+                           ustavne projekte narodne države, za pripravo pogajanj med narodi, za
+                           manjšine, za šolstvo, za gospodarsko koncentracijo, za narodno
+                           uradništvo, železničarstvo, novinarstvo, za financiranje Narodnega sveta
+                           i. t. d.</p>
+                        <p>V vseh skupinah se glasu je z dvetretjinsko večino prisotnih. Če ugovarja
+                           ena tretjina se ima glasovanje preložiti na prihodnjo sejo, koje datum
+                           določi večina. Plenum je sklepčen, če je prisotnih 20 članov, predsedstvo
+                           pa, če je prisotnih 5 članov, odseki, če je prisotnih ena tretjina
+                           članov. Če se ista zadeva obravnava v odsekih ali predsedstvu dvakrat ali
+                           obakrat ugovarja sklepu ena tretjina navzočih, obravnava nadalje o njej
+                           predsedstvo oziroma plenum. Če se ista zadeva obravnava dvakrat v plenumu
+                           in obakrat ena tretjina navzočih ugovarja proti sklepu, je smatrati, da
+                           je dotična zadeva izločena iz delokroga Narodnega sveta.</p>
+                     </item>
+                  </list>
+               </item>
+               <item n="6.">Če pride do prepira v kakem formalnem vprašanju v Narodnem svetu, ali če
+                  se stranke v sporu v kaki častni zadevi, ki je v zvezi z delokrogom Narodnega
+                  sveta, podvržejo razsodišču, razsodi le to po prostem prevdarku. Predsedstvo voli
+                  vsako leto 3 razsodnike, a stranke se v sporazumu s predsedstvom zedinijo lahko
+                  tudi za drugačno razsodništvo.</item>
+               <item n="7.">Premoženje Narodnega sveta, če iz njega izstopi nad polovica članov,
+                  pripade manjšinskim organizacijam po sklepu razsodišča.</item>
+               <item n="8.">Ta štatut je mogoče spremeniti le v soglasju z udeleženimi
+                  strankami.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

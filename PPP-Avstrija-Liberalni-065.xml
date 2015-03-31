@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o oblikovanju skupnega narodnega zastopstva jugoslovanskih političnih
+               strank, stoječih na temelju Majniške deklaracije, sprejeta na shodu zaupnikov Narodno
+               napredne stranke za Kranjsko 2. februarja 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30603</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-065.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30603</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Shod zaupnikov Narodno-napredne stranke.</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">28</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-S56MHETE</pubPlace>
+                     <date when="1918-02-04">4. 2. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Shod zaupnikov Narodno-napredne stranke.</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Narodni svet</head>
+               <p xml:id="No.65.PPP.1">N. N. S. uvideva nujno potrebo skupnega narodnega zastopstva
+                  in skupne reprezentance vseh jugoslovanskih strank, stoječih na temelju majniške
+                     deklaracije.<note source="#SourceBornDigital">Glej dok. št. 130.</note> V to
+                  svrho naj se osnuje čim hitreje in pred vsem Jugoslovanski centralni narodni odbor
+                  za pokrajine, zastopane v dunajskem državnem zboru; v tem odboru naj imajo
+                  enakomerno zastopstvo vse deklaracijske stranke in organizacije; za pristop in
+                  sodelovanje pa je povabiti tudi Jugoslovansko socijalno demokracijo. Jugoslovanski
+                  centralni narodni odbor si bo svoj delokrog sam soglasno določil, ter je v njen
+                  načeloma izključeno vsako majorizovanje. Poglavitna njegova naloga pa bo tudi, da
+                  bo stopil brez odloga v stik z deklaracijskimi strankami v
+                     <placeName>Banovini</placeName> in <placeName>Ercegbosni</placeName> v svrho
+                  združitve.</p>
+               <p xml:id="No.65.PPP.2">Izvrševalnemu odbora N. N. S. se naroča, da o tem sklepu
+                  obvesti vse deklaracijske jugoslovanske politične organizacije in Jugoslovanski
+                  klub na <placeName>Dunaju</placeName> z željo naj le-ta posreduje nujni razgovor
+                  med strankami. Na velikonočnem velikem zboru zaupnikov N. N. S. bo potem
+                  izvrševalni odbor imel poročati o uspehu te akcije. </p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

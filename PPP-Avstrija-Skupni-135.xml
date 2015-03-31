@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Skupna izjava slovenskih političnih strank 27. maja 1918, izdana po obljubi
+               cesarja Karla I. Nemcem in Nemškutarjem iz slovenskih dežel o ohranitvi državnopravne
+               ločenosti teh dežel od drugega ozemlja habsburških Jugoslovanov</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30794</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-135.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30794</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <forename>Janko</forename>
+                     <surname>Pleterski</surname>
+                  </author>
+                  <title>Prva odločitev Slovencev za Jugoslavijo</title>
+                  <title>politika na domačih tleh med vojni 1914–1918</title>
+                  <imprint>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://sistory.si/SISTORY:ID:783</pubPlace>
+                     <publisher>Slovenska matica</publisher>
+                     <date when="1971">1971</date>
+                     <biblScope unit="page">177–178</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.135.PPP">Zahteve po zedinjenju Slovencev, Hrvatov in Srbov v lastni državi
+               ne moremo in ne bomo opustili. Ta zahteva je vsem plastem našega naroda prešla v meso
+               in kri. Tisoči in tisoči tistih, ki so doma, in tistih, ki so zdoma, so nanjo
+               prisegli. Uresničenje te zahteve nam daje edino možnost, da rešimo vsaj golo narodno
+               življenje, ko smo že vse drugo dali. Naš narod ne bo izvršil samomora. Zato se
+               naslanjamo na narodno pravo, ki ga nihče ne more prekršiti brez kazni, in trdno
+               ostajamo pri svoji zahtevi ter pozivamo Narodni svet, naj organizira odpor vseh
+               poštenih elementov našega naroda proti naznanjenemu preganjanju Jugoslovanov.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

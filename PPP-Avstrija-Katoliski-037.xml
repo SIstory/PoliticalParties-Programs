@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pozdrav dr. Janeza Evangelista Kreka ustanovnemu shodu Vseslovenske ljudske
+               stranke 17. oktobra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30570</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-037.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30570</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zora zori ... </title>
+                  <author>Janez Evangelist Krek</author>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXXVII</biblScope>
+                     <biblScope unit="issue">237</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-OLKZVLMV</pubPlace>
+                     <date when="1909-10-16">16. 10. 1909</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zora zori ...</head>
+            <p xml:id="No.37.PPP.1">Lep dan bo jutri, lep za vse, kar jih stoji pod našo zastavo.
+               Ali ga pozdravljaš v prekipevajočem navdušenju kot manifestacijo naše narodne
+               edinosti, ali se ga veseliš kot logične posledice dolgoletnega premišljenega in
+               potrpežljivega dela, je vseeno. Dobro denejo srcu prizori, ko dobe nezavestna
+               stremljenja ljudske duše zavesten izraz, ko se logičnemu umskemu zaključku v
+               življenja polni čuvstveni formulaciji vzame takorekoč vse njegovo filozofsko ozadje,
+               ko v drznem skoku stopi volja mas na plan moško in neizpodbojno s svojim: Hočem,
+               bodi!</p>
+            <p xml:id="No.37.PPP.2">Ni jih malo, ki so klicali ta dan izza megla, ki so koprneli po
+               njegovi zarji in ki vsklikujejo utešeni v svojih srčnih željah: Hvala Bogu! Misel
+               politiško zedinjene slovenske domovine se porodi jutri v dejanje. Naše ljudstvo se iz
+               svoje lastne moči in z lastnim sklepom, z mečem svoje volje jutri udari za viteza, ki
+               prevzame dolžnost braniti pravico naše domovine, bojevati se proti nasilnikom in
+               varovati slabih, ogroženih svojih bratov.</p>
+            <p xml:id="No.37.PPP.3">Ne bomo brez prič pri tem slovesnem dejanju. Hrvaška domovina
+               pošlje zastopnike svojega ljudstva. Ti so nam več nego priče. Pozdravljamo jih kot
+               brate, ki nam s svojo navzočnostjo stavijo pred oči eno veliko, novo vprašanje: Kdaj
+               se raztegne politiška edinost po vsi lepi zemlji, kar nam je je dal Bog, od Triglava
+               do <placeName>Balkana</placeName>? Ni več nikogar med nami, ki bi vpraševal, ali naj se to zgodi. Odgovor na
+               to je že rešen. Gre samo za kdaj. Sila tega vprašanja nateza vse naše sile in
+               razširja punčice našim duševnim očem, ko v temni bodočnosti iščejo zlate zarje
+               drugega, večjega dne v naših prihodnjih zgodbah. Z zastopniki hrvaškega ljudstva, s
+               srci zavednih hrvaških kmetov vred kliče tudi naše ljudstvo: Bog daj!</p>
+            <p xml:id="No.37.PPP.4"><placeName>Kraljestvo sv. Vaclava</placeName> nam tudi pošilja priče izmed naroda, ki
+               je po svojem napredku prvi v naši državi, po krvi brat, po srcu drug naš v veselih in
+               žalostnih dneh. Prisrčno jih pozdravljamo! Ne prihajajo k nam kot posamniki, marveč
+               kot zastopniki velikih in silnih ljudskih organizacij. Češko ljudstvo prihaja. Slava
+               mu!</p>
+            <p xml:id="No.37.PPP.5">Pomenljivejša pa je tretja priča našemu slavlju, zastopnik
+               poljske ljudske stranke, poslanec <persName>Stapinski</persName>. Čeh in Hrvat sta domača na naših tleh.
+               Prvič pa prihaja Poljak, zastopnik demokratiške, ljudske organizacije svojega naroda
+               pogledat med nas, pozdravit nas. Njegov prihod ne pomenja samo ljubeznive uljudnosti,
+               marveč nov program, novo dobo v našem javnem življenju. V polni zavesti tega pomena
+               zvežimo svojo ž njegovo roko, ne za kratek pozdrav, nego neločljivo, za vedno.
+               Slovensko ljudstvo sklepa s poljskim ljudstvom to sveto zvezo, ki je nihče več
+               razdreti ne more. Živel <persName>Stapinski</persName>!</p>
+            <p xml:id="No.37.PPP.6">Priče našega politiškega zedinjenja so znamenite, a skoraj smem
+               reči, da jih je naša reč tudi vredna. Ogromna večina enega celega naroda si osnuje
+               enotno politiško stranko; kar je bilo dozdaj samo po duhu edino, postane tudi po
+               telesu, ko si ustvari enoten politiški organizem s skupnim vodstvom. To dejstvo se
+               zvrši v klasični državi strank in strančic, v politiško atomizirani <placeName>Avstriji</placeName>, med
+               ljudstvom, ki je organiški del jugoslovanskega naroda, kateri se še prav posebno
+               odlikuje s svojo strankarsko plodovitostjo. Provincializem in kampanilizem<note
+                  source="#SourceBornDigital">Lokalni patriotizem.</note> združen s protisocialnim
+               individualizmom ubija vse naše javno življenje. Nebrojno strank, in še te slabe!
+               Večina izmed njih v praktiškem življenju ubija svojo avtonomijo, ker ne zvršuje s
+               svojo lastno močjo zase zakonodaje, marveč si jo da diktirati od zunaj, od drugih
+               strank. Najnovejše delovanje krščanskosocialne stranke ni pač nič drugega, nego
+               priznavanje nemškonacionalne legislative nad njo. Ravno tako vemo, kako si nekatere
+               stranke zakone jemljejo od socialnih demokratov in pri tem smešijo sebe, ubijajo
+               vrednost parlamentarnega življenja in s tem utrjujejo moč birokracije v državi. Jutri
+               da slovensko ljudstvo slovo tisti politiki, ki si svoje meje dela s farnega zvonika
+               in v javnem obratu krčevito stoji na stališču majhnih parcelic. Zvrši se politiška
+               komasacija v velikem slogu in namestu politiškega kajžarstva se prične izključno
+               veliki obrat.</p>
+            <p xml:id="No.37.PPP.7">O slogi in edinosti se je govorilo pri nas za časa mnogo.
+               Najpriprostejši politiški abecedniki so znali to pesem in so velikrat dosegli ž njo
+               velike trenotne uspehe. Tudi raznih tekočin se je spilo v tem duhu ogromna količina.
+               Dobro pomnim, kolikrat so se dobrim ljudem razigravali živci v imenu sloge, in kako
+               je često marsikako pošteno oko gledalo v ogorčenju proti bratomornemu prepiru z
+               zaničevanjem na vse, ki niso hoteli odložiti bojnega kopja. Juteršnji dan dokazuje,
+               kje je bila edina pot do sloge. Samo široka demokratiška misel oplojena z enotnimi
+               etiškimi načeli je tlakala to pot. To pa ni šlo brez boja, kakor tudi ohranjenje te
+               poti ne pojde brez njega.</p>
+            <p xml:id="No.37.PPP.8">Vkljub neštetim čuvstvenim izrazom za slogo in edinost trdim s
+               polnim prepričanjem: Naša slovenska politiška edinost je imela dozdaj samo akademiški
+               značaj; realno je vladal pokrajinski separatizem. Odslej pa postane pokrajinsko
+               stališče naši politiki samo akademiškega pomena; politiška enotnost pa realno
+               dejstvo.</p>
+            <p xml:id="No.37.PPP.9">Ta reč ima silno važne in za našo politiko neprecenljive
+               posledice. Ne zdi se mi pa potrebno, da bi jih razglabljal danes na tem mestu. Za to
+               bo časa in priložnosti za vsakogar dovolj. Nečem se spuščati v te posledice že
+               zavoljo tega ne, ker se mi zdi, da bi se s tem odvrnile naše misli od poglavitne
+               reči, ki jo pomenja juteršnji dan.</p>
+            <p xml:id="No.37.PPP.10">Ne posledice, marveč temelj, na katerem se zasnuje vseslovenska
+               ljudska stranka, ki potem s svojo lastno silo sproži nekako avtomatiško nebrojno
+               koristnih reči, – ta temelj stoji v ospredju mojih misli. Pred njim se vstavljam kot
+               pred veliko, občudovanja vredno stvarjo. Ime mu je: politiška zrelost in zavednost
+               slovenskega ljudstva. Velike stranke so sad velikih idej med kulturno visoko
+               stoječimi narodi. Naš narod, ki je po številu majhen, štejejo nasprotniki med majhne,
+               da med najmanjše tudi v kulturnem oziru. Take očitke morejo razpršiti samo velika
+               dejstva. Juteršnji dan poda svetu dokaze, da nasprotni očitek ni resničen. Dozdaj smo
+               se po številu majhni s svojim separatizmom delali še manjše in smo s tem podpirali
+               sovražnike pri njihovih napadih. Odslej vzrastemo. Politiško zedinjeno slovensko
+               ljudstvo lahko samozavestno stopa pred avstrijske narode z vprašanjem: kje imate vi
+               kaj enakega, kaj podobnega? Da more zastaviti to vprašanje, to je zame največja
+               pridobitev juteršnega dne in najboljše zagotovilo, da se z zoro juteršnjega shoda
+               zasnije beli dan svobode in moči naše in vsega slovanskega juga v naši državi.</p>
+            <closer>Dr. <persName>Krek</persName></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

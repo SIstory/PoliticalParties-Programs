@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o razmerah v Istri in Trstu, sprejeta na vseslovenskem in
+               istrskohrvaškem shodu 14. septembra 1897 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30647</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-109.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30647</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski in istersko-hrvatski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>političen list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXV</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-5SNA3EY7</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-14">
+            <biblStruct>
+               <analytic>
+                  <title>Vseslovenski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXX</biblScope>
+                     <biblScope unit="issue">209</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-9XOCM8D1</pubPlace>
+                     <date when="1897-09-14">14. 9. 1897</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Slovenec.1897-09-14">
+            <head>Vseslovenski in istersko-hrvatski shod</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Resolucije</head>
+               <div>
+                  <head>Istrske in tržaške razmere.</head>
+                  <p xml:id="No.109.PPP.1">Zbrani na vseslovenskem i istersko-hrvatskem shodu
+                     pozivajo svoje poslance v državnem zboru, da skupaj s svojimi zavezniki
+                     zahtevajo s vso odločnostjo od c. kr. vlade, kot pogoj za podpiranje iste:</p>
+                  <list xml:id="No.109.PPP.2" type="ordered">
+                     <item n="I.">da se že dolgo trajajoči sistem v pokrajinah
+                           <placeName>Trstu</placeName> z okolico i <placeName>Istri</placeName>,
+                        kakor i v celem <placeName>Primorju</placeName>, idoči naravnost na
+                           zator<note place="foot" source="#SourceBornDigital">Zatrtje.</note>
+                        slovenskega in hrvatskega naroda, korenito spremeni; da se zadovolji v
+                        osnovnih državnih zakonih utemeljenim zahtevam Slovencev in Hrvatov, v
+                        cerkvenih, šolskih, upravnih, sodnih i gospodarskih stvareh; ter v obče, da
+                        preneha njih neznosno stanje in da se z njimi postopa po zakonih, kot
+                        ravnopravnimi državljani i ljudmi;</item>
+                     <item n="II.">posebej glede <placeName>Trsta</placeName> z okolico:<list
+                           type="ordered">
+                           <item n="1.">da se urede v mestu <placeName>Trstu</placeName> i okolici
+                              ljudske šole tako, da se slovenski otroci podučujejo v svojem
+                              materinem slovenskem jeziku;</item>
+                           <item n="2.">da se za tržaško okolico – vseh šest okrajev – ustanovi
+                              posebno c. kr. okrajno glavarstvo za prenešeni delokrog povse
+                              neodvisno od tržaškega magistrata, a odvisno naravnost od c. kr.
+                              namestništva v <placeName>Trstu</placeName>;</item>
+                           <item n="3.">da se, oziroma na volitve v državni zbor, izloči okolica od
+                              mesta ter da okolica sama svojega poslanca voli.</item>
+                        </list>
+                     </item>
+                     <item n="III.">posebej glede na pokrajino <placeName>Istro</placeName>:<list
+                           type="ordered">
+                           <item n="1.">da se, pod uplivom organov c. kr. vlade i tudi z novci
+                              hrvatskih vernikov, ne odgajajo duhovniki, skoro izključno sinovi
+                              talijanskih voditeljev, v talijanskem jeziku i duhu, ter ne
+                              nastavljajo med hrvatske vernike duhovniki talijanske narodnosti in
+                              čustva, nevešči hrvatskemu jeziku – kakor se to dogaja posebno v
+                              jednej diecezi – ampak da so hrvatske vernike vzgajajoči duhovniki
+                              vešči hrvatskemu jeziku i zauzeti za blaginjo hrvatskega
+                              ljudstva;</item>
+                           <item n="2.">da se za 17.000 hrvatske odnosno slovenske dece, neimajoče
+                              šole, ustanove hrvatske odnosno slovenske ljudske šole i da se tudi
+                              obstoječe ljudske šole preurede tako, da bode vsa deca poučevana v
+                              svojem materinem jeziku; ter da se zakon o šolskih taksah, kot
+                              nasproten razvoju ljudskega šolstva, odpravi;</item>
+                           <item n="3.">da se za 140.000 Hrvatov in 44.000 njim povse sorodnih
+                              Slovencev ustanovi v <placeName>Pazinu</placeName> gimnazija s
+                              hrvatskim učnim jezikom; </item>
+                           <item n="4.">da upravne oblastnije rabijo s Hrvati i Slovenci hrvatski
+                              odnosno slovenski jezik, da ne zavlačijo i z najjednostavnejimi rečmi
+                              in ne delajo zaprek, ampak hitro, postavno in nepristransko rešavajo
+                              vse zadeve, i podpirajo hrvatsko i slovensko ljudstvo, zanemarjeno ne
+                              samo v prošlih, nego i v novih, novejših i najnovejših časih;</item>
+                           <item n="5.">da c. kr. sodnijske oblastnije rabijo s Hrvati i Slovenci
+                              hrvatski odnosno slovenski jezik, i sploh po zakonih i predpisih
+                              postopajo ter da se že jedenkrat c. kr. okrožno sodišče, obstoječe za
+                              velik del <placeName>Istre</placeName>, vmesti v tako mesto, kjer bodo
+                              zamogli človečji govoriti hrvatski tožitelji, obtoženci kakor tudi
+                              njih svedoki i branitelji, i kjer bode omogočena hrvatska
+                              porota;</item>
+                           <item n="6.">da se pri volitvah v občinska zastopstva, v deželni i
+                              državni zbor pazi na to, da se vršijo zakoni, da vlada red, i da bode
+                              volilcem zajamčena sigurnost, ter da se stanje v isterskem zboru i
+                              odboru, ustvarjeno i vzdrževano nezakonitimi i nasilnimi sredstvi,
+                              spremeni v zakonito in da se zbor ne le premesti v drugo
+                              najprimitivnejim zahtevam odgovarjajoče mesto, nego podvzame potrebne
+                              mere, da bode saj v tem drugem mestu hrvatskim i slovenskim poslancem
+                              zajamčena sloboda i osebna sigurnost;</item>
+                           <item n="7.">da se podvzame vse mogoče mere, kojimi bi se povzdignilo
+                              toli zanemarjeno gospodarsko stanje hrvatskega i slovenskega ljudstva
+                              sploh, i še posebej da mu se pomore v bedi, koja ga čeka vsled jako
+                              slabe letošnje letine.</item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

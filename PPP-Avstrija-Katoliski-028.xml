@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o verski šoli, ki jo je prvi občni zbor Katoliško-političnega in
+               gospodarskega društva za Slovence na Koroškem, zbran 17. aprila 1890 v Celovcu,
+               naslovil na celovškega knezoškofa</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30561</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-028.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30561</idno>
+            <date>2014</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Prvi občni zbor.</title>
+               </analytic>
+               <monogr>
+                  <title>Mir</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">8</biblScope>
+                     <pubPlace>Celovec</pubPlace>
+                     <date when="1890-04-25">25. 4. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Prvi občni zbor.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.28.PPP.1"><q>Katoliško-politično in gospodarsko društvo za Slovence na
+                     <placeName>Koroškem</placeName></q>, ki se je danes vprvič zbralo in se
+               ustanovilo, porablja to priložnost, da se poklanja Vaši Prevzvišenosti ter izraža
+               svojo hvaležnost in veliko radost nad krepko izjavo visokočastitih škofov v šolski
+               komisiji gosposke zbornice dne <date when="1890-03-12">12. marca 1890</date> v zadevi
+                  <hi rend="italic">verske šole</hi>.</p>
+            <p xml:id="No.28.PPP.2">Mnogoštevilno zbrani udje našega novega društva so enoglasno in
+               z veseljem pritrdili načelu, da se morajo naši otroci izrejati in poučevati v
+               krščanskem duhu, ako hočemo da postanejo iz njih verni, pošteni, zvesti, delovni,
+               pokorni, trezni, krepki, dobri in požrtvovalni državljani na tej zemlji, po smrti pa
+               srečni prebivalci nebeškega kraljestva.</p>
+            <p xml:id="No.28.PPP.3">Ker je verska šola <hi rend="italic">splošna želja</hi> našega
+               vernega ljudstva, ki se je za njo izreklo v mnogotisočerih podpisih, zato pričakujemo
+               za gotovo, da bodo tudi <hi rend="italic">slovenski poslanci</hi> podpirali blage
+               težnje svojih škofov ter glasovali za postavo, ki bi nam dala nazaj zopet krščansko
+               šolo.</p>
+            <p xml:id="No.28.PPP.4">Pri tej priliki se ne moremo premagati, da bi Vašej Milosti, ki
+               ste tudi nam Slovencem za višjega pastirja postavljeni, pred vsem ne potožili
+               nezaslišanih šolskih razmer, v kterih se nahajamo katoliški Slovenci na
+                  <placeName>Koroškem</placeName>, razmer, ktere nasprotujejo pametnemu pouku in
+               dobri izreji naših otrok. Naši slovenski otroci so namreč v mnogih krajih na
+                  <placeName>Koroškem</placeName> prisiljeni, hoditi v čisto nemške šole, v kterih
+               se v svojem maternem jeziku niti brati ne naučijo. To ovira ves pouk, in ne v
+               najmanjši meri pouk v krščanskih resnicah. Ako hoče katehet kak uspeh imeti, mora
+               otroke sam najprej brati naučiti. – Prosimo tedaj Vašo Milost, da bi nam blagovolili
+               tudi v tej prevažni zadevi pomagati s svojo veljavno besedo.</p>
+            <p xml:id="No.28.PPP.5">Blagovolite te naše zahvale in prošnje na znanje vzeti ter
+               našemu društvu Svojo milost nakloniti.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

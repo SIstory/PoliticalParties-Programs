@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peticija državnemu zboru na Dunaju za stavbno-obrtno novelo, sprejeta na prvem
+               shodu Katoliškega političnega društva v Ljubljani 9. marca 1890</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30533</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-003.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30533</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Katoliško politično društvo</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XVIII</biblScope>
+                     <biblScope unit="issue">64</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-UGTBKT6F</pubPlace>
+                     <date when="1890-03-18">18. 3. 1890</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Katoliško politično društvo</head>
+            <head>(Konec.)</head>
+            <gap reason="irrelevant"/>
+            <opener xml:id="No.3.PPP.1">Visoka državna zbornica!</opener>
+            <p xml:id="No.3.PPP.2"><q>Katol. politično društvo</q> v
+                  <placeName>Ljubljani</placeName> ima med drugim tudi namen, pospeševati
+               slovenskega naroda gmotni napredek v gospodarskih in socijalnih zadevah, skrbeti mu
+               je prav posebno za gospodarsko izobraženost.</p>
+            <p xml:id="No.3.PPP.3">Zato z veseljem pozdravlja in z zadovoljnostjo priznava, da je
+               sedanja vlada s pomočjo postavodajalnih zbornic napravila s svojo obrtno novelo od
+                  <date when="1883-03-15">15. marca 1883</date>. l. odločilen korak v socijalni
+               reformi. Vendar pa vlada sama, kakor tudi postavodajni zbori sami vedó, da je s tem
+               vložena le podlaga, na kateri bo treba zidati še mnogo, preden da se vstanové
+               postavni pogoji, od katerih je v mnogem odvisno blagostanje obrtno-delavskih
+               stanov.</p>
+            <p xml:id="No.3.PPP.4">Vzlasti je blagostanje in gmotni napredek obrtno-rokodelskih
+               stanov vseh <placeName>tostranskih kronovin Avstrijskih</placeName>, med njimi tudi
+               kronovine <placeName>Kranjske</placeName> odvisen mnogo od tega, kako da se bo
+               sklenila novela za stavbeni obrtni red, katero je vlada v § 23., alin 2, novele za
+               obrtni red z dné <date when="1883-03-15">15 marca 1883</date>, obljubila. Izrekla se
+               je namreč gledé stavbeno-obrtne novele v imenovanem paragrafu kakor sledi:</p>
+            <p xml:id="No.3.PPP.5"><corr>»</corr>Gledé stavbene obrti določijo se pozneje s posebnim
+               zakonom splošna načela, katerih se je držati, kadar treba odobriti dokaze posebne
+               sposobnosti za nastop v § 15., točka 6. naštetih stavbenih obrtij, in kadar treba
+               določiti, kako na široko se raztezajo pravice posameznih kategorij stavbene obrti.« </p>
+            <p xml:id="No.3.PPP.6">S tem je visoka vlada, kakor tudi postavodajna zbornica sama
+               priznala, da treba s posebno novelo vrediti in vtrditi razmerje in stanje
+               stavbeno-obrtnih stanov ter v ta namen že pred šestimi leti izvršila načrt
+               stavbeno-obrtne novele, ki pa še do sedaj ni prišel na dnevni red visoke državne
+               zbornice.</p>
+            <p xml:id="No.3.PPP.7">Z ozirom na to, da je ta predlog že toliko let predmet razpravi
+               obrtnega odseka visoke zbornice, a se še sedaj ni razpravljal v državnem zboru ter v
+               naše začudenje zopet letos odložil z dnevnega reda seje vis. državnega zbora z dné
+                  <date when="1890-02-03">3. februvarja 1890</date> na poznejše čase,</p>
+            <p xml:id="No.3.PPP.8">z ozirom na to, da so določila novega obrtnega reda za stavbene
+               obrtnike popolno brez pomena, dokler se ne izvrši tudi stavbeno obrtna novela,</p>
+            <p xml:id="No.3.PPP.9">prosi najdostojneje podpisano <q>katol. politično društvo</q> visoko
+               državno zbornico, da izvôli načrt obrtno-stavbene novele prej ko mogoče postaviti na
+               dnevni red, vsekako pa gotovo še v tem zasedanju.</p>
+            <p xml:id="No.3.PPP.10">2. Ker se pa imajo postave, vrejujoče razmere podložnih držati
+               gesla: <q>Vsakemu svoje!</q> zato naj izvôli visoka zbornica poskrbeti, da omogoči onim,
+               ki so se kake obrti pravilno izučili in se kot pomočniki dejanjsko v obrti urili,
+               primerne pogoje za obstanek.</p>
+            <p xml:id="No.3.PPP.11">Z ozirom na to, da tudi po predloženem načrtu stavbeni
+               podjetniki ohranijo svoje pravice, primerne njih višji tehniški izobrazbi</p>
+            <p xml:id="No.3.PPP.12">z ozirom na to, da v <placeName>Avstriji</placeName> 9065 mojstrov zidarjev,
+               kamnosekov, tesarjev, studenčarjev in 44.753 stavbenih pomožnih obrtnikov: mizarjev,
+               ključavničarjev, kleparjev, steklarjev, pečarjev, pleskarjev itd. in skoro toliko
+               tisoč družin vsled neugodnih, ker postavno ne dovolj določenih razmer težko in željno
+               pričakájejo ugodne rešitve novele stavbeno-obrtnega načrta</p>
+            <p xml:id="No.3.PPP.13">prosi najdostojneje vdano <q>katol. politično društvo</q> v
+               <placeName>Ljubljani</placeName>, da izvôli vis. zbornica vsprejeti vladine predloge stavbeno-obrtne novele
+               in sicer § 2. po nasvetu manjšine obrtnega odseka visoke državne zbornice, ki se
+               glasi:</p>
+            <p xml:id="No.3.PPP.14">Stavbeni podjetnik je opravičen voditi in izvrševati velike in
+               druge sorodne stavbe; a on je dolžan pri izvrševanju stavb gledé onih del, ki spadajo
+               v stroko mojstrov tesarjev, kamnosekov in studenčarjev, ali spadajo v opravičeni
+               delokrog stavbenih pomožnih obrtnikov: ključavničarjev, mizarjev, kleparjev,
+               steklarjev, pečarjev, pleskarjev itd., rabiti one obrtnike, ki so za dotična dela
+               opravičeni.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

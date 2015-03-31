@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Kmetske stranke za Notranjsko, sprejet na njenem ustanovnem shodu 10.
+               marca 1907 v Postojni</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30593</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-060.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30593</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Program kmetske stranke za Notranjsko</title>
+               </analytic>
+               <monogr>
+                  <title>Notranjec</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">11</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1907-03-16">16. 3. 1907</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.60.PPP.1">Smoter kmetske stranke je, da se slovenski kmet ohrani krepak na
+               svojem podedovanem posestvu. Da to doseže, stavi si stranka sledeči načrt:</p>
+            <list xml:id="No.60.PPP.2" type="ordered">
+               <item n="1.">Kmetski stan naj se združi v krepko celoto, da ga povzpé do prave
+                  zavednosti in napredka ter da mu pridobi ugled in veljavo, ki mu po vsej pravici
+                  gre v javnosti.</item>
+               <item n="2.">Kmetska stranka zahteva, da se vpelje na ljudskih šolah in učiteljiščih
+                  strokoven pouk, da se ustanovi zimske kmetijske in gospodinjske šole in tečaje ter
+                  je za prirejanje strokovnih predavanj po deželi. Zahteva ustanovitev deželnih
+                  uzornih gospodarstev v posameznih krajih.</item>
+               <item n="3.">V krajih, kjer je pomanjkanje pitne vode, naj se čim preje napravijo z
+                  izdatnimi državnimi in deželnimi podporami vodovodi oziroma vodnjaki. Pospešuje
+                  naj se namakanje in osuševanje, sploh zboljšanje travnikov in uravnava vodá, uredi
+                  naj se gozdne in pašne pravice, podpira naj se domače vinogradništvo. Zahtevamo
+                  zboljšanje cest in ureditev vprašanja gledé vzdrževanja in zboljšanja občinskih
+                  potov. Omogoči naj se cenejše in umnejše pogozdovanje.</item>
+               <item n="4.">Zahtevamo pravično preureditev dosedanjih davkov, v prvi vrsti pa
+                  popolno odpravo neupravičenega zemljiškega davka.</item>
+               <item n="5.">Zahtevamo razbremenitev zadolženih kmetijskih posestev z večletnim
+                  odplačevanjem. Kmetska stranka bo delala na to, da se ustanovi slovenska
+                  poljedelska banka.</item>
+               <item n="6.">Razkosavanje srednjih in malih kmetij naj se omeji, nasprotno pa naj se
+                  pospešuje zlaganje zemljišč.</item>
+               <item n="7.">Kmetska stranka bo pospeševala pridobitno zadružništvo.</item>
+               <item n="8.">Z vso vnemo bo delala na to, da se reši pereče vprašanje gledé
+                  pomanjkanja kmetijskih delavcev in poslov in zabrani prevelik naval brezposelnih
+                  ljudij v mesta. Upelje naj se zavarovanje delavcev in poslov za starost in
+                  onemoglost. – Vojaška službena doba se ima skrajšati na 2 leti. Ob košnji in žetvi
+                  naj se vojakom dovoli dopust. Pri vojaštvu naj se vpeljejo poljedelski
+                  tečaji.</item>
+               <item n="9.">Ustanoviti treba deželne zavarovalnice za živino, proti toči in
+                  požaru.</item>
+               <item n="10.">Omeji naj se kolikor mogoče uvažanje živine iz tujih, posebno iz
+                  okuženih dežel, nasprotno pa naj se izdatnejše podpira in pospešuje domača
+                  živinoreja.</item>
+               <item n="11.">Zahtevamo podržavljenje železnic, ugodno preureditev železniških voznin
+                  za prevažanje in izvažanje domačih kmetijskih in gozdnih pridelkov. Visoka
+                     colnina<note source="#SourceBornDigital">Carina.</note> in voznina na
+                  tujezemske pridelke naj onemogoči konkurenco z domačimi pridelki.</item>
+               <item n="12.">Preurediti je lovski zakon na korist kmetijstvu.</item>
+               <item n="13.">Kmetska stranka stoji na strogo narodnem stališču. Delala bo na to, da
+                  se sčasoma ustanovi vseslovenska poljedelska stranka. – V političnem oziru je
+                  popolnoma neodvisna in samostojna. Po potrebi pa stopa v dogovor, eventuelno tudi
+                  v zvezo z drugimi strankami.</item>
+               <item n="14.">Kmetski stan je enakopraven z drugimi; predpravice narodov, stanov ali
+                  posameznikov smatra kmetska stranka za krivične. S stanovi, ki so mu po težnjah
+                  ali drugače najbližji, kakor so delavski, obrtnijski, trgovski in duhovski, želi
+                  si vzajemnega sodelovanja.</item>
+               <item n="15.">Kot napredna stranka priznava, da pride do pravega spoznanja in uporabe
+                  svojih močij z izobrazbo. – Z učiteljstvom želi si povsod najboljših odnošajev,
+                  sporazumljenja in složnega sodelovanja v prospeh naroda in kmetijstva.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

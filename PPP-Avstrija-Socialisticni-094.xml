@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poslanica Socijalistične omladine, zasnovana ob X. zboru JSDS 25. in 26. decembra 1917 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30660</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-094.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30660</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Naša poslanica</title>
+               </analytic>
+               <monogr>
+                  <title>Demokracija</title>
+                  <title>socijalistična revija</title>
+                  <imprint>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="issue">1-2</biblScope>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-CJGLIDZJ</pubPlace>
+                     <date when="1918">1918</date>
+                     <biblScope unit="page">1-4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Naša poslanica</head>
+            <p xml:id="No.94.PPP.1">Zgradili smo ognjišče, da se zbiramo krog njega vsi, ki verujemo
+               v kulturno poslanstvo demokratizma in socijalizma, ki hočemo, da vzraste nov rod na
+               naših poljanah, da vstane lepše življenje. Predvsem hočemo biti glasniki kulturne
+               struje, glasniki idej demokratizma in socijalizma, ž njimi hočemo prepojiti vse naše
+               življenje; v njih vidimo svetlo pot, ki vodi iz sedanjega hlapčevskega životarjenja v
+               samosvoje življenje našega naroda.</p>
+            <p xml:id="No.94.PPP.2">Svojo prvo poslanico razpošiljamo. Našemu človeku hočemo
+               govoriti, vzdramiti ga hočemo, da vstane in se otrese verig, da se zave samega sebe,
+               da si ustvari svobodno življenje. Težek bo boj. Mnogo je ovir in dosti
+               potrpežljivosti bo treba, otresti se bo marsikaterega predsodka. Ali vero v uspeh
+               dela, ki pričenjamo danes ž njim, nam daje prepričanje, <hi rend="italic">da more
+                  človek zavestno poseči v življenje in ga smotreno oblikovati</hi>.</p>
+            <p>Ne prisegamo na nobene dogme, kritično in s prozora svetovnih idej hočemo presojati
+               vsak pojav, svobodne roke hočemo imeti na vse strani.</p>
+            <milestone xml:id="No.94.PPP.3" unit="section" n="* * *"/>
+            <p xml:id="No.94.PPP.4">Samoodločevanje narodov je prva in temeljna zahteva demokratizma
+               in socijalizma. <hi rend="italic">Narod je ona plodna celica, kamor mora polagati
+                  vsako gibanje svoja semena. Narod je oni okvir, ki edino v njem more danes
+                  posameznik razvijati svojo osebnost do naj višje stopnje</hi>. Mera, do katere je
+               to možno, pa je dana v svobodi, ki v njej živi narod. <hi rend="italic">Na današnji
+                  stopnji človeškega razvoja je predpogoj narodne svobode suverena narodna država z
+                  najširšo samoupravo</hi>. Narodna država je predpogoj vsakega napredka širokih
+               mas, brez nje ni misliti na uresničenje velikih idej demokratizma in socijalizma.
+               Zato pojmujemo samoodločevanje narodov v tem zmislu, da mora doseči vsak narod
+               najvišjo sedanjo obliko političnega življenja – <hi rend="italic">narodno
+                  državo!</hi> Suverene narodne države bodo šele tvorile temelj za svobodno
+               federacijo narodov, ki so izključevala izrabljanje slabejših narodov s strani
+               močnejših, da si potem ti ustvarijo in utrde svoj svetovni imperij. Svobodna
+               federacija narodov je najboljši porok za ohranitev trajnega miru. Tako vsebuje ideja
+               samoodločevanja narodov kal nove in širše državne ideje, ideje združenih svetovnih
+               narodnih držav.</p>
+            <p xml:id="No.94.PPP.5">V imenu samoodločevanja narodov zahtevamo federalistično državno
+               ujedinjenje slovensko-hrvatsko-srbskih ozemelj. Za uresničenje te zahteve hočemo
+               zastaviti svoje najboljše sile. Da si izvojujemo te elementarne predpogoje obstanka
+               in napredka, je brezpogojno potrebno, da stopi vsak posameznik zavestno in odločno v
+               boj za uresničenje velikega ideala in da strnemo v to svrho vse naše sile v tesno
+               falango. Zato smatramo jugoslovansko deklaracijo<note place="foot"
+                  source="#SourceBornDigital">Glej dok. št. 130.</note>
+               <hi rend="italic">v njenem bistvu</hi> za krepek zavestni čin jugoslovanskega življa,
+               ki ž njim tolmačimo vsemu svetu svojo zahtevo po osvobojenju in državnem
+               ujedinjenju.</p>
+            <p xml:id="No.94.PPP.6">Zavračamo nacijonalistično pojmovanje narodnosti, ki ne jemlje
+               naroda za izhodišče, marveč za cilj življenja, ki mu ni splošna človeška blaginja,
+               marveč sebično narodna korist merilo vsega dejanja in nehanja. Nacijonalistično
+               pojmovanje narodnosti vodi neposredno v idejo narodnega imperijalizma, ki ima za
+               posledico zatiranje in izkoriščanje gospodarsko, politično in kulturno slabejših
+               narodov. Naše pojmovanje narodnosti je socijologično.</p>
+            <p xml:id="No.94.PPP.7"><hi rend="italic">Demokratizacija družbenega in državnega
+                  ustroja in življenja je cilj, ki po njem stremimo</hi>. Demokratizacija je eden
+               najvažnejših problemov sedanje dobe.</p>
+            <p xml:id="No.94.PPP.8">V svojem bistvu zahteva demokratizem v prvi vrsti, da se
+               ustvarijo taki vnanji predpogoji družbenega življenja in da se izvrše take državne
+               reforme, da bo v svrho splošne blaginje možna udeležba vseh doraslih mož in žen pri
+               izvrševanju politične in gospodarske moči, da bodo vsem ljudem zagotovljeni pogoji
+               človeške eksistence, in da bo mogel vsakdo razvijati svojo osebnost pod enakimi
+               vnanjimi pogoji. Uveljaviti se mora politični in gospodarski demokratizem. Ker pa
+               določuje gospodarska moč v pretežni meri politično smer, je jasno, da bo izveden
+               politični demokratizem resnično šele tedaj, ko bo dosežen gospodarski
+               demokratizem.</p>
+            <p xml:id="No.94.PPP.9">Cilj, po katerem stremi gospodarski demokratizem, je radikalna
+               odstranitev bede mas, gospodarske odvisnosti in izkoriščanja. Temeljni vzrok bede,
+               odvisnosti in izkoriščanja pa je v neomejeni zasebni lastnini zemlje in proizvajalnih
+               sredstev, v neuravnani konkurenci pri pridobivanju, v neredu proizvajanja, dohodnine
+               in porabe. Zato vodi gospodarski demokratizem neposredno v socijalizem, ki zahteva na
+               eni strani odpravo neomejene zasebne lastnine, na drugi strani pa tako ureditev
+               gospodarskega življenja in lastninskih razmer, da se doseže kar največje blagostanje
+               vseh.</p>
+            <p xml:id="No.94.PPP.10">Delavec je prvi čutil na sebi in svoji družini veliko krivico,
+               zato se je prvi oprijel socijalizma. Nezavedno je dvignil svoj bojni klic, ki je
+               prihajal in ki še vedno prihaja iz zatohlih, prenapolnjenih lukenj predmestnih hiš,
+               iz velikih industrijskih središč, iz globin rudnikov in iz morskih pristanišč. To je
+               klic lačnih in raztrganih, duševno zanemarjenih in zaničevanih. Preko dežel in
+               oceanov se je raznesel klic, zatirani in brezpravni so se ga oprijeli, razrasel se je
+               v mogočno gibanje, vstale so socijalistične stranke, predbojevnice socijalizma, ki so
+               dvignile politiko iz močvirja osebnih koristi in dnevnih uspehov, ji dale znanstveno
+               podlago, začrtale velike in široke cilje.</p>
+            <p xml:id="No.94.PPP.11">Ali socializem je več nego veroizpoved politične stranke,
+               socializem je postal socijalno in kulturno gibanje, življenjski nazor modernega
+               človeka, ki se priznava k demokratizmu v gospodarskem in političnem življenju
+               posameznika, rodbine, razredov, narodov, vse človeške družbe.</p>
+            <p xml:id="No.94.PPP.12">Vendar ne zadostuje golo priznavanje k demokratizmu; moderni
+               človek mora tudi živeti demokratično – doma in zunaj. V tej točki pa postane
+               demokratični problem na ta način problem značaja, problem nravne sile
+               posameznika.</p>
+            <p xml:id="No.94.PPP.13">Vsled tega zahteva demokratizem mnogo več nego to, da se
+               ustvarijo samo vnanji predpogoji za boljše in lepše življenje posameznika in širokih
+               mas. Res je sicer, da je družbeno življenje v razsežni meri odvisno od vnanjih
+               materijalnih okolnosti, ali pri tem ni prezreti, da tvori i duševna stran človeške
+               narave zelo važno, če ne odločilno vlogo v družbenem razvoju.</p>
+            <p xml:id="No.94.PPP.14">V socialno-demokratičnih, t. j. v socijalističnih vrstah, ki se
+               priznavajo k nemškemu socijalizmu, se duševna stran človeške narave skoro popolnoma
+               prezira, naziranje o družbenih problemih je čisto mehanično, materijelno: od
+               izpremembe samo vnanjih okolnosti se pričakuje rešitev demokratičnega problema.</p>
+            <p xml:id="No.94.PPP.15">Vsled našega psihofizičnega naziranja o družbenih problemih
+               zavračamo nazor, da oblikujejo človeka le razmere, zavračamo zgodovinski
+               materijalizem, ako bi hotel biti edina razlaga za vse izpremembe v razvoju človeštva.
+               Prepričani smo namreč, da igrajo v življenju i duševni činitelji odločilno vlogo, da
+               poleg materijenih okolnosti i ti določajo smer družbenega razvoja.</p>
+            <p xml:id="No.94.PPP.16">Demokratizem in socijalizem zahtevata vsled tega tudi visoko
+               duševno, zlasti srčno kulturo posameznika, trdne značaje in medsebojno strpnost. <hi
+                  rend="italic">Le nravno visoko stoječi ljudje morejo udejstvovati visoke cilje
+                  demokratizma in socijalizma</hi>. Zato je potrebno na eni strani vztrajno podrobno
+               prosvetno in socijalno delo, katerega cilj mora iti za tem, da se vzgoje trdni
+               značaji, na drugi strani pa, da stoje na čelu socijalističnega gibanja ljudje čistih
+               rok, neoporečnih značajev in neomahljivih načel.</p>
+            <p xml:id="No.94.PPP.17">Vzgojevalno, prosvetno in socijalno delo pa je ravno polje,
+               kjer je poklicana inteligenca, da zastavi svoje sile, da izpolni svoje kulturno
+               poslanstvo.</p>
+            <p xml:id="No.94.PPP.18"><hi rend="italic">Vsled našega naziranja o družbi ne moremo
+                  prezreti dejstva, da tvori versko čustvovanje bistveni del duševnega življenja pri
+                  pretežni večini naših ljudi</hi>, in da pomeni vsled tega važno kulturno gibalo.
+               Versko čustvovanje je prepojilo narodovo dušo tako, da je postalo bistveni del
+               njegove osebnosti. Ker smo prepričani, da se čuvstvovanje ne da nikomur vsiliti,
+               stojimo na stališču verske strpnosti in medsebojnega spoštovanja tako med verskimi
+               družbami kakor med posamezniki. Da morejo verske družbe izvrševati svoje kulturno
+               poslanstvo in da more i država zadostiti svojim nalogam, je popolna in vsestranska
+               medsebojna neodvisnost obeh neobhodno potrebna; zato stojimo na stališču ločitve
+               cerkve od države. </p>
+            <milestone xml:id="No.94.PPP.19" unit="section" n="* * *"/>
+            <p xml:id="No.94.PPP.20">Slovensko-jugoslovanski socijalizem se do danes še ni razrasel
+               v krepko gibanje, ki bi vsaj soodločilno vplivalo na življenje slovanskega juga.
+               Vzroka sta predvsem dva: malo razvita industrija, trgovina in prometna sredstva, ki
+               ustvarjajo delavca, predbojevnika socijalistične misli – in pa dejstvo, da
+               jugoslovanska socijalno-demokratična stranka, ki je do danes edina pri nas
+               propagirala socijalizem, ni vedno in povsod dovolj globoko in široko zajemala iz
+               naroda. Propagatorji in voditelji stranke se ne zavedajo tega, da so sicer
+               socijalistične ideje mednarodne, vsemu človeštvu skupne, ali da se te ideje
+               oblikujejo in udejstvujejo pri različnih narodih različno, odgovarjajoče pač
+               mišljenju in čustvovanju posameznih narodov, medsebojnemu razmerju družbenih slojev
+               ter višini politične in gospodarske organizacije, ki so jo dosegli. Idejno zajemajoča
+               iz nemškega socijalizma je enostransko posnemala delovanje nemške
+               socijalno-demokratične stranke in njene naprave. Vsled tega se tudi ni moglo krepko
+               razvijati lastno produktivno, duševno delo. Posledica tega je nejasnost v načelih in
+               nedoslednost v taktiki. Tako koleba stranka med radikalizmom in oportunizmom:
+               načeloma, teoretično hoče biti radikalna, v dejanju, praktično je oportunistična.</p>
+            <p xml:id="No.94.PPP.21">Da je torišče stranke tako majhno in da so njeni uspehi tako
+               neznatni, je vzrok tudi v tem, da se je stranka pri svojem delovanju omejevala le na
+               industrijalno delavstvo.</p>
+            <p xml:id="No.94.PPP.22">Naravno je, da se opira nemška socijalna demokracija skoro
+               izključno na industrijsko delavstvo. Njen delokrog se razteza po visoko razvitih
+               industrijskih in agrarnih ozemljih, kjer je socijalna diferencijacija že daleč
+               napredovala. Delavcu stoji nasproti visoko razvit in razredno zaveden razred velikih
+               posestnikov, mogočnih industrijskih in finančnih podjetnikov. Takšen položaj
+               napravlja boj proletarskih mas enostavnejši in omogočuje izrazit razredni boj.</p>
+            <p xml:id="No.94.PPP.23">Pri nas sta industrijski in finančni kapital šele v razvoju in
+               se nahajata v pretežni večini v rokah tujcev. Isto velja o veleposestvu, ki je vrh
+               tega še monopolizirano v cerkvenih in plemenitaških fidejkomisih. Zgolj
+               industrijskega delavstva je malo. Tuj kapital uvaža tujerodno delavstvo, nasilno
+               raznaroduje domače, ki je še večinoma nekvalificirano. Tuj kapital stremi po tem, da
+               vtelesi jugoslovanska ozemlja svojemu imperijalizmu, da nas tako oropa vsake svobode
+               ter uniči našo narodno individualnost. Iz tega vzroka mora naše delavstvo izvojevati
+               še boj za narodni obstoj. Narodni in socijalni boj proti tujemu kapitalu in
+               podjetništvu se strneta v eno in vsled tega je obrnjen naš razredni boj v prvi vrsti
+               navzvèn, pri čemur pa je samoumevno, da je treba bojevati vzporedno razredni boj tudi
+               na znotraj.</p>
+            <p xml:id="No.94.PPP.24">Razrednega boja pa ne pojmujejo v tem smislu, da proletarijat
+               premaga in podjarmi nasprotnika, da najpopolnejše zagospoduje nad njim in vso družbo.
+               Razredni boj gre marveč za tem, da izruje razlike, da uniči gospodstvo enega razreda
+               nad drugim in nad vso človeško družbo. Razredni boj tvori sredstvo pri
+               demokratizaciji družbenega življenja.</p>
+            <p xml:id="No.94.PPP.25">Socijalne diferencijacije v velikem obsegu pri nas še ni, ker
+               je narod po svoji pretežni večini kmetiški. Vsi drugi sloji pa, ki izhajajo po svoji
+               večini iz našega kmetiškega življa, še nimajo samonikle osebnosti, njihovo naziranje
+               je še vkovano v predsodke kmetiškega človeka. Naše industrijsko delavstvo, prepojeno
+               z nazori kmetiškega človeka, je še zelo konservativno in stremi iz odvisnosti
+               tovarniškega delavca po samostojnem življenju malega kmeta. Naš industrijski delavec
+               je deloma še dvoživka. Na <placeName>Slovenskem</placeName> imamo malo buržvazije v
+               pravem pomenu besede, ta se šele poraja in postane samozavestnejša šele takrat, ko
+               bosta domača industrija in finančni kapital vse višje razvita nego danes. Mesto
+               razvite buržvazije imamo pri nas le malomeščanstvo s svojim ozkosrčnim obzorjem. To
+               malomeščanstvo je brez večjih političnih ciljev, vsled česar je politično manj
+               zanesljivo, razredno pa skoro indiferentno.</p>
+            <milestone xml:id="No.94.PPP.26" unit="section" n="* * *"/>
+            <p xml:id="No.94.PPP.27">
+               <hi rend="italic">Prosta, vsem pristopna je naša tribuna</hi>. Ne vprašamo po
+               strankinem in stanovskem pripadništvu. K sodelovanju v naznačenem zmislu vabimo vse,
+               ki mislijo in čutijo demokratično in socijalistično: teoretike in praktike; vse, ki
+               imajo kaj povedati svojemu proletarskemu narodu v teh usodnih dneh.</p>
+            <closer>Socijalistična omladina.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

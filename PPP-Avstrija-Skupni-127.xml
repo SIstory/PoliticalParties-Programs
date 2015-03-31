@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poročilo ustavnega odseka kranjskega deželnega zbora o nujnem predlogu poslancev
+               dr. Ivana Šusteršiča, Jožefa barona Schwegla, dr. Ivana Tavčarja in tovarišev glede
+               spremembe deželnega reda in deželnozborskega volilnega reda z dne 15. junija
+               1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30786</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-127.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30786</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Priloga 24</title>
+               </analytic>
+               <monogr>
+                  <title>Dodatek II. k 47. zvezku deželnozborskih obravnav obsegajoč priloge izza
+                     let 1908, 1909 in 1910</title>
+                  <imprint>
+                     <biblScope unit="page">871, 873</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.127.PPP">
+               <opener><hi rend="italic">Visoki deželni zbor!</hi></opener>
+               <p>V seji dne <date when="1908-03-27">27. marca 1908</date><note place="foot"
+                     source="#SourceBornDigital">Glej dok. št. 126.</note> stavili so poslanci dr.
+                     <hi rend="italic"><persName>Šusteršič</persName></hi>, baron <hi rend="italic"
+                        ><persName>Schwegel</persName></hi>, dr. <hi rend="italic"
+                        ><persName>Tavčar</persName></hi> in sodrugi nujni predlog:</p>
+               <quote>
+                  <p>Deželni zbor skleni:</p>
+                  <p>Deželni red in deželni volilni red se imata spremeniti v tem smislu, da se
+                     omogoči vsem slojem prebivalstva sodelovanje pri deželni zakonodaji in
+                     upravi.</p>
+               </quote>
+               <p>Zbornica je predlogu priznala nujnost in ga odkazala ustavnemu odseku v
+                  predposvetovanje.</p>
+               <p>V odseku, ki je bil se <corr>z</corr> zakonom z dné <date when="1908-04-23">23.
+                     aprila 1908</date> dež. zak. štev. 10. proglašen <hi rend="italic"
+                     >permanentnim</hi>, doseglo se je v stvari <hi rend="italic">popolno
+                     sporazumljenje</hi> vseh strank. Sad tega sporazumljenja sta priložena zakonska
+                  načrta o spremembi deželnega reda in deželnozborskega volilnega reda.</p>
+               <p>Reforma, ki je izražena v teh dveh načrtih, se ne sme presojati toli iz načelnega,
+                  nego iz stališča <hi rend="italic">politične oportunitete</hi>.</p>
+               <p>Gotovo je v veliko korist deželi, da se tako važna in globoko segajoča reforma, ki
+                  utegne spremeniti celo strankarsko konfiguracijo deželnega zbora in dati nove
+                  impulze javnemu razvoju v kranjski vojvodini, izvede v popolnem soglasju vseh
+                  strank. To soglasje priča, da je reforma postulat splošne pravne zavesti. To je
+                  tisti moment, ki daje predloženi reformi odločilno vrednost in ki jo sam po sebi
+                  opravičuje in utemeljuje.</p>
+               <p>Glavne točke predlagane reforme, v razmerju proti sedaj veljavnim zakonom, so:</p>
+               <list type="ordered">
+                  <item n="1.">Ustanovitev splošnega volilskega razreda z 11 mandati.</item>
+                  <item n="2.">Pomnožitev deželnega odbora z enim prisednikom, ki ga volijo poslanci
+                     splošnega volilskega razreda.</item>
+                  <item n="3.">Pomnožitev ljubljanskih mandatov v volilskem razredu mest in trgov od
+                     2 na 4.</item>
+                  <item n="4.">Ločitev <placeName>Ribnice</placeName> od volilnega okraja
+                        <placeName>Kočevje</placeName>-<placeName>Ribnica</placeName> in priklopitev
+                     k volilnemu okraju slovenskih dolenjskih mest v volilskem razredu mest in
+                     trgov.</item>
+               </list>
+               <p>Iz sprememb ad 1. in 2. sledi, da bode deželni zbor v bodoče štel <hi
+                     rend="italic">50</hi> članov (doslej 37).</p>
+               <p>K posameznim točkam se še pripomni:</p>
+               <p><hi rend="italic">Ad 1.</hi> V tej točki leži težišče cele reforme.</p>
+               <p>Po splošnem volilnem razredu pride v volilnem zistemu našega deželnega zbora <hi
+                     rend="italic">vsaj deloma</hi> moderno načelo <hi rend="italic">splošne in
+                     enake volilne pravice</hi> do veljave.</p>
+               <p>Dosegel se je v tem pogledu maksimum, ki je v današnjih razmerah sploh dosegljiv.
+                  To kaže tudi primera sé<note place="foot" source="#SourceBornDigital">Sé –
+                     s.</note> številom mandatov splošnega volilnega razreda v drugih deželah, ki
+                     <hi rend="italic">relativno</hi> zaostaje bistveno za številom, ki ga predlaga
+                  ustavni odsek za naš deželni zbor.</p>
+               <p>Aktivna volilna pravica v splošnem volilskem razredu je po načrtu identična z
+                  državnozborsko volilno pravico – gotovo najpravilnejša rešitev tega vprašanja.</p>
+               <p>Kar se tiče razdelitve okrajev v splošni skupini, je odsek sprejel pravilno načelo
+                  teritorijalne razdelitve na 11 okrajev, kojih vsak voli jednega poslanca. Prvega
+                  teh okrajev tvori (kakor za državni zbor) glavno mesto
+                     <placeName>Ljubljana</placeName> – drugih 10 okrajev pa se tudi krije z
+                  državnozborskimi volilnimi okraji, razun onih sprememb, koje provzroča okolnost,
+                  da se ni vstvaril, kakor za državni zbor, poseben nemško-naroden kočevski
+                  mandat.</p>
+               <gap reason="irrelevant"/>
+               <note place="foot" source="#SourceBornDigital">Izpuščena je tabela na str. 872, ki
+                  kaže velikost posameznih volilnih okrajev po prebivalstvu in številu volilcev. </note>
+               <p><hi rend="italic">Ad 2.</hi> Dotiranje splošnega volilskega razreda s posebnim
+                  mandatom v deželnem odboru pomenja konsekventno uveljavljenje demokratičnega
+                  načela v deželni samoupravi – v kolikor je to v denašnjih razmerah sploh
+                  mogoče.</p>
+               <p><hi rend="italic">Ad 3.</hi> Od 11 okrajev splošne skupine ima le prvi, obstoječ
+                  iz ljubljanske občine, mesten značaj. Ostalih 10 volilnih okrajev je pretežno
+                  kmetskega značaja, tako da bode v bodoče kmetsko prebivalstvo samo za-se
+                  odločevalo o večini v deželnem zboru: K 16 poslancem kmečkih občin se pridruži 10
+                  poslancev splošne skupine iz pretežno kmetijskih okrajev, skupaj 26 poslancev, t.
+                  j. absolutna večina nove zbornice.</p>
+               <p>Naravno je, da so v očigled temu zahtevali mestni poslanci, da se tudi nekoliko
+                  ojači meščansko zastopstvo i. s. na ta način, da se ustvarita dva nova ljubljanska
+                  mandata v volilskem razredu mest in trgov. Kompromisnim potom se je tej zahtevi
+                  ustreglo, ker se je s to koncesijo osigurala volilna reforma in zajamčil povratek
+                  normalnih razmer v naši deželni zakonodaji in upravi. Uvaževalo se je tudi, da ima
+                     <placeName>Ljubljana</placeName>
+                  <hi rend="italic">v razmerju</hi> z drugimi mesti in trgi najmanj poslancev.
+                  Pomnožitev ljubljanskih mandatov vstvarja pravičnejše razmerje <hi rend="italic">v
+                     okviru volilskega razreda mest in trgov</hi>.</p>
+               <p>Vsled pomnožitve ljubljanskih cenzus-mandatov se je pokazala potreba, razdeliti
+                     <placeName>Ljubljano</placeName> v dva volilna okraja, kojih vsak voli po dva
+                  poslanca v volilskem razredu mest in trgov.</p>
+               <p>V to svrho se razdeli <placeName>Ljubljana</placeName> v severno in južno polovico
+                  po idealni črti od mestne hiše do Švicarije.<note place="foot"
+                     source="#SourceBornDigital">Stavba v parku Tivoli, pribl. 40 m nad Tivolskim
+                     gradom.</note></p>
+               <p>Južno polovico tvorijo II. (Št. Jakobski) III. (Dvorski) in V. okraj (Predkraji)
+                     se<note place="foot" source="#SourceBornDigital">Se – s.</note> skupaj <hi
+                     rend="italic">17.910</hi> civilnimi prebivalci; severno polovico pa tvorijo I.
+                  (šolski), IV. (kolodvorski) in VI. okraj (Vodmat) se skupaj <hi rend="italic"
+                     >16.045</hi> civilnimi stanovniki.</p>
+               <p>Pri tej razdelitvi je upoštevano število prebivalstva in pa davčna moč.</p>
+               <p>Kar se tiče števila prebivalstva, je južna polovica le za približno 2000 ljudij
+                  močnejša od severne, razlika, ki gotovo ni velika. Pri tem je treba še pomisliti,
+                  da so pri numerično močnejši polovici poljedelski sloji trnovski, krakovski in
+                  barjanski, ki plačujejo veliko manjši davek, kot sicer ljubljansko stanovništvo.
+                  Tudi je uvaževati, da je v severni polovici mesta dokaj več industrije, ko v
+                  južni.</p>
+               <p>Prvi (šolski) okraj paralizuje drugega (šentjakobskega), četrti (kolodvorski)
+                  vsled večje industrije tretjega (dvorskega) po prebivalstvu za 1800 prebivalcev
+                  močnejšega. Peti in šesti okraj bistva ne izpreminjata. Res, da ima VI. okraj 3075
+                  prebivalcev, peti pa le 1639; pomisliti je pa treba, da je med 3075 stanovniki
+                  šestega okraja okroglo 600 bolnikov civilne bolnice, ki pri volitvi ne pridejo v
+                  poštev.</p>
+               <p><hi rend="italic">Ad 4.</hi> Ločitev <placeName>Ribnice</placeName> od
+                     <placeName>Kočevja</placeName> se je izvršila vsled obojestranske želje.</p>
+               <p>Po tej ločitvi se <placeName>Ribnica</placeName> naravno ni mogla priklopiti
+                  drugam, nego slovenskim dolenjskim mestom.</p>
+               <milestone unit="section" n="____________"/>
+               <p>Posebe omenjati je konečno še prehodne določbe, glasom katerih se deželni zbor, ko
+                  predlagana reforma postane zakon, ne razpusti, temuč le <hi rend="italic"
+                     >spopolni</hi> s tem, da se izvolijo poslanci splošnega volilskega razreda in
+                  pa nova dva ljubljanska poslanca v voliskem razredu mest in trgov. Istotako se
+                  spopolni tudi deželni odbor z izvolitvijo petega prisednika iz splošnega
+                  volilskega razreda.</p>
+               <p>Odsek se je pri reševanju svoje naloge uveril, da je tako deželni red kakor
+                  osobito deželni volilni red še v marsičem potreben reforme. To pa je obširno delo,
+                  ki rabi daljšo dobo – mej tem ko je <hi rend="italic">nujno</hi>, da pridejo
+                  poslanci splošnega volilnega prava do sodelovanja pri deželni zakonodaji in
+                  samoupravi. Tudi odgovarja demokratičnemu načelu, da poslanci splošnega volilnega
+                  prava že sodelujejo pri nadaljni obsežni ureditvi deželne ustave. To so razlogi,
+                  ki so vodili ustavni odsek, da se je odločil predlagati provizorij v obliki
+                  označenih prehodnih določb.</p>
+               <p>Stvar spopolnjenega deželnega zbora bode, da še v tekoči zakonodavni dobi izvrši
+                  obsežno in temeljito revizijo deželne ustave.</p>
+               <p>S predloženima zakonskima načrtoma pa se brez dvoma ustreže uvodom navedenemu
+                  nujnemu predlogu: <hi rend="italic">da se omogoči vsem slojem prebivalstva
+                     sodelovanje pri deželni zakonodaji in upravi</hi>.</p>
+               <p>Ustavni odsek po <hi rend="italic">soglasnem</hi> sklepu predlaga:</p>
+               <p><hi rend="italic">Visoki deželni zbor skleni:</hi></p>
+               <list type="ordered">
+                  <item n="I.">Priloženima zakonskima načrtoma o spremembi deželnega reda in
+                     volilnega reda za deželni zbor se pritrdi.</item>
+                  <item n="II.">Deželni odbor se pozivlje, da čim preje izposluje Najvišje
+                     potrjenje.</item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

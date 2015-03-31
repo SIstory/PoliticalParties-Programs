@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Predlog dr. Ivana Tavčarja in tovarišev glede splošne neposredne volilne pravice,
+               podan 8. januarja 1895 v kranjskem deželnem zboru</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30583</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Liberalni-050.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30583</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Stenografični zapisnik druge seje deželnega zbora kranjskega v Ljubljani
+                     dné 8. februarija 1895.</title>
+               </analytic>
+               <monogr>
+                  <title>Obravnave deželnega zbora kranjskega v Ljubljani</title>
+                  <title>od 28. decembra 1894 do 16. februarja 1895</title>
+                  <title>po stenografičnih zapisnikih</title>
+                  <imprint>
+                     <biblScope unit="issue">35</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>deželni odbor Kranjski</publisher>
+                     <date when="1895">1895</date>
+                     <biblScope unit="page">15</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.50.PPP.1">Slavni deželni zbor naj na podlagi člena 19. deželnega reda
+               sklene:</p>
+            <p xml:id="No.50.PPP.2">Z ozirom na volilno reformo, kojo hoče vlada izvesti, izreka se
+               deželni zbor te vojvodine za vpeljavo splošne direktne volilne pravice, če bi se pa
+               le-tá za sedaj doseči ne mogla, zahteva se vpeljava splošne volilne pravice v
+               skupinah kmetskih občin, mest in trgov, isto tako zahteva se vpeljava direktne
+               volitve v prvi skupini, toda le pod pogojem, da se volitev ne vrši v oddaljenih
+               centrih, nego po posameznih občinah.</p>
+            <p xml:id="No.50.PPP.3">Dalje se izreka deželni zbor, da je delavcem podeliti volilno
+               pravico, vender pa naj se število mandatov kmetskih občin, ki so od nekdaj v
+               zastopstvu prikrajšane, pomnoži za isto število, katero se prizna zastopnikom
+               delavcev. Gledé na to, da kranjska trgovinska zbornica nima posebnega zastopnika v
+               državnem zboru, kakor jih imajo zelo manjše trgovinske zbornice, zahteva se, da se
+               omenjeni zbornici prizna posebni zastopnik, ter da se sploh izvrši pravična uredba
+               volilnih okrajev.</p>
+            <p xml:id="No.50.PPP.4">Odločno pa se deželni zbor izjavlja proti pomnoženji volilnih
+               skupin in proti temu, da bi se novi, delavskemu stanu ne pripadajoči volilci z
+               delavci vred združili v novo volilno skupino.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

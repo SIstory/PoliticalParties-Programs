@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pravila Slovenske kmečke zveze za Štajersko</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <persName>Andrej Pančur</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30563</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Katoliski-030.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30563</idno>
+            <date>2014</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pravila Slovenske kmečke zveze za Štajersko</title>
+                  <imprint>
+                     <pubPlace>Maribor</pubPlace>
+                     <publisher>založba društva</publisher>
+                     <date when="1907" cert="high">1907</date>
+                     <biblScope unit="page">3-6</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Pravila Slovenske kmečke zveze za Štajersko</head>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.30.PPP.1">
+               <head><hi rend="italic">Ime in sedež društva.</hi></head>
+               <div>
+                  <head>§ 1.</head>
+                  <p>Društvo se imenuje <q>Slovenska kmečka zveza</q> za
+                        <placeName>Štajersko</placeName>, je politično društvo in ima svoj sedež v
+                        <placeName>Mariboru</placeName>.</p>
+               </div>
+            </div>
+            <div xml:id="No.30.PPP.2">
+               <head><hi rend="italic">Društveni namen.</hi></head>
+               <div>
+                  <head>§ 2.</head>
+                  <p><q>Slovenska kmečka zveza</q> za <placeName>Štajersko</placeName> ima
+                     namen:</p>
+                  <list type="ordered">
+                     <item n="1.">Voditi ustavni boj za politične pravice, za gospodarsko
+                        blagostanje in za nravno čilost kmečkega stanu.</item>
+                     <item n="2.">Braniti kmečki stan pred vsemi nevarnostmi, ki pretijo njegovemu
+                        obstanku in njegovi moči.</item>
+                     <item n="3.">Buditi in razširjati samozavest kmečkega stanu, gojiti ljubezen do
+                        domače grude in ohraniti njegove dobre navade.</item>
+                     <item n="4.">Vzbujati med kmeti zavest vzajemnosti in jih prepričevati, da se
+                        morajo boriti vsi za enega in eden za vse.</item>
+                     <item n="5.">Pospeševati zlasti gospodarsko izomiko kmečkega stanu.</item>
+                     <item n="6.">Skrbeti, da se omeji preseljevanje kmečkih delavskih moči z dežele
+                        v mesta, trge in obrtne kraje.</item>
+                     <item n="7.">Ustanavljati po zmožnosti in potrebi kmečke knjižnice, čitalnice
+                        in druga središča duševne probuje in prosvete kmečkega stanu.</item>
+                     <item n="8.">Braniti in utrjevati krščanskega duha v kmečkem stanu.</item>
+                     <item n="9.">Gojiti ljubezen do slovenske zemlje in slovenskega jezika ter
+                        braniti narodne pravice slovenskega ljudstva.</item>
+                  </list>
+               </div>
+            </div>
+            <div xml:id="No.30.PPP.3">
+               <head><hi rend="italic">Sredstva.</hi></head>
+               <div>
+                  <head>§ 3.</head>
+                  <p>V dosego svojega namena uporablja društvo vsa primerna, zakonito dovoljena
+                     sredstva.</p>
+                  <p>Osobito se društvo:</p>
+                  <list type="ordered">
+                     <item n="1.">Udeležuje volilnih bojev v državni in deželni zbor, v okrajne,
+                        občinske in druge samoupravne zastope ter prireja v ta namen volilne
+                        shode.</item>
+                     <item n="2.">Se izraža o kandidatih, jih postavlja in zastavlja vse svoje moči,
+                        da se pri teh volitvah varujejo pravice in koristi kmečkega stanu v smislu
+                        društvenega programa.</item>
+                     <item n="3.">Vpliva na sklepe zakonodajnih in samoupravnih zastopov s tem, da
+                        se obrača do njih in posameznih članov istih s prošnjami in spomenicami, jim
+                        razlaga želje in potrebe kmečkega stanu ter javno razglaša zaupanje ali
+                        nezaupanje ljudskim zastopnikom ali drugim za javne zadeve odgovornim
+                        činiteljem.</item>
+                     <item n="4.">Poučuje ustmeno in pismeno, po shodih, lepakih, letakih, brošurah,
+                        časnikih in knjigah kmete o njihovih pravicah in koristih, razkriva rane
+                        kmečkega stanu in neustrašeno pobija vse, kar utegne biti v škodo kmečkemu
+                        stanu.</item>
+                     <item n="5.">Pospešuje družabno življenje kmeta na temelju starih krščanskih
+                        šeg in navad.</item>
+                     <item n="6.">Brezplačno daje pojasnila v gospodarskih, pravnih, vojaških in
+                        drugih sličnih zadevah; ter pomaga z nasveti društvenikom pri sestavljanju
+                        prošenj, vlog itd.</item>
+                     <item n="7.">Skrbi, da prešine kmečko mladino pravi stanovski duh, in da se
+                        ista stanovsko izobraža.</item>
+                     <item n="8.">Goji med kmečkimi posli in delavci vdanost in ljubezen do
+                        kmeta.</item>
+                  </list>
+               </div>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

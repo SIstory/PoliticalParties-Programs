@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Komunike o ustanovitvi Narodnega sveta za slovenske dežele in Istro v Ljubljani,
+               izdan 17. avgusta 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30796</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-137.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30796</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Saopštenje o osnivanju Narodnog veća (Narodni svet) u Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">256–257</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.137.PPP">
+            <opener>O ustanovnem zboru narodnega sveta v Ljubljani se je izdal
+               naslednji<lb/>komunike:</opener>
+            <p>Ustanovni zbor Narodnega sveta v <placeName>Ljubljani</placeName> se je vršil dne
+                  <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta 1918.</date> v
+               posvetovalnici mestnega magistrata ljubljanskega. Narodni svet se je sestavil iz
+               odposlancev, ki so jih imenovale sledeče organizacije:1. Vseslovenska ljudska
+               stranka; 2. Jugoslovanska demokratska stranka; 3. Jugoslovanska socijalno-demokratska
+               stranka, ki sicer ne pošlje svojih delegatov kot članov N. S., a se bo delovanja N.
+               S. vendar udeleževala; 4. Tržaško politično društvo <q>Edinost</q>; 5. <q>Politično
+                  in gospodarsko društvo za Slovence in Hrvate v <placeName>Istri</placeName></q>;
+               6. <q>Katoliško politično in gospodarsko društvo za Slovence na
+                     <placeName>Koroškem</placeName></q>. <placeName>Dalmacija</placeName> sicer ne
+               pristopi formalno k ljubljanskemu N. S., ker bi se vsled prevelikih prometnih težkoč
+               dalmatinskim poslancem ne bilo mogoče udeleževati sej N. S., vendar je poslala svoje
+               delegate k ustanovnemu zboru N. S. Nekateri delegati pa bodo redno prihajali k
+               posvetovanjem N. S. v <placeName>Ljubljano</placeName>.</p>
+            <p>Narodni svet v <placeName>Ljubljani</placeName> se smatra kot del <hi rend="italic"
+                  >vseobčega Jugoslovanskega narodnega odbora</hi>, ki se bo v kratkem sešel v <hi
+                  rend="italic"><placeName>Zagrebu</placeName></hi>.</p>
+            <p>Na zboru, ki se je vršil <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta
+                  1918</date>., je najprej sklicatelj dr. <persName>Ant. Korošec</persName> opisal
+                  <hi rend="italic">splošni politični položaj</hi> in razvijal <hi rend="italic"
+                  >vodilne ideje</hi>, ki so privedle do ustanovitve Narodnega sveta.</p>
+            <p>Velike nove ideje so z zmagovito silo nastopile posebno ob koncu tretjega leta
+               svetovne vojske. Bliža se novi vek človeštva. <hi rend="italic">Kruta sila meča je do
+                  sedaj gospodovala</hi> in urejevala svet. Narod, ki je imel močnejše in srečnejše
+               orožje, je neusmiljeno tlačil šibkejšega. Vera v meč je dosegla vrhunec v svetovni
+               vojski. Preživeli smo trenutke, ko se je zdelo da bo i nadalje surova sila vladala
+               nad celim človeštvom. Danes je ta vera v meč za večne čase obsojena. Križano
+               človeštvo vstaja k novemu življenju, k življenju pravice in človekoljublja. <hi
+                  rend="italic">Ne na krvavih bojiščih, ampak z razumom, oplojenim s
+                     <persName>Kristusovo</persName> ljubeznijo, naj se v bodoče urede razmere med
+                  posameznimi narodi sveta</hi>.</p>
+            <p>Nešteti potoki prelite krvi so ustvarili vzvišeno idejo o svetovni pravičnosti. Izraz
+               te ideje je <hi rend="italic">samoodločba naroda</hi>. Odstraniti se morajo velike
+               krivice, ki so se godile doslej. Vzvišena ideja o samoodločbi narodov ne zahteva
+               maščevanja za tisočletne krivice, pač pa brezpogojno osvoboditev vseh nesvobodnih
+               narodov. Svet, ki je obstojal iz gospodov in tlačanov, se potaplja v preteklost – na
+               njegovo mesto stopa velika družina svobodnih in enakopravnih narodov. Bliža se dan in
+               uresniči se največja ideja, ki jo je kedaj človeštvo porodilo, ideja o samoodločbi
+               narodov.</p>
+            <p>Slovenski narod se je z vsem upom oprijel te velike odrešilne ideje. Pred več kakor
+               tisoč leti smo imeli svoje kraljestvo, v katerem smo bili svobodni. Takrat je bil naš
+               narod nositelj vseh kulturnih in državnih pravic. Ali kmalu je slovensko kraljestvo
+               propadlo, zgubili smo svobodo ter postali tlačani. V dobi tlačanstva smo se sicer
+               zavedali, da smo Slovenci, da smo tesno spojeni po krvi, veri in jeziku in kulturi, a
+               gospodovali so nam tujci sebi v prid. Državne pravice, katere je užival in izvrševal
+               slovenski narod v svoji državi, so prešle za več kot tisoč let v tuje roke. <hi
+                  rend="italic">Samoodločba narodov nam jih bode zopet vrnila, ter združila troimeni
+                  narod Slovencev, Hrvatov in Srbov v samostojno veliko državo
+                     <placeName>Jugoslavijo</placeName></hi>.</p>
+            <p>Narod, ki hoče biti nositelj države, ki hoče prevzeti in izvrševati državne pravice v
+               blagor ljudstva, mora <hi rend="italic">zbrati vse državnotvorne moči v enoto</hi>.
+               Stranke morajo izložiti vprašanja, dotikajoča se usode vsega naroda iz svojega
+               delokroga ter jih prepustiti Narodnemu svetu. Slovenski narod si je izbral Narodni
+               svet zlasti zato, da bo pripravljen na oni zgodovinski trenutek, <hi rend="italic">ko
+                  prevzame skupno z Hrvati in Srbi vse pravice in dolžnosti državne
+                  samostojnosti</hi>.</p>
+            <p>Predsednikovemu poročilu je sledila temeljita debata, po kateri se je redigiral <hi
+                  rend="italic">pravilnik N. S</hi>.</p>
+            <p>Po tem pravilniku je glavni namen N. S. delo za ujedinjenje jugoslovanskega naroda v
+               samostojno državo.</p>
+            <p>Razen tega je namen N. S.:</p>
+            <list type="ordered">
+               <item n="a)">obramba in pospešavanje skupnih kulturnih zadev;</item>
+               <item n="b)">obramba in gojitev skupnih gospodarskih interesov ter zavesti
+                  gospodarske osamosvojitve;</item>
+               <item n="c)">reprezentacija naroda in pospešavanje narodnih koristi na zunaj,
+                  dogovorno s parlamentarno delegacijo.</item>
+            </list>
+            <p>N. S. bo imel tudi nalogo, sklepati in odločevati o vseh zadevah, ki jih v N. S.
+               zastopani činitelji priznajo za skupne.</p>
+            <p>Da bo mogel N. S. izvršiti vse to, so se izvolili sledeči <hi rend="italic"
+                  >odseki</hi>:</p>
+            <list type="ordered">
+               <item n="1."><hi rend="italic">Organizacijski odsek</hi> bo pomagal predsedstvu pri
+                  organizaciji in bo izdelal načrt za preuredbo skupne narodne organizacije v
+                  sporazumu s strankami. Ta odsek bode organiziral delo, ki ga bodo vršili posamezni
+                  okraji in občine.</item>
+               <item n="2."><hi rend="italic">Ustavno-pravni odsek</hi> se bo pečal s temelji bodoče
+                  ustave in uprave.</item>
+               <item n="3."><hi rend="italic">Odsek za propagando</hi> bo pojasnjeval ožji in širši
+                  javnosti naše cilje.</item>
+               <item n="4."><hi rend="italic">Odsek za varstvo naših interesov napram obstoječi
+                     administraciji</hi>. Ta odsek se bo bavil z borbo za enakopravnost našega
+                  jezika v šolah, uradih in vsem javnem življenju.</item>
+               <item n="5."><hi rend="italic">Odsek za gospodarsko koncentracijo</hi> bo zbiral naše
+                  gospodarske sile in jih smotrno vodil. Za sedaj bo posebno pažnjo posvečal
+                  prehrani onih krajev naše domovine, ki so v tem pogledu potrebni nujne pomoči,
+                  obnovi naših po vojni opustošenih dežel ter vsem vprašanjem prehodnega
+                  gospodarstva.</item>
+               <item n="6."><hi rend="italic">Odsek za tujski promet, takozvani
+                     <q>Jugopromet</q></hi>, bo skrbel za organizacijo in upravo tujskega prometa,
+                  železniških, avtomobilnih in parobrodnih zvez, za propagando lepote našega ozemlja
+                  in za pospeševanje trgovških in prometnih zvez.</item>
+               <item n="7."><hi rend="italic">Pokrajinski odseki</hi> za
+                  <placeName>Trst</placeName>, <placeName>Istro</placeName>,
+                     <placeName>Goriško</placeName>, <placeName>Koroško</placeName> in za
+                     <placeName>Maribor</placeName>, eventualno s pododsekom za Prekmurce. Vsi ti
+                  odseki bodo pripravljali gradivo, da se ugotove slovenske meje. Ti odseki bodo
+                  tudi skušali odpomoči prebivalstvu tudi v gospodarskih potrebah.</item>
+               <item n="8."><hi rend="italic">Finančni odsek</hi> bo skrbel za pokritje izdatkov
+                  Narodnega sveta.</item>
+            </list>
+            <p>Debata je bila živahna, vsi sklepi so se vršili soglasno. Predsednikom se je izvolil
+               soglasno državni poslanec dr. <persName>Ant. Korošec</persName>, v predsedstvo pa še
+               sedem članov Narodnega sveta.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

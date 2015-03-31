@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Jugoslovanske socialnodemokratske stranke, sprejet na njenem ustanovnem
+               (I.) zboru 15. IN 16. avgusta 1896 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30653</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-087.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30653</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc xml:id="bibl.Delavec.1896-05-09">
+            <biblStruct>
+               <analytic>
+                  <title>Prvi shod slovenske socijalno-demokratične stranke</title>
+               </analytic>
+               <monogr>
+                  <title>Delavec</title>
+                  <title>glasilo slov. prometn. služabnikov in obrtnijskih delavcev</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">14</biblScope>
+                     <pubPlace>Dunaj</pubPlace>
+                     <date when="1896-05-09">9. 5. 1896</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Delavec.1896-09-01">
+            <biblStruct>
+               <analytic>
+                  <title>I. jugoslovanski strankarski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Delavec</title>
+                  <title>glasilo slov. prometn. služabnikov in obrtnijskih delavcev</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">26</biblScope>
+                     <pubPlace>Dunaj</pubPlace>
+                     <date when="1896-09-01">1. 9. 1896</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="bibl.Delavec.1896-09-08">
+            <biblStruct>
+               <analytic>
+                  <title>I. jugoslovanski strankarski shod</title>
+               </analytic>
+               <monogr>
+                  <title>Delavec</title>
+                  <title>glasilo slov. prometn. služabnikov in obrtnijskih delavcev</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">27</biblScope>
+                     <pubPlace>Dunaj</pubPlace>
+                     <date when="1896-09-08">8. 9. 1896</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#bibl.Delavec.1896-05-09">
+            <head>Prvi shod slovenske socijalno-demokratične stranke</head>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.87.PPP.1">
+               <head n="I.">Načelna izjava</head>
+               <p>Avstrijska socijalno-demokratična delavska stranka<note place="foot"
+                     source="#SourceBornDigital">Jugoslovanska socialnodemokratska stranka.</note>
+                  hoče vse ljudstvo, ne glede na narodnost, pleme in spol rešiti iz okov ekonomične
+                  odvisnosti, odstraniti hoče politično brezpravnost in skrbeti za povzdigo <hi
+                     rend="italic">duševne omike</hi>. – Vzroka temu sramotnemu stanju ni iskati v
+                  posameznih političnih napravah, temveč v tem, ker so delavska sredstva
+                  monopolizirana v rokah posameznikov. Posestnik delavske moči, delavski stan
+                  postane tem načinom suženj onih, ki posedujejo delavska sredstva, suženj
+                  kapitalistov, katerih politično in ekonomično gospodarstvo se izraža v današnji
+                  državi. Ako pa posamezniki posedujejo produkcijska (delavska) sredstva, pomenja to
+                  na jedni strani politično strankarsko<note place="foot"
+                     source="#SourceBornDigital">Razredno.</note> državo, na drugi strani pa
+                  ekonomično, čedalje bolj razširjajoče se uboštvo in propad širših ljudskih slojev.
+                  Vsled razvitka tehnike, vsled silnega naraščanja produktivnih sil, postaja ta
+                  oblika posesti ne samo nepotrebna, temveč odstranila se bode tudi v resnici za
+                  velikansko večino ljudstva, mej tem ko se bodo istočasno ustvarili za obliko
+                  skupne posesti potrebni duševni in materijelni pogoji.</p>
+               <p>Prevzetje delavskih sredstev v skupno posest vsega ljudstva ni torej zgolj
+                  osvobojenje delavskega stanu, temveč je izpolnitev zgodovinsko potrebnega
+                  razvitka. Nositelj tega razvitka more biti le zavedni in kot politična stranka
+                  organizirani proletarjat. Proletarjat politično organizirati, ga pripeljati do
+                  zavesti njegovega položaja in njegove naloge ter ga duševno in telesno storiti
+                  sposobnega za boj in takega ohraniti, je torej pravi program socijalne
+                  demokracije, delavske stranke v <placeName>Avstriji</placeName><note place="foot"
+                     source="#SourceBornDigital">Na <placeName>Slovenskem</placeName>.</note>,
+                  katera se bode poslužila vseh sredstev, ki peljejo do cilja in odgovarjajo naravni
+                  pravni zavesti ljudstva, da izpelje ta program. Sicer se bode in se mora stranka v
+                  svojem postopanji ravnati včasih tudi po okoliščinah, posebno pa po postopanji
+                  svojih nasprotnikov. Izrekajo pa se v obče naslednji temeljni stavki:</p>
+               <list type="ordered">
+                  <item n="1.">Socialno-demokratična delavska stranka na
+                        <placeName>Avstrijskem</placeName><note place="foot"
+                        source="#SourceBornDigital">Na <placeName>Slovenskem</placeName>.</note> je
+                     mejnarodna stranka, ki obsoja isto tako predpravice narodnosti, kakor one
+                     rojstva in spola, posesti in pokoljenja ter izjavlja, da mora biti proti
+                     izkoriščanju mejnárodna, kakor je izkoriščanje samo.</item>
+                  <item n="2.">Da razširi socijalistične nazore, posluževala se bode (stranka) v
+                     polni meri vseh javnih sredstev, časopisja, društev, zborovanj in zahtevala, da
+                     se odstranijo vse ovire prostemu izražanju mnenja (izjemni zakoni, o časopisju,
+                     društvih in zborovanju).</item>
+                  <item n="3.">Ne da bi se motila o vrednosti parlamentarizma, ki je oblika
+                     modernega strankarskega<note place="foot" source="#SourceBornDigital"
+                        >Razrednega.</note> gospodstva, poganjala se bode za občno, jednako in
+                     direktno volilno pravico, ki je jedno najvažnejših sredstev za agitacijo in
+                     organizacijo, brez razlike spola za vse (javne) zastope in sicer zdijetami
+                     (dnevno plačo).</item>
+                  <item n="4.">Ako se hoče v okviru današnjega gospodarskega reda vsaj nekoliko
+                     preprečiti propadanje delavskih slojev, njih naraščajoče siromaštvo, zahtevati
+                     se mora nepomanjkljivo in pošteno zakonodajstvo za varstvo delavcev (okrajšanje
+                     delavnika, kolikor je to mogoče, odstranitev otrok od dela itd.)<corr>,</corr>
+                     izpeljati pa se mora to pod sonadzorstvom delavcev, – istotako se mora
+                     zahtevati, da se ne ovirajo delavci v organizaciji po strokovnih društvih,
+                     torej popolna svoboda združevanja (<foreign xml:lang="deu"
+                        >Koalitions-Freiheit</foreign>).</item>
+                  <item n="5.">V interesu prihodnosti delavskega stanu je neobhodno potreben
+                     obligatorični, brezplačni in nekonfesijonelni pouk <corr>v</corr> ljudskih in
+                     izobraževalnih šolah, kakor tudi brezplačni pristop k vsem višjim učnim
+                     zavodom; potrebni predpogoj k temu je ločitev cerkve od države in razglašenje
+                     vere za zasebno zadevo.</item>
+                  <item n="6.">Vzrok neprestane vojne nevarnosti je stalno vojaštvo, čegar vedno
+                     naraščajoče breme odtujuje ljudstvo njegovej kulturni nalogi.</item>
+                  <item n="7.">Socijalno-demokratična delavska stranka zavzela bode svoje stališče
+                     nasproti vsem važnim političnim in ekonomičnim vprašanjem, zastopala bode
+                     vsigdar koristi proletarijata in odločno nastopila proti vsakemu zakrivanju in
+                     tajenju stanovskih nasprotstev, kakor tudi proti izkoriščanju delavcev na
+                     korist gospodujočih strank.</item>
+                  <item n="8."><note place="foot" source="#SourceBornDigital">Točka 8. je dopolnitev
+                        III. zbora ASDS.</note> Ker indirektni davki, ki so naloženi na prepotrebne
+                     življenske potrebščine, ljudstvo tembolj obtežujejo, čim revnejše je, ker so
+                     sredstvo za izkoriščanje in premotenje delavnega ljudstva, zahtevamo, da se vsi
+                     indirektni davki odstranijo in se vpelje samo jeden, direkten, naraščajoč<note
+                        place="foot" source="#SourceBornDigital">Progresiven.</note> davek.</item>
+               </list>
+            </div>
+            <div xml:id="No.87.PPP.2">
+               <head n="II.">Resolucija o političnih pravicah</head>
+               <p>Z ozirom na to, da ima proletarjat svetovno-zgodovinsko nalogo spremeniti
+                  obstoječi gospodarski red, da je pogoj za to spremenitev strankarski<note
+                     place="foot" source="#SourceBornDigital">Razredni.</note> boj (<foreign
+                     xml:lang="deu">Klassenkampf</foreign>), ki bode zahteval tem manj žrtev, vršil
+                  se tem hitrejše in mirnejše, čim bolj obe stranki spoznavata in uvidevatia pogoje
+                  in cilje ekonomičnega razvitka; da pa skušajo gospodujoče stranke to spoznavanje
+                  ovirati in zadržati s postavami in policijskimi naredbami, s čimer se sicer
+                  gibanje ne zadržuje, pač pa poostruje, izjavlja shod:</p>
+               <p>Vsaka omejitev prostega izražanja, kakor tudi vsako monopolizovanje političnih
+                  pravic za posedujoče, je sramotno in škodljivo naravnemu razvoju. Zahteva torej
+                  polno svobodo za socijalno-demokratično agitacijo in propagando in priliko, da se
+                  proletarjat mirno organizuje, torej za sedaj:</p>
+               <list type="ordered">
+                  <item n="1.">Odpraviti se ima omejitev poljubnega bivanja (<foreign xml:lang="deu"
+                        >Freizügigkeit</foreign>), torej izjemne naredbe, zakoni o vagabundih in
+                     pogonu (<foreign xml:lang="deu">Schub</foreign>).</item>
+                  <item n="2.">Odpraviti se ima omejitev tiskovne svobode pod različnimi podobami
+                        censure<note place="foot" source="#SourceBornDigital">Cenzure.</note> in
+                     odstraniti tiskovni monopol za posedujoče vsled kavcije in koleka, kakor tudi
+                     odpraviti prepoved kolportaže.</item>
+                  <item n="3.">Vpeljati se ima pravica zborovanja in zbiranja s tem, da se odpravijo
+                     zakoni o društvih in shodih.</item>
+                  <item n="4.">Odstraniti se ima monopol posedujočih do politične volilne pravice na
+                     ta način, da se vpelje splošna, jednaka, direktna in skrivna<note place="foot"
+                        source="#SourceBornDigital">Tajna.</note> volilna pravica (in sicer brez
+                     razločka spola od 20. leta naprej, ko se začenja za može vojaška dolžnost), ker
+                     je to važno sredstvo za agitacijo in organizacijo, kar pa nikakor ne moti sodbe
+                     o vrednosti parlamentarizma.</item>
+                  <item n="5.">Odkrito zagovorilo<note place="foot" source="#SourceBornDigital"
+                        >Zagotovilo.</note> za neodvisnost sodišč, brezplačno pravno pomoč,
+                     razširjanje porotnih sodišč na vse prestopke in zločine, dalje da voli ves
+                     národ porotnike na podlagi občne in skrivne volilne pravice.</item>
+                  <item n="6.">Vstvari in izpelje naj se zakon, da se uradniki, ki ovirajo politične
+                     pravice posameznikov ali društev, strogo kaznujejo.</item>
+               </list>
+            </div>
+            <div xml:id="No.87.PPP.3">
+               <head n="III.">Resolucija o zakonodajstvu v varstvo delavcev in socijalna
+                     reforma<note place="foot" source="#SourceBornDigital">Dodatek <q>in socialna
+                        reforma</q> je dopolnilo III. zbora ASDS.</note></head>
+               <p>To kar se dandanes pred vsem imenuje socijalna reforma, – da je namreč država
+                  vpeljala in organizirala zavarovanje delavcev proti bolezni in nezgodi, izvira
+                  pred vsem iz strahu pred naraščajočim gibanjem proletarjata, v upanji delavce
+                  prepričati o naklonjenosti posedujočih strank in slednjič iz spoznanja, da mora
+                  vedno razširjajoče se ubožtvo ljudstva vplivati na vojaško sposobnost. S tem, da
+                  se izpelje zavarovanje delavcev, zvezana sta dva postranska namena: Hoče se deloma
+                  stroške za oskrbovanje vbogih zvaliti od občin na delavstvo in po močnosti<note
+                     place="foot" source="#SourceBornDigital">Možnosti.</note> se umešavati,
+                  morebiti odstraniti samostojne delavske pomočne organizacije, ki so gospodujočim
+                  kot šole in vadnice organizacije in uprave trn v peti. Gledé na te razmere
+                  izjavlja shod:<note place="foot" source="#SourceBornDigital">Odstavek je dopolnilo
+                     III. zbora ASDS.</note></p>
+               <p>Delavsko zavarovanje se sploh ne dotika jedra socijalnega problema. Naprava, ki v
+                  najboljšem slučaju za delo nezmožnemu proletarcu daje malenkostno miloščino,
+                  katero je sam drago plačal, ne zasluži imena <soCalled>socijalna
+                     reforma</soCalled>.<note place="foot" source="#SourceBornDigital">Odstavek je
+                     dopolnilo III. zbora ASDS.</note></p>
+               <p>Delavstvo se v tem ne bode dalo premotiti, temveč razširjalo bode jasno spoznanje,
+                  da mora imeti prava socijalna reforma za delo zmožnega delavca za predmet in da je
+                  njen zadnji cilj odstraniti izkoriščanja, da pa seveda izkoriščevalci nikdar ne
+                  bodo izvedli te reforme, temveč samo izkoriščani delavci.<note place="foot"
+                     source="#SourceBornDigital">Odstavek je dopolnilo III. zbora ASDS.</note></p>
+               <p>Dokler trpi<note place="foot" source="#SourceBornDigital">Vlada.</note>
+                  kapitalistični način produkcije, mogoče je le deloma omejiti posledice
+                  izkoriščanja s poštenim in ne pomanjkljivim zakonodajstvom v varstvo delavcev, ki
+                  se mora energično izpeljati. Telesni propad delavskega stanu se izraža v veliki
+                  umrljivosti otrok, v kratkem življenji, zgodnji neomoglosti<note place="foot"
+                     source="#SourceBornDigital">Onemoglosti.</note> delavcev. Življenski propad, ki
+                  ponižuje delavca v topega sužnja, mu onemogoči žrtvovati moč in čas delovanju za
+                  človeški cilj, pred vsem za svoje lastno osvobodenje. Zakonodajstvo v varstvo
+                  delavcev ima razširjenje teh nečloveških razmer vsaj v nekoliko zabraniti.</p>
+               <p>Avstrijski obrtni red izpolnjuje ta namen popolnoma nezadostno. Slab in
+                  pomanjkljiv je v svojih določbah. Vsak posamezen predpis predan je nerazsodnosti
+                  in samovolji oskrbovalnih<note place="foot" source="#SourceBornDigital"
+                     >Upravnih.</note> oblasti (<foreign xml:lang="deu"
+                     >Verwaltungsbehörden</foreign>). Obrtna nadzorništva ne koristijo nič, ker so
+                  njih sredstva nezadostna in skrajno omejena v svojih pravicah.</p>
+               <p>Zakonodajstvo v varstvo delavcev, ako hoče svoj smoter doseči, mora najmanj
+                  obsegati:</p>
+               <list type="ordered">
+                  <item n="1.">Popolno koalicijsko svobodo in postavno priznano pravico, da se
+                     dogovore o plači in kartelih.</item>
+                  <item n="2.">Osemurni delavnik brez opomb<note place="foot"
+                        source="#SourceBornDigital">Pridržkov.</note> in izjem.</item>
+                  <item n="3.">Prepoved nočnega dela (izjemoma onih delavnic, katerih tehniška
+                     narava ne pripušča presledka.).</item>
+                  <item n="4.">Popolen nedeljski počitek od sobote zvečer do ponedeljka
+                     zjutraj.</item>
+                  <item n="5.">Prepoved, da otroci pod 14. leti ne smejo delati.</item>
+                  <item n="6.">Ženske se imajo izključiti iz delavnic, ki so ženskemu organizmu
+                     posebno škodljive.</item>
+                  <item n="7.">Vse te določbe veljajo za podjetja vsake vrste (velika industrija,
+                     prevažanje, rokodelstvo in domača industrija).</item>
+                  <item n="8.">Ako delodajalec prestopi te določbe, kaznuje naj se z zaporom.</item>
+                  <item n="9.">Delavske organizacije, ki sloné na strokovni in krajevni podlagi,
+                     izvolijo nadzornike, ki sodelujejo pri nadzorništvu gledé izpeljave
+                     zakonodajstva v varstvo delavcev.</item>
+               </list>
+               <p>Zakonodajstvo v varstvo delavcev, izpelje naj se mejnárodno in razširi na primeren
+                  način na poljske delavce.</p>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+         <div decls="#bibl.Delavec.1896-09-01">
+            <div xml:id="No.87.PPP.4">
+               <head><corr>IV.<lb/>Resolucija o narodnem vprašanju</corr><note place="foot"
+                     source="#SourceBornDigital"><hi rend="italic">Delavec : glasilo slov.[enskih]
+                        prometn.[nih] služabnikov in obrtnijskih delavcev</hi>, leto IV, št. 26,
+                     Dunaj, 1. 9. 1896, I. jugoslovanski strankarski shod.</note></head>
+               <gap reason="irrelevant"/>
+               <p>Zastopniki slovenskih in hrvatskih delavcev konstatujejo, da je borba, katero
+                  vodijo meščanski sloji v narodnem oziru in v smeru narodne supremacije samo v
+                  materijelnem interesu tistih, kateri to borbo izzivljajo. Jugoslovanski delavski
+                  narod nima povoda, potezati se za narodni prepir meščanov. Delavski narod
+                  potrebuje zboljšanja svojega žalostnega položaja, ker je po vseh jugoslovanskih
+                  deželah jednaka beda. Shod izjavlja, da je za rešitev sedanjega stanja, potrebna
+                  skupna borba vseh jugoslovanskih siromakov. Proti prepiru meščanskih slojev v
+                  jugoslovanskih deželah postavlja jugoslovanski proletarjat ljubezen in bratstvo
+                  vseh jugoslovanskih narodov, ter se pridružuje popolnoma sklepu mejnarodnega
+                  socijalističnega kongresa v <placeName>Londonu</placeName>
+                  <date when="1896">1896</date>, koji se glasi:</p>
+               <p>Kongres izjavlja, da zastopa popolno pravico lastnega odločevanja vseh narodov in
+                  da simpatizuje z delavci vseh dežel, katere sedaj trpe pod bremenom vojaškega,
+                  narodnega ali druzega despotizma; on vabi delavce vseh teh dežel, naj stopijo v
+                  vrste zavednih delavcev celega sveta, da premagajo skupno mejnarodni kapitalizem
+                  ter pribore mejnarodni socijalni demokraciji njene smotre in cilje.</p>
+               <p>Shod južnoslovanske socijalne demokracije odločno protestuje proti vgovarjanju
+                  nasprotnikov, češ, da socijalna demokracija izdaja svojo narodnost; izjavlja pa
+                  jedenkrat za vselej, da socijalna demokracija ni breznarodna ali protinarodna,
+                  temveč mejnarodna.</p>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+         <div decls="#bibl.Delavec.1896-09-08">
+            <div xml:id="No.87.PPP.5">
+               <head><corr>V.<lb/>Sklepi o agrarnem vprašanju</corr><note place="foot"
+                     source="#SourceBornDigital">
+                     <hi rend="italic">Delavec : glasilo slov.[enskih] prometn.[nih] služabnikov in
+                        obrtnijskih delavcev</hi>, leto IV, št. 27, Dunaj, 8. 9. 1896, I.
+                     jugoslovanski strankarski shod.</note></head>
+               <gap reason="irrelevant"/>
+               <p>Prvi jugoslovanski socijalno-demokratični shod sklepa, naj prouče sodrugi agrarno
+                  vprašanje do prihodnjega shoda, a tedaj naj se postavi isto zopet na dnevni
+                  red.</p>
+               <gap reason="irrelevant"/>
+               <p>Strankarski zastop se pooblaščuje, pospeševati s priljudnimi knjižnicami agitacijo
+                  mej kmečkim ljudstvom, in za spoznavanje položaja kmetov, naj se izdajajo
+                  vprašalne pole, ki bi pojasnovale kmečke razmere.</p>
+               <gap reason="irrelevant"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

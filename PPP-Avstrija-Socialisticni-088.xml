@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><q>Tivolska</q> resolucija, sprejeta na prvi jugoslovanski socialnodemokratski
+               konferenci 21. in 22. novembra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30654</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Socialisticni-088.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30654</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Jugoslovanska socialno-demokratična konferenca</title>
+               </analytic>
+               <monogr>
+                  <title>Rdeči prapor</title>
+                  <title>Glasilo jugoslovanske socialne demokracije</title>
+                  <imprint>
+                     <biblScope unit="volume">XII</biblScope>
+                     <biblScope unit="issue">128</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-EUYUA8WT</pubPlace>
+                     <date when="1909-11-25">25. 11. 1909</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Jugoslovanska socialno-demokratična konferenca</head>
+            <gap reason="irrelevant"/>
+            <p>Prva jugoslovanska socialno-demokratična konferenca izjavlja</p>
+            <div xml:id="No.88.PPP.1">
+               <head>I.</head>
+               <p>Aneksija <placeName>Bosne</placeName>, na <placeName>Hrvatskem</placeName>
+                  vladajoči sistem, zopet okrepljeni birokratični režim v
+                     <placeName>Avstriji</placeName> ter trajno vzdrževanje fevdalne oligarhije na
+                     <placeName>Ogrskem</placeName> dokazujejo neoporečno, da je
+                     <placeName>Avstro-Ogrska</placeName> kot velesila poskusila krepak sunek v
+                  imperialistični smeri. Ta poizkus se opira politično na stari centralistični
+                  absolutizem, socialno in gospodarsko na stari fevdalni agrarizem z njega
+                  carinsko-političnim iztradavanjem množic ter združuje s tem novo kapitalistično
+                  izkoriščanje, ki dobiva za Jugoslovane, pridružene monarhiji značaj eksploatacije.
+                  Ta sistem pomenja za široke mase jugoslovanskega ljudstva proletariziranje in
+                  osiromaševanje, oviraje pa obenem industrijalizacijo.</p>
+               <p>V kolikor pa izraža porajajoči se imperializem silo dualistične
+                     <placeName>Avstro-Ogrske</placeName>, postaja hkrati faktor, ki jo razdira in
+                  prevrača. Njegova stebra sta absolutistična metoda v
+                     <placeName>Avstriji</placeName> in fevdalna razredna vlada na
+                     <placeName>Ogrskem</placeName>, tako da je v kričečem nasprotju z vsemi zakoni
+                  političnega, gospodarskega in socialnega razvoja, da ovira razvojne moči vseh
+                  narodov <placeName>Avstro-Ogrske</placeName> ter jih goni v najblaznejšo
+                  nacionalistično politiko medsebojnega izigravanja in klanja, namesto v skupen boj
+                  za svobodo in kulturo.</p>
+               <p>Vsem narodom skupni interesi kakor tudi zmagovito napredujoča tendenca vseh
+                  narodov <placeName>Avstro-Ogrske</placeName> k nacionalni demokraciji
+                  predstavljajo proti absolutizmu in fevdalnemu dualizmu novo politično idejo
+                  narodne avtonomije, t. j. preobrazbo <placeName>Avstro-Ogrske</placeName> tako, da
+                  bo na enotnem gospodarskem ozemlju vsakemu narodu brez ozira na zgodovinske meje
+                  zajamčena enotnost, samostojnost in samouprava v vseh narodno-kulturnih
+                  zadevah.</p>
+               <p>S stališča tega razvojnega pojmovanja izjavlja jugoslovanska socialna demokracija
+                  programatično:</p>
+               <list type="ordered">
+                  <item n="1.">Avstro-ogrski Jugoslovani smatrajo za končni smoter svojega
+                     narodno-političnega stremljenja <hi rend="italic">popolno narodno združitev
+                        vseh Jugoslovanov</hi> ne glede na različnost imena, vere, pisave in
+                     dialektov ali jezikov.</item>
+                  <item n="2.">Kot deli velikega enotnega naroda stremimo, da se konštituiramo kot
+                     enoten narod, ne glede na vse umetno napravljene državnopravne in politične
+                     pregraje, želeči skupno nacionalno-avtonomno kulturno življenje kot svobodna
+                     enota v popolnoma demokratični konfederaciji narodov.</item>
+                  <item n="3.">K temu končnemu cilju nas vodi le neumorno delo in boj na podlagi
+                     obstoječih realnih političnih razmer in naprav sedanje dualistične
+                     <placeName>Avstro-Ogrske</placeName>, boj za popolno demokratizacijo vseh narodnih, državnih in
+                     političnih institucij. Zlasti je boj za splošno, enako in tajno volilno pravico
+                     v ogrski državni zbor, v hrvatski in bosensko-hercegovski sabor in v vse
+                     avstrijske deželne zbore odločilne važnosti. Iz tega razloga izjavlja
+                     konferenca, da je treba politični boj za koncentracijo vseh sil v tej smeri in
+                     v tem delokrožju smatrati za najvažnejšo nalogo jugoslovanskih
+                     socialno-demokratičnih strank.</item>
+               </list>
+            </div>
+            <div xml:id="No.88.PPP.2">
+               <head>II.</head>
+               <p>Jugoslovani, razcepljeni ne le politično na osem državnih, odnosno upravnih
+                  teritorijev, temveč tudi kulturno na štiri dele, nazivajoče se narode, so tako
+                  oslabljeni, da le fiktivno žive samostojno življenje, ne da bi imeli v sedanjem
+                  položaju potrebnih pogojev za ustvaritev takih kulturnih razmer in pozicij, da bi
+                  se mogli kot narod ali narodi povoljno razvijati poleg drugih kulturnih
+                  narodov.</p>
+               <p>Dejstvo je, da so se poedini deli Jugoslovanstva vsled politične razcepljenosti,
+                  vsled dotik z raznimi tujimi narodi, vsled vplivanja raznih gospodarskih sfer v
+                  marsičem diferencirali. Na drugi strani pa je dejstvo, da vse, tekom časa nastale
+                  razlike po svoji naravi in po svojem obsegu niso take, da bi opravičevale
+                  separatizem posameznih delov in cepitev na štiri narode, osobito je ta separatizem
+                  škodljiv, ker noben izmed teh posameznih delov nima moči, da izobrazi svoje
+                  narodno življenje. Nasprotno pa bi si mogli vsi deli kot ena narodna celota
+                  ustvariti vse pogoje narodnega življenja in krepkega kulturnega razvoja v prid
+                  sebi in splošni kulturi.</p>
+               <p>Jugoslovanska socialna demokracija smatra sedanje jugoslovanske narode le za
+                  elemente, ki naj ustvarijo enoten narod, in konštatira, da treba v svrho
+                  oživotvoritve te enotnosti smotrenega skupnega, kulturnega in političnega dela, ne
+                  glede na današnje politične formacije in meje. Zlasti smatra potrebnim
+                  sporazumljenje o skupnem narodnem jeziku in pravopisu, kot prvem predpogoju
+                  popolnega enotnega narodnega življenja Jugoslovanov. To pa je dosegljivo le s
+                  sistematično postopno kulturno politiko v vseh delih tega naroda.</p>
+            </div>
+            <div xml:id="No.88.PPP.3">
+               <head>III.</head>
+               <p>V svrho trajne organizacije dela v gorenjem smislu izreka prva
+                  socialno-demokratična konferenca, da se osnuje stalen jugoslovanski socialistični
+                  odbor, v katerem naj bodo za sedaj po trije zastopniki hrvatske,
+                  bosensko-hercegovske in avstrijske jugoslovanske socialno-demokratične stranke,
+                  izjavljajoč že vnaprej, da sčasoma postane ta razširjeni odbor predstavitelj vseh
+                  jugoslovanskih socialnih demokratov sploh. Ta odbor ima nalogo, da izvršuje trajno
+                  zvezo med jugoslovanskimi socialno-demokratičnimi strankami, zlasti stalno uredbo
+                  jugoslovanske socialistične korespondence, da se od časa do časa sestaja, da
+                  uravnava smer narodnega in političnega boja Jugoslovanov, da posreduje kulturno
+                  združevanje z medsebojnim spoznavanjem in s popularizacijo posebnih ekonomskih,
+                  kulturnih in političnih razmer vseh delov Jugoslovanstva.</p>
+               <p>Ta odbor smatra konferenca za viden izraz Zveze jugoslovanskih
+                  socialno-demokratičnih strank, katera s tem ne bo končana, ampak katera se bo
+                  nadalje popolnoma izvedla na jugoslovanskih socialističnih konferencah kot stalna
+                  uredba medsebojnega občevanja in spoznavanja.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>
