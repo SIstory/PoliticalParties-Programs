@@ -7,4 +7,4 @@ Besedilni korpus nastaja v okviru dejavnosti Raziskovalne infrastrukture Slovens
 
 Prepisana so bila besedila političnih programov, resolucij, statutov, peticij, oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter podobnih besedil, ki vsebujejo politično-programska besedila političnih strank, organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.
 
-Korpus je kodiran v XML po priporočilih za zapis besedil [TEI P5](http://www.tei-c.org/index.xml) (Text Encoding Initiative). 
+Korpus je kodiran v XML po priporočilih za zapis besedil [TEI P5](http://www.tei-c.org/index.xml) (Text Encoding Initiative). Označena je glavna struktura besedila in imenske entitete (osebe, kraji, datumi).
