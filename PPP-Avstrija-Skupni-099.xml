@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oklic političnega društva Edinost ob razširitvi dejavnosti na vso Primorsko leta
+               1878</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30637</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/blob/master/PPP-Avstrija-Skupni-099.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30637</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Poziv</title>
+               </analytic>
+               <monogr>
+                  <title>Edinost</title>
+                  <title>glasilo slovenskega političnega društva tržaške okolice</title>
+                  <imprint>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="issue">14</biblScope>
+                     <pubPlace>Trst</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-AMIZZNDW</pubPlace>
+                     <date when="1878-07-27">27. 7. 1878</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Poziv.</head>
+            <p xml:id="No.99.PPP.1">Z ozirom na sedanje potrebe je proménilo politično društvo
+                  <q>Edinost</q>, ktero je sedaj le za <placeName>Trst</placeName> in okolico
+               vstanovljeno bilo, svoja pravila ter rastegnolo svoje delovanje po vsem
+                  <placeName>Primorskem</placeName>.</p>
+            <p xml:id="No.99.PPP.2">Ker je politično društvo za brambo narodnih pravic v prvi vrsti
+               poklicano, da izobraži kmečko ljudstvo in se v vsakej potrebi poteguje za vsakovrstne
+               pravice in potrebe, pozivlja podpisani odbor vse Primorce, Okoličane in Istrane, naj
+               mnogobrojno v društvo pristopijo. Vse čč. gg. duhovne vabimo, naj blagovoljno o tej
+               stroki delajo in začasno poverjeništvo v svojem kraji izvršujejo, dokler ne bode
+               stvar dobro organizirana. Iz malega raste veliko; ko bode društvo imelo mnogo udov,
+               razprostre lažje svoje področje posebno v sosedno <placeName>Istro</placeName>. Vedno
+               bodi geslo: V Edinosti je moč, razločka mej posameznimi narodnostmi ni, ker vsi smo
+               Slovani, in ko taki bodemo krepili nad narod sebi in Avstriji v prid ter korakali do
+               cilja.</p>
+            <closer>Odbor.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
