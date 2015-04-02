@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o narodno obrambnem delu, sprejeta na III. shodu narodno-radikalnega
+               dijaštva 17.–19. septembra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30896</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-155.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30896</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">VI</biblScope>
+                     <biblScope unit="issue">6, 7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Z6GTBOLJ</pubPlace>
+                     <date when="1909">1909</date>
+                     <biblScope unit="page">96-97</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.155.PPP" type="ordered">
+               <item n="1.">vidi v narodno-obrambnem delu bistveni predpogoj za kulturno in
+                  gospodarsko osamosvojitev slovenskega naroda. Pozivlja vso slovensko javnost, da
+                  posveča temu vprašanju čim največ pozornosti;</item>
+               <item n="2.">pozdravlja z veseljem misel ustanovitve gospodarsko obrambnega društva
+                     <q>Branibor</q> in želi, da se v doglednem času ustanovi parcelacijska
+                  banka;</item>
+               <item n="3.">pozivlja merodajne faktorje, da pokličejo čimprej v življenje slovenski
+                  narodni svet;</item>
+               <item>4. povdarja važnost prihodnjega ljudskega štetja za našo politično in
+                  državnopravno bodočnost in pričakuje od vodilnih krogov, da store:<list
+                     type="ordered">
+                     <item n="a)">Vse potrebne korake, da se rubrika občevalnega jezika nadomesti z
+                        narodnostjo;</item>
+                     <item n="b)">da se vpelje kontrolo pri uradnem ljudskem štetju in izvrši
+                        zasebno ljudsko štetje;</item>
+                  </list>
+               </item>
+               <item n="5.">naroča eksekutivi, da poskrbi za skupen poseben natisk referatov
+                     <persName>L. Brunčka</persName> in <persName>I. Mačkovška</persName>, bodisi na
+                  ta način, da zainteresira za to izdajo one kroge, ki se pečajo z narodno obrambnim
+                  delom, bodisi da – ako bi to ne bilo mogoče – sama izda oba referata v založbi
+                     <title>Omladine</title>.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

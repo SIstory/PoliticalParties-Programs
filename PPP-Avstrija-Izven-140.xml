@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Skupine in organizacije, oblikovane izven tradicionalnih političnih
+               taborov</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30881</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-140.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30881</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenci!</title>
+               </analytic>
+               <monogr>
+                  <title>Naš list</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <pubPlace>Kamnik</pubPlace>
+                     <date when="1905-01-07">7. 1. 1905</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.140.PPP">
+            <head>Slovenci!</head>
+            <p>Pred vami leži nov slovenski list.</p>
+            <p>Ali jih nimamo že zadostno število, ali je potreba novega slovenskega tednika
+               dokazana, ugovarjal bo ta ali drugi. O potrebi takega lista, ki bi ne služil edino le
+               strankarskim prepirom, in bi ne imel svojega prostora za brezkoristne osebne napade v
+               domačem kraju; ki bi se posvetil izključno probuji našega naroda in ki bi mu bila
+               resna skrb za njegove koristi in njegov napredek, o taki potrebi, ljubi Slovenci,
+               presojajte sami. Saj so vam znane domače razmere.</p>
+            <p><title>Naš List</title> ni bil ustanovljen, da bi netil sovraštvo med lastnimi
+               slovenskimi brati, pa tudi ni bil ustanovljen radi tega, da bi boj, ki se bije po
+                  <placeName>Slovenskem</placeName>, skušal blažiti. Ne, – tak boj je potreben, tako
+               trdita obe nasproti si stoječi stranki; tako pravimo tudi mi, kajti zmaga bo le tedaj
+               častna in slavna za dotično stranko, ako si jo bo le-ta priborila s trudom in naporom
+               vseh svojih sil. – Da pa vsled tega boja, v katerem se trati toliko dragocenih moči
+               za brezplodne medsebojne napade, trpi celokupni slovenski narod, in da od tega
+               razpora gotovo nimajo koristi obmejni Slovenci, posebno oni na
+                  <placeName>Koroškem</placeName>, tega pa tudi nihče ne more tajiti. </p>
+            <p><title>Naš List</title> se torej ne bo vmešaval v domači prepir, svoj program
+               izvrševati hoče s tem, da bo širil prosveto kar najpoljudnejše v najširše sloje
+               slovenskega ljudstva, da se bo posvečal temu, kar more biti v korist našemu narodu,
+               to je odločnemu delu za njegov napredek. Osobito se hoče pečati z gospodarskimi
+               vprašanji Slovencev in Slovanov v obče, zabeležiti hoče najmanjši tozadevni pokret in
+               biti odločen pospešitelj gmotnega našega napredka. Svojo pozornost hoče v prvi vrsti
+               obračati kmetskemu in obrtniškemu stanu, ki žalibog hirata in propadata čim dalje
+               bolj. Nič manj pozoren ne bo na delavsko vprašanje, kajti ravno delavstvo je važen
+               faktor za naš mali slovenski narod.</p>
+            <p><title>Naš List</title> se bo potegoval odločno za ustanovitev vsakovrstnih
+               slovenskih, zlasti obrtnih, trgovskih in drugih višjih šol, saj imamo na celem
+                  <placeName>Slovenskem</placeName> le prav malo srednjih šol in od vseh ni niti
+               jedna popolnoma slovenska.</p>
+            <p>Ena najvažnejših njegovih nalog bo, pazno zasledovati vsako gibanje naših narodnih
+               nasprotnikov doma in ob mejah slovenskih. Zato vas vabimo, ljubi Slovenci, – pa bodi
+               že kmet, obrtnik, delavec, trgovec, ali akademični izobraženec – ki vam je res ležeče
+               na lepši bodočnosti slovenskega naroda, stopite v naš krog, pomagajte odbijati
+               naskoke sovražnikove, ki čim dalje drznejše nastopa na naših tleh, hoteč nas
+               ugonobiti narodno, a ugonobiti nas tudi gmotno!</p>
+            <p>Ne oziraje se niti na osebo, niti na dostojanstvo, bičal bode <title>Naš list</title>
+               najgrši greh – narodno izdajstvo. Brezobzirno bode razkrival nakane nasprotnikov
+               naših narodnih zahtev, pospeševal in najodločneje pa zagovarjal vse naše narodne
+               težnje, dramil naše ljudstvo k narodnemu delu, narodni zavesti in narodnemu ponosu.
+               Vsak dober nasvet, ki ga ima kdo v spopolnitev <title>Našega Lista</title>, bomo radi
+               uvaževali in skušali doseči, da bo list ustrezal vsestranskim zahtevam.</p>
+            <p>Na baš ne prijetni poti, ki jo je nastopil, vodila bo <title>Naš List</title> ideja
+               celokupnih koristi vsega slovenskega ljudstva, pred očmi bo vedno imel edini cilj –
+               vse za blagor našega naroda!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Izjava Češkega društva, podana na III. shodu narodno-radikalnega dijaštva 17.–19.
+               septembra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30902</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-161.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30902</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">VI</biblScope>
+                     <biblScope unit="issue">6, 7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Z6GTBOLJ</pubPlace>
+                     <date when="1909">1909</date>
+                     <biblScope unit="page">98</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.161.PPP" type="ordered">
+               <item n="VIII.">Češko dijaštvo, prisotno na III. shodu nar.-radikalnega dijaštva v
+                     <placeName>Ljubljani</placeName> se pridružuje z živim zanimanjem vsem
+                  zahtevam, ki jih je shod izrekel, in povdarja te-le misli:<list>
+                     <item n="1.">V narodno-radikalnem gibanju slovenskega dijaštva vidi kar
+                        najbolje izraženo narodno zavest slovensko, njega kulturno-vzgojno smer
+                        smatra slovenskemu narodu najkoristnejšo.</item>
+                     <item n="2.">V manjšinjskem oziru protestira kar najodločnejše proti nemški
+                        nasilnosti, izraža svoje radostno občudovanje nad uspehom, s kakršnim se
+                        Slovenci proti tej nasilnosti bore, in obeta, da bo stalo kakor en mož za
+                        vse slovenske šolske zahteve na <placeName>Štajerskem</placeName>,
+                           <placeName>Koroškem</placeName>, <placeName>Primorskem</placeName>,
+                           <placeName>Kranjskem</placeName> in v <placeName>Trstu</placeName>,
+                        osobito pa za slovensko univerzo ter da bo kar možno vplivalo v tem smislu
+                        na vodilne kroge svojega naroda.</item>
+                     <item n="3.">V razrešitvi jugoslovanskega vprašanja, ki vodi k zbližanju vseh
+                        jugoslovanskih narodov v vseh vrstah in vseh ozirih, vidi češko dijaštvo
+                        stopnjo naprej v splošnem razvoju vseslovanskega zbližanja in prosi prisotne
+                        zastopnike Jugoslovanov, naj še nadalje delujejo z vso močjo za zbližanje
+                        vseh slovanskih narodov. – Za sebe obeta, da bo neutrudno agitiralo za to
+                        idejo.</item>
+                     <item n="4.">Protestira kar najodločneje proti slovenski klerikalni
+                        žurnalistiki, ki agitira proti obisku čeških visokih šol v
+                           <placeName>Pragi</placeName> iz verskih vzrokov. Nasprotno priporoča
+                        obisk čeških visokih šol, kajti v medsebojnem stiku in spoznavanju
+                        slovanskih narodov vidi pozitiven uspeh v evoluciji slovanskega
+                        zbliževanja.</item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o verskem vprašanju, sprejeta na IV. shodu narodno-radikalnega
+               dijaštva 13.–14. septembra 1912 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30905</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-164.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30905</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">7, 8</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-GOUNGFHI</pubPlace>
+                     <date when="1913">1913</date>
+                     <biblScope unit="page">134-135</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list type="ordered">
+               <item n="III.">K verskemu vprašanju:<list xml:id="No.164.PPP" type="simple">
+                     <item>
+                        <p>Naloga države je, da čuva potom svojih osnovnih zakonov svobodo vere in
+                           vesti. To zahteva strpnost, napram vsem konfesijam, ki jih je smatrati v
+                           naših konkretnih razmerah za glavni predpogoj uspešne rešitve
+                           jugoslovanskega vprašanja. Taka strpljivost pa ni istovetna z
+                           indiferentnostjo napram verskim problemom, ki kot izrazi višje
+                           čuvstvenosti prestavljajo važne etične vrednote. Ako se pa uveljavljajo
+                           konfesijonalni nazori na neetičen način, in ki je škodljiv narodnemu in
+                           državnemu sožitju, ni boja proti tem pojavom smatrati za protiverski
+                           pokret.</p>
+                        <p>Z ozirom na naš celoten naroden položaj ne kaže trositi sil z
+                           vsiljevanjem izvestnega racijonalističnega svetovnega nazora med
+                           najširšimi narodnimi sloji. Dokler intenzivna splošna kultura ne prešinja
+                           vseh socijalnih razmer in dokler obstoja sedanja ekonomska nerazvitost,
+                           ni mogoče na mah in uspešno nadomestiti današnje oblike verovanja doslej
+                           zanemarjenih slojev s povsem novim načinom naziranja. Ne smemo namreč
+                           prezreti, da je treba zadovoljevati najmanjšim predpogojem narodnega
+                           obstanka. Pač pa je pričakovati, da bo s prodiranjem občne kulture in
+                           višjih življenjskih oblik verski in socijalni moment podvržen
+                           trenutnemu,kulturnemu stanju odgovarjajoči preobrazitvi.</p>
+                        <p>Ker se temeljno razlikujejo znanstvene in verske predpostave, ni z
+                           verskimi naziranji pobijati znanstva, istotako kakor ni mogoče z
+                           znanstvenimi argumenti zavračati verskih pojavov. Zahtevati je po vsem
+                           svobodni razvoj udejstvovanja znanstvenega mišljenja in želeti je, da
+                           najdejo vse sile, ki stremijo za splošnim kulturnim razvojem, na vseh
+                           poljih svobodno torišče.</p></item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

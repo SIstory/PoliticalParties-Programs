@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o visokem in srednjem šolstvu, sprejeta na III. shodu
+               narodno-radikalnega dijaštva 17.–19. septembra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30899</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-158.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30899</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">VI</biblScope>
+                     <biblScope unit="issue">6, 7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Z6GTBOLJ</pubPlace>
+                     <date when="1909">1909</date>
+                     <biblScope unit="page">97-98</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.158.PPP" type="ordered">
+               <item n="V."><list type="ordered">
+                     <item n="1.">Ponavlja znova svojo odločno zahtevo po slovenskem vseučilišču v
+                        <placeName>Ljubljani</placeName>;</item>
+                     <item n="2.">zahteva za ustanovitev vseučilišča v <placeName>Ljubljani</placeName> prepotrebne
+                        docenture na češki visoki soli v <placeName>Pragi</placeName> in izraža svoje ogorčenje nad vsemi
+                        onimi činitelji, kateri so krivi, da do izvršitve tega načrta ni prišlo že
+                        letošnje leto;</item>
+                     <item n="3.">zahteva reciprociteto med zagrebško in vsemi inozemskimi
+                        slovanskimi univerzami ter med avstrijskimi vseučilišči;</item>
+                     <item n="4.">zahteva popolno slovensko srednje in ljudsko šolstvo na vsem
+                        slovenskem ozemlju, posebno pa poživlja slovenske državne poslance, da se
+                        zavzemajo za podržavljenje Ciril in Metodove šole pri <placeName>sv. Jakobu v
+                        Trstu</placeName>;</item>
+                     <item n="5.">obsoja dunajsko vlado, ki zavlačuje razvoj slovenskega srednjega
+                        šolstva s tem, da že spisanih knjig za višjo gimnazijo ne aprobira, in
+                        pozivlja slovenske državne poslance, da z vso odločnostjo izposlujejo pri
+                        ministrstvu potrebno aprobacijo;</item>
+                     <item n="6.">z ogorčenjem obsoja in protestira proti nekulturni persekuciji
+                        češkega šolstva na <placeName>Nižjem Avstrijskem</placeName>, posebno na <placeName>Dunaju</placeName> in <placeName>Poštorni</placeName> od
+                        strani avstrijske vlade istotako ogorčeno obsoja persekucijo Slovakov na
+                        <placeName>Ogrskem</placeName>.</item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

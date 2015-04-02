@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o dijaški izobrazbi, sprejeta na I. shodu narodno-radikalnega dijaštva
+               5.-8. septembra 1905 v Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30882</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-141.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30882</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iz naroda za narod!</title>
+                  <title>I. shod narodno-radikalnega dijaštva od 5.–8. kimovca 1905 v Trstu</title>
+                  <imprint>
+                     <biblScope unit="page">102–103</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Omladina</publisher>
+                     <date when="1905">1905</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.141.PPP" type="ordered">
+               <item n="I."><list type="ordered">
+                     <item n="a)">Obsoja nečuveno indolenco slovenskih profesorjev, ki še niso
+                        napisali slovenskih učnih knjig za srednje šole. Povdarja potrebo, da se
+                        slovenski srednješolski učitelji organizujejo, da zastopajo stanovske
+                        interese in goje slovensko srednješolsko pedagoško slovstvo. Slovenski
+                        srednješolski učitelj naj skuša z visoko izobrazbo in idealno vnemo
+                        paralizovati neugodni vpliv sedanjega pomanjkljivega srednješolskega sistema
+                        in malenkostnega miljeja naših srednješolskih mest. V ta namen naj goji brez
+                        strankarskih namenov tesnejši prijateljski stik z dijaštvom izven
+                        šole.</item>
+                     <item n="b)">Opozarja javnost na škodljivost škofovih zavodov, kojih intencije
+                        nasprotujejo temeljnim principom srednješolske vzgoje.</item>
+                     <item n="c)">Zahteva, naj vlada med posameznimi predmeti srednje šole
+                        znanstveno soglasje, da ne pobija ena stroka naukov in metode druge.</item>
+                  </list>
+               </item>
+               <item n="II.">Priporoča slovenskim dijakom, naj premišljeno izčrpajo vsa
+                  izobraževalna sredstva vseučiliških mest. Toplo jim nasvetuje
+                     <placeName>Prago</placeName>, to pa z izrecno opombo, da naj se dijaštvo
+                  potrudi vživeti se v češke razmere in priučiti češkemu jeziku. Opozarja na
+                  jugoslovanska vseučilišča.</item>
+               <item n="III.">Biti članom akademične organizacije je za dijake nujno potrebno. Le-té
+                  pa naj se pazno izogibljejo političnega strankarstva. Notranja vez jim bodi
+                  program, ki se izraža brez kršenja individualnosti o podlagah enotnega svetovnega
+                  naziranja. Narodna in socijalna ideja veže naša društva. Po načelu dela in
+                  samopomoči naj se razvijajo sile posameznika v korist celoti. Akademična društva
+                  naj delajo, da se dviga dijaštvo duševno, nravno in gmotno. O sredstvih, da se
+                  dosežejo ti nameni izjavlja:<list type="ordered">
+                     <item n="a)">Društva naj intenzivno goje strokovno in splošno izobrazujoče
+                        predavateljstvo. V čitalnici naj ne manjka znanstvenih revij, knjižnica naj
+                        vsebuje znamenita dela moderne splošno znanstvene in tudi leposlovne
+                        literature. Prirejajo naj poučne izlete;</item>
+                     <item n="b)">društva naj goje pošteno zabavo, petje, telovadbo. Srednjeveško
+                        tradicijo dvoboja naj skušajo odpraviti s tem, da skušajo vplivati na javno
+                        mnenje in uvesti poravnavo sporov. S predavanji o alkoholizmu in spolnih
+                        boleznih naj opozarjajo že absolvirane srednješolce na to nevarnost;</item>
+                     <item n="c)">zastopajo naj odločno gmotne interese slovenskega dijaštva v
+                        smislu resolucij odseka za gmotno stanje.</item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

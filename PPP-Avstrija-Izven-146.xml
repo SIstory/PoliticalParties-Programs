@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o svobodni šoli, sprejeta na II. shodu narodno-radikalnega dijaštva
+               5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30887</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-146.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30887</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">142–143</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head n="B.">Resolucija o svobodni šoli.</head>
+               <p xml:id="No.146.PPP.1">II. shod narodno-radikalnega dijaštva se pridružuje ideji
+                     <hi rend="italic"><soCalled>Svobodne šole</soCalled></hi>. Svobodna šola je
+                  ideal šole, ki hoče podeljevati gojencem pridobitve civilizacije na tak način, da
+                  ne krši individualnih zmožnosti, temveč jim da vse pogoje, da se razvijajo <hi
+                     rend="italic">svobodno</hi>.</p>
+               <p xml:id="No.146.PPP.2">V doslednosti te elementarne vzgojeslovne zahteve treba
+                  odstraniti <hi rend="italic">vse</hi>, kar ovira, da se šolstvo ne razvija v tem
+                  smislu. Predvsem zahtevamo:</p>
+               <list xml:id="No.146.PPP.3" type="ordered">
+                  <item n="I.">na vseh šolah, ki naj bodo resnično narodne, pouk <hi rend="italic">v
+                        materinskem </hi>jeziku;</item>
+                  <item n="II.">reformo vseh šolskih uradov, v katerih naj zasedajo izključno
+                     strokovnjaki in zastopniki ljudstva, izvoljeni na podlagi splošne, tajne in
+                     direktne volilne pravice. Vsi šolskoupravni organi v jezikovno mešanih krajih
+                     naj bodo, dokler se ne ugodu naši fundamentalni zahtevi po narodni avtonomiji,
+                     deljeni po narodnostih;</item>
+                  <item n="III."><list type="ordered">
+                        <item n="a)">odstranitev šolnine in pristojbin na vseh šolah – od najnižje
+                           do najvišje. Učila naj bodo za nepremožne učence brezplačna;</item>
+                        <item n="b)">znižanje števila učencev pod enim učiteljem in uredbo šol po
+                           modernih zdravstvenih zahtevah;</item>
+                     </list>
+                  </item>
+                  <item n="IV."><list type="ordered">
+                        <item n="a)">višjo izobrazbo učiteljstva;</item>
+                        <item n="b)">njega pedagogično neodvisnost;</item>
+                        <item n="c)">njega državljansko svobodo in enakopravnost z drugimi stanovi,
+                           predvsem kot nje pogoj odstranitev § 54. šol. zakona iz leta
+                           1869.;</item>
+                        <item n="d)">izboljšanje materijelnega stanja učiteljstva potom povišanja
+                           plač;</item>
+                     </list>
+                  </item>
+                  <item n="V.">ločitev šole in cerkve kot konsekvenco §14. drž. Osnov. zakonov ter
+                     uresničenje § 2. drž. zak. iz leta <date when="1868">1868</date>.</item>
+               </list>
+               <p xml:id="No.146.PPP.4">Želimo si organiziranega dela v tem smislu tudi na
+                     <placeName>Slovenskem</placeName> in pozdravljamo zato ustanovitev slovenske
+                  sekcije <title>Svobodne Misli</title>.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

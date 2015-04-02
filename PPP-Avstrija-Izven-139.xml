@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programske smernice glasila narodnoradikalne mladine
+               <q>Omladina</q>, predstavljen ob začetku njenega izhajanja</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30880</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-139.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30880</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="page">1-3</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-PDBBFBNF</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.139.PPP">
+            <opener><dateline><placeName>Ljubljana</placeName>, <date>o Veliki noči 1904</date></dateline>.</opener>
+            <p>Ni se nam treba sklicavati na slavnega socijologa <persName>Sombarta</persName>, kratek vpogled v
+               povestnico človeštva nas uči, da leži glavni vzrok vseh zgodovinskih dogodkov
+               deloma v nasprotstvih med posameznimi narodi, deloma v nasprotstvih, ki
+               nastajajo v narodu samem med gospodarsko različno interesovanimi, med razredi.
+               Okrog teh dveh točk teče vedni razvoj. Bilo pa bi čisto napačno misliti, da med
+               njimi samimi, torej med narodnimi in razrednimi interesi, obstaja bistveno
+               nasprotstvo ali vsaj tekmovanje. Sicer se je že zgodilo, da je bila narodna
+               politika ob jednem čisto interesna politika jednega sloja, a kmalu se je
+               pokazala žalostna posledica, da so se ji odtujili tisti, ki na taki narodni
+               politiki neposredno niso bili interesovani. Zgodilo se je tudi že, da so sloji –
+               morda ravno iz reakcije – smatrali boj za narodno individualnost za postransko
+               stvar in celo trdili, da s tem koristijo občečloveškemu napredku. Tudi ta smer
+               se ne da vzdržati: Le izobražen in zdrav narod s svojim žitjem in idejami, ki so
+               vzrastle iz njegove individualnosti, more koristiti občemu napredku. Danes se
+               uveljavlja nazor, da je naloga vseh slojev odstraniti ovire za svobodni razvoj
+               narodove individualnosti, njegove kulture in gospodarstva, da torej ni jeden
+               sloj nositelj narodnosti; na drugi strani pa prihaja spoznanje, da o narodovi
+               sreči ni govora, če je le jeden sloj izobražen in premožen, kedar jeden sloj
+               izrablja drugega krivičnim gospodarskim redom. Tako si narodna in socijalna
+               ideja medsebojno ne nasprotujeta, se ne križata, ampak se močno <hi
+                  rend="italic">spopolnjujeta</hi>.</p>
+            <p>Tako je tudi na <placeName>Slovenskem</placeName>. Da imamo borbo za narodni obstanek, tega ni treba
+               povdariti. A da imamo tudi svoja socijalna vprašanja, na to se nam zdi vredno
+               posebej opozarjati. Samo propad našega kmetskega stanu, kjer je emigracija tako
+               jasen simptom, pa naš bolestni prehod v industrijalizem, ki mu dajemo Slovenci
+               le najnižje delavstvo, sta eklatantna dokaza, kako globoke rane nam je zasekal
+               gospodarski razvoj zadnjega stoletja, da imamo tudi mi pereča socijalna
+               vprašanja, ki jih mora vsakdo že na prvi hip spoznati za ravnotako pereča
+               narodna vprašanja, saj tvorijo prizadeti sloji velikansko večino našega
+               naroda.</p>
+            <p>Če priznavamo vsa ta dejstva, nam iz njih ni težko stvoriti program, kolikor ga
+               je potreba razvijati dijaku.</p>
+            <p>Stojimo na najodločnejšem <hi rend="italic">narodnem</hi> stališču. Uverjeni smo,
+               da imamo glavni narodni boj za obstanek še pred seboj, da bo ogenj na mejah
+               vedno hujši, da stoji tudi <placeName>Kranjska</placeName> na pragu novega narodnega boja. Narod naj se
+               čuti jedno <hi rend="italic">vseslovensko</hi> celoto. V drugih slovanskih
+               narodih vidimo mogočno oporo, ki bo postala tem realnejša in trdnejša, čim
+               spoznamo mi in oni znamenitost naše pozicije ob Adriji, Vzbujanje narodnega čuta
+               je le del narodnega dela, ki naj bo <hi rend="italic">vsestransko</hi>, pri
+               čemer moramo danes socijalno-ekonomsko delo tem bolj povdarjati, čim jačji je v
+               tem pogledu postal naš nasprotnik, ki danes pretežno s tem sredstvom proti nam
+               nastopa. Tudi nam je postulat pravega nacijonalizma, da smo <hi rend="italic"
+                  >demokratski</hi>, t. j. o napredku naroda je možno govoriti le tedaj, če
+               napredujejo vsi deli naroda, če se torej povzdigne izobrazba <hi rend="italic"
+                  >vsega</hi> naroda in če v narodu ni gospodarskega izrabljanja razreda po
+               razredu. V gibanju za vsakomur pristopno izobrazbo in v rastočem zadružnem,
+               občinskem in državnem gospodarstvu vidimo kali za izjednačevanje predpogojev za
+               kulturni in gospodarski napredek vsakega posameznika.</p>
+            <p>Z malo izjemo pri onem delu, kjer more dijak že kot tak praktično nastopati n.
+               pr. pri poljudnem delu, mu zadošča, da se drži teh splošnih principov, da
+               programa ne specijalizira naprej. Odloči naj se le, da hoče delati v narodu za
+               najširše plasti, pa da se hoče za to delo pripravljati najresneje in
+               najtemeljiteje. Pri tej pripravi mu je treba svobode razvoja; zato se nam zdi
+               prenagljeno, bahavo govoriti o lastnem fiksiranem naziranju o vsakem vprašanju.
+               Povsod mora imeti program pogoje za razvoj, da ne okosteni, najsvobodnejši pa
+               mora biti dijaški, kot program sloja, ki je baš v prehodni dobi. Ves program
+               narodno-radikalnega dijaštva pomeni boj proti indolenci, ki so ji narodna
+               vprašanja zadnja briga, ki ne čuti dolžnosti do celote, in proti blaziranosti,
+               ki govoriči o lastni vsegavednosti in nezmotljivosti.</p>
+            <p>Temu programu bo služila <title>Omladina</title>. Na podlagi v njem izrečenih temeljnih idej
+               dvigniti <hi rend="italic">dijaštvo intelektuelno in nravno, ga navajati k delu,
+                  k boljšemu umevanju sodobnih vprašanj in položaja našega naroda, to nalogo
+                  si stavlja »Omladina«</hi>. Dokazovati hoče dijaštvu naprej in naprej, da
+               treba našemu narodu izobražencev, ki imajo utemeljeno, ne slučajno prepričanje,
+               ki ga ne znajo braniti le s fanatično intoleranco, ne z argumenti čuvstva, ampak
+               razuma, ki ga znajo tudi realizovati.</p>
+            <p><title>Omladina</title> bo prinašala pred vsem članke, ki se tičejo položaja dijaštva. Stala
+               mu bo na strani pri njegovem stremljenju za izboljšanje gmotnega stanja. Vestno
+               bo zasledovala naše vseučiliščno vprašanje. Izogniti pa se ne more politiškim
+               vprašanjem: dijaka ne vzgaja le šola, ampak življenje, in vsak dogodek v javnem
+               življenju ima refleksijo v dijaštvu. Zato se moramo pečati tudi z javnimi
+               vprašanji. <title>Omladina</title> prinese tudi znanstvene članke iz raznih strok kot impulz
+               k samostojnemu znanstvenemu delu. Tu ne bo pisateljem v ničemer vezala rok.</p>
+            <p>Čisti idealizem vodi dijaštvo, da izdaja <title>Omladino</title>. Zadela bo na prijatelje in
+               neprijatelje. Naj bi pa vsi vpoštevali, da je mladina, v kateri ni vednega
+               razvoja, podobna stoječi vodi; samo koder je gibanje, tam je zdravo čiščenje –
+               gotov napredek.</p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o dvobojnem vprašanju, sprejeta na II. shodu narodno-radikalnega
+               dijaštva 5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30886</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-145.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30886</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">142</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <div>
+               <head n="A.">Resolucija o dvobojnem vprašanju.</head>
+               <p xml:id="No.145.PPP.1">Drugi shod narodno-radikalnega dijaštva:</p>
+               <list xml:id="No.145.PPP.2" type="ordered">
+                  <item n="I.">smatra dvoboj za protinravno, kulturnim težnjam našega časa
+                     neodgovarjajoče sredstvo za obrambo osebne časti, ki tudi ne more nuditi
+                     zadoščenja za kakršnokoli žalitev. Radi tega ga najodločnejše odklanja;</item>
+                  <item n="II.">iz istih razlogov obsoja burševske menzure<note place="foot"
+                        source="#SourceBornDigital">Študentovski dvoboj.</note> slovanskega
+                     dijaštva.</item>
+                  <item n="III.">Ker nam pa naša sodišča do sedaj ne nudijo zadostnega varstva
+                     osebne časti, se izrekamo za ustanovitev splošne slovenske protidvobojne
+                     organizacije v smislu obstoječih antiduelnih lig, ki naj izposluje od vojnega
+                     ministrstva dovoljenje, da smejo biti rezervni častniki in kadeti tudi člani te
+                     naše organizacije.</item>
+                  <item n="IV.">Predpriprave za ustanovitev take organizacije naj izvrši poseben
+                     odsek narodno-radikalnih društev, ki naj pritegne s posredovanjem naše
+                     starejšinske organizacije temu delu tudi izvendijaško razumništvo.</item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

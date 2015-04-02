@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Politična izhodišča Slovenske kmečke stranke, ustanovljene 1. decembra
+               1917</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30907</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-166.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30907</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska Kmečka Stranka</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-IYM1KCOR</pubPlace>
+                     <date when="1917-12-22">22. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska Kmečka Stranka</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.166.PPP.1">Ustanovitev Kmečke Stranke ni krivica proti nobenemu drugemu
+               stanu, ker kmet pusti vsakemu drugemu pravico, da se organizira in združuje, <hi
+                  rend="italic">kakor sam hoče</hi>. A isto pravico zahtevajo kmetje tudi sami zase
+               in <hi rend="italic">nečejo biti pod političnim jerobstvom neizkušenih ljudi iz
+                  drugih stanov</hi>. Kar je dovoljeno delavcem, profesorjem, uradnikom in sploh
+               vsakomu, se ne sme zabranjevati kmetu. <hi rend="italic">Ali je kmečka stranka
+                  potrebna ali ne, to vedo najbolje</hi>
+               <hi rend="bold">kmetje sami</hi>. Namen stranke je razviden iz oklica, ki gre po celi
+               deželi. Ker stoji stranka na verskem, katoliškem stališču, ji je lahko ob dani
+               potrebi stopiti glede političnega uveljavljanja katoliških načel v stik z vsako drugo
+               katoliško stranko, če je res katoliška, ne le v besedah,ampak tudi v dejanjih. <hi
+                  rend="bold">V svojih stvareh </hi>pa hoče biti kmečka stranka <hi rend="bold"
+                  >neodvisna</hi>, kakor zahtevajo načela <hi rend="bold">prave demokracije in
+                  samoodločbe</hi>.</p>
+            <p xml:id="No.166.PPP.2">Ker je duhovščina na deželi ozko spojena s kmečkim stanom, je
+               naravno, da bodo <hi rend="italic">duhovniki, ki imajo ljubezen do ljudstva</hi>, z
+               njo sodelovali, kar bo le v splošno korist in kar kmečka stranka iskreno želi v
+               verskem in narodnem interesu.</p>
+            <p xml:id="No.166.PPP.3">Slovenska Kmečka Stranka pojde mirno, a krepko, in vztrajno
+               svojo pot.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

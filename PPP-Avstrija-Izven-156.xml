@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o jugoslovanskem vprašanju, sprejeta na III. shodu narodno-radikalnega
+               dijaštva 17.-19. septembra 1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30897</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-156.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30897</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">VI</biblScope>
+                     <biblScope unit="issue">6, 7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Z6GTBOLJ</pubPlace>
+                     <date when="1909">1909</date>
+                     <biblScope unit="page">97</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.156.PPP" type="ordered" n="III.">
+               <item><list type="ordered">
+                     <item n="1.">nujno želi, da se jugoslovansko dijaštvo kar najintenzivneje bavi
+                        z jugoslovanskim vprašanjem v celem obsegu;</item>
+                     <item n="2.">želi, da se ustvarijo kar najtrdnejši stiki med naprednim
+                        jugoslov. dijaštvom, tako po avstrijskih vseučiliških mestih, kakor tudi z
+                        onimi v <placeName>Zagrebu</placeName>, <placeName>Belgradu</placeName> in
+                           <placeName>Zofiji</placeName>. Posebno pozornost hoče posvečati
+                        srbohrvaškemu dijaštvu iz <placeName>Bosne in
+                        Hercegovine</placeName>;</item>
+                     <item n="3.">naroča eksekutivi narodno-radikalnega dijaštva, da izvede nemudoma
+                        tozadevna pripravljalna dela in da stopi predvsem takoj v zvezo z eksekutivo
+                        hrvatskega naprednega dijaštva, s katerim smo si bistveno popolnoma enaki; </item>
+                     <item n="4.">izraža željo, naj jugoslovanska omladina širi radi medsebojnega
+                        poznavanja v prvi vrsti vzajemno napredne dijaške liste in ostale
+                        publikacije (<title>Omladina</title>, <title>Hrvatski Dijak</title>);</item>
+                     <item n="5.">najodločnejše protestira proti brezprimernemu progonu bratov Srbov
+                        na Hrvatskem, kateri se zaradi njihovega kulturnega in gospodarskega boja
+                        med narodom in radi poštene borbe za narodna prava obtožujejo radi zločina
+                        veleizdaje. Zaprtim boriteljem za pravo svobodo naroda izrekamo svoje
+                        najiskrenejše simpatije.</item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

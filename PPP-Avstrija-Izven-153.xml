@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trialistična državnopravna zamisel narodnoradikalnega voditelja dr. Gregorja
+               Žerjava leta 1908</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30894</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-153.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30894</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Jugoslovansko kraljestvo v okvirju habsburške monarhije</title>
+                  <author>Gregor Žerjav</author>
+               </analytic>
+               <monogr>
+                  <title>Naš list</title>
+                  <title>neodvisno politično glasilo za Slovence</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">50</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1908-12-19">19. 12. 1908</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.153.PPP">
+            <p>Prišli so za habsburške južne Slovane nenavadno ugodni trenutki, ki se mogoče tako
+               kmalu ne vrnejo in katere je treba dobro izkoristiti. Notranje razmere v
+                  <placeName>habsburškem cesarstvu</placeName> in mednarodni položaj vobče takorekoč
+               narekujeta južnim Slovanom habsburške monarhije približno taki-le program:</p>
+            <list type="ordered">
+               <item n="1.">Iz ozemlja, katero naj tvorijo del <placeName>Koroške</placeName>,
+                     <placeName>Štajerske</placeName> in <placeName>Ogrske</placeName>,
+                     <placeName>Kranjska</placeName>, <placeName>Goriška</placeName>,
+                     <placeName>Gradiška</placeName>, <placeName>Trst</placeName> z okolico,
+                     <placeName>Istra</placeName>, <placeName>Hrvatska</placeName> in
+                     <placeName>Slavonska</placeName> ter <placeName>Dalmatska</placeName>,
+                     <placeName>Reka</placeName> z okolico, <placeName>Bosna in
+                     Hercegovina</placeName>, se naj ustvari na podlagi državnopravnih titulov
+                     <placeName>hrvatskega</placeName> in <placeName>ilirskega
+                     kraljestva</placeName> ter <placeName>srbske vojvodine</placeName> in
+                  prirodnega prava <placeName>jugoslovansko kraljestvo</placeName> v okvirju
+                     <placeName>habsburške monarhije</placeName>. Meja tega kraljestva mora iti od
+                     <placeName>Eishaara</placeName> ob laški meji na
+                     <placeName>Koroškem</placeName> po gorskem grebenu k izlivu Valentinskega
+                  potoka v Ziljo, čez Kotje v Ziljski dolini po gorskem grebenu, čez Belo jezero, po
+                  gorskem grebenu čez Kammering ob Dravi, po gorskem grebenu čez Koberco, dalje čez
+                  Arje, po gorskem grebenu čez Oberboden, po strugi Tiebelbachu do izliva v Glino,
+                  po strugi Gline do izliva Vimičkega potoka, po Beli steni čez Plešivec, Svinec ob
+                  Goršici, po gorskem grebenu čez Speikkogel dalje do Šmarnega v Labodski dolini, po
+                  gorskem grebenu čez Koralpo na <placeName>Štajersko</placeName> k virom Bela
+                  Sulme, po strugi Sulme do izliva v Muro, po strugi Mure do izliva Perkovega
+                  mlinskega potoka, čez Farovce k izlivu Pöltenbacha v Kučenico, po strugi Kučenice
+                  čez Stergagorje v dolino Dojberskega potoka do izliva v Rabo, po strugi Rabe do
+                  izliva Lugoškega potoka čez Ispank in Ramoezo ob Krki, po strugi Krke do izliva v
+                  Muro, po strugi Mure do izliva v Dravo, po strugi Drave do izliva v Donavo, po
+                  strugi Donave proti toku do Frančiškovega prekopa, po strugi Frančiškovega prekopa
+                  do Tise, po strugi Tise proti toku do izliva Moruše, po strugi Moruše proti toku
+                  do Arada, čez Arad, Temešvar, Krnjak po gorskem grebenu k izlivu Požeškega potoka
+                  v Donavo. Odtod pa gre državna meja tja do Eishaara. Umestno bi bilo, da
+                     <placeName>habsburško cesarstvo</placeName> odstopi
+                     <placeName>Furlansko</placeName>
+                  <placeName>Italiji</placeName> v zameno slovenskega dela
+                     <placeName>Beneške</placeName>. Ozemlje <placeName>jugoslovanskega
+                     kraljestva</placeName> bi merilo dobrih 150.000 km² z več nego 8 miljoni
+                  prebivalcev. <placeName>Jugoslovansko kraljestvo</placeName> bi bilo torej le del
+                     <placeName>habsburške monarhije</placeName>.</item>
+               <item n="2."><placeName>Jugoslovansko kraljestvo</placeName> imej svojega lastnega
+                  kralja iz <persName>habsburško-lotarinske rodbine</persName>, ki imej kar se tiče
+                  armade slične pravice kakršne ima bavarski kralj. Vrhovne pravice
+                     <placeName>habsburškega cesarja</placeName>, katere ima v teritoriju, ki ima
+                  tvoriti <placeName>jugoslovansko kraljestvo</placeName>, preidejo na kralja južnih
+                  Slovanov.</item>
+               <item n="3."><placeName>Jugoslovansko kraljestvo</placeName> imej v ostalih smereh
+                  isto samostalnost, kakoršno ima dandanes <placeName>Ogrska</placeName> in imej
+                  vrhutega približno takšno pravico svojega diplomatičnega zastopstva pri vseh
+                  svojih sosednih državah, kakoršno ima <placeName>bavarsko</placeName> ali
+                     <placeName>saško kraljestvo</placeName>.</item>
+               <item n="4.">V <placeName>jugoslovanskem kraljestvu</placeName> bodi državni, t. j.
+                  uradni, armadni in diplomatični jezik izključno srbo-hrvatski jezik, le v
+                  slovenskem ozemlju bodi uradni jezik slovenski. Latinica in cirilica bodita v rabi
+                  enakopravni kakor sta pri Nemcih latinica in fraktura<note place="foot"
+                     >Gotica.</note> ter se naj srbsko-hrvatski in slovenski jezik v vokabularnem
+                  oziru izenačita, dočim si v formalnem svoje posebnosti ohranita.</item>
+               <item n="5."><placeName>Jugoslovansko kraljestvo</placeName> se razdeli v tri pokrajine, v srbsko, hrvatsko
+                  in slovensko. Takšno pokrajino tvori ozemlje, na katerem eno pleme kompaktno
+                  prebiva in katero imej ime v historiji utemeljeno. Slovenska pokrajina bi se
+                  imenovala <placeName>kraljestvo Ilirija</placeName>, hrvatska trojedina kraljevina in srbska srbsko
+                  vojvodstvo in bosansko kraljestvo. Vsaka pokrajina bi imela svojega kraljevega
+                  namestnika, svojo pokrajinsko vlado in pokrajinsko zbornico. <placeName>Zagreb</placeName> bi bil glavno
+                  mesto <placeName>jugoslovanskega kraljestva</placeName>, kjer bi bil sedež osrednje vlade, odgovorne
+                  osrednjemu parlamentu. Da bi moralo biti razmerje med jugoslovanskim kraljestvom
+                  in celokupno <placeName>habsburško monarhijo</placeName> takšno, da bi se ne motil mirni razvoj na nobeni
+                  strani, se samo ob sebi razume.</item>
+            </list>
+            <p>Da bi se meje <placeName>jugoslovanskega kraljestva</placeName> strinjale z mejami cerkvenih provincij in da
+               bi bilo kraljestvo tudi v cerkvenem oziru primerno razdeljeno, ni treba posebej
+               povdarjati.</p>
+            <p>Da bi se izpolnil sen o <placeName>jugoslovanskem kraljestvu</placeName> mogoče kot kompenzacija balkanskim
+               državam od avstrijske strani! S takšno kompenzacijo bi <placeName>habsburško cesarstvo</placeName> ničesar
+               ne izgubilo, temveč le pridobilo. Sicer pa najbližja bodočnost pokaže, v koliko smo
+               Jugoslovani mogli imeti upanja na uresničenje samostalnosti v okvirju starodavne
+               <placeName>habsburške monarhije</placeName>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

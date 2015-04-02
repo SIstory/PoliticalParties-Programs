@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o katoliškem dijaštvu in kulturnih, gospodarskih in političnih
+               vprašanjih, sprejeta na III. shodu narodno-radikalnega dijaštva 17.–19. septembra
+               1909 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30895</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-154.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30895</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">VI</biblScope>
+                     <biblScope unit="issue">6, 7</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Z6GTBOLJ</pubPlace>
+                     <date when="1909">1909</date>
+                     <biblScope unit="page">96</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.154.PPP.1">Slovensko narodno-radikalno dijaštvo zbrano na svojem III.
+               shodu v Ljubljani v dnevih <date from="1909-09-16" to="1909-09-20">od 16.–20.
+                  septembra 1909</date><note place="foot">Shod je potekal od 17.–19. 9. 1909.</note>
+               s svojimi gosti, naprednimi češkimi in jugoslovanskimi dijaki </p>
+            <list xml:id="No.154.PPP.2" type="ordered" n="I.">
+               <item><list type="ordered">
+                     <item n="1.">vidi v organizaciji slovenskega klerikalnega dijaštva del one
+                        mednarodne sile, ki uporabljajoč moderna sredstva služi edino-le interesom
+                           <placeName>Rima</placeName> ter zavira s tem prost razvoj slovenskega
+                        naroda;</item>
+                     <item n="2.">pozivlja vse slovensko napredno dijaštvo, da s trdno organizacijo
+                        in z intenzivnim protiklerikalnim delom paralizira to nevarnost;</item>
+                     <item n="3.">priporoča temeljitost študij kulturnih, gospodarskih in političnih
+                        ved in delavskega vprašanja.</item>
+                  </list></item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

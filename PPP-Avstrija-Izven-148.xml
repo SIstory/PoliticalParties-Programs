@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o jugoslovanskem vprašanju, sprejeta na II. shodu narodno-radikalnega
+               dijaštva 5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30889</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-148.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30889</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">143</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head n="D.">Resolucije o jugoslovanskem vprašanju.</head>
+               <p xml:id="No.148.PPP.1"><hi rend="italic">II. shod narodno-radikalnega
+                     dijaštva:</hi></p>
+               <list xml:id="No.148.PPP.2" type="ordered">
+                  <item n="I.">smatra kulturno edinstvo jugoslovanskih narodov za potrebno.
+                     Slovensko dijaštvo naj se uči jugoslovanskih jezikov in naj se seznani z
+                     razmerami pri posameznih jugoslovansih narodih. Naše dijaštvo naj stopi v ožjo
+                     zvezo s srbo-hrvaškim in bolgarskim dijaštvom;</item>
+                  <item n="II.">sklene, da se na III. shodu narodno-radikalnega dijaštva, ki naj ima
+                     značaj jugoslovanskega dijaškega shoda, temeljito razpravlja o tem
+                     vprašanju.</item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

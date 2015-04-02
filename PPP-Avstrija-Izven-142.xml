@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o gmotnem stanju slovenskega dijaštva, sprejeta na I. shodu
+               narodno-radikalnega dijaštva 5.–8. septembra 1905 v Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30883</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-142.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30883</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iz naroda za narod!</title>
+                  <title>I. shod narodno-radikalnega dijaštva od 5.–8. kimovca 1905 v Trstu</title>
+                  <imprint>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Omladina</publisher>
+                     <date when="1905">1905</date>
+                     <biblScope unit="page">103–104</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list xml:id="No.142.PPP" type="ordered">
+               <item n="I.">
+                  <p>Slovensko narodno-radikalno dijaštvo, zbrano na svojem prvem shodu v
+                        <placeName>Trstu</placeName> smatra žalostne gmotne razmere za prevažen del
+                     slovenskega socijalnega vprašanja.</p>
+                  <p>Slovensko posojilništvo je glavni vir, ki naj zagotovi z ustanovitvijo
+                     podpornih fondov dijakom večjih podpor.</p>
+                  <p>Narodno-radikalno dijaštvo ostro graja brezvestnost onih, ki ne vračajo po
+                     končanih študijah brezobrestnih posojil, ker oškodujejo s tem podporna društva
+                     in kratijo zaupanje v dijaštvo.</p>
+                  <p>Odklanjamo z zaničevanjem vsako podporo, ki ji je namen vplivati na
+                     prepričanje.</p>
+                  <p>Narodno-radikalno dijaštvo zahteva, da se podpore pravično regulirajo in
+                     predlaga ustanovitev osrednjega biroja, kamor naj javijo podporniki svoje
+                     podpore in kjer morejo dobiti informacij.</p>
+                  <p>Glede podpornih društev želimo, da se da v njih odborih slovenskemu dijaštvu
+                     posvetovalna pravica, da se zagotovi podpora za celo leto, pod pogojem, da se
+                     gmotne razmere podpiranca ne izpremene; smatramo mesečnih 10 K za podporni
+                     minimum.</p>
+               </item>
+               <item n="II.">Narodno-radikalno dijaštvo izreka <title>Omladini</title> za nje
+                  delovanje na dijaško-socijalnem polju priznanje ter jo pozivlja, da nadaljuje isto
+                  posebno z zbiranjem statističnih podatkov, dokler se ne oprimejo tega velevažnega
+                  dela poklicani faktorji.</item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programsko politična stališča Slovenske katoliške zveze, sprejeta na njenem
+               ustanovnem shodu 8. aprila 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30908</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-167.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30908</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Dani se! Kvišku srca!</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I [i. e. II]</biblScope>
+                     <biblScope unit="issue">17</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-8L32FV5C</pubPlace>
+                     <date when="1918-04-13">13. 4. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Dani se! Kvišku srca!</head>
+            <gap reason="irrelevant"/>
+            <div xml:id="No.167.PPP.1">
+               <head>I.</head>
+               <p>Mi stojimo odločno in neomajno na stališču resolucij slov. katol. shodov.
+                  Obžalujemo in obsojamo, da se te resolucije zatajujejo od činiteljev, ki imajo
+                  svojo pozicijo v javnem življenju zahvaliti samo oživotvorjenju imenovanih
+                  resolucij med slovenskim ljudstvom in pa nezasluženemu zaupanju,katero se jim je
+                  svojedobno v dobri veri naklonilo.</p>
+               <p>Osobito obsojamo najodločneje postopanje kranjskih državnih poslancev S. L. S. v
+                  Jug. klubu, ki so izgubili vsako pravico do zaupanja katoliškega slovenskega
+                  ljudstva. Ko dvigamo z današnjim dnem vnovič častitljivo, v bojih preizkušeno
+                  slovensko katoliško zastavo, izjavljamo, da hočemo pod tem zmagoslavnim praporom
+                  nadaljevati delo in boj za resnični blagor poštenega, vernega slovenskega ljudstva
+                  po starem, blagoslovljenem geslu našega naroda:</p>
+               <p><hi rend="italic">Vse za vero, dom, cesarja!</hi></p>
+            </div>
+            <div xml:id="No.167.PPP.2">
+               <head>II.</head>
+               <p>Držimo se kot en mož jugoslovanske deklaracije z dne <date when="1917-05-30">30.
+                     maja 1917</date>, ki zahteva združenje vseh v <placeName>habsburški
+                     monarhiji</placeName> živečih Jugoslovanov v lastno, od vsakega drugorodnega
+                  gospodstva prosto državo <hi rend="italic">pod žezlom naše prejasne
+                        <persName>habsburško-lorenske dinastije</persName></hi>. Tem odločneje
+                  protestujemo zoper vsako pretvarjanje te deklaracije, zlasti odklanjamo z
+                  ogorčenjem zagrebško pretvorbo z dne <date when="1918-03-03">3. marca t.
+                  l.</date></p>
+               <p>Mi hočemo ožitvorjenje svojih narodnih uzorov <hi rend="italic">samo v sporazumu z
+                     našim katoliškim vladarjem</hi>, kateremu izrekamo zaupanje, ljubezen, zvestobo
+                  in udanost!</p>
+               <p>V tej smeri vidimo edino pot, po kateri je mogoče ustvariti srečno in častno
+                  bodočnost našega naroda.</p>
+               <p>V radikalnih frazah in hujskarijah ter v dvoumnem pretvarjanju naše deklaracije z
+                  dne <date when="1917-05-30">30. maja 1917</date><note place="foot"
+                     source="#SourceBornDigital">Glej dok. št. 132.</note> pa spoznavamo <hi
+                     rend="italic">največjo nevarnost za naše ljudstvo</hi> in vidimo v takem
+                  početju naravnost <hi rend="italic">izdajstvo življenskih interesov našega
+                     naroda</hi>, kateremu je božja previdnost odkazala dom pod mogočno, v vseh
+                  viharjih preizkušeno zaščito habsburškega žezla. <hi rend="italic">Ta</hi> dom si
+                  hočemo pripravno in prijazno urediti in <hi rend="italic">iz njega</hi> izključiti
+                  vsako drugorodno umešavanje. Vstrajamo pa zvesti in neupogljivi pod habsburško
+                  lorenskim žezlom in <hi rend="italic">pozivljamo katoliško slovensko ljudstvo, da
+                     se kot en mož združi v stari zvestobi okolu našega ljubljenega
+                  vladarja!</hi></p>
+            </div>
+            <div xml:id="No.167.PPP.3">
+               <head>III.</head>
+               <p>Odločno obsojamo in z ogorčenjem odklanjamo tiste Jugoslovane, ki so v teh težkih
+                  časih ubežali iz svoje domovine, da spletkarijo z našimi sovražniki ter s tem
+                  izdajalskim in hudodelskim početjem podaljšujejo vojsko, ko naš narod z vsemi
+                  močmi svoje duše hrepeni po blagru in blagoslovu miru.</p>
+               <p>Iz dna svoje duše izražamo rodoljubno ogorčenje še posebe nad brezvestnim
+                  spletkarjenjem izdajalskih Jugoslovanov s framazonsko
+                     <placeName>Italijo</placeName>, ki je najhujši sovražnik našega katoliškega
+                  naroda. – To izdajstvo se razvija čedalje bolj v pravo narodno prokletstvo, ker
+                  ogroža temelje našega narodnega obstanka.</p>
+               <p>Tem mučneje občutimo, da razni činitelji, ki si prisvajajo v sedanjih časih
+                  vodstvo našega naroda, niso našli niti besede obsodbe za tako podlo za naš narod
+                  skrajno kvarno in sramotno početje, mesto tega pa preklinjajo može, ki so osiveli
+                  v mnogoletnem zvestem in značajno-doslednem ljudskem delu in ustvarjali temelj za
+                  zdravi razvoj našega naroda, medtem ko so drugi uživali in še danes uživajo zrele
+                  sadove njihovega težkega truda.</p>
+               <p>Življenski interes našega naroda zahteva in najskrajnejši čas je, da katoliško
+                  slovensko ljudstvo otrese z brezozbzirno energijo od sebe vsako podtikanje, kakor
+                  bi bilo ali hotelo biti v katerikoli zvezi s krivoprisežnimi uskoki onkraj
+                  črnožoltih mejnikov. Mi se zanašamo za našo pravično stvar izključno na pomoč
+                  Vsegamogočnega, na pravicoljubnost našega ljubljenega vladarja in na moralno silo
+                  našega katoliškega ljudstva. Vsakega pa, ki z dvoumnimi izjavami ali z zlobnim
+                  podtikanjem skuša vzbujati sum, kakor <corr>da</corr> bi naš narod iskal kaka
+                  druga pota za uresničenje svojih narodnih uzorov, odločno odklanjamo in obsojamo
+                  kot brezvestnega škodljivca našega naroda.</p>
+            </div>
+            <div xml:id="No.167.PPP.4">
+               <head>IV.</head>
+               <p>Stranki, ki si danes prisvaja ime <q>Slovenske ljudske stranke</q>, odrekamo vsako
+                  zaupanje, ker so si prilastili v njej odločilni vpliv ljudje, ki so se <hi
+                     rend="italic">popolnoma izneverili vodilnim načelom stranke, ki nam je bila pod
+                     tem imenom skozi desetletja modra in zanesljiva vodnica v vsem našem javnem
+                     delovanju</hi>, in ki je privedla katoliško slovensko ljudstvo od stopinje do
+                  stopinje do zdravega duševnega in gmotnega napredka. Tej pošteni, ugledni stranki
+                  so ti ljudje z zahrbtnim rovanjem, z doslednim izdajstvom in konečno upornostjo
+                  zoper pravila in sklepe stranke vzeli možnost življenja in jo v nepresežni
+                  verolomnosti <hi rend="italic">iz zasede ubili</hi>.</p>
+               <p>Posledice niso izostale: <hi rend="italic">Liberalizem</hi>, ki je bil po
+                  katoliškem ljudstvu potisnjen skozi dolgoletno dobo v kot, <hi rend="italic">dviga
+                     zmagoslavno svojo glavo</hi> in ima najzaneslivejšo oporo v takozvani novi
+                  ljudski stranki. Že se kaže na obzorju možnost in verjetnost <hi rend="italic"
+                     >nove liberalne dobe in kulturnega boja</hi>, v veliko škodo katoliškemu
+                  slovenskemu ljudstvu in katoliški cerkvi na <placeName>Slovenskem</placeName>.</p>
+               <p>Zato pozivljamo katoliško slovensko ljudstvo, duhovnike in lajike, da se združijo
+                  z nami v novo, krepko katoliško organizacijo, da skupno branimo v javnem življenju
+                  najdražjo svetinjo našega naroda: <hi rend="italic">sveto katoliško vero</hi>, in
+                  da <hi rend="italic">močni v veri</hi>, izvojujemo uresničenje naših narodnih
+                  uzorov.</p>
+            </div>
+            <div xml:id="No.167.PPP.5">
+               <head>V.</head>
+               <p>Z največjim ogorčenjem obsojamo sedanjo pisavo večine v <q>Katoliški tiskarni</q>
+                  izhajajočih listov, ki se od svobodomiselnih in framazonskih listov razlikujejo le
+                  še v tem, da so slabše urejevani.</p>
+               <p>Ta pisava je <hi rend="italic">nevredna katoliškega imena</hi>. Ker so vsi drugi
+                  mnogoštevilni koraki ostali brezuspešni, sklenemo, da se ustanovi v
+                     <placeName>Ljubljani</placeName>
+                  <hi rend="italic">nov dnevnik</hi>, ki bo zastopal preizkušena načela, ki so
+                  vodila <hi rend="italic">staro slovensko ljudsko stranko</hi>, ves čas njenega
+                  obstoja.</p>
+               <p><hi rend="italic">Vse somišljenike pozivljamo, da novi dnevnik podpirajo z vsemi
+                     močmi duševno in gmotno</hi>.</p>
+               <p><q>Kat. tisk. društvo</q> pa pozivljamo, da naredi red v svojih vrstah in da
+                  izvoli odbor, ki bo vodil tisk <hi rend="italic">v smislu društvenih pravil!
+                  </hi>Potem novega dnevnika ne bo več treba.</p>
+               <p>Vsem somišljenikom priporočamo, da delujejo za čim večje razširjanje ted. <hi
+                     rend="italic"><title>Resnice</title>!</hi></p>
+            </div>
+            <div xml:id="No.167.PPP.6">
+               <head>VI.</head>
+               <p>Da zagotovimo gmotno podlago novemu dnevniku in da pospešimo katoliški slovenski
+                  tisk sploh, ustanovimo <hi rend="italic"><q>Katoliški tiskovni sklad</q></hi>,
+                  čigar uprava se izroči <q>Zadružni tiskarni</q> v
+                  <placeName>Ljubljani</placeName>.</p>
+               <p>Ko se razmere v <q>Katoliški tiskarni</q> zadovoljivo urede, pripade ostanek tega
+                     zaklada<q>»Kat. tisk. društvu</q> za povzdigo katol. tiska.</p>
+            </div>
+            <div xml:id="No.167.PPP.7">
+               <head>VII.</head>
+               <p>Da se naše namere čimprej uresničijo, ustvarimo potrebne politične in nepolitične
+                  organizacije!</p>
+               <p>Že danes sklenemo, da ustanovimo <hi rend="italic"><q>Slovensko katoliško
+                        zvezo</q></hi> s sedežem v <placeName>Ljubljani</placeName>, kot osrednje
+                  politično društvo, v kterem naj se zbero vsi naši somišljeniki, ki smejo po
+                  veljavnem društvenem zakonu biti člani političnih društev.</p>
+            </div>
+            <div xml:id="No.167.PPP.8">
+               <head>VIII.</head>
+               <p>Ker se nahaja takozvana ljudska stranka pod neizkušenim vodstvom, ki s svojo
+                  docela zgrešeno taktiko vodi narod v katastrofo, pozivljamo vse dobro misleče
+                  njene pristaše, da krenejo čimprej na pravo pot.</p>
+               <p>Pripravljeni smo se z vsakim, ki čuti <hi rend="italic">katoliško</hi> in <hi
+                     rend="italic">slovensko</hi>, pogajati, da se doseže resnična sprava in
+                  potrebna edinost.</p>
+               <p>Vsi dobromisleči, v katoliških načelih utrjeni možje in žene, mladeniči in dekleta
+                  naj se pridružijo našemu delu!</p>
+               <p>Višji cerkveni oblasti izrekamo svojo udanost in pokorščino v vseh verskih
+                  zadevah.</p>
+               <p>V političnih stvareh pa si varujemo po cerkvenih in državnih postavah nam
+                  zajamčeno svobodo. Izrekamo iskreno željo, da bi kakor v preteklosti skozi toliko
+                  let tako v kar najbližji bodočnosti tudi na političnem polju mogli delovati v
+                  popolnem soglasju z višjo cerkveno oblastjo.</p>
+               <p>Zato prosimo Vsegamogočnega in upamo da bo prej ali slej raztrgal umetno zaveso,
+                  ki nas brez naše krivde loči v nekterih necerkven. vprašanjih od našega duh.
+                  nadpastirja.</p>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

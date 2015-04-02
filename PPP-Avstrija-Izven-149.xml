@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o telesni vzgoji dijaštva, sprejeta na II. shodu narodno-radikalnega
+               dijaštva 5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30890</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-149.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30890</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">143-144</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head n="E.">Resolucije socijalnega odseka.</head>
+               <p xml:id="No.149.PPP.1">Dijaško-socijalni odsek II. shoda narodno-radikalnega
+                  dijaštva smatra zahtevo po telesni vzgoji dijaštva za važno socijalno vprašanje,
+                  za katerega rešitev je treba resnega in smotrenega dela. Zato:</p>
+               <list xml:id="No.149.PPP.2" type="ordered">
+                  <item n="I.">veljaj boj naših organizacij predvsem škodljivemu vplivu alkohola,
+                     nikotina in zlorabi spolnega občevanja pri nas samih potom proučevanja in
+                     ustanavljanja abstinenčnih krožkov, med ljudstvom pa s poukom in
+                     zgledom;</item>
+                  <item n="II.">zahteva, da se po možnosti odpravijo vsi nedostatki dijaških
+                     stanovanj in dijaških kuhinj. Pri tozadevnem izboljševanju naj se prizna tudi
+                     prizadetemu dijaštvu sodelovanje;</item>
+                  <item n="III.">zahteva, da se uvede v vse srednje šole <hi rend="italic"
+                        >obvezna</hi> telovadba ter se ne zabranjuje srednješolskim dijakom
+                     telovadba v sokolskih telovadnicah pod nadzorstvom sokolskih vaditeljev. Za
+                     moralično dolžnost akademikov pa smatramo, da se udeležujejo v polnem številu
+                     sokolskega dela, ki je za telesno in socijalno vzgojo, posebno naše mladine,
+                     ter za ohranitev in povzdigo nravnega, zdravstvenega ter narodnostnega stanja
+                     našega naroda neprecenljive koristi. V istem oziru smatramo gojenje športov,
+                     dijaških potovanj in izletov za važno nalogo naših organizacij.</item>
+                  <item n="IV.">Važna pa so ravnokar omenjena sredstva tudi za družabno vzgojo
+                     našega dijaštva. Tej naj posvečajo naše organizacije več pozornosti; slov.
+                     izobraženstvo pa pozivljamo, da podpira, zlasti kar se tiče srednješolcev, to
+                     stremljenje.</item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

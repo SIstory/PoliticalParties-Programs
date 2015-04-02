@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razmišljanje Šusteršičeve <q>Resnice</q> o slovenski narodnopolitični usmeritvi
+               jeseni 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30910</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-169.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30910</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Tri struje</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I [i. e. II]</biblScope>
+                     <biblScope unit="issue">39</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-MQKUZDTM</pubPlace>
+                     <date when="1918-09-14">14. 9. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Tri struje.</head>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.169.PPP.1">Vsi <gap reason="irrelevant"/> različni računi z izidom vojske
+               so nam ustvarili popolnoma novo politično grupacijo in nove politične skupine.</p>
+            <p xml:id="No.169.PPP.2">Pričnimo z najbolj radikalno strujo, z ono, ki ne računa le z
+               neomejeno zmago antante, ampak jo tudi želi. Da eden ali drugi računa z zmago
+               antante, to še ne bi bila tako strašna reč, ker sreča je opoteča, posebno bojna. To
+               je priznal tudi minister <persName>Burian</persName>. Nekaj druzega je pa, če kdo
+               želi in komaj čaka, da zmaga antanta. Kaj pričakujejo ti ljudje od antantne zmage za
+               Slovence? Če govorimo s takim človekom in mu stavimo to vprašanje, nam bo odgovoril:
+                  <said>Mi bomo postali združen narod Jugoslovanov, dobili bomo svojo neodvisno
+                  državo in rešeni bomo nemške in mažarske in laške nadvlade.</said> – Poglejmo,
+               kako stoji ta stvar.</p>
+            <p xml:id="No.169.PPP.3"><said>Mi bomo dosegli ujedinjenje troimenega naroda Slovencev,
+                  Hrvatov in Srbov</said> – kaj se to pravi? To se pravi, da naj izginejo vsi
+               razločki med Slovenci, Hrvati in Srbi. Ali bodo res izginili? Ne verjamemo. Srbi so
+               močan in samozavesten narod in tem tudi danes, ko vse vpije za Jugoslavijo kakor
+               noro, niti v sanjah ne pade na um, da bi rekli, da hočejo zatajiti svoje starodavno
+               srbsko ime, svojo srbsko-pravoslavno vero, svojo srbsko književnost in svojo srbsko
+               državo. Po vsi svoji naravi in po vsi svoji zgodovinski preteklosti in po sedanji
+               svoji politični vzgoji Srb ne more biti in ne bo nikdar Jugoslovan, ampak samo Srb,
+               Velesrb. Jugoslovan bo samo takrat, če bo gospod; če bo gospod nad Hrvati in nad
+               Slovenci. Če bodo pa Srbi gospodje, bodo v naših šolah učili srbski jezik, v deželo
+               bodo prišli srbski uradniki, srbski trgovci – torej razloček za Slovence med
+               sedanjostjo in bodočnostjo bo samo ta, da danes gospoduje Nemec, potem bo pa Srb.</p>
+            <p xml:id="No.169.PPP.4">Srb pa samo na eni strani. Na drugi strani bi dobili v deželo
+               še vse hujšega nasprotnika, namreč Lahe. Lahi imajo po londonski pogodbi izgovorjen
+               lep kos slovenske zemlje, če zmaga antanta. To vedo vsi naši antantarji, in vendar se
+               vnemajo zanjo, kakor da bi bila to za naš narod največja sreča, če nas razdele na dva
+               ali tri plati! <said>Pa vsaj nas ne bodo razdelili,</said> – tako odgovarjajo, –
+                  <said>ker to nasprotuje narodni samoodločbi!</said> – Poznamo ta odgovor, poznamo
+               tudi narodno samoodločbo, in zato vprašamo: Kdo nam jo je pa dal? Kje je najmanjša
+               garancija za to, da bodo Angleži ali pa Amerikanci prišli ravno nas vprašat, kaj
+               hočemo mi sami? Kje? Dosedaj še tega ne vemo in kakor vse kaže, tudi nikdar vedeli ne
+               bomo!</p>
+            <p xml:id="No.169.PPP.5">Zato ne verjamemo na ujedinjenje troimenega naroda v lastno
+               državo pod okriljem antante. Vzrok, da se ena struja med nami ogreva za antanto, mora
+               biti drug in drugačen.</p>
+            <p xml:id="No.169.PPP.6">Mi vemo in tudi ne tajimo, da trpimo Slovenci mnogo pod nemško
+               nadvlado. In samo sovraštvo do nemštva vodi gotove ljudi v naročje antante in pa
+               sovraštvo do katoličanstva, ker je <placeName>Avstrija</placeName> katoliška država!
+               To sta dva vodilna nagiba in nič druzega! Napačna sta pa oba; iz sovraštva do Nemcev
+               še ni treba želeti razpada <placeName>Avstrije</placeName>, ker so mogoče pametne
+               reforme tudi v <placeName>Avstriji</placeName>, sovraštvo do katoličanstva pa
+               nasprotuje lastnemu načelu svobodomiselstva o toleranci.</p>
+            <p xml:id="No.169.PPP.7">Ta struja, o kateri smo govorili dosedaj, se zavzema za antanto
+               iz prepričanja (čeprav je to prepričanje za Slovence naravnost pogubno) in je vsaj
+               vsled tega vredna spoštovanja v toliko, kolikor se spoštuje prepričanje.</p>
+            <p xml:id="No.169.PPP.8">Kaj naj pa rečemo o drugi struji, ki je za antanto vneta iz
+               golega strahu – in iz gole bojazni pred vislicami! So nasprotniki in sovražniki
+               Nemcev, a pravijo, da so reforme v <placeName>Avstriji</placeName> tudi mogoče;
+               pravijo, da so katoliki, in vendar vlečejo skupaj en voz s prvo strujo, ki je
+               najhujša nasprotnica katoličanstva! Ti pravijo bržkone tako: Antanta bo zmagala. Če
+               pa zmaga, bo udarila po svojih nasprotnikih. Če pa pokažemo, da nismo njeni
+               nasprotniki, nam bodo pa prizanesli, milostno prizanesli. A ne samo prizanesli, še
+               pohvalili nas bodo in se nas veselili, kakor je nad enim spokorjencem več veselja
+               kakor nad 99 pravičniki! Torej pritegnimo k antanti in rešeni smo in bomo. Naša misel
+               je, da se kruto varajo! Dokler jih potrebujejo, so jim pač dobro došli pomočniki;
+               kadar jih pa ne bo več treba, takrat se bodo pa odprle knjige, kjer so zapisani vsi
+               njihovi mali in veliki grehi in takrat jim bodo rekli: Prijatelj, hvala na
+               sodelovanju, sedaj pa z Bogom! To bo še jako milostno, taka brca; bržkone bodo pa
+               kljub vsemu lizanju in prilizovanju peli vse drugačni škorpijoni po hrbtu!</p>
+            <p xml:id="No.169.PPP.9">Tretja struja je pošteno avstrijska in slovenska, brez vsakih
+               pridržkov, brez hlimbe in hinavstva in skrivanja. Ta stoji na stališču poštene,
+               patrijotiške majniške deklaracije in vidi edino rešitev za Slovenstvo v
+                  <persName>habsburški monarhiji</persName>, katere notranje uredbe ne odobrava čez
+               drn in strn, a tudi ne obupava nad njo; ampak je uverjena in prepričana, da bo mogoče
+               v soglasju z ustanovnimi faktorji pribojevati tudi Slovencem tisto stališče v državi,
+               katero jim gre. Ta struja je mnenja, da nas silijo tudi gospodarski vzroki, da hočemo
+               ostati pod monarhijo, ker mi kot majhen narod moramo iskati skupnosti z velikim
+               gospodarskim telesom. Zato pravi ta struja, to je naša struja in naša stranka: Tudi
+               če nam res kdo prinese samoodločbo in nas res vpraša, kaj hočemo, bomo rekli prav iz
+               prepričanja: Pustite nas pri miru s <placeName>Srbijo</placeName>, še bolj z
+                  <placeName>Italijo</placeName>, ampak dajte nam, kar nam gre, v monarhiji, kjer
+               smo živeli že par sto let, živimo še sedaj in bomo živeli v eni ali drugi obliki,
+               kakor se jo bo dalo doseči ne s tujo, ampak z ustavno pomočjo. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

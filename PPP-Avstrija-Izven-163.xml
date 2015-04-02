@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o vseučiliškem vprašanju, sprejeta na IV. shodu narodno-radikalnega
+               dijaštva 13.–14. septembra 1912 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30904</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-163.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30904</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="issue">7, 8</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-GOUNGFHI</pubPlace>
+                     <date when="1913">1913</date>
+                     <biblScope unit="page">134</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <list type="ordered">
+               <item n="II.">K vseučiliškemu vprašanju:<list xml:id="No.163.PPP" type="ordered">
+                     <item n="1.">Akademiki, zbrani na IV. narodno-radikalnem shodu v
+                           <placeName>Ljubljani</placeName> zahtevajo ustanovitev slovenskega
+                        vseučilišča s sedežem v <placeName>Trstu</placeName>, ki bo vstrezalo
+                        potrebam obeh slovanskih narodov na jugu. Z ozirom na gospodarski in
+                        merkantilni značaj <placeName>Trsta</placeName> bi bila naloga takega
+                        zavoda, gojiti posebno v okviru državnoslovne in pravne fakultete tudi
+                        gospodarsko praktične, pomorske in trgovinske discipline. Ustanovitev
+                        slovenske in laške fakultete veže junktim, tako sicer, da se brez istočasne
+                        ustanovitve slovenske ne sme otvoriti italijanska pravna fakulteta.</item>
+                     <item n="2.">Izreka se za popolno reciprociteto zagrebškega vseučilišča za vse
+                        dežele <placeName>avstro-ogrske monarhije</placeName>.</item>
+                     <item n="3.">Pozivlja se vlada, da odpravi gorostasne razmere na šolskem polju
+                        po slovenskih deželah in zlasti v <placeName>Trstu</placeName> in da
+                        ustanovi nemudoma prepotrebne slovenske ljudske, strokovne in srednje
+                        šole.</item>
+                     <item n="4.">Pozivlja vlado, da pospešuje z gmotnimi sredstvi habilitacije
+                        slovenskih docentov na kateremkoli vseučilišču <placeName>avstro-ogrske
+                           monarhije</placeName> za bodoče slovensko vseučilišče. </item>
+                     <item n="5.">Pozivlja politično društvo <q>Edinost</q> kot poklicano politično
+                        organizacijo tržaških Slovencev, da ustvari akcijski odbor, ki naj se
+                        ustavno bavi z našim vseučiliškim vprašanjem in vodi priprave, kar se tiče
+                        bodočih učiteljev in ki naj vodi tudi vse politično in časopisno delo za
+                        slovensko vseučilišče.</item>
+                     <item n="6.">Pozivlja vse poslance, deželne zbore, občine in društva, da
+                        ukrenejo vse potrebno v tem oziru, oziroma, da spremenijo svoje dosedanje
+                        sklepe v smislu naše sedanje zahteve <q>Slovensko vseučilišče v
+                              <placeName>Trst</placeName></q>. </item>
+                  </list>
+               </item>
+            </list>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

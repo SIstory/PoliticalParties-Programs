@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razmišljanje nekdanjega načelnika Vseslovenske ljudske stranke dr. Ivana
+               Šusteršiča o vključitvi Jugoslavije v Združene podonavske države neposredno pred
+               odhodom Slovencev iz Avstrije</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30912</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-171.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30912</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Izolirana Jugoslavija ali Zedinjene države</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I [i. e. II]</biblScope>
+                     <biblScope unit="issue">45</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Y49J8SJP</pubPlace>
+                     <date when="1918-10-26">26. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Deželni glavar dr. <persName>Ivan Šusteršič</persName> o položaju.</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Izolirana <placeName>Jugoslavija</placeName> ali Zedinjene države</head>
+               <p xml:id="No.171.PPP.1">Govori in piše se o <hi rend="italic">samostojni</hi>
+                  <placeName>Jugoslaviji</placeName> v smislu popolne ločitve od dosedanje državne
+                  zveze pa tudi od dinastije. To je v gotovi meri istovetno z <hi rend="italic"
+                     >izoliranjem</hi>
+                  <placeName>Jugoslavije</placeName>. Izolacija ima svoje solnčnate in senčnate
+                  strani. <foreign>Splendid isolation</foreign><note place="foot"
+                     source="#SourceBornDigital">Vzvišena osamljenost.</note>
+                  <placeName>ameriških Zedinjenih držav</placeName> – prosta roka na vse strani –
+                  obhaja v sedanjih časih zmagoslavje, kakršnega svet doslej ni videl. Toda
+                     <placeName>ameriške Zedinjene države</placeName> so narod 120 milijonov,
+                  razpolagajo z neizmernim naravnim bogastvom, z malo da neizčrpnimi državnimi
+                  denarnimi viri, z mogočno veleindustrijo in trgovino, z visoko kulturo. Poleg
+                  vsega pa uživajo <placeName>Zedinjene države</placeName> tudi še <hi rend="italic"
+                     >izolirano lego</hi>. <soCalled>Velika luža</soCalled> jih loči od vseh ostalih
+                  velesil sveta. Vsakemu je jasno, da je situacija bodoče
+                     <placeName>Jugoslavije</placeName> bistveno drugačna v kratkomalo vseh ozirih,
+                  v katerih je <placeName>Amerika</placeName> močnejša, ali vsaj tako močna, kot
+                  vsaka druga velevlast, je <placeName>Jugoslavija</placeName> slabejša kot sploh
+                  vsaka velevlast in mejila bo, kakor smo že povdarjali, neposredno na velevlast
+                     <placeName>Italijo</placeName>, ki je obenem mogočen in nerazmerno močnejši
+                  konkurent na Jadranskem morju. V takem položaju je stališče slabejšega konkurenta
+                  zelo težavno. Bati se je, da si <placeName>Italija</placeName> takoj osvoji
+                  komercijelno prvenstvo na Jadranski obali. To prvenstvo pa ne bo od danes do
+                  jutri, ker bo <placeName>Italija</placeName> dosti močna, da je trajno obdrži.
+                  Roko v roki s tem bo šlo industrijelno prvenstvo v naših deželah.</p>
+               <p xml:id="No.171.PPP.2">Nerazmerno ugodnejša je pozicija jugoslovanske države kot
+                  ena <hi rend="italic"><placeName>Podunavskih Zedinjenih Držav</placeName></hi>. K
+                  tem <placeName>Podunavskim Zedinjenim Državam</placeName> štejemo vse tiste
+                  narodne države, ki se izcimijo iz sedanje <placeName>habsburške
+                     monarhije</placeName>. Ni dvoma, da so te države ekonomsko močno navezane ena
+                  na drugo. Večstoletno skupno življenje je ustvarilo vezi, ki ostanejo tudi potem,
+                  ko izgine sedanji državni ustroj z vsem svojim neslanim birokratskim aparatom,
+                  sploh ko izgine vse, kar je narode sistematično odtujevalo državi.</p>
+               <p xml:id="No.171.PPP.3"><placeName>Jugoslavija</placeName> je v glavni stvari morska <choice>
+                     <sic>[a]</sic>
+                     <corr>obala</corr>
+                  </choice> te podunavske skupine. Ostalo je zaledje. Neka organična državnopravna
+                  zveza obali<note place="foot" source="#SourceBornDigital">Obale.</note> z zaledjem
+                  bi dala <placeName>Jugoslaviji</placeName> uprav sijajno pozicijo v označeni
+                  skupini. Lahko se reče, da bi v doglednem času <placeName>Jugoslavija</placeName>
+                  zamogla doseči uprav prominentno vlogo v teh <placeName>Zedinjenih
+                     državah</placeName>. Jasno pa je, da bi bil ta razvoj le mogoč, če bi bila
+                  država <placeName>Jugoslovanov</placeName> popolnoma neodvisna in suverena. <hi
+                     rend="italic">Prvo</hi> je tedaj brez vsakega dvoma, da se ustvari ta
+                  suverenost in neodvisnost v polni meri in da potem jugoslovanski narod svobodno
+                  sklepa o svojih stalnih dotičajih do sosednih narodnih držav, zrastlih na tleh
+                  današnje <placeName>avstroogrske monarhije</placeName>.</p>
+               <p xml:id="No.171.PPP.4">Dinastičnega vprašanja se danes ne dotikamo, razmotrivati
+                  hočemo to, ko bomo bližje razpravljali o <placeName>Zedinjenih podunavskih
+                     državah</placeName>.</p>
+               <byline>
+                  <persName>Dr. Ivan Šustersič</persName>
+               </byline>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o narodni obrambi, sprejeta na II. shodu narodno-radikalnega dijaštva
+               5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30888</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-147.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30888</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">143</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head n="C.">Resolucija o narodni obrambi.</head>
+               <list xml:id="No.147.PPP" type="ordered">
+                  <item n="I.">Narodna obramba hoče okrepiti narodne meje in manjšine potom
+                     osamosvojitve od tujega gospodarskega vpliva ter splošne in strokovne
+                     naobrazbe.</item>
+                  <item n="II.">
+                     <p>Naravni centri našega življa v obmejnih pokrajinah so središča
+                        narodne obrambe.</p>
+                     <p>Smatramo gospodarsko okrepitev <hi rend="italic">vseh</hi> stanov in slojev
+                        za neobhodno potrebno. V zadružništvu vidimo najvažnejšega činitelja
+                        gospodarske osamosvoje.</p>
+                     <p>Nujno potreben je enoten načrt obrambnega dela. Zato se zavzemamo za
+                        ustanovitev gospodarske obrambne organizacije. Delo obrambnih društev naj
+                        podpirajo pokrajinski narodni sveti. Potreben pa se nam zdi tudi skupen
+                        vseslovenski narodni svet. Največjo važnost polagamo na obmejno in
+                        manjšinsko naselbinsko akcijo.</p>
+                  </item>
+                  <item n="III.">
+                     <p>Poživljamo slovensko dijaštvo, da se bavi z gospodarskimi vprašanji
+                        vseh strok, predvsem pa naj si skuša pridobiti trgovske izobrazbe.</p>
+                     <p>V gospodarskem boju z nasprotniki je potrebno, da znamo njih jezik; zato
+                        zahtevamo od slovenskega dijaštva, da se poleg nemščine uči tudi
+                        laščine.</p>
+                     <p>Slovensko dijaštvo naj smatra za svojo dolžnost, da sodeluje po zmožnosti v
+                        vseh obrambnih napravah.</p>
+                  </item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

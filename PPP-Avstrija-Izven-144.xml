@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o enotni organizacija narodno-radikalnega dijaštva, sprejeta na
+               njegovem I. shodu 5.–8. septembra 1905 v Trstu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30885</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-144.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30885</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iz naroda za narod!</title>
+                  <title>I. shod narodno-radikalnega dijaštva od 5.–8. kimovca 1905 v Trstu</title>
+                  <imprint>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Omladina</publisher>
+                     <date when="1905">1905</date>
+                     <biblScope unit="page">105</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <gap reason="irrelevant"/>
+            <p xml:id="No.144.PPP">Narodno-radikalno dijaštvo priporoča, da se društva
+               narodno-radikalnih akademikov združijo v enotnejšo organizacijo, ki naj na podlagi
+               dosedanjih organizacij skuša biti nekak izvrševalni in reprezentativni organ
+               narodno-radikalnega dijaštva. Naše glasilo je <title>Omladina</title>.</p>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

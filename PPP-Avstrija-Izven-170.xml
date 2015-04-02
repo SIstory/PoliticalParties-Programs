@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razmišljanje nekdanjega načelnika Vseslovenske ljudske stranke dr. Ivana
+               Šusteršiča o vprašanju samostojne jugoslovanske države neposredno pred odhodom
+               Slovencev iz Avstrije</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30911</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-170.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30911</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Dinastično vprašanje</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I [i. e. II]</biblScope>
+                     <biblScope unit="issue">45</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Y49J8SJP</pubPlace>
+                     <date when="1918-10-26">26. 10. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Deželni glavar dr. <persName>Ivan Šusteršič</persName> o položaju.</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head>Dinastično vprašanje</head>
+               <p xml:id="No.170.PPP.1"><placeName>Jugoslavija</placeName> je gotova. Ostane še
+                  dinastično vprašanje. To vprašanje hočemo kratko razmotrivati. Naša dinastična
+                  čustva so znana, toda nočemo v osprednje siliti teh čutil, temveč razpravljati
+                  hočemo vprašanje s stališča neomejene samoodločbe.</p>
+               <p xml:id="No.170.PPP.2">V principu se gre za to: ali hočemo biti v bodoče popolnoma
+                  samostojni, ali pa ena tistih neodvisnih in suverenih držav, ki naj v bodočnosti
+                  tvorijo <placeName>Zedinjene države habsburško-lorenske</placeName>.</p>
+               <p xml:id="No.170.PPP.3">Popolna samostojnost je lahko misliti pod drugo dinastijo n.
+                  pr. v smislu krfskega programa pod dinastijo <persName>Karagjorgjevičev</persName>
+                  ali pa kot republiko. Mimogredoč naj kratko izjavimo, da bi bili mi v tem slučaju
+                  za republiko. Ne vidimo namreč nobenega pametnega razloga, da bi, če se ločimo
+                  odene dinastije, isto zamenjali za drugo, kajti to bi bila silno starokopitna
+                  rešitev celega vprašanja. Sicer pa to nikakor ni glavna stvar. Veliko važnejše je
+                  stvarno vprašanje, ki se mora predvsem rešiti, t. j. popolna samostojnost ali
+                  pristop k Zvezi zedinjenih držav. <hi rend="italic">Predvsem pa, in to ponavljamo
+                     in podčrtamo, more biti naš etnografični teritorij popolnoma zasiguran z našo
+                     jugoslovansko državo</hi>. To je conditio sine quanon, preko katere nihče ne
+                  more.</p>
+               <p xml:id="No.170.PPP.4">Ne da se tajiti, da je z zgolj narodnega stališča popolna
+                  samostojnost zelo vabljiva in blesteča. Treba pa je misliti nekoliko dalje: na
+                  možnosti življenja in razvoja in nemotenega obstoja naše nove države.</p>
+               <p xml:id="No.170.PPP.5"><placeName>Jugoslavija</placeName> leži ob Jadranskem morju;
+                  velik del obali<note place="foot" source="#SourceBornDigital">Obale.</note> je
+                  naša narodna posest. To nam daje velike možnosti za življenje in razvoj, toda
+                  prezreti ne smemo, da imamo ob isti obali mogočnega soseda, trikratno močnejšega
+                  na prebivalstvu in nerazmerno močnejšega na kulturnem, financijelnem in
+                  komercijalnem polju. Ta sosed bo naš konkurent. Ž njim se bo pa morala
+                     <placeName>Jugoslavija</placeName> že na mirovnem kongresu boriti za
+                  najdragocenejše dele svojega narodnega ozemlja. Opraviti bomo imeli tedaj predvsem
+                  s politično, potem z mogočno gospodarsko in osobito komercijelno konkurenco tega
+                  soseda. <placeName>Italija</placeName> bo po vojski močnejša kot kedaj poprej in
+                  ta njena moč bo latentna nevarnost za <placeName>Jugoslavijo</placeName>. Liga
+                  narodov nas pred to nevarnostjo ne bo mogla varovati, ker se bo šlo za prosto
+                  kretanje narodnih in gospodarskih moči na svetovnem pozorišču. V prihodnjem članku
+                  hočemo svoje misli naprej razviti.</p>
+               <closer>
+                  <dateline>V <placeName>Ljubljani</placeName>, dne <date when="1918-10-22">22.
+                        oktobra 1918</date></dateline>
+               </closer>
+               <byline>
+                  <persName>Dr. Ivan Šustersič</persName>
+               </byline>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

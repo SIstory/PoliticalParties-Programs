@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija Slovenske kmečke stranke, sprejeta na seji njenega načelstva 3. julija
+               1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30909</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-168.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30909</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovenska Kmečka Stranka</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I [i. e. II]</biblScope>
+                     <biblScope unit="issue">29</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-GVQPWMPH</pubPlace>
+                     <date when="1918-07-06">6. 7. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenska Kmečka Stranka</head>
+            <p>je v svoji načelstveni seji dne 3. julija sklenila sledeče:</p>
+            <div xml:id="No.168.PPP.1">
+               <head>I.</head>
+               <p>Slovenska Kmečka Stranka se ponovno izjavlja za deklaracijo od <date
+                     when="1917-05-30">30. maja</date>,<note place="foot"
+                     source="#SourceBornDigital">Glej dok št. 132.</note> obsoja pa vsako kvarjenje
+                  pravega smisla majniške deklaracije,<note place="foot" source="#SourceBornDigital"
+                     >Glej dok št. 132.</note> zlasti pa razlaganje te deklaracije v tem smislu,
+                  kakor da bi slovenski narod bil omajan v svoji zvestobi do cesarske hiše in bi
+                  imel kak stik z veleizdajsko agitacijo, ki jo širijo uskoki iz nam sovražnih
+                  držav. Ta brezvestna agitacija je glavni vzrok, da se vojska od dne do dne
+                  podaljšuje. SKS. želi, da se čimprej sklene mir, ki naj vrne domovini njene
+                  sinove, da se zopet posvetijo delom miru na svojih domovih. SKS. obsoja vsako
+                  hujskanje, ki neti vedno hujše sovraštvo med narodi in državami.</p>
+            </div>
+            <div xml:id="No.168.PPP.2">
+               <head>II.</head>
+               <p>SKS. odobrava nastop deželnega odbora proti veleizdajskemu hujskanju in pozivlja
+                  vse občine, da naj ne poslušajo brezvestnega hujskanja slabega časopisja, ki je že
+                  doslej prizadejalo slovenskemu narodu največjo škodo, in se naj pridružijo v
+                  polnem obsegu s tej prepotrebni resoluciji, ki naj pred svetom zopet reši čast
+                  našega ljudstva.</p>
+            </div>
+            <div xml:id="No.168.PPP.3">
+               <head>III.</head>
+               <p>SKS. najodločneje obsoja podle napade slabega časopisja na deželni odbor, ki se je
+                  izkazal med vojsko kot edini branitelj našega ljudstva in naših županstev.
+                  Hujskanje občin na nepokorščino proti najvišji avtonomni oblasti v deželi je
+                  podiranje edinega stebra na katerega se opirajo svoboščine in pravice našega
+                  ljudstva, in kdor to dela, zasluži soglasno obsodbo vsega slovenskega naroda. SKS.
+                  zato pozivlje vse občine, naj trdno sklenjene z deželnim odborom izvršujejo zvesto
+                  svoje težke in odgovornosti polne naloge v interesu našega ljudstva.</p>
+            </div>
+            <div xml:id="No.168.PPP.4">
+               <head>IV.</head>
+               <p>SKS. pozivlje svoje deželne poslance, da ustanove svoj klub, ki naj v slogi z
+                  deželnim odborom in z vodstvom SKS. Zastopa gospodarske in politične koristi
+                  našega ljudstva.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

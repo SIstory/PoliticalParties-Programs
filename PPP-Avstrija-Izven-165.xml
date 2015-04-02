@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programske usmeritve glasila nekdanjega načelnika Vseslovenske ljudske stranke
+               dr. Ivana Šusteršiča <q>Resnica</q> ob začetku njenega izhajanja 22. decembra
+               1917</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30906</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-165.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30906</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Naš program</title>
+               </analytic>
+               <monogr>
+                  <title>Resnica</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-IYM1KCOR</pubPlace>
+                     <date when="1917-12-22">22. 12. 1917</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.165.PPP">
+            <head>Naš program.</head>
+            <p>Beseda, ki stoji na čelu našega lista, izraža naš program: <hi rend="italic"
+                  >Resnica!</hi></p>
+            <p>Časnik, ki neustrašeno piše <hi rend="bold">resnico</hi>, je danes našemu narodu
+               poglavitna in neobhodna potreba. Kajti z žalostjo opažamo, da je merodajno slovensko
+               časopisje zgrešilo pot resnice in se podalo na pot lažnjivega pustolovstva. Ljudstvu
+               se resnica nalašč prikriva, meče se mu pesek v oči in umetno narejena domišljija,
+               zmota zapeljanih ljudij, naj nadomestuje moško zavednost zdravega, treznega in
+               poštenega naroda. <hi rend="bold">A gorje narodu, ki svoje ravnanje, hotoma ali
+                  zapeljan, uravnava na temelju laži!</hi> V tej nevarnosti je danes naš narod.</p>
+            <p>Proti tej nevarnosti ni drugega leka kot <hi rend="bold">resnica</hi>. Naš narod mora
+               resnico izvedeti in ima tudi pravico do nje.</p>
+            <p>S tem je označena naša naloga: povedati in razširjati hočemo <hi rend="bold"
+                  >resnico</hi>. Z bakljo resnice hočemo svetiti, neresnico in zmoto pobijati do
+               skrajnosti, <hi rend="bold">brez strahu navzgor in navzdol</hi>.</p>
+            <p>Ker je naš program resnica, je samo ob sebi umevno, da stojimo v verskem oziru <hi
+                  rend="bold">na stališču prave vere, ki jo uči rimsko-katoliška cerkev</hi>. Zato
+               se bodemo v vseh verskih zadevah brezpogojno pokoravali odredbam cerkvene oblasti.
+               Sicer pa bodemo varovali <hi rend="italic">svobodo naroda do samoodločbe v duhu prave
+                  in lojalne demokracije, v neomajni zvestobi do našega cesarja</hi>.</p>
+            <p>V narodnem oziru stojimo <hi rend="bold">na stališču deklaracije jugoslovanskih
+                  poslancev dné 30. maja 1917</hi>.<note place="foot" source="#SourceBornDigital"
+                  >Glej dok. št. 132.</note> Ta deklaracija velja za nas <hi rend="bold">v
+                  celoti</hi>, neprikrajšana. Vsak poskus, pačiti duha in besedilo te pomembne
+               izjave, hočemo pobijati z vso odločnostjo. Deklaracija mora biti resen realen
+               program, ne pa predmet frivolne igre za politične borzijance.</p>
+            <p><hi rend="bold">Z bakljo resnice</hi> hočemo posvetiti v tisti gospodarski ustroj, ki
+               se je umetno ustvaril med vojno v veliko škodo kmetovalcem in konsumentu. <hi
+                  rend="bold">Vojnim centralam in rekvizicijam bo veljala naša najostrejša
+                  kritika</hi>. Pripraviti moramo prehod k pravilnemu mirovnemu gospodarstvu, kar bo
+                  <hi rend="bold">v korist vsem stanovom</hi>.</p>
+            <p>Vsa ostrina našega boja bo veljala <hi rend="bold">vojnim hujskarijam</hi>. Skrajni
+               čas je, da je vojske konec – in največji hudodelec je danes, ki dela za podaljšanje
+               vojske. <hi rend="bold">Tu dobiti prave krivce in jih razkrinkati pred ljudstvom, bo
+                  naša najnujnejša naloga</hi>.</p>
+            <p>Brez strahu in brez strasti, polni ljubezni do ljudstva gremo na delo.</p>
+            <byline>Uredništvo <title>Resnice</title>.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>

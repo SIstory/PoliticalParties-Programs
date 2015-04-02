@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o visokem in srednjem šolstvu, sprejeta na II. shodu
+               narodno-radikalnega dijaštva 5.– 8. septembra 1907 v Celju</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <persName>Mojca Šorn</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:30891</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Izven-150.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:30891</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca
+                     1907</title>
+               </analytic>
+               <monogr>
+                  <title>Omladina</title>
+                  <title>glasilo narodno-radikalnega dijaštva</title>
+                  <imprint>
+                     <biblScope unit="volume">IV</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-ROFPK0KS</pubPlace>
+                     <date when="1907">1907</date>
+                     <biblScope unit="page">144</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
+            <gap reason="irrelevant"/>
+            <div>
+               <head n="F.">Resolucije šolskega odseka.</head>
+               <list xml:id="No.150.PPP" type="ordered">
+                  <item n="I.">Ponavljamo z vso odločnostjo svojo zahtevo po slov. visoki
+                     šoli.</item>
+                  <item n="II.">Zahtevamo, da se z ozirom na vzgojo značajev in na strokovno
+                     izobrazbo, <hi rend="italic">popolnoma</hi> poslovenijo vse gimnazije, realke
+                     in učiteljišča na slovenskem ozemlju ter da se ustanovi potrebno število <hi
+                        rend="italic">novih</hi> slov. srednjih šol. Predvsem zahtevamo izpopolnitev
+                     celjskih slovensko-nemških gimnazijskih razredov v samostojno, popolno
+                     slovensko gimnazijo.</item>
+                  <item n="III.">Povdarjamo važnost ženske izobrazbe. Opozarjamo na edino žensko
+                     srednjo šolo v <placeName>Ljubljani</placeName> ter priporočamo ustanavljanje
+                     slovenskih gospodinjskih šol, na katerih si naj naraščaj narodnega ženstva
+                     pridobi poleg gospodinjske spretnosti zlasti umstveno in čuvstveno izobrazbo
+                     ter se navzame narodnega duha.</item>
+                  <item n="IV.">Za gospodarski napredek slovenskega naroda vidimo prvi pogoj v
+                     strokovni izobrazbi. Priporočamo ustanavljanje sloven. obrtnih, trgovskih in
+                     kmetijskih šol ter smatramo zlasti ustanovitev slovenske kmetijske šole na
+                        <placeName>Štajerskem</placeName>, trgovske šole v
+                        <placeName>Ljubljani</placeName> ter razširitev obrtne šole istotam za nujno
+                     potrebno.</item>
+               </list>
+            </div>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>
