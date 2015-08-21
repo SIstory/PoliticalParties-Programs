@@ -13,6 +13,7 @@
             <respStmt>
                <persName>Andrej Pančur</persName>
                <persName>Mojca Šorn</persName>
+               <persName>Neja Blaj Hribar</persName>
                <resp>Kodiranje TEI in računalniški zapis</resp>
             </respStmt>
          </titleStmt>
@@ -50,6 +51,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change when="2015-07-27">
+            <name>Neja Blaj Hribar</name>: dodani geogName in orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <front>
@@ -67,7 +73,7 @@
             <div>
                <head>Kaj hočemo</head>
                <head>Poslanica slovenski mladini</head>
-               <list type="simple">
+               <list rend="simple">
                   <item>Kaj hočemo</item>
                   <item>Naše filozofično stališče nasproti liberalizmu, klerikalizmu in socialni
                      demokraciji</item>
@@ -79,7 +85,7 @@
             <div xml:id="No.138.PPP.1">
                <head>Zakaj in komu izdajemo to <q>Poslanico</q>?</head>
                <p>Dne <date when="1900-09-12">12. septembra 1900</date>. l. smo imeli v ljubljanskem
-                  Narodnem Domu zaupen shod, na katerem smo se pogovorili o naših težnjah,
+                  <orgName>Narodnem Domu</orgName> zaupen shod, na katerem smo se pogovorili o naših težnjah,
                   formulirali, kaj hočemo, ter precizirali svoje stališče s strani filozofične,
                   gospodarsko-socialne in politične nasproti liberalizmu, klerikalizmu in socialni
                   demokraciji, ozirajoč se posebno še na naše domače razmere. Po tem shodu so od
@@ -568,7 +574,7 @@
                <p>Z dovoljenjem pisateljevim prevel <hi rend="italic"><placeName>Dragotin
                         Lončar</placeName></hi>.<note place="foot"><hi rend="italic">Opomba
                         prelagateljeva</hi>. Dr. <persName>Fr. Drtina</persName> je profesor
-                     filozofije in pedagogike na češki univerzi v <placeName>Pragi</placeName>.
+                     filozofije in pedagogike na <orgName>češki univerzi</orgName> v <placeName>Pragi</placeName>.
                      Podrobneje je proučaval francosko šolstvo, v filozofiji pa je zlasti znan kot
                      poznavalec krščanstva in srednjeveške dobe. Prof. <persName>Drtina</persName>
                      je sourednik filozofičnega lista <title>Češká Mysl</title>. Spis <title>Ideali
@@ -681,9 +687,9 @@
                         hudemu v srečnem pričakovanju blaženosti in popolnosti v posmrtnem življenju
                         – to je ideal krščanskega življenja in krščanske vzgoje.</p>
                      <p>In ta vzgoja, katere ideal sem kratko naznačil, je bila izročena izključno
-                           <hi rend="italic">cerkvi</hi>. Cerkev si je sploh znala neomejeno
+                           <hi rend="italic">cerkvi</hi>. <orgName>Cerkev</orgName> si je sploh znala neomejeno
                         ohraniti svojo suvereniteto i v znanosti i v umetnosti skozi celi srednji
-                        vek. Pod pokroviteljstvom cerkve so nastale <hi rend="italic">samostanske in
+                        vek. Pod pokroviteljstvom <orgName>cerkve</orgName> so nastale <hi rend="italic">samostanske in
                            katedralne</hi> (pri škofovskih stolicah) šole, obojih namen pa je bil v
                         prvi vrsti, vzgajati popolne duhovnike, v drugi vrsti šele zunanje
                         posvetnjake. Zato je bil važen razloček med <hi rend="italic"
@@ -715,7 +721,7 @@
                         podjarmljenega človeštva je niso bile deležne. <hi rend="italic"
                               ><persName>Karol Veliki</persName></hi> je sicer mislil na enotno
                         narodno šolstvo, ki bi bilo seveda pod cerkvenim nadzorstvom in širilo
-                        elementarno izobrazbo v vse sloje – toda cerkev ni porabila njegove misli.
+                        elementarno izobrazbo v vse sloje – toda <orgName>cerkev</orgName> ni porabila njegove misli.
                         Krščanstvo je povzdignilo <hi rend="italic">položaj žene</hi> v družinskem
                         življenju in v človeški družbi – toda kolikor je cerkev skrbela za dekliško
                         vzgojo, ni imela ravno namena, pripravljati žensko za družinsko življenje
@@ -812,8 +818,8 @@
                   <div>
                      <head>III.</head>
                      <p>Pokazal sem, da sta bila vzgoja in šolstvo v srednjem veku popolnoma v
-                        oblasti cerkve; z renesanco in reformacijo je pa nastala korenita
-                        izprememba, ki si je prizadevala, da <hi rend="italic">odvzame cerkvi
+                        oblasti <orgName>cerkve</orgName>; z renesanco in reformacijo je pa nastala korenita
+                        izprememba, ki si je prizadevala, da <hi rend="italic">odvzame <orgName>cerkvi</orgName>
                            vzgojo</hi>. Ta razvoj, odvzeti cerkvi vzgojo, se je vršil sicer vsa
                         stoletja, toda šele na <date>koncu 18. stoletja</date> moremo zaznamovati
                         končno njegovo zmago. S tem je v zvezi to, da je nehalo biti ideal življenja
@@ -824,7 +830,7 @@
                         zopet na zemlji zadostni cilj življenskega prizadevanja in se vrača k
                         staroveškemu idealu, le da je ta ideal poplemenitila in povzdignila
                         krščanska ljubezen.</p>
-                     <p>Namesto cerkve kot vzgojevalnega organa nastopa polagoma <hi rend="italic"
+                     <p>Namesto <orgName>cerkve</orgName> kot vzgojevalnega organa nastopa polagoma <hi rend="italic"
                            >država</hi>. Ta ustanavlja in vzdržuje šole raznih stopinj ter določuje
                         učne predmete in smer učenja.</p>
                      <p>Naturalistično naziranje sveta in človeškega življenja prihaja zopet na
@@ -953,7 +959,7 @@
                         vzgojo. Le slučajni nedostatek je, ako zamre v človeku njegova prirojena
                         razumnost. Vzgoja se smatra kot <hi rend="italic">čudežno sredstvo</hi>, s
                         katerim je mogoče doseči krepost, pravičnost in brezkončno blaginjo vsakega
-                        posameznika. Zato padajo Rousseauove vzgojevalne ideje na tako rodovitna tla
+                        posameznika. Zato padajo <persName>Rousseauove</persName> vzgojevalne ideje na tako rodovitna tla
                         in delujejo naravnost revolucijsko.</p>
                   </div>
                   <div>
@@ -990,7 +996,7 @@
                            >prirodno pravo</hi> človeka, ki postaja v zvezi z načeli francoske
                         revolucije, z enakostjo in svobodo vseh posameznikov, temeljna dogma moderne
                         državne ustave. Razglasitev človeških prirodnih pravic z leta
-                           <date>1789</date>. je najvažnejša izjava minolega stoletja, ki si
+                           <date when="1789">1789</date>. je najvažnejša izjava minolega stoletja, ki si
                         prizadeva, da bi bila i država zracionalizovana, t. j. da bi bila nje uredba
                         v soglasju z zahtevami prirodnega razuma.</p>
                      <p>In tako se vse racionalizuje. Vse dosedanje, kar je historičnega, vse to,
@@ -999,7 +1005,7 @@
                         metrična mera, decimalni sistem, Francosko se razumno deli namesto slučajnih
                         provincij v departemente – da, v prepričanju, da nastaja nova, krasnejša
                         doba evropskega ljudstva, se začenja novo letoštetje od l.
-                        <date>1791</date>., nova era – prirodne vlade obožavanega razuma, ki prinese
+                        <date when="1791">1791</date>., nova era – prirodne vlade obožavanega razuma, ki prinese
                         človeštvu zaželeni raj.</p>
                      <p>Glavno dva moža sta se poprijela dela, da bi uresničila vzgojevalni ideal
                         razsvetljene dobe, <hi rend="italic"><persName>Basedow</persName></hi> in
@@ -1170,7 +1176,7 @@
                         oči proti nebu – tem bolj pa se je oprijel pozitivne strani krščanstva in v
                         dejanski ljubezni k bližnjemu vidi možnost spasenja. Gre nam za verski in
                         nravni življenski preporod. Ne mislim naštevati vseh pojavov, ki spadajo
-                        sem: edina pomenljiva postava <hi rend="italic">L. N. Tolstega</hi> nam pove
+                        sem: edina pomenljiva postava <hi rend="italic"><persName>L. N. Tolstega</persName></hi> nam pove
                         mnogo. Ta častivredni mislec je podoben proroku, ki kaže vsemu človeštvu pot
                         v obljubljeno deželo.</p>
                      <p><hi rend="italic">Verska strpnost</hi>, tako drago priborjena, je šele
@@ -1267,7 +1273,7 @@
                         pridobitev, kajti to znanje je danes pred drugim važen činitelj moderne
                         izobrazbe. Brez tehničnih vednosti je človek tujec v lastni hiši, živi
                         enostransko v preteklosti, zna morebiti konstruirati in narisati most, ki ga
-                        je postavil <persName>Caesar</persName> čez Reno – toda o velikih sodobnih
+                        je postavil <persName>Caesar</persName> čez <geogName>Reno</geogName> – toda o velikih sodobnih
                         stavbenih delih nima niti pojma. Enostranski historizem naše šolske vzgoje
                         se mora zmanjšati. Resnica je, da je zgodovina učiteljica življenja; i
                         lastno dobo umeva človek le kot posledico zloženega razvoja preteklosti.
@@ -1352,11 +1358,11 @@
                            uredbi šolstva odločuje po svojih lastnih potrebah, po tem, kak značaj
                            imajo ideje in kultura njegove dobe</hi>.</p>
                      <p>Dolga stoletja je bilo vse šolstvo izključno pod nadzorstvom in pravno močjo
-                        cerkve. Dandanes je ureja država. Obe nujno uvajata v šolstvo enotnost in
+                        <orgName>cerkve</orgName>. Dandanes je ureja država. Obe nujno uvajata v šolstvo enotnost in
                         enakomernost, vsled tega tiči mehanično v ohranjenih tradicijah. Šolstvo se
                         more uspešno razvijati v zmislu kulturnega napredka le na temelju svobode,
                         samostojnosti, samouprave. Naloga današnje dobe je, osvoboditi šolstvo ne le
-                           <hi rend="italic">od cerkve</hi>, ampak po notranji strani (t. j. po
+                           <hi rend="italic">od <orgName>cerkve</orgName></hi>, ampak po notranji strani (t. j. po
                         vzgojevalni in poučevalni strani) tudi <hi rend="italic">od države</hi> in
                         mu pridobiti tako samostojnost in neodvisnost kot lastni kulturni in
                         prosvetni instanci podobno, kakor se priznava samostojnost sodništvu.</p>
@@ -1380,7 +1386,7 @@
                            svet, ki bi postal lastno kulturno in prosvetno središče narodnega
                            življenja</hi> in pazni čuvaj tega, da bi hodilo šolstvo vedno krepko
                         naprej po poti napredka. Le notranja sila in izobrazba, kakor je zahteval
-                        Havliček, nam pridobita svobodo in samostojnost.</p>
+                        <persName>Havliček</persName>, nam pridobita svobodo in samostojnost.</p>
                   </div>
                </div>
             </div>
