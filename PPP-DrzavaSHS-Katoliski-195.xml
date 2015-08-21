@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucije krščanskosocialnega delavstva, sprejete na shodu Jugoslovanske strokovne zveze 
+               22. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31127</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-195.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31127</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Jugoslovanska Strokovna Zveza</title>
+               </analytic>
+               <monogr>
+                  <title>Naša moč</title>
+                  <title>glasilo slovenskega delavstva</title>
+                  <imprint>
+                     <biblScope unit="volume">XIII</biblScope>
+                     <biblScope unit="issue">53</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-CNYHKNCE</pubPlace>
+                     <date when="1918-11-29">29. 11. 1918</date>
+                  </imprint>   
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <opener><title>Naše zahteve.</title>
+            Na shodu J. S. Z. v petek dne 22. novembra 1918, ki ga je vodil posl. Gostinčar in na katerem so poročali: urednica Ivanka Klemenčič, Janez Gostinčar in Alojzij Kocmur, debate se pa udeleževala Komljanec in Kremžar, se je soglasno sklenilo, da se odpošlje Narodni vladi SHS sledeči dopis:
+            St. 9517 <orgName>Narodni vladi <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName>.
+           Jugoslovanska Strokovna Zveza je sklenila na svojih shodih resolucije, ki jih predlagamo s prošnjo, da jih blagovoli Narodna vlada SHS v Ljubljani uveljaviti. Resolucije slovejo:</opener>
+         <div xml:id="No.195.PPP">
+            <div>
+               <head>DELAVSKE ZAHTEVE</head>
+               <p>
+                 <hi n="1." rend="italic">Politične pravice.</hi>
+               </p>
+               <p rend="italic">Zahtevamo:</p>
+               <list rend="numbered">
+               <item n="1.">Vso postavodajo naj preveva socialni duh, z drugo besedo: Vsa postavodaja naj sloni na krščanskih načelih.</item>
+               <item n="2.">Splošno in enako, direktno in tajno, aktivno in pasivno volilno pravico po proporčnem načinu za moške in ženske v vse postavodajne in avtonomne zbore.</item>
+               <item n="3.">Zborovalno svobodo.</item>
+               <item n="4.">Svobodno združevanje.</item>
+               <item n="5.">Svobodo tiska in svobodno kolportažo.</item>
+               <item n="6.">Odpravo smrtne kazni.</item>
+               <item n="7.">Zahtevamo republiko.</item>
+               </list>
+               <p>
+                  <hi n="2." rend="italic">Delavsko varstvo.</hi>
+               </p>
+               <p rend="italic">Zahtevamo:</p>
+               <list rend="numbered">
+                  <item n="1."><p>Delavske svete in državni delavski svet. Delavski sveti naj se volijo po okrajih in po strokah in sicer po proporčnem načinu.</p>
+               <p>Naloga krajevnih svetov je, urejevati razmere delavstva do podjetnikov, izdelovati načrte zakonov, ki so v korist delavstva, nadzirati, kako se zakoni glede delavskega zavarovanja izvršujejo, v spornih zadevah med delavci in delodajalci oddajati svoja mnenja, urejevati plače; državni svet ima nalogo izdelati in državnem zboru predlagati vse zakonske načrte, ki se tičejo delavstva, oddajati razsodbe v spornih točkah med delavci in podjetniki.</p>
+               <p>Krajevni delavski svet vodi krajevno, državni delavski svet pa državno posredovalnico za delo.</p>
+               <p>V krajevni svet spadajo tudi delavski nadzorniki in nadzornice, ki jih delavstvo samo voli, a jih država plačuje, kakor tudi zdravniki, ki imajo dolžnost skrbeti za delavsko varstvo in higijeno.</p></item>
+               <item n="2.">Uvede naj se najvišji osemurni delavnik povsod, razen pri poljedelskih delavcih.</item>
+               <item n="3.">Odpravijo se delavske in poselske knjižice.</item>
+               <item n="4.">Uvede se brezpogojno popolni nedeljski počitek.</item>
+               <item n="5.">Vsak delavec ima pravico vsako leto do najmanj štirinajstdnevnega plačanega oddiha.</item>
+               <item n="6.">Zahteva se varstvo mladoletnih delavcev. Pred 14. letom ne sme nikdo v delo.</item>
+               <item n="7.">Določi se v vseh strokah minimalna delavska plača, pod katero ne sme nikdo delavca plačevati. Minimalne delavske plače določajo krajevni delavski sveti, krajem, delu in življenjskim potrebam primerno.</item>
+               <item n="8.">Prepove se žensko delo pri težkih in nevarnih strojih. O tem odločajo krajni delavski sveti.</item>
+               <item n="9.">Prepove se vsako ponočno delo, ki ni vsled dela samega neobhodno potrebno. O tem odločajo krajni delavski sveti.</item>
+               <item n="10.">Pripoznajo se strokovne delavske organizacije.</item>
+               <item n="11.">Podjetja, ki so za splošnost življenjskega pomena, naj se podržavijo.</item>
+               <item n="12.">Vse pravice, ki se tičejo delavskega zavarovanja, in si jih je delavstvo že pridobilo v bivših avstrijskih državnih in privatnih podjetjih, delavstvo tudi v novi državi obdrži. Te pravice se morajo ugotoviti po določbah novega delavskega zavarovanja.</item>
+               </list>
+               <p>
+               <hi n="3." rend="italic">Delavsko zavarovanje</hi>. </p>
+               <p rend="italic">Zahtevamo:</p>
+               <p>Ustanovi se državna prisilna zavarovalnica za vse delavstvo brez razlike, ali je delavstvo zaposleno v državnih ali privatnih podjetjih. Pod to zavarovanje spadajo tudi kmetijski in gozdarski delavci, posli in služkinje.</p>
+               <p>Zavarovalnino plačuje delodajalec iz svojega.</p>
+               <p rend="italic">Delavsko zavarovanje se deli:</p>
+               <list rend="numbered">
+               <item n="A.">Bolniško zavarovanje.</item>
+               <item n="B.">Nezgodno zavarovanje v slučaju onemoglosti.</item>
+               <item n="C.">Starostno zavarovanje.</item>
+               <item n="D.">Brezposelno zavarovanje.</item>
+               </list>   
+               <list rend="numbered">
+                  <item n="A." rend="italic">Bolniško zavarovanje.
+                     <list rend="numbered">                  
+               <item n="1.">Bolnišnina naj bo enaka plači, ki jo ima delavec in sicer za ves čas bolezni.</item>
+               <item n="2.">Delavec voli prosto zdravnika, do katerega ima zaupanje.</item>
+               <item n="3.">Pravico do brezplačne zdravniške oskrbe in brezplačnih zdravil imej tudi delavčeva družina.</item>
+               <item n="4.">Porodnicam se dovoli daljši dopust pred in po porodu. Za porodnice se zviša bolnišnina za 50 odstotkov.</item>
+               <item n="5.">Za slučaj, da mati svojega otroka ne more imeti pri sebi, ga odda v državni zavod za rejenčke. Da more mati večkrat obiskati svojega otroka, se ji da prosta vožnja po železnici tja in nazaj. Tak zavod bodi brezplačen.</item>
+               <item n="6.">Zdravniki naj zdravijo po načelih vede in vesti.</item>
+               <item n="7.">Bolnišnice naj bodo v pravem pomenu besede dobrodelni zavodi.</item>
+               <item n="8.">Država naj ustanovi delavska zdravilišča, toplice itd., ki naj bodo brezplačne.</item>
+                 </list></item>
+                 <item n="B." rend="italic">Zavarovanje za slučaj onemoglosti in nezgode.
+                 <list rend="numbered">
+               <item n="1.">Nezgodno zavarovanje bodi tako urejeno, da v tem oziru odloča vedno le zdravniška komisija z delavskim zastopstvom.</item>
+               <item n="2.">V slučaju, da je delavec popolnoma nezmožen za delo in navezan na tujo pomoč (postrežbo), naj se mu odmeri en- in polkratna renta v višini njegovega zaslužka.</item>
+               <item n="3.">Nezgodna renta naj se ureja in povišuje od časa do časa tako, kakor naraščajo delavske plače.</item>
+               <item n="4.">Onemoglost spada pod nezgodno zavarovanje.</item>
+                 </list></item>
+                 <item rend="italic">C. Starostno zavarovanje.
+                   <p>Kdor dela gotovo vrsto let, ki se določajo delu primerno, imej pravico do penzije, ki ne sme biti nižja od njegove najvišje plače. Po smrti ali vsled nezgode umrlih zavarovancev se izplačuje penzija naprej njegovi ženi in njegovim nedoraslim otrokom.</p></item>
+               </list> 
+               <p><hi rend="italic">Izselništvo</hi></p>
+               <p>Vlada naj vso pozornost obrača na izseljevanje.</p>
+               
+            </div>
+            <div>
+               <head>ZAHTEVE SLOVENSKEGA KRŠČANSKO MISLEČEGA ŽENSKEGA DELAVSTVA</head>
+               <p>Zavedajoč se svojih nalog v sedanjem zgodovinskem trenutku, ugotavlja in naznanja slovensko krščansko misleče žensko delavstvo naslednje svoje zahteve:</p>
+               <list rend="numbered">
+               <item n="I.">
+               <p>V globokem prepričanju, da je za srečno in harmonično uredbo notranjih razmer v svobodni <placeName>jugoslovanski državi</placeName>, kakor tudi za miroljubno vodstvo zunanje politike, nujno potrebno, da se v zakonodaji in upravi uveljavi tudi ženski duh;</p>
+               <p>v zavesti, da nosimo in bomo morale tudi v bodoče nositi vsa bremena, ki jih država nalaga svojim državljanom;</p>
+               <p>v trdni volji, da vestno in v polni meri vršimo vse državljanske in socialne dolžnosti;</p>
+               <p>zahtevamo <hi rend="italic">splošno in enako, aktivno in pasivno volilno pravico za ženske</hi>, katero zahtevo je z navdušenjem sprejel že veliki II. vseslovenski krščansko-socialni delavski shod v <placeName>Preski</placeName> 
+                  <date when="1906">leta 1906</date>.</p></item>
+               <item n="II.">
+               <p>Stoječ na stališču, da je materinstvo in z njim združeno gospodinjstvo prvi in glavni poklic žene;</p>
+               <p>v prepričanju, da mora ostati družina, ako človeška družba noče razpasti, temelj vsega</p>
+               <p>družabnega reda;</p>
+               <p>v prepričanju, da je žena-mati duša in vogalni kamen družine;</p>
+               <p>zavedajoč se, da more biti kos velikim nalogam in dolžnostim, ki izvirajo iz tega njenega stališča v družini, le vsestransko izobražena in izvežbana žena, – </p>
+                  <p>zahtevamo <hi rend="italic">obvezen gospodinjski pouk</hi> na ljudskih in nadaljevalnih šolah ter gospodinjske tečaje za starejše delavke.</p></item>
+               <item n="III.">
+               <p>Ker gospodarske razmere ne dopuščajo, da bi ostalo dekle do poroke brez lastnega zaslužka v domači hiši;</p>
+               <p>ker je dalje dosega zakona za večino deklet popolnoma negotova;</p>
+               <p>ker mora zlasti med proletariatom večina žena tudi v zakonu prispevati s svojim zaslužkom za vzdrževanje družine, v slučaju moževe smrti je pa dostikrat navezana popolnoma sama nase, – </p>
+                  <p>zahtevamo, da se <hi rend="italic">tudi ženska mladina takoj po dovršitvi ljudske šole izobrazi za pridobiten poklic</hi>.</p></item>
+               <item n="IV.">
+               <p>V prepričanju, da je duševna in telesna sposobnost za poklic in temeljita strokovna izobrazba prvi pogoj za uspeh in napredek posameznika samega kakor tudi dela kot takega;</p>
+               <p>v prepričanju, da je le kvalitetno delo hvaležno;</p>
+               <p>zahtevamo, da se tudi ženski mladini v enaki meri kakor moški <hi rend="italic">preskrbe in odpro vse možnosti za temeljito strokovno izobrazbo: </hi>
+               </p>
+               <list>
+                  <item rend="italic">polna učna doba z zagotovitvijo vestnega praktičnega pouka na podlagi učne pogodbe; obvezne nadaljevalne šole ter strokovne šole in tečaji;</item>
+                  <item rend="italic">ustanov, podpor, domov za vajence in podobnih naprav naj bo deležna tudi ženska mladina;</item>
+                  <item>ustanove naj se oblastvene posvetovalnice za ženske poklice s posredovanjem vajeniških mest in raznih ugodnosti in podpore;</item>
+                  <item rend="italic">pravice do mojstrske izkušnje z vsemi pravicami, ki izvirajo iz nje.</item></list></item>
+               <item n="V.">
+                  <p>Odpravijo naj se delavske in poselske knjižice in redi.</p></item>
+               <item n="VI.">
+               <p>Zahtevamo, da se vzakoni najobsežnejše varstvo za mladostne osebe in delavke v nravnem, zdravstvenem in socialnem oziru.</p>
+               <p>Uvede naj se osemurni delavnik s prostim popoldnevom pred nedeljo in praznikom;</p>
+               <p>ženske plače naj se izenačijo z moškimi;</p>
+               <p>uvede naj se oblastveno posredovanje dela;</p>
+               <p>za obrate z ženskim osebjem naj se uvedejo obrtne nadzornice in nastavijo ženske kot delovodkinje in paznice.</p>
+               <p>Posebnega varstva zahtevamo za noseče in doječe matere; dobe naj primerno dolg dopust že pred porodom s polno podporo, da se tako omogoči, da bo mogla v bodoče tudi delavka-mati izpolniti do svojega otroka prvo materinsko dolžnost, da ga bo dojila; v to svrho je dolžna prispevati tudi država.</p></item>
+               <item n="VII.">
+               <p>Ustroj bolniških blagajn naj se izpopolni z vpeljavo zdravnic in nadzornic, kakor tudi bolniških strežnic, oziroma gospodinjskih pomočnic posebno za porodnice.</p>
+                  <p>Zahtevamo najobsežnejšega socialnega zavarovanja, ki obsegaj prav vse člane, posebno tudi ženske, delavnih slojev.</p></item>
+               <item n="VIII.">
+                  <p>Zahtevamo najobsežnejšega socialnega zavarovanja, ki obsegaj prav vse člane, posebno tudi ženske, delavnih slojev.</p></item>
+               <item n="IX.">
+               <p>
+                  <hi rend="italic">Vseh dobrin in svoboščin ženskega delavstva</hi>, bodisi glede strokovne izobrazbe, službenih odnošajev– s primerno prilagoditvijo posebnim razmeram v zasebnem gospodinjstvu, socialnega in bolniškega zavarovanja itd., <hi rend="italic">morajo postati deležne tudi hišne uslužbenke</hi>.</p></item>
+               <item n="X.">
+               <p>
+                  <hi rend="italic">V delavskih zbornicah in drugih delavskih zastopih morajo biti v polni meri zastopane tudi ženske</hi>.</p></item>
+               </list>
+            </div>
+            <div>
+               <head>ZAHTEVE DELAVSTVA Z OZIROM NA ZADRUŽNIŠTVO</head>
+               <p>Naša stara zakonodaja glede zadružništva še ni bila preslaba, to pa zato, ker je zadružništvo, kljub temu, da temelji na prastarih temeljih, samonasebi moderno in demokratično in ima svoje korenine v principu avtonomije zadrugarjev.</p>
+               <p>Vendar pa je tudi zadružni zakon več ali manj ukovan v verige stare birokratične <placeName>Avstrije</placeName> in zadružništvo v državni upravi ni imelo one zaslombe, kot bi jo moralo imeti z ozirom na njen socijalni pomen.</p>
+               <p>Takoj pri ustanovitvi je zadruga odvisna od sodne registracijske oblasti, katera pravila lahko potrdi, ali pa zahteva razne spremembe in utesnitve. Glede obrtov, ki so odvisni od posebne koncesije, je tudi zadrugi treba dobiti še posebnega dovoljenja politične oblasti.</p>
+               <p>Potem pride zopet davčna oblast, ki vsako leto pretiplje bilanco kot zdravnik bolnika in gleda, kje bi se dalo kaj izprešati.</p>
+               <p>Vsako leto se mora predlagati letna poročila in zapisnike občnih zborov vsem tem oblastem, ki tvorijo nekako kuratelo nad zadrugami.</p>
+               <p>Vse to ne odgovarja duhu časa, kajti če se postavimo na edino pravo stališče, da je zadruga eno skupno gospodinjstvo, četudi v večjem obsegu, potem ne vemo zakaj bi morali to gospodinjstvo kontrolirati državni organi oziroma državna oblast, zakaj bi se moralo od tega gospodinjstva plačevati posebne davke, zakaj bi moralo to gospodinjstvo prositi posebnega dovoljenja, da si sme kupiti ali izdelati in med seboj razdeliti na primer pijačo, meso itd.</p>
+               <p>Nasprotno je dolžnost socialne države tako delavsko zadružništvo podpirati in razširjati. To se mora še posebej zahtevati glede delavskih stavbinskih zadrug, katere ne morejo poslovati brez primernih in cenenih stavbišč.</p>
+               <p>Ker so delavska stanovanja tako velike važnosti za srečo delavske družine, se mora zahtevati v ta namen tudi pravica razlastitve, katero pravico ima država za javne ceste in stav-bišča že sedaj, treba je torej le izreči, da je tudi delavske hiše šteti med take javne potrebe.</p>
+               <p>Zadružništvo je naša stara vlada smatrala le kot potrebno zlo, kot neko stvar, katero je morala trpeti, ne pa kot velevažen del ljudskega gospodarstva in svobodnega združevanja. Da pride zadružništvo do svoje prave veljave, je treba to zadružništvo predvsem organizirati vskupni zadružni zbornici, podobno trgovskim in obrtnim zbornicam, katere zbornice naj bi bile tudi edina oblast nad zadrugami.</p>
+               <p>Če je potrebna trgovska zbornica kot reprezentantinja kapitala, koliko bolj je potrebna <hi rend="italic">zadružna zbornica</hi> kot reprezentantinja in zagovornica konzumenta in nesamostojnega obrtnika, združenega v zadrugah. Te zbornice naj bi imele predvsem namen združiti zadružništvo vseh struj in strok in kot močna zakonito priznana korporacija zastopati in podpirati vsestransko zadružništvo.</p>
+               <p>Z ozirom na to bi bile <hi rend="italic">naše zahteve</hi>, ki naj jih vpošteva narodna vlada, sledeče:</p>
+               <list rend="numbered">
+               <item n="1.">Zadružna zakonodaja naj se uredi tako, da se zagotovi zadružništvu svobodni razvoj in popolna avtonomija.</item>
+               <item n="2.">Ustanovi naj se podobno trgovskim in obrtnim zbornicam tudi Zadružna zbornica, v katero volijo po proporočnem sistemu odposlance vse zadruge po strokah in številu zadrug oziroma članov. Te zbornice naj bodo popolnoma avtonomne, naj bodo merodajne pri zadružni zakonodaji in vseh vprašanjih, ki se tičejo zadružništva. Te zbornice naj bi bile edina skupna revizijska oblast v njih okoliš pripadajočih zadrug.	
+                  Te zbornice naj bi vodile tudi sedaj pri sodišču se nahajajoč zadružni register.
+                  <p>Zadruge naj bi polagale vsako leto bilanco in zapisnik občnega zbora edino tem zbornicam, ne pa tudi davčnim in političnim oblastvom.</p></item>
+               <item n="3.">Zahteva se popolna davčna prostost vsega delavskega, osobito vsega delavskega konsumnega in stavbnega zadružništva.</item>
+               <item n="4.">Odpadejo naj vse omejitve glede delavskega ali obrtnega zadružništva, posebno določbe dosedanjega zadružnega zakona, po katerih je za razne stroke potrebno posebno dovoljenje (koncesija).</item>
+               <item n="5."><orgName>Delavska stavbinska društva</orgName> naj država podpira s posebnimi brezobrestnimi državnimi posojili in na pod gotovimi pogoji s pravico razlastitve in oddaje stavbnim zadrugam, za delavske hišice primernih stavbišč.</item>
+               <item n="6.">Namesto dosedanjega večkratnega jamstva, naj bi se določilo samo jamstvo v višini vplačanih deležev.</item>
+               <item n="7.">Država naj podpira delavsko zadružništvo s podporami, brezobrestnimi posojili in drugimi ugodnostmi. (Stavbna dovoljenja, razne olajšave glede obratovanja z brezplačno pridobitvijo strokovnjakov, da skrbi za potrebni zadružni pouk itd.).</item>
+               <item n="8.">V kolikor dosedanje zakonite določbe ne nasprotujejo tem načelom, naj bi se sprejele v novo zakonodajo.</item>
+               </list>
+            </div>
+         </div>
+       </body>
+   </text>
+</TEI>

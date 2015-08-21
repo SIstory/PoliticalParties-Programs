@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Program Narodne stranke za Kranjsko, sprejet na njenem ustanovnem shodu 29.
+               novembra 1894 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31135</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-Avstrija-Liberalni-050a.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31135</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>&quot;Narodna stranka&quot; na Kranjskem</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XXVII</biblScope>
+                     <biblScope unit="issue">276</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-ZG7N9AZD</pubPlace>
+                     <date when="1894-12-01">01. 12. 1894</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div>
+               <head>&quot;Narodna stranka&quot; na Kranjskem</head>
+               <gap reason="irrelevant"/>
+               <list rend="numbered" xml:id="No.50a.PPP">
+                  <item n="I.">Vsi za ohranitev slovenskega in hrvatskega naroda in njegove zemlje,
+                     za gojitev in nekršeno javno veljavo slovenske in hrvatske narodnosti,
+                     slovenskega in hrvatskega jezika vneti Slovenci in istrski Hrvatje, katerim je
+                     zlasti tudi pri srci, da se s primernimi sredstvi razvija kulturna vzajemnost z
+                     drugimi slovanskimi plemeni, naj se za odločno in neomahljivo delo v ta namen
+                     združijo in organizujejo po vseh <placeName>slovenskih pokrajinah</placeName>
+                     in v <placeName>Istri</placeName>.</item>
+                  <item n="II."><p>Slovenci, težeči po narodni avtonomiji, in istrski Hrvatje naj za
+                        sedaj v svoj politični in parlamentarni program vsprejmo vse one težnje,
+                        katere so določili slovenski in istrsko-hrvatski poslanci na shodu dne <date
+                           when="1890-10-02"> 2. oktobra 1890</date> v
+                           <placeName>Ljubljani</placeName>,<hi rend="superscript">
+                           <note place="foot" source="#SourceBornDigital"> Glej dok. št. 105.
+                           </note>
+                        </hi> katere pa še do danes niso izpolnjene.</p>
+                     <p>Slovenskemu in hrvatskemu uradovanju <orgName>vlada</orgName> več ali manj
+                        očito še vedno nasprotuje ter namešča v <placeName>slovenskih
+                           pokrajinah</placeName> in v <placeName>Istri</placeName> pri sodnih,
+                        kakor pri političnih in drugih oblastvih uradnike, našej narodnosti
+                        protivne, ne da bi bili niti vselej zmožni slovenskega, oziroma hrvatskega
+                        jezika v govoru in pisavi in ne da bi to zmožnost na zanesljiv način
+                        izkazali.</p>
+                     <p>
+                        <orgName>Vlada</orgName> tudi ne čuva nad tem, da bi se oblastva v
+                        poslovanji s slovenskim in hrvatskim prebivalstvom posluževala slovenskega,
+                        oziroma hrvatskega jezika. Le-to se opazuje skoro brez izjeme pri
+                        administrativnih oblastvih vseh stopinj in še celo v <placeName>kronovini
+                           kranjski</placeName>.</p>
+                     <p>Dopušča se dalje, da najvišje sodišče in višji deželni sodišči nasproti
+                        obstoječim zakonom in naredbam v slovenskih in hrvatskih pravnih stvareh ne
+                        izdajajo razsodeb in odlokov v slovenskem, oziroma hrvatskem jeziku in da se
+                        pri <orgName>sodiščih prve stopinje</orgName>, osobito izven
+                           <placeName>kronovine kranjske</placeName>, s slovenskimi in hrvatskimi
+                        strankami nasproti mnogim, v smislu člena 19 tem. zak. izdanim naredbam
+                        sestavljajo zapisniki in izdajajo razsodbe in odloki v nemškem ali
+                        italijanskem jeziku, in da se v ravno teh jezikih izdajajo obtožnice proti
+                        slovenskim in hrvatskim obdolžencem in vodijo obravnave, porotne in druge,
+                        celó s pripomočjo tolmačev. Tudi se pri <orgName>višjih deželnih
+                           sodiščih</orgName> ne imenuje zadostno število slovenščine, oziroma
+                        hrvaščine zmožnih votantov, kar občutno krati hitro in dobro judikaturo.
+                        Nadalje se opazuje, da se iz <placeName>slovenskega Štajerja</placeName>
+                        sistematično izrivajo slovenski sodni uradniki, čeprav so večkrat
+                        domačini.</p>
+                     <p>Ljudska šola še vedno ni vrejena na podlagi verskega izpovedanja in z
+                        izključljivo maternim kot učnim jezikom, pač pa so ljudske šole osobito na
+                           <placeName>slovenskem Koroškem</placeName> skoraj do cela nemške;
+                        slovensko prebivalstvo v <placeName>Trstu</placeName> in
+                           <placeName>Gorici</placeName> istotako za svoje otroke že več let brez
+                        vspeha zahteva slovenskih šol, in v javne, kakor tudi zasebne nemške in
+                        italijanske ljudske šole se vsprejemajo slovenski in hrvatski otroci.</p>
+                     <p>V <placeName>Istri</placeName> je posebno velik nedostatek hrvatskih,
+                        oziroma slovenskih ljudskih šol, ter se hrvatski in slovenski otroci mučijo
+                        z italijanskim poukom.</p>
+                     <p>Te za kulturno državo v mnogem oziru nečastne razmere na polji ljudskega
+                        šolstva imajo se prej kot prej odpraviti.</p>
+                     <p>Dopušča in po javnih funkcijonarjih se naravnost podpira pogubljivo
+                        germanizatorno delovanje nemškega »schulvereina«, ki načeloma zastavlja
+                        svoje moči za protikatoliško in protislovensko šolo, kakeršen namen ima tudi
+                        nič manj obsodbe vredna »lega nazionale«. Zategadelj in dokler se te
+                        krivične razmere temeljito ne izpremené, je vsakemu zavednemu Slovencu in
+                        Hrvatu prva dolžnost, da se s polno ljubeznijo okleneta naših predragih nam
+                           <orgName>družb sv. Cirila in Metoda</orgName>, ki ju s tem goreče
+                        priporočamo vsemu slovenskemu in hrvatskemu narodu; hkrati pa se odločno
+                        protestuje zoper to, da se mora v Slovencih, to zlasti izven
+                           <placeName>Kranjske</placeName>, in v istrskih Hrvatih skoro povsod še
+                        vedno zgol narodna požrtovalnost boriti za ono pravično vrejeno ljudsko
+                        šolstvo, katero ustanavljati, vzdrževati in braniti je dolžnosti javnih, po
+                        zakonu poklicanih faktorjev.</p>
+                     <p>Istotako se je nam potegovati, da se zakonitim potom zabrani, da bi se v
+                        ljudske šole vsprejemali otroci, ki niso vešči učnemu jeziku, dasi imajo pri
+                        roki šole z maternim učnim jezikom.</p>
+                     <p>Vrhu tega se je v najnovejšem času za <placeName>Štajersko</placeName>
+                        izvršilo imenovanje v nadzorstvo za ljudske šole, po katerem se tamošnje
+                        slovensko ljudsko šolstvo naravnost v nevarnost postavlja.</p>
+                     <p>Za štajerske in koroške Slovence je pa sploh vitalnega pomena, da se
+                           <orgName>deželni šolski sveti</orgName> v smislu Ljubljanskega programa z
+                        dné <date when="1894-10-02">2. oktobra 1890</date>
+                        <hi rend="superscript">
+                           <note place="foot" source="#SourceBornDigital"> Glej dok. št. 105.
+                           </note>
+                        </hi> razdelé ter tako odstrani terorizovanje Slovencev po brezozirnih
+                        nemških večinah v dotičnih <orgName>deželnih šolskih svetih</orgName>.</p>
+                     <p>Ravno tako se naše srednje šolstvo od strani vlade zanemarja ter se odklanja
+                        ne samo potrebna ustanovitev slovenskih srednjih šol ter hrvatske gimnazije
+                        v <placeName>Pazinu</placeName>, nego celo ustanovitev slovenskih oziroma
+                        hrvatskih vsporednic na nižjih oddelkih gimnazij v
+                           <placeName>Celji</placeName>, v <placeName>Gorici</placeName>,
+                           <placeName>Trstu</placeName>, <placeName>Pulji</placeName> in
+                           <placeName>Kopru</placeName>. In na <orgName>realki Ljubljanski</orgName>
+                        je vsporednica za Slovence le v tem različna od vsporednice za Nemce, da se
+                        veronauk poučuje slovenski ter je slovenščina obvezen učni predmet. Narodne
+                        srednje šole ali vsporednice so potrebne zlasti zaradi tega, ker se drugače
+                        protivno členu 19. tem. zak. sili slovenska in hrvatska deca v pripravljalne
+                        razrede ter se takó Slovenci in Hrvatje postavljajo v drugo vrsto
+                        narodov.</p>
+                     <p>Za nujno potrebno se smatra, da ustanovi <orgName>vlada</orgName> v
+                           <placeName>Ljubljani</placeName> strokovno šolo za stavbinski obrt,
+                        oziroma da ustanovi višjo državno obrtno šolo s stavbinsko-tehničnim
+                        značajem s slovenskim učnim jezikom.</p>
+                     <p>Meščanske, niti trgovske slovenske šole nimamo.</p>
+                     <p>Naglašajoč te zahteve kakor najnujnejše, pozivljejo se slovenski in hrvatski
+                        deželni in državni poslanci, da se združeni z vso odločnostjo potezajo za
+                        izpolnjenje teh zahtev ter za to, da se odpravijo navedene, našej narodnosti
+                        škodljive, zakonom in naredbam protivne razmere. Oni se dalje pozivljejo, da
+                        se v pospeševanje in olajšavo povoljnega rešenja teh zahtev potezajo za
+                        izvršitev vseh, v omenjenem programu z dné <date when="1894-10-02">2.
+                           oktobra 1890</date>
+                        <hi rend="superscript">
+                           <note place="foot" source="#SourceBornDigital"> Glej dok. št. 105.
+                           </note>
+                        </hi> nasvetovanih sredstev.</p>
+                     <p>Delovati je torej povsod na to, da se poverijo z deželno-zborskimi ali
+                        državno-zborskimi mandati samó taki možje, ki se zavežejo, odločno in
+                        dosledno zastopati označene narodne težnje.</p></item>
+                  <item n="III.">Sploh bodi vsakega Slovenca in Hrvata dolžnost, da zvršuje svoje
+                     politične pravice v smislu tega programa, da svojemu jeziku daje veljavo pri
+                     vsaki priliki in da snuje ali podpira socijalna, kulturna in gmotna podjetja
+                     narodnih Slovencev in Hrvatov.</item>
+                  <item n="IV."><p> Koalicija parlamentarnih strank, podpirajoča
+                           <orgName>vlado</orgName>, katera zahteva, da mirujejo večja politična
+                        vprašanja, kakeršno je brez dvojbe tudi narodno vprašanje, je izvršenju
+                        našega narodnega programa kvarna, in vsi naši zastopniki bi jo morali
+                        pobijati. Postopanje slovenskih državnih poslancev, stoječih izven
+                        koalicije, se torej odobrava, koalirani slovenski poslanci, kateri so se
+                        zavezali izstopiti iz koalicije, če se jim od vladne strani ne da poroštva
+                        za ugodno rešitev narodnih teženj, se pa pozivljejo, da izstopijo iz
+                        koalicije, in to ne samo radi tega, ker se to poroštvo ni dalo in se ga tudi
+                        v bodoče ni nadejati, nego tudi zato, ker se s koalicijo načelno vzdržuje
+                        protislovanski sistem. Najnovejši dogodki proti dvojezičnim napisom na
+                        sodnih poslopjih v <placeName>Istri</placeName> pričajo, kako protivna je
+                        koalicija narodni jednakopravnosti in dokazujejo, da slovenski, v koaliciji
+                        stoječi poslanci še tej trohi jednakopravnosti do veljave pripomoči ne
+                        morejo.</p></item>
+                  <item n="V."><p>Slovenci in istrski Hrvatje kot versko-nravstveno in dinastično
+                        čuteči narod zahtevajo izvedbo politične jednakopravnosti, zlasti uvedbo
+                        občne volilne pravice in pravično uredbo volilnih okrajev. Dalje naj se vsa
+                        skrb obrača na zdrav napredek narodnega gospodarstva, zlasti na nezavisnost
+                        od tujega kapitala, podpiraje slovenske in hrvatske posojilnice in
+                        hranilnice, katerim bodi <orgName>mestna hranilnica Ljubljanska</orgName>
+                        središče – in na zboljšanje gospodarskih razmer poljedelskega, trgovskega,
+                        obrtnega in delavskega stanu.</p>
+                     <p>V tem oziru se z veseljem pozdravlja krščansko-socijalno gibanje.</p></item>
+                  <item n="VI."><p>Konštatuje in obžaluje se, da se je deloma osobito na
+                           <placeName>Kranjskem</placeName> zapustil slovenski narodni program, a
+                        ustvaril drug program, v katerem se slovenska narodnost ne nahaja kot smoter
+                        in kateri daje potuho popustljivosti in brezbrižnosti v narodnih vprašanjih,
+                        kakor osobito na obžalovanja vreden način dokazuje od <orgName>slovenskega
+                           deželnega odbora kranjskega</orgName> izdana in od one strani odobravana
+                        prepoved samoslovenskih uličnih napisov v
+                        <placeName>Ljubljani</placeName>.</p>
+                     <p>Priznavajo se pa načela katoliške vere kot trden temelj razvoju slovenskega
+                        naroda, ter se izreka želja, da bi na tej in na narodni podlagi zložno
+                        sodelovali vsi Slovenci v težkem boji za narodov obstanek.</p></item>
+                  <item n="VII."><p>Sedaj organizovano delovanje v vse te namene na
+                           <placeName>Koroškem</placeName>, <placeName>Primorskem</placeName> in
+                           <placeName>Štajerskem</placeName> naj pripoznajo in krepko podpirajo vsi
+                        Slovenci in Hrvatje.</p>
+                     <p>Na <placeName rend="italic">Kranjskem</placeName> pa naj se v iste namene
+                        združijo in organizujejo vsi Slovenci pod starim imenom slovenskih
+                        rodoljubov kot <orgName>»narodna stranka«</orgName>; njeno delovanje naj <hi
+                           rend="italic">vkupno z </hi>
+                        <orgName rend="italic">odborom zaupnih mož</orgName> vodi <orgName
+                           rend="italic">zvršilni odbor</orgName> v
+                        <placeName>Ljubljani</placeName>, kateri bode tudi v neprestani delavni
+                        dotiki in vzajemnosti s političnimi vodstvi izvenkranjskih Slovencev,
+                        oziroma istrskih Hrvatov.</p>
+                     <p>V dosego organizovanja narodnega dela in vzajemnosti med nami v vseh
+                        pokrajinah naj se skrbi za jednotno postopanje narodnega časnikarstva in za
+                        krepko podporo istemu v duševnem in gmotnem oziru. Posebno naj se skrbi za
+                        ustanovo skupnega organizacijskega fonda.</p></item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

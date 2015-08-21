@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o obliki vladavine v Jugoslovanski državi, sprejeta na posvetu razširjenega načelstva Vseslovenske ljudske stranke 
+               21. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31122</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-190.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31122</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">269</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-21">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</head>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.190.PPP">
+            <list rend="numbered">
+            <item n="I.">
+            <p><orgName>V. L. S.</orgName> navdušeno pozdravlja ustanovitev <placeName>jugoslovanske države</placeName>, ki je vsa tri plemena jugoslovanskega naroda, ločena skozi stoletja, združila v eni samostojni in svobodni državi.</p></item>
+            <item n="II.">
+            <p><orgName>V. L. S.</orgName> hoče po uspešni borbi za narodno samostojnost v najtesnejši zvezi z ostalimi demokratičnimi elementi našega troimenega naroda truditi se, da se ustvari krepka, to je na trdnih temeljih demokracije sloneča zgradba nove države. Za zmago demokratičnega načela bo <orgName>V. L. S.</orgName> razvila vse svoje moči.</p></item>
+            <item n="III.">
+            <p><orgName>V. L. S.</orgName> izjavlja, da je za republiško obliko vladavine, povdarjajoč, da vidi pred vsem v taki obliki vladavine garancijo za demokratičen ustroj države.</p></item>
+            </list>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

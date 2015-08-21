@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programske misli Preporodovcev, predstavljene ob začetku izhajanja njihovega glasila Preporod</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31136</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-190.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31136</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovenski mladini</title>
+               </analytic>
+               <monogr>
+                  <title>Preporod</title>
+                  <title>pokrajinsko glasdilo jugoslovanske napredne mladine na Slovenskem</title>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-KWYGJK5K</pubPlace>
+                     <date when="1912-11-01">01. 11. 1912</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Slovenski mladini</head>
+            <div xml:id="No.167a.PPP">
+               <p>Mladina nam je bila na mislih, ko smo sklenili, izdajati nov slovenski list.
+                  Mladini, ki še ni popolnoma blazirana, ki ji ni vseeno, ali uživa svobodo ali pa
+                  ostane suženj vse dni svojega življenja, je namenjen naš klic. Mladina, polna
+                  najlepših nad, polna požrtvovalnosti in navdušenja, ga bo razumela. Razumeti mora
+                  klic po svobodi, po življenju, ker sicer ni več zmožna, ustvariti svojemu narodu
+                  popolno svobodo! Mladina, iz naroda si izrastla, narod plačuje zate davek, isti
+                  narod hoče tudi od tebe imeti povračilo. Ali mu ga hočeš odreči, ali mu hočeš
+                  ostati dolžna? Li nisi nikdar videla žuljavih rok svojih očetov, mračnega čela
+                  svojih mater? Videla si jih in takrat si morala spoznati in razumeti, kaj je tvoja
+                  dolžnost, tvoja sveta naloga.</p>
+               <p>Pred nami gre nova pot. Hočemo povedati slovenski mladini, da je na jugu njene
+                  domovine narod, ki ga moramo spoznati, kajti ta narod je naš bratski narod, od
+                  katerega nas je ločil čas, a priti mora čas, ko bomo zopet eno in isto.</p>
+               <p>Kako bomo spoznali naše bratske narode na jugu? Seznanjali se bomo z njihovimi
+                  kulturnimi in političnimi razmerami, spoznati moramo njih literaturo, njih
+                  gospodarski položaj, spoznati dušo pravega Hrvata, Srba, Bolgara. Ako bomo to
+                  spoznali, bomo imeli po polnoma drugo naziranje o jugoslovanskih narodih, v nas bo
+                  prišel drug duh, prišlo bo navdušenje temelječe na trdnem prepričanju. Tako
+                  navdušenje ne bo prazno, prineslo nam bo trajne uspehe. </p>
+               <p>Naša mladina mora začeti študirati srbo-hrvaščino, ki itak ni zelo različna od
+                  slovenščine, vsak naš posameznik mora znati čitati in pisati cirilico, kajti to je
+                  predpogoj, da bo lahko čital srbo-hrvatske knjige. </p>
+               <p>Nehati mora separatizem med Slovenci, Srbo-hrvati in Bolgari, ne smemo si biti več
+                  tujci, ker le v tem vidimo rešitev našega narodnostnega vprašanja. Priti moramo do
+                  narodnega vjedinjenja vseh Jugoslovanov, s tem bomo postali močni in od naših
+                  sovražnikov nepremagljivi.</p>
+               <p>Veliko važnost polagamo tudi na samoizobrazbo, kajti ljudje, ki ne znajo sami
+                  študirati in si niso na jasnem v najvažnejših življenskih vprašanjih, niso zmožni
+                  ustvariti kaj velikega in trajnega, nikdar ne bodo uresničili niti ene velike
+                  ideje. Hočemo, da bo vsak naš posameznik izobražen o vseh vprašanjih.</p>
+               <p>Pustimo na strani filozofiranje, poprimimo se realnega življenja, nehajmo z
+                  ubijanjem časa, ki ga imamo dovolj, in ga porabimo v prave namene, porabimo ga
+                  zase, za svoje tovariše, za svoj narod, za svojo domovino! Uničenih eksistenc ne
+                  sme biti več med slovensko mladino. Ako bo vsak uvaževal naše besede, ako bo prav
+                  porabljal svoj čas, bo gotovo vsak našel svoje delo in svoj kruh, ker le s
+                  samoizobrazbo si bo pridobil toliko, da bo lahko z vsakim konkuriral!</p>
+               <p>Mladina! Nova pot se odpira pred teboj, stopi s pogumom nanjo in ne zapusti je, če
+                  tudi te bodo preganjali, če tudi boš morala trpeti za svoje ideale. Tako trpljenje
+                  je prijetno, tak bič ne boli! Pripravljaj se na veliki dan, ki sigurno pride. Bodi
+                  junaška boriteljica za svoje ideje, za idejo jugoslovanstva, za idejo narodnega
+                  vjedinjenja Jugoslovanov.</p>
+            </div>
+         </div>    
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o gospodarskem in socialnem programu, sprejeta na posvetu razširjenega načelstva Vseslovenske ljudske stranke 
+               21. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31124</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-192.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31124</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">269</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-21">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</head>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.192.PPP">
+            <p> Poseben odbor naj z ozirom na nove razmere pretrese naš dosedanji gospodarski in socialni program in naj ga v novem besedilu predloži eksekutivi <orgName>V. L. S.</orgName> 
+            </p>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

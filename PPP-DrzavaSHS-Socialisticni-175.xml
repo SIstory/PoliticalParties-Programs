@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stališče predsednika Jugoslovanske socialdemokratske stranke Antona Kristana o
+               nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšnjo združitev Države
+               Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, podano na seji
+               narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani 21. novembra 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31105</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-175.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31105</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra
+                     1918</title>
+               </analytic>
+               <monogr>
+                  <title>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in
+                     Deželnih vlad za Slovenijo 1918–1921</title>
+                  <title>1. del: od 1. nov. 1918 do 26. feb. 1919</title>
+                  <edition>Peter Ribnikar</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Arhiv Republike Slovenije</publisher>
+                     <pubPlace>http://www.sistory.si/SISTORY:ID:768</pubPlace>
+                     <date when="1998">1998</date>
+                     <biblScope unit="page">123–124</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+           <gap reason="irrelevant"/>
+            <p xml:id="No.175.PPP">Proti predlogu<note place="foot" source="#SourceBornDigital">Nujni predlog
+                     <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName> z dne
+                     <date when="1918-11-16">16. 11. 1918</date>, je <orgName>Narodni vladi
+                        <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName>
+                  <date when="1918-11-19">19. 11. 1918</date> iz <placeName>Zagreba</placeName>
+                  posredoval poverjenik za <placeName>Slovenijo</placeName> v predsedstvu
+                     <orgName>Narodnega Vijeća <placeName>SHS</placeName></orgName> dr.
+                     <persName>Albert Kramer</persName>. <persName>Kramer</persName> je zahteval,
+                  naj <orgName>Narodna vlada</orgName> nanj odgovori še <date when="1918-11-19">isti
+                     večer</date> ali najkasneje <date when="1918-11-20">prihodnji dan</date>.
+                  Čeprav so od <orgName>Narodne vlade</orgName> pričakovali takojšen odgovor, se je
+                  ta na svoji seji <date when="1918-11-19">19. 11. 1918</date> s predlogom sicer
+                  seznanila, vendar o njem ni razpravljala, saj je menila, da se morajo pred tako
+                  važno odločitvijo njeni člani najprej posvetovati s svojimi strankami. Odločitev o
+                  tej zadevi so preložili na sejo vlade <date when="1918-11-21">21. 11. 1918</date>.
+                  Predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName>
+                  je zagovarjal stališče, naj se bodoča <placeName>jugoslovanska država</placeName>
+                  do končne odločitve ustavodajne skupščine začasno oblikuje kot monarhija pod
+                  srbsko dinastijo <persName>Karađorđevićev</persName>. Po predlogu
+                        <orgName><placeName>dalmatinske</placeName> pokrajinske vlade</orgName> bi
+                  notranja ureditev bodoče države predstavljala kompromis med centralističnim
+                  ustrojem s skupnimi organi oblasti za celo državo in ohranitvijo pokrajinskih
+                  avtonomij za zgodovinsko razvite jugoslovanske državnopravne enote. – Podrobneje o
+                  tem glej <bibl>Jurij Perovšek: Slovenska osamosvojitev v letu 1918 : študija o
+                     slovenski državnosti v Državi Slovencev, Hrvatov in Srbov. Ljubljana :
+                     Modrijan, 1998, str. 133–136</bibl>. Besedilo predloga glej v <bibl>Ferdo
+                     Šišić: Dokumenti o postanku Kraljevine Srba, Hrvata i Slovenaca 1914.–1919.
+                     Zagreb : Matica Hrvatska, 1920, str. 268–269</bibl>. </note> sta izražala v
+               obširnem govoru poverjenika dr. <persName>Brejc</persName>
+               <note place="foot" source="#SourceBornDigital">Poleg <persName>Antona Kristana</persName> je
+                  predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName>
+                  kritično obravnaval tudi predstavnik <orgName>Vseslovenske ljudske
+                     stranke</orgName> dr. <persName>Janko Brejc</persName> (glej dok. št. 191).
+               </note> in <persName>Kristan</persName> tehtne pomisleke: s tem se ustvari diktatura
+               ene osebe, ki imenuje in seveda tudi odstavlja voditelje države; čas, kdaj se skliče
+               konstituanta je popolnoma nedoločen, ker je pojm o tem, kdaj vlada na Balkanu mir in
+               red, podvržen samovoljnemu tolmačenju <orgName>provizorične vlade</orgName>. Tudi se
+               je bati, da se imenuje vojaški guverner v posameznih deželah in se bodo vršile
+               volitve v konstituanto pod različnim pritiskom.</p>
+            <p/>
+            <gap reason="irrelevant"/>
+         </div>
+      </body>
+   </text>
+</TEI>

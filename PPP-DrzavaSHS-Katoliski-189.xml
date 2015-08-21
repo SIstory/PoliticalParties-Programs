@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšno združitev Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, sprejeta na posvetu razširjenega načelstva Vseslovenske ljudske stranke 
+               21. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31121</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-189.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31121</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">269</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-21">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</head>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.189.PPP">
+            <p>	Predloženi načrt <orgName>zemaljske vlade za <placeName>Dalmacijo</placeName></orgName>
+               <note place="foot" source="#SourceBornDigital">
+                  O predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName> glej pojasnilo v dok. št. 173, op. 3.
+               </note> po svoji osnovi nasprotuje vsakršnim demokratičnim načelom in ga vsled tega odklanjamo kot nesprejemljivega.</p>
+            <p>	Ker je pa potrebno, da se za celo <placeName>državo SHS</placeName> skupne zadeve ustvarijo že za čas provizorija skupni vladni organi, ki naj bi vodili tudi priprave za bodočo konstituanto, smo mnenja, da naj bi se ta provizorični državni preustroj uredil potom pogajanj in dogovora legitimiranih zastopnikov Slovencev, Hrvatov in Srbov kot enakopravnih enot, in izjavljamo, da smo pripravljeni v tem smislu takoj pričeti pogajanja.</p>
+            <p/>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

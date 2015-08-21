@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razmišljanje enega od vodilnih predstavnikov t.i. socialistične omladine v
+               Jugoslovanski socialnodemokratski stranki ing. Antona Štebija o vprašanju
+               jugoslovanske združitve leta 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31109</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-178.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31109</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Resnice in ideali jugoslovanskega problema</title>
+                  <author>Anton Štebi (Outlaw)</author>
+               </analytic>
+               <monogr>
+                  <title>Demokracija</title>
+                  <title>socijalistična revija</title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">19–22</biblScope>
+                     <publisher>Slovenska Socijalna Matica</publisher>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-RO6GFZYH</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.178.PPP">
+            <div>
+               <head>Resnice in ideali jugoslovanskega problema</head>
+               <head>1. Na lastnih nogah.</head>
+               <p>S trenotkom, ko bodo deležni narodi monarhije vseh pravic samostojnosti in lastne
+                  državnosti, ko bo zajamčena samostojnost kot neovrgljivo pravo vsakega naroda, bo
+                  prišla doba, ko bodo morali spoznati ti narodi, da jim ni <hi rend="italic">le
+                     pravica do svobode</hi> in samostojnosti življenska potreba, nego tudi <hi
+                     rend="italic">čut in dolžnost medsebojne solidarnosti</hi>. Tako nekako je
+                  govoril sodrug dr. <persName>V. Adler</persName> v <orgName>avstrijskem
+                     parlamentu</orgName> ob priliki mirovne debate; koristno bi bilo, posebno za
+                  češke in jugoslovanske ljudske zastopnike, da se oklenejo besed tega najresnejšega
+                  in najpoštenejšega politika avstrijskega parlamentarnega življenja z globokim
+                  umevanjem. Kajti le na podlagi spoznanja medsebojne odvisnosti in potrebne
+                  solidarnosti posameznih malih narodov je mogoča vsem tem narodom potrebna
+                  gospodarska konsolidacija in organizacija. Vsak posamezen narod bivše
+                  <placeName>monarhije</placeName> je preslab za popolnoma neodvisno samostojno življenje;
+                  le v vzajemni družbi z ostalimi narodi mu bo mogoča poštena eksistenca. Lahko so
+                  se razšli ti narodi, a težko bodo našli pozneje tiste gospodarske zveze, ki so za
+                  razvojno možnost vsakega naroda neobhodno potrebne in ki so danes še
+                  dosegljive.</p>
+               <p>Lepi in zapeljivi so ideali popolne neodvisnosti in samostojnosti posameznega
+                  naroda. Če pa more narod črpati iz teh idealov vse svojemu življenju potrebne
+                  ekonomske sile, to je drugo in resnejše vprašanje. Prepovršno gledamo vedno le
+                  življenje velikih narodov in z neprimerno trdoglavostjo pozabljamo, da smo mal in
+                  podpore potreben narod.</p>
+               <p>Kdor se resno bavi z jugoslovanskim vprašanjem v vsem njegovem obsegu, mora
+                  priznati da ga razmotrivamo mi sami premalo znanstveno, premalo poglobljeno, a
+                  preveč le z enega vidika, le z vidika politične in narodne samostojnosti. Priznati
+                  moramo, da so tuji znanstveniki obširnejše razmotrivali o tem vprašanju kakor mi.
+                  V naši javnosti se premalo bavimo s podrobnim delom in <hi rend="italic">vezmi, ki
+                     spajajo posamezne narodno-gospodarske skupine medsebojno</hi>; ne zadostuje, da
+                  se bavi s tem problemom samo <orgName>»Narodni svet«</orgName>, temveč bi moral o
+                  tem razmišljati ves narod, ves narod bi moral vedeti natančno, za kaj gre danes,
+                  ko govorimo o svojem življenju. Le tako bo doseglo vprašanje dosti resnejše in
+                  jasnejše oblike, odgovori bodo preciznejši in ves okvir tega problema bo stal s
+                  tisto vsebino pred nami, katero zahteva pravi <hi rend="italic">narodni
+                     interes</hi>. </p>
+               <p>Zato je predvsem potrebno, da govorimo jasno o obliki in gospodarski sestavi
+                     <placeName>jugoslovanske države</placeName>. S tem odvzamemo fantastom nevarno
+                  in škodljivo orožje in očvrstimo brezbrižne plasti naroda, da se zavedo potrebe
+                  sodelovanja. Naslednji odstavki so namenjeni tej razbistritvi perečega vprašanja;
+                  čim odkritosrčnejše povemo svoja mnenja o naši bodoči državi, tem več koristi bomo
+                  želi iz tega jasnega razgovora.</p>
+            </div>
+            <div>
+               <head>2. Obseg države v narodno-političnem oziru.</head>
+               <p>Izgleda, kakor da bi ne bilo v narodno-političnem oziru nikakih pomislekov glede
+                  ozemlja, ki naj tvori <placeName>jugoslovansko državo</placeName>. Površni odgovor
+                  bi bil: vse kar prištevamo jezikovnemu deblu spada v okvir te države, stremi po
+                  ujedinjenju v eni državi. A tako le izgleda, to je le idealni okvir. V resnici
+                  pridejo v tem oziru v poštev moči, zaradi katerih ni mogoče združiti posameznih
+                  jugoslovanskih vej v idealno enoto … </p>
+               <p>Narodno-politična stremljenja imajo v svojem bistvu centrifugalne moči, ki
+                  povzročijo lahko pri malenkostnih diferencah velike učinke. Danes še nočemo
+                  pojmiti in uvideti te resnice, ker se bojimo, da bi pri tem spoznanju trpelo naše
+                  stremljenje po <hi rend="italic">najširšem</hi> ujedinjenju. A gotovo je, da pride
+                  po kratkem času skupnega življenja med Slovenci, Hrvati in Srbi do
+                  narodno-političnih bojev, mogoče do srditejših, kakor so se le kdaj bili n. pr.
+                  med nami in Nemci. Saj je ravno jugoslovanska zgodovina polna takih bojev.
+                  Plemenske različnosti so energetične sile, ki se do danes še niso prav nič
+                  izenačile; zato ni upravičeno pričakovanje, da bo bodočnost očiščena narodnih
+                  bojev.</p>
+               <p>K jugoslovanskemu narodu prištevamo Slovence, Hrvate in Srbe iz
+                     <placeName>monarhije</placeName>, Srbe iz <placeName>obeh
+                  kraljevin</placeName>, Bolgare in Makedonce. Ti deli morajo postati eno telo,
+                  pravi idealist. Dejansko je pa to združenje nemogoče, ker kljub enotnemu jeziku
+                  zijajo nepremostljivi prepadi med posameznimi plemeni.</p>
+               <p>Najbližje sta si pač slovensko in hrvaško pleme in menda ne bo težko, da ohranita
+                  ti dve plemeni složno in trajno združenje, posebno še z ozirom na tesne
+                  geopolitične in narodno-gospodarske vezi. Notranja vezna moč pa gine vedno bolj,
+                  ako študiramo razmerje med Slovenci in Srbi, Hrvati in Srbi, Bolgari in Srbi. Tu
+                  naletimo naenkrat na dva svetova, na moči, ki se odbijajo, a ne vežejo.</p>
+               <p>Seveda, kdor je spoznaval srbsko pleme le iz kratkih epizod na banketih in
+                  slavnostih, je bil navdušen od srbskega gostoljubja, ker so Srbi izvrstni
+                  improvizatorji. Tudi kdor je v svrho študiranja njihovih razmer živel kratek čas
+                  med Srbi, je odnesel domov skoro gotovo le ugodne vtise. A kdor je živel med njimi
+                  stalno, se boril z njimi za vsakdanji kruh, čeprav jim je bil plemensko soroden,
+                  ta je lahko čul dan na dan, da je on le »kuferaš«, tujec.</p>
+               <p>Duševna karakterizacija Srba je povsem drugačna kakor ona Slovenca in Hrvata.
+                  Strpnost teh dveh je vzorna, nasprotno so Srbi nestrpni. Slovenec in Hrvat sta
+                  slaba, nerodna politika, Srb je zelo spreten politik; Slovenec in Hrvat sta
+                  solidna trgovca, srbski trgovec je špekulant, brezobziren. Teh izkušenj si nisem
+                  nabral le jaz, nego vsakdo, ki je dalje časa živel med njimi in imel priliko
+                  spoznavati njihovo psiho.</p>
+               <p>Ta razlika narodne psihe je vedno večja in izrazitejša, ako prekoračimo
+                     <geogName>Donavo</geogName> in <geogName>Drino</geogName>. Moje mnenje je, da
+                  je v interesu mirnega in naravnega razvoja države, da ostanejo Srbi onkraj
+                     <geogName>Save</geogName>, <geogName>Donave</geogName> in
+                     <geogName>Drine</geogName> zase v svoji hiši, v svojem gospodarstvu, in le Srbi
+                  tokraj te naravne meje naj tvorijo del jugoslovanske države, ker so tako pomešani
+                  med Hrvate, da jih ni mogoče izločiti iz tega telesa.</p>
+               <p>O Bolgarih in Makedoncih pa sploh ni potrebno obširneje govoriti, ker je danes še
+                  popolnoma izključeno, da bi oni sami stremili po utelesenju v
+                     <placeName>jugoslovanski državi</placeName>. Sklep
+                     <orgName>internacijonale</orgName> na bazelskem kongresu pač govori o
+                  ujedinjenju balkanskih narodov, a ta sklep še nima resne podlage v sedanji
+                  dobi.</p>
+               <p>Nastop socijalističnih zastopnikov <placeName>Bosne in Hercegovine</placeName> na
+                  zadnjem socijalističnem sestanku v <placeName>Zagrebu</placeName> (<date when="1918-10-06">6. X.
+                     1918</date>), s katerim se niso pridružili ideji ujedinjenja, je pripisovati po
+                  mojem mnenju preizrazitemu srbofilstvu dotičnih zastopnikov. Stoje pač strogo na
+                  temelju sklepa bazelskega kongresa, ki je izzvenel v geslo:
+                     <geogName>Balkan</geogName> balkanskim narodom, a ta sklep ni v interesu
+                  pretežne večine prebivalstva <placeName>Bosne in Hecegovine</placeName>.</p>
+               <p>Naša <placeName>jugoslovanska država</placeName> naj bi torej družila temeljem
+                  narodno-političnega soglasja vse Slovence, Hrvate in Srbe
+                     <placeName>monarhije</placeName>, vštevši Bosno in Hercegovino. Beneški
+                  Slovenci ne prihajajo v poštev, ker se deloma svoje narodnosti ne zavedajo več,
+                  deloma je popolnoma izključeno, da bi nam to ozemlje
+                     <placeName>Italija</placeName> odstopila. Moja zadnja potovanja po teh krajih
+                  so me pa tudi prepričala, da bi pomenilo to eventuelno utelesenje beneških
+                  Slovencev k <placeName>jugoslovanski državi</placeName> tako v narodno-političnem
+                  kakor v narodno-gospodarskem oziru pasivno postavko v državi. Naravna asimilacija
+                  z italijanskim narodom bo v teku 50 let pobrala v teh pokrajinah
+                  zadnjega Slovenca. A tudi ves teritorij je popolnoma neproduktiven.</p>
+            </div>
+            <div>
+               <head>3. Narodno-gospodarski položaj <placeName>jugoslovanske
+                  države</placeName>.</head>
+               <p>Pri presoji narodno-gospodarske razvojne možnosti države se oziramo predvsem na
+                  zemljepisno lego <placeName>jugoslovanske države</placeName>, ker nje lega
+                  predstavlja smer gospodarskega razvoja in višek učinskega faktorja, s kojim mora
+                  vsak resen ekonom računati.</p>
+               <p>Res je, da geopolitični oziri ne prihajajo pri ustanovitvi države odločilno v
+                  poštev, ker deloma lahko odstrani moderna tehnika vse talne ovire, deloma nam
+                  obljublja <persName>Wilsonov</persName> mir, da nam pravica izpolni vse
+                  nepretirane, življenske zahteve, ako bi se tudi geopolitični oziri bratili s
+                  tujimi interesi, ki nas hočejo kolikor mogoče obrezati.</p>
+
+               <figure>
+                  <graphic url="PPP-DrzavaSHS-Socialisticni-178-Slika1"/>
+               </figure>
+
+               <p>Važno je pa že danes, da si natančnejše ogledamo tudi geopolitično konstrukcijo
+                  naše države, ker nam ona kaže, kako se bo v bodočnosti naravno razvijal ves
+                  promet. Vodne ceste so že od nekdaj naravne transportne sile in bodo v bodočnosti
+                  tembolj stopale na površje, ker bo oslabljeno gospodarsko stališče te države
+                  zahtevalo kar najbolj ekonomično gospodarstvo.</p>
+               <p>Geopolitični mozeg <placeName>jugoslovanske države</placeName> nam predstavljajo
+                  tri črte, ki streme v pravo osrčje <placeName>Jugoslavije</placeName>, proti
+                     <placeName>Zagrebu</placeName>. Te tri črte so: <geogName>Sava</geogName> od
+                  izvira do kolena pri <placeName>Sisku</placeName> od severa proti jugu,
+                     <geogName>Bosna</geogName> od izvira do izliva od juga proti severu, in tretja
+                  črta, ki reže prvi dve horicontalno, je <geogName>Kulpa</geogName>, oziroma
+                     <geogName>Sava</geogName> od kolena do izliva v <geogName>Donavo</geogName>.
+                     <placeName>Pomurje</placeName> in <placeName>Podravje</placeName> prištevam
+                  stranskim potom glavne ceste <placeName>Posavja</placeName>.</p>
+               <p>Ta rečni sistem: <geogName>Bosna</geogName>, <geogName>Sava</geogName>,
+                     <geogName>Kulpa</geogName>, (<geogName>Drava</geogName> in deloma tudi
+                     <geogName>Donava</geogName>) nam predstavljajo ugodno transportno omrežje,
+                  katero dobiva še tem ugodnejše obličje, ako uvažujemo, da je ena cela dolžinska
+                  stran države objeta od <geogName>morja</geogName>, ob katerem leži večje število
+                  deloma že procvitajočih, deloma še razvojnomožnih pristanišč. Da je ta rečni
+                  sistem v resnici zelo velike važnosti, izhaja tudi iz sledečega premisleka.</p>
+               <p>Ta geopolitična sestava nam predstavlja splošno narodno-gospodarsko karakteristiko
+                     <placeName>jugoslovanske države</placeName>. Vertikalni konci so kraji
+                  rudninskega bogastva, sedeži razvijajoče se industrijalizacije, kateri vodijo v
+                  širno ozemlje poljedelskega razvitka horicontalne črte. Na severu kopljemo svinec,
+                  živo srebro, premog in se lepo razvijajo železna in deloma tudi že kemična in
+                  tekstilna industrija. Z juga dobivamo železo, baker, mangan, premog in tudi
+                  industrijalizacija marljivo počenja svojo rast. Sever in jug sta poleg tega še
+                  neizmerno bogata gozdov z najrazličnejšim trgovskim lesom.</p>
+               <p>Ako imamo pred očmi to naravno narodno-gospodarsko skupino, potem zapazimo v prvi
+                  vrsti pomanjkljivost železničnega omrežja, oziroma za plovbo sposobnih vodnih
+                  cest. Po mojem mnenju so sledeče transportne zveze neobhodno potrebne: 1.
+                     <placeName>Ajdovščina</placeName>-<placeName>Vrhnika</placeName> z odcepkom v
+                     <placeName>Idrijo</placeName>. 2. Druga zveza <placeName>Zagreba</placeName> s
+                     <placeName>Trstom</placeName> n. pr. od <placeName>Št. Petra</placeName> preko
+                     <placeName>Ribnice</placeName>, <placeName>Novega mesta</placeName> in
+                     <placeName>Samobora</placeName>. 3. Izgradba liške železnice. 4. Proga
+                     <placeName>Bos.
+                     Novi</placeName>-<placeName>Bihač</placeName>-<placeName>Zadar</placeName>. 5.
+                  Proga <placeName>Tuzla</placeName>-<placeName>Sarajevo</placeName>. 6.
+                     <placeName>Sunja</placeName>-<placeName>Banjaluka</placeName>-<placeName>Jajce</placeName>-<placeName>Mostar</placeName>.
+                  7. <placeName>Jajce</placeName>-<placeName>Šibenik</placeName>.</p>
+               <p>Deloma so te proge že v presojanju, deloma tudi že v gradbi. Bilo bi torej le
+                  pospešiti izgradbo in preskrbeti novim razmeram modernejšo ureditev
+                  (elektriziranje). Železnični oddelek <placeName>jugoslovanske države</placeName>
+                  bo moral posvetiti glavno skrb najhitrejši izpopolnitvi potrebnega omrežja.</p>
+               <p>Ker stojimo na edino pravem in naravnem stališču, da pripade <placeName>Trst</placeName>
+                     <placeName>jugoslovanski državi</placeName> – a vsem drugim narodom zaledja prosta luka –
+                  in ker nimamo lastnega parobrodstva, mora biti nadalje skrb kapitalno-zmožnega
+                  domačega podjetništva, da si zagotovimo mogočno parobrodno družbo. To družbo mora
+                     <placeName>mlada država</placeName> z vsemi silami podpirati, da si osvojimo
+                  popolnoma svobodne roke na svobodnem morju. V tem primeru bo potrebno največjega
+                  napora, ker se nam ne bo bojevati le z onimi družbami, ki so pri nas že
+                  ukoreninjene, nego tudi s silno angleško in italijansko konkurenco. Svoboda morja
+                  mora imeti tudi za nas življensko veljavo.</p>
+               <p>Gospodarska zahteva najintenzivnejše ekonomije glede transportnih sredstev bi
+                  zahtevala vodno zvezo <geogName>Save</geogName> s <placeName>Trstom</placeName>.
+                  To naravno in ugodno zvezo nam kaže že gornja skica in ta vodna cesta bi bila
+                  lahko glavna pot vseh produktov <placeName>Jugoslavije</placeName>, ki bi bili
+                  namenjeni preko <placeName>Trsta</placeName> v eksport. Izgleda pač, kakor da je
+                  izgraditev te vodne ceste danes še nemogoča stvar; a temeljem moderne tehnike bo
+                  tudi to vprašanje še stopilo v akutni štadij realnega premišljanja.</p>
+               <p>V transportno-tehničnem oziru je narodno-gospodarski položaj države še precej
+                  ugoden. Vprašanje je, kako stoji stvar v proizvajalno-tehničnem oziru in ta izvid
+                  ni tako sijajen, kakor bi želeli.</p>
+               <p>Omenil sem že, da smo v precej ugodnem položaju glede lesa, premoga in železa.
+                  Trgovina s temi surovimi produkti bo cvetela, a primanjkovalo nam bo industrije z
+                  izdelanimi lesnimi in železnimi produkti. Pretežko ne bo, v teku let ustvariti
+                  industrijo z lesnimi izdelki, a težje, celo nemogoče bo, ustvariti konkurenčno
+                  možno železno industrijo. V tem oziru bomo navezani še nadalje na uvoz iz
+                  industrijalnega severa.</p>
+               <p>
+                  <placeName>Škedenj</placeName>, <placeName>Jesenice</placeName>,
+                     <placeName>Vareš</placeName>, <placeName>Zenica</placeName> bodo pač mogočna
+                  industrijalna centra, a le za pol izdelane produkte kakor tračnice, plošče, žico,
+                  nosilce, žeblje, surovo lite predmete in enostavne stroje i. t. d. Seveda računam,
+                  da bodo prešla imenovana podjetja v našo državno last. Glede vareških plavžev pač
+                  ne bo težav; ti plavži so že sedaj pretežno državna last in pripadejo avtonomično
+                     <placeName>jugoslovanski državi</placeName>. Plavži v
+                     <placeName>Škednju</placeName> in železna podjetja na
+                     <placeName>Jesenicah</placeName> in v <placeName>Zenici</placeName> so privatna
+                  podjetja in se bo torej pogajati z njihovimi lastniki. Na vsak način je pa
+                  največje važnosti, da tudi ta podjetja zanesljivo preidejo, če ne že v državno,
+                  vsaj v domačo privatno last.</p>
+               <p>Manjka nam pa in nam bo manjkalo predvsem prvovrstnih strojnih produktov, finejše
+                  litih in obdelanih železnih izdelkov, elektrotehničnih strojev in aparatov,
+                  avtomobilov, poljedelskih strojev itd. itd. V tej potrebi nam ne bo mogel nikdar
+                  pomagati sorodni slovanski jug, nego bomo za vedno navezani na mogočno razvito
+                  industrijo severa. </p>
+               <p>O potrebi domače ladjedelnice sem že v enem prejšnjih člankov v »Demokraciji«
+                  govoril. Poudarjam danes le še enkrat, da moramo napeti vse sile, da ustvarimo
+                  veliko ladjedelno podjetje ali da si prisvojimo eno izmed že obstoječih podjetij.
+                  Da se otresemo vsaj nekoliko neugodne konkurence, je pač zadnje najbolj
+                  priporočljivo. To ladjedelno podjetje mora biti v najtesnejši zvezi s plavži v
+                     <placeName>Škednju</placeName> in z železno industrijo na
+                     <placeName>Jesenicah</placeName>.</p>
+               <p>Zelo neugoden je položaj glede kemične in tekstilne industrije, ker za to
+                  industrijo tudi s surovinami ne razpolagamo. Posebno težko bomo občutili
+                  pomanjkanje petroleja, ako ne bomo deležni ugodnih trgovskih pogodb z
+                     <placeName>Romunijo</placeName>. Ugodno je za nas le, da ležimo ob morju in da
+                  bomo mogli dovažati te surovine s primerno nizkimi prevoznimi stroški.</p>
+               <p>Velikega pomena – posebno za eksport – je, da imamo na našem jugu zelo razvojno
+                  mogoč početek sladkorne industrije. To industrijo moramo kolikor mogoče dvigniti
+                  na moderno in široko podlago. Imamo zelo produktivno zemljo za peso, in podjetja
+                     (<placeName>Usora</placeName>) leže v bližini premogokopov
+                     (<placeName>Kakanj</placeName>, <placeName>Kreka</placeName>). Imeli bomo pač
+                  mogočne konkurente v <placeName>Srbiji</placeName>, na
+                     <placeName>Češkem</placeName> in na <placeName>Ogrskem</placeName>, a bližina
+                  morja nam bo tudi v tem pogledu priskočila na pomoč. – </p>
+               <p>Visokovrednostni eksportni pridelek <placeName>jugoslovanske države</placeName> je
+                  tobak <placeName>Bosne in Hercegovine</placeName>, ki je v kvalitativnem oziru
+                  prav sposobno blago, da konkurira z zelo razvito orijentsko tobačno industrijo. Ta
+                  produkt bomo izvažali v veliki množini, bodisi v surovinski, bodisi v že izdelani
+                  obliki. Ker imamo že nekaj dobro urejenih tobačnih tovarn na razpolago
+                     (<placeName>Ljubljana</placeName>, <placeName>Sarajevo</placeName>), je te
+                  tovarne le modernizirati in razširiti, da bodo konkurenčno zmožne z velikimi
+                  orijentskimi in nemškimi podjetji. Naše stremljenje se naj giblje v tej smeri, da
+                  ne izvažamo tobaka v surovinski obliki, nego da izvažamo cigarete, smotke in
+                  izdelani tobak kot visokovrednostni menjalni produkt.</p>
+               <p>Poljedelstvo in živinoreja obetata pri racijonelnem kultiviranju, da bosta
+                  zadoščali vsem potrebam <placeName>jugoslovanske države</placeName>, seveda pod
+                  pogojem, da bodo državi pripadli vsi oni rodovitni kraji, ki so danes še v ogrskih
+                  komitatih. – </p>
+               <p>Ako pregledamo torej splošni narodno-gospodarski položaj glede produkcije, vidimo,
+                  da smo glede poljedelstva in živinoreje, dalje glede železa in premoga v precej
+                  ugodnem položaju in sposobni popolnoma samostojnega življenja. A glede vseh drugih
+                  industrijalnih izdelkov smo odvisni od mogočno razvitega severa in smo v tem
+                  pogledu naravnost prisiljeni, da obrnemo našo državno orijentacijo v to smer.
+                  Narodno-gospodarsko je torej naša življenska potreba, da se gospodarsko naslonimo
+                  na druge gospodarske skupine bivše <placeName>monarhije</placeName>, a ne na
+                     <geogName>Balkan</geogName>. Z državami na severu bomo najbrže dosegli tudi
+                  lahko prav ugodne trgovinske pogodbe.</p>
+               <p>Kakšen je naš financijelni položaj, to je naslednje vprašanje.</p>
+               <p>Naš kmet je bil pred vojno zadolžen. Z vojnimi dobički se je pač rešil
+                  intabulacij, nabral precej papirja – a izgubil živino in orodje. Z ozirom na
+                  visoke stroške, ki bodo tlačili kmeta za nabavo nove živine in orodja, se
+                  premoženjski položaj kmeta ni izboljšal, nego je ostal predvojni.</p>
+               <p>Trgovina in obrtništvo je prišlo na beraško palico, ako se primerno oceni
+                  prihranke teh slojev, ki so večinoma naloženi v papirnem denarju in vojnem
+                  posojilu. Le večja podjetja, katera so investirala velike vojne profite v
+                  povečanje obrata ali v nakup zemlje in gozdov, so si zagotovila trden obstanek.
+                  Naša denarna podjetja, posebno hranilnice in posojilnice so prenasičene vojnega
+                  posojila in s strahom pričakujejo poloma.</p>
+               <p>Financijelni bankerot je skoro neizogiben, ako se popolnoma odcepimo od novih
+                  državnih skupin <placeName>bivše monarhije</placeName>, kamor smo prelahkomiselno
+                  nalagali svoje prihranke. Kako velike svote pridejo v poštev, je skoro
+                  nepojmljivo. Ker mi primanjkuje natančnejših podatkov, tudi ne morem navesti
+                  zanesljivih številk. A da dobimo le približen pregled, kako velike svote so v
+                  nevarnosti, da se izgube, navedem v sledečem stanje hranilnih vlog <date when="1917">koncem
+                     leta 1917</date>. glavnih hranilnic in posojilnic na
+                     <placeName>Kranjskem</placeName>:</p>
+               <table rend="rules">
+                  <row>
+                     <cell>
+                        <orgName>Mestna hranilnica ljubljanska </orgName>
+                     </cell>
+                     <cell>K 66,700.000ֹ–</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Kranjska hranilnica v <placeName>Ljubljani</placeName></orgName>
+                     </cell>
+                     <cell>K 67,400.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Ljubljanska kreditna banka</orgName>
+                     </cell>
+                     <cell>K 39,700.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>
+                     </cell>
+                     <cell>K 31,900.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Mestna hranilnica v <placeName>Kranju</placeName></orgName>
+                     </cell>
+                     <cell>K 8,700.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Mestna hranilnica <placeName>Kočevju</placeName></orgName>
+                     </cell>
+                     <cell>K 8,400.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Mestna hranilnica <placeName>Novem mestu</placeName></orgName>
+                     </cell>
+                     <cell>K 6,000.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <orgName>Mestna hranilnica <placeName>Kamniku</placeName></orgName>
+                     </cell>
+                     <cell>K 3,700.000ֹ –</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Skupaj … K 232,500.000ֹ –</cell>
+                  </row>
+               </table>
+               <p>Ako prištejemo še hranilne vloge na <placeName>Štajerskem</placeName>,
+                     <placeName>Koroškem</placeName>, v <placeName>Trstu</placeName>,
+                     <placeName>Istri</placeName> in na <placeName>Goriškem</placeName> nepretirano
+                  lahko cenim samo slovenske hranilne vloge na pol miljarde kron. Kako se bo
+                  izpremenilo to velikansko <soCalled>narodno</soCalled> premoženje (večinoma mali
+                  in najmanjši vlagatelji), ako se po našem osamosvojenju popolnoma ločimo od
+                  bivše <placeName>monarhije</placeName>, ali ako ostanemo še v neki lahki
+                  državni in gospodarski zvezi ž njo, je dobro premisliti. Oni zastopniki naroda, ki
+                  danes odločajo o njegovi usodi, naj spregledajo in spoznajo resnico, kolika
+                  odgovornost jih pričakuje, ako kujejo usodo <placeName>jugoslovanske
+                     države</placeName> le iz idealnega, a ne iz gospodarskega vidika.</p>
+               <p>Nadalje leži poleg teh hranilnih vlog v rokah jugoslovanskega naroda ogromno
+                  premoženje v vojnem posojilu. Ta del premoženja bomo morda mogli – po preteku
+                  dolgih let vsaj deloma rešiti, ako monarhija ne razpade popolnoma, ako ostanejo
+                  njeni narodi še nadalje v gospodarski zvezi.</p>
+               <p>Državnega dolga <placeName>monarhije</placeName> ne bo mogoče kratkomalo izbrisati
+                  iz računov svetovnega gospodarstva in zato bo tudi <orgName>ententa</orgName>
+                  skrbela, da bodo prevzeli del odplačevanja i oni deli
+                     <placeName>monarhije</placeName>, ki so jo danes popolnoma zapustili. In to je
+                  povsem v redu in naravno. Ako zapustimo hotel je naravno, da poplačamo stanovanje
+                  in hrano; res je, drugi so stanovali v prostornih dvoranah, mi v bornih luknjah,
+                  drugi so jedli pečenko, mi močnik – a plačati moramo vseeno, ako tudi enako ceno
+                  za močnik kakor drugi za pečenko. Bili smo preponižni gostači in ravnali so z nami
+                  temu primerno. Kdor se počuti hlapca, mu ne pristoja gosposka obleka.</p>
+               <p>Ako vstopimo v nov hotel – recimo v zvezo s <placeName>Srbijo</placeName> – moramo
+                  poleg računa v starem hotelu plačati še vstopnino v novi hotel, prevzeti bi morali
+                  še del državnega dolga <placeName>Srbije</placeName>, akoravno še nismo v nji prav
+                  nič konsumirali. Ljubezen do nas ne bo tako silna, da bi nas oprostili tujih
+                  bremen, ideali bodo potisnjeni v kot in stala bo pred nami le gola resnica –
+                  silnejše obremenjenje našega gospodarstva. </p>
+               <p>Življenski interes vsega naroda zahteva torej, da se najde rešitev, ki bo narodno
+                  premoženje varovala prekrutega poloma. Ta rešitev leži po mojem mnenju v <hi
+                     rend="italic">ohranitvi gospodarske skupnosti z drugimi narodi </hi>
+                  <hi rend="italic">bivše <placeName>monarhije</placeName></hi>.</p>
+               <p>Tudi naši sosedje, Nemci, imajo danes enake skrbi glede preureditve državnega
+                  ustroja kakor mi, ker jih ta razcepitev v posamezne narodne države še občutnejše
+                  zadene, in sicer zato, ker bi bil odvzet nemški industriji važen trg. Nemški
+                  meščanski politiki so bili sicer ves čas vojne, prav do zadnjih dni, zaslepljeni
+                  in so klicali le po uresničenju svojih »belangov«, toda <orgName>nemško-avstrijska
+                     socijalna demokracija</orgName> je vedno ločila politično in gospodarsko
+                  pomembnost preustrojitve <placeName>monarhije</placeName>. Še pred kratkim je
+                  pisal <persName>Oto Bauer</persName> v »Arbeiter-Zeitung« o tem vprašanju
+                  uvaževanja vredne besede: »Trezni preudarek naše gospodarske bodočnosti zahteva:
+                     <placeName>Nemška Avstrija</placeName> ima interes, da se ohrani veliko enotno
+                  avstrijsko-ogrsko gospodarsko ozemlje. Ako hočejo <placeName>Ogrska</placeName> in
+                  slovanski narodi ohraniti to gospodarsko ozemlje, tedaj odgovarja to našim
+                  potrebam; v tem primeru naj postane <placeName>Avstro-Ogrska</placeName> zvezna
+                  država, v kateri naj ima vsak narod svojo državo, a vse narodne države naj tvorijo
+                  le eno gospodarsko ozemlje. Ako pa hočejo Ogri in slovanski narodi razbiti veliko
+                  gospodarsko ozemlje, tedaj mi nemški Avstrijci ne moremo živeti v majhnem
+                  gospodarskem ozemlju, ki bi še ostalo. Priklopiti bi se morali potem velikemu
+                  gospodarskemu ozemlju <placeName>nemške države</placeName>. V tem primeru bi se
+                  morala pridružiti <placeName>nemška Avstrija</placeName>, oziroma one tri države,
+                  ki bi se stvorile iz <placeName>nemške Avstrije</placeName>, kot posebna zvezna
+                  država <placeName>Nemčije</placeName>.« – Kaj je jedro teh poštenih in odkritih
+                  besed? Najpreje resnica gospodarskih potreb nemškega naroda in šele v drugi vrsti
+                  idealno nagnenje k <placeName>nemški državi</placeName>. Zato pa je tudi gotovo,
+                  da bo ta narodna skupina, akoprav še bolj obremenjena z državnimi dolgovi in
+                  posledicami vojne, preje prebolela gospodarsko krizo kakor mi.</p>
+               <p>Rešitev jugoslovanskega problema <hi rend="italic">mora hoditi le popolnoma lastno
+                     pot naroda</hi>, ne oziraje se na rešitev češkega in poljskega problema. V tem
+                  boju moramo stopati popolnoma samostojno in se otresti dosedanjega vsakršnega
+                  vpliva, ker glede gospodarskega boja ne smemo poznati posebne sorodščine. <hi
+                     rend="bold">Jugoslovanski problem je in ostane le jugoslovanski</hi>
+                  <hi rend="italic">in ne sme in ne more biti kak privesek češkega problema</hi>.
+                  Ako je v češkem gospodarskem interesu, pretrgati vse zveze z monarhijo, ni rečeno,
+                  da je ta interes obenem tudi naš gospodarski interes. Otresti se moramo torej
+                  predvsem češkega vpliva, ki predstavlja spone, a ne svobode.</p>
+               <p>Razdirati je lažje kakor graditi, to verujem. A naši narodni zastopniki imajo <hi
+                     rend="italic">danes edino nalogo, da grade</hi> in le tedaj, ako zahteva nova
+                  zgradba iz ekonomskih, a ne iz ideoloških razlogov popolen prelom z
+                  bivšo <placeName>monarhijo</placeName>, naj store ta odločilni korak. Le oni
+                  narod bo v težkem boju bodočnosti mogel vztrajati, ki bo računal brez pretiravanja
+                  z resničnim položajem; bodočnost bo zahtevala od nas racijonelnega miselnega dela,
+                  najjačjega napora, a ne sanjarenja. S pogodbami in z <hi rend="italic">našim
+                     narodno-gospodarskim uveljavljanjem</hi> v rahli gospodarski zvezi z
+                  bivšo <placeName>monarhijo</placeName>
+                  <hi rend="italic">ne bomo izgubili prav nič na naši narodni individualnosti, nego
+                     le pridobili, ker bomo lažje zasledovali naše kulturne interese</hi>.</p>
+               <p>Jugoslovanski problem mora rešiti narod sam na temelju svojih življenskih
+                  interesov in ne na temelju narodno-zgodovinskih idealov. Idealisti vidijo pred
+                  seboj le zgodovinski problem one že od nekdaj tlačene jugoslovanske raje in ne
+                  sedanjega in bodočega narodno-gospodarskega življenja tega naroda – medtem ko
+                  računa resnica, torej naravni človeški razvoj le z onimi faktorji, ki
+                  predstavljajo in producirajo narodno-gospodarske dobrine.</p>
+               <p>Zato velja v tem zgodovinskem trenotku le ena resnica: dajte narodu razvojno-možno
+                  podlago, da bo mogel dajati državi v polni meri to, kar bo zahtevala od njega.</p>
+            </div>
+            <div>
+               <head>4. Energetični viri <placeName>jugoslovanske države</placeName>.</head>
+               <p>Razmerje med izvozno in uvozno vrednostjo določa gospodarsko bilanco države. Čim
+                  več blagovne vrednosti bomo izvažali in čim manj uvažali, tem ugodnejši bo naš
+                  narodno-gospodarski položaj, tem udobnejše bo življenje našega naroda.</p>
+               <p>Na podlagi tega spoznanja poiščemo lehko one energ[e]itične vire te države, ki bi
+                  ugodno vplivali na aktivnost gospodarske bilance. Iskati ni treba dolgo, da
+                  naletimo na dva pomembna vira : premog in vodne sile.</p>
+               <p> Premog bi mogli izvažati, ako najdemo zanj, kolikor ga potrebujemo sami,
+                  nadomestila. Petroleja nimamo, imamo pa vodne moči, katere lahko izrabimo v
+                  direktno izkoriščanje ali za proizvajanje električnega toka. In s temi izrabnimi
+                  viri vodne moči nismo slabo, temveč prav bogato preskrbljeni.</p>
+               <p>Na severu pridejo za izgraditev in izrabo v prvi vrsti v poštev
+                     <geogName>Drava</geogName>, <geogName>Soča</geogName> in
+                     <geogName>Sava</geogName> z manjšimi dotoki, na jugu
+                     <geogName>Gacka-Lika</geogName>, <geogName>Vrbas</geogName>,
+                     <geogName>Narenta</geogName> in <geogName>Krka</geogName>.</p>
+               <p>Naše gospodarsko stremljenje se mora takoj v tej smeri orijentirati. Brez odloga
+                  se mora takoj početi z izgradbo že prestudiranih projektov in nadaljevati s
+                  studijami še premalo razkritih vodnih moči. Vso našo industrijo bi mogli hraniti z
+                  električno silo teh vodnih reservarjev in vse naše lokalne železnice bi mogli
+                  goniti z električnimi motorji. Koliko bi bilo prihranjenega premoga, katerega bi
+                  mogli izvažati! Koliko novih industrij bi mogli ustanoviti, katere so nam danes
+                  zaradi predragega kurilnega materijala nepristopne in koliko starih industrij bi
+                  mogli postaviti na bolj ekonomične temelje!</p>
+               <p>Poglejmo le naše železnice na <placeName>Kranjskem</placeName>. Železnica
+                     <placeName>Trbiž</placeName>-<placeName>Ljubljana</placeName> se takoj lahko
+                  elektrizira s pomočjo vodne moči <geogName>Save</geogName>. Proga
+                     <placeName>Kranj</placeName>-<placeName>Tržič</placeName> ima na razpolago
+                  vodno moč <geogName>Kokre</geogName>, proga
+                     <placeName>Ljubljana</placeName>-<placeName>Vrhnika</placeName> vodno moč
+                     <geogName>Ljubljanice</geogName> (po <persName>Kresovem</persName> načrtu),
+                  proga <placeName>Ljubljana</placeName>-<placeName>Kamnik</placeName> vodno moč
+                     <geogName>Bistrice</geogName>. Dolenjska železnica bi zajemala potrebno
+                  eneržijo zopet iz <geogName>Save</geogName> in bi v nadaljevanju preko
+                     <placeName>Hrvatske</placeName> izrabljala električno eneržijo vodnih central
+                     <geogName>Gacke</geogName> in <geogName>Like</geogName>.</p>
+               <p>
+                  <placeName>Dalmacija</placeName> nima premoga. Kljub velikanskim vodnim močem,
+                  uvaža veliko množino premoga. To je nadvse neekonomično gospodarstvo.
+                     <placeName>Bosna</placeName> s svojimi ozkotirnimi železnicami je
+                  predestinirana, da elektrizira ves obrat, a vendar požira leto za letom miljone
+                  ton premoga, medtem ko se izliva v morje tisoč in tisoč konjskih moči – za vedno
+                  izgubljenih. Pomisliti je, da predstavlja oni v zemlji ležeči in neizrabljeni
+                  premog vedno živ kapital, med tem ko so odtekajoče konjske moči vodnih padcev
+                  nepovračljive izgube.</p>
+               <p>Seveda je predvsem potrebno, da <placeName>mlada država</placeName> takoj izdela
+                  moderen zakon za podržavljenje in ekonomično izrabo vseh vodnih moči in vsaka
+                  poljubna izraba, tudi najmanjših virov bi se morala umakniti sistematični,
+                  velikopotezni, vso državo objemajoči izrabi in preskrbi z električno eneržijo.</p>
+               <p>Eksperimenti, kakor je deželna hidroelektrična centrala na
+                     <placeName>Završnici</placeName>, morajo biti za bodočnost strašilo;
+                  razlastitev vseh vodnih pravic v korist države mora biti začetek in vsak rečni
+                  sistem mora v <hi rend="italic">svoji celoti najti najekonomičnejšo izrabo</hi>. – </p>
+               <p>Nadaljni energetični viri leže v kultiviranem obdelovanju naše zemlje, v
+                  izsuševanju močvirja, v pogozditvi kraške zemlje. Ekonomično gospodarstvo
+                     <placeName>jugoslovanske države</placeName> bo zahtevalo, da se takoj preneha z
+                  roparskim uničevanjem naših gozdov in prične z nasilnim racijonelnim obdelovanjem
+                  mrtvo ležeče zemlje. Eno samo potovanje n. pr. po <placeName>Bosni</placeName>
+                  razkrije vsakemu, ki z odprtimi očmi opazuje tamošnje razmere da bi ta zemlja
+                  lahko početvorila produkcijo, ako bi našla umnega in brezobzirnega
+                  organizatorja.</p>
+               <p>Iz vseh teh kratkih opazk lahko sklepamo, da se da narodno-gospodarski položaj
+                     <placeName>jugoslovanske države</placeName> mogočno dvigniti, ako se
+                  racijonelnemu gospodarstvu umakne današnja površnost in brezbrižnost, ako se
+                  lotimo z resnično voljo velikanskega dela, ki je neobhodno potrebno tako za
+                  eksistenco posameznika, kakor za eksistenco države. Naši energetični viri so dokaj
+                  bogati, čakajo le, da jih dvignemo in izrabimo.</p>
+               <p>*</p>
+               <closer><note>Glede izvajanj avtorjevih o združitvi jugoslovanskega ozemlja s <placeName>srbsko
+                     kraljevino</placeName> se uredništvo ne strinja. Ker pa smo že v prvi številki
+                  »Demokracije« poudarjali, da bodi naša revija svobodna tribuna, zato smo priobčili
+                  gorenji članek. Poudarjamo še enkrat, da spoštujemo vsako mnenje, zato rade volje
+                  sprejmemo tudi članke, ki so po našem mnenju nasprotni splošno razširjenemu
+                  naziranju. – Uredništvo.</note></closer>
+             
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

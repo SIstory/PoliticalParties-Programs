@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Predlog predstavnikov Vseslovenske ljudske stranke dr. Izidorja Cankarja, dr. Lovra Pogačnika in Bogumila Remca o obliki in načinu združitve Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, podan na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatov in Srbov
+               23. novembra 1918 v Zagrebu
+            </title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31129</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-197.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31129</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik sa sednice Središnjeg odbora Narodnog vijeća SHS</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">642-643</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+          <div>
+             <gap reason="irrelevant"/>
+             <div xml:id="No.197.PPP">
+                <p>	Ker je potrebno, da se osnuje skupen vladni organ za skupne interese Slovencev, Hrvatov in Srbov in ker je mogoče tak organ sestaviti le po medsebojnem dogovoru obeh vrhovnih oblasti na tem teritoriju, predlagajo člani <orgName>VLS</orgName>:</p>
+                <p>
+                   <orgName>Narodno Veće</orgName> naj izvoli pooblaščence Slovencev, Hrvatov in Srbov, ki se bodo, isključivši možnost majoriziranja, dogovarjali glede skupne vlade s pooblaščenci srbskega naroda iz kraljevine <placeName>Srbije</placeName>.</p>
+                <p/>
+             </div>
+           <gap reason="irrelevant"/>
+         </div>
+       </body>
+   </text>
+</TEI>

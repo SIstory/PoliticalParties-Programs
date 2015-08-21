@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Izjava liberalno usmerjenih kulturnih in znanstvenih delavcev za takojšno
+               združitev Države Slovencev, Hrvatov in Srbov s Kraljevino Srbijo, objavljena 23.
+               novembra 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31115</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Liberalni-183.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31115</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Izjava duševnih delavcev</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">278</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-2KC8LWFR</pubPlace>
+                     <date when="1918-11-23">23. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Izjava duševnih delavcev</head>
+         <div xml:id="No.183.PPP">
+            <p>Podpisani duševni delavci slovenski, svesti si resnosti sedanjega položaja svoje
+               domovine, se izrekamo eno dušno za takojšnje popolno politično ujedinjenje
+                  <placeName>države SHS</placeName>. z <placeName>državo srbsko</placeName>,
+               odklanjajoč vsakršno separatistično politično stremljenje kot kvarno
+                  <placeName>Jugoslaviji</placeName>, slovenskemu plemenu pa naravnost pogubno. </p>
+            <p>Nasilje, ki ga mora trpeti naš obmejni rod od tujcev na zahodu, severu in vzhodu,
+               neovirano samolastno prestavljanje mejnikov nam v škodo nam kaže žalostno nazorno
+               sliko samoslovenske onemoglosti. Govori ne premaknejo naših meja niti za seženj
+               naprej, izjave nam ne pridobe niti pedi naših tal, besedni protesti nam ne rešijo
+               niti ene slovenske duše tujega jarma. Do čina se ne moremo povzpeti, kakor da v naši
+               krvi ni one najsvetejše kapljice: kapljice, ki jo vsak zaveden in zrel narod
+               svojevoljno prelije za svojo svobodo … Edini rod, ki ima danes, na slovanskem jugu
+               voljo in moč, organizirati naše sile za uspešen odpor, vzpostaviti našo oblast na
+               vsem našem narodnem ozemlju in priboriti našim zahtevam veljavo pred svetom, je
+               srbski rod. Kako dolgo? <hi rend="italic">Ako ne izvedemo brez odloga najtesnejšega
+                  ujedinjenja s Srbi, preti Slovencem notranji razkroj, slovenskemu teritoriju
+                  razkosanje, ki ga sami ne bomo mogli zabraniti</hi>. </p>
+            <p>Upoštevamo in spoštujemo vsako odkrito svetovno naziranje, vsakemu poštenemu
+               prepričanju priznavamo pravico, da se prosto uveljavlja, zavračamo pa najodločneje
+               nepremišljeno izigravanje političnih gesel, ki bi utegnila v tej usodni dobi narod
+               begati in ga odvračati in odvrniti od glavnega cilja, ki je: močna, na zunaj in
+               navznoter enovita, svobodna ter bogato razvita država vsega jugoslovanskega naroda.
+               To je danes prva, vitalna potreba, suprem alex, kateri se morajo brezpogojno ukloniti
+               vsi pomisleki. Tudi vladna oblika je za interim teh izjemnih časov postranskega
+               pomena, ker bo imela o končnoveljavnem ustroju nove države svojo besedo konstituanta.
+                  <hi rend="italic">Ali more narod sploh omahovati, ko se mu je odločiti: ali za
+                  samostojno nemoč, ali za skupno jakost?</hi>
+            </p>
+            <closer> dr. <persName>Matija Ambrožič</persName>, <persName>Jos. Breznik</persName>,
+               <persName>Anton Debeljak</persName>, <persName>Lojze Dolinar</persName>,
+               <persName>Ivan Franke</persName>, prof. v pok., <persName>Engelbert
+                  Gangl</persName>, <persName>Maksim Gaspari</persName>, <persName>Tone
+                     Gaspari</persName>, <persName>Flor. Golar</persName>, dr. <persName>Pavel
+                        Grošelj</persName>, <persName>Igo Gruden</persName>, arhitekt
+               <persName>Hilbert</persName>, dr. <persName>Fran Ilešič</persName>, <persName>R.
+                  Jakopič</persName>, <persName>Ivana Kobilca</persName>,<persName> Dana
+                     Koblarjeva</persName>, <persName>Juš Kozak</persName>, dr. <persName>Alojzij
+                        Kraigher</persName>, dr. <persName>R. Krivic</persName>, <persName>Ant.
+                           Koželj</persName>, dr. <persName>Ivan Lah</persName>, <persName>Vladimir
+                              Levstik</persName>, <persName>Anton Melik</persName>, <persName>Anton
+                                 Mikuž</persName>, dr. <persName>Rudolf Mole</persName>, dr. <persName>Fran
+                                    Novak</persName>, profesor dr. <persName>Jos. C. Oblak</persName>, dr.
+               <persName>Nikolaj Omerza</persName>, <persName>Anton Pesek</persName>,
+               <persName>M. Pugeli</persName>, dr. <persName>Franc Ramovš</persName>,
+               <persName>Mihael Rožanc</persName>, <persName>Henrik Smrekar</persName>,
+               <persName>M. Sternen</persName>, <persName>Nikolaj Štritof</persName>,
+               <persName>Milan Šuklje</persName>, <persName>Al. Tavčar</persName>, dr.
+               <persName>Iv. Tavčar</persName>, <persName>Fran Tratnik</persName>, <persName>I.
+                  Vavpotič</persName>, dr. <persName>Miljutin Zarnik</persName>, <persName>Ivan
+                     Zorman</persName>, <persName>Peter Žmitek</persName>, <persName>Oton
+                        Župančič</persName>.
+            </closer>
+         </div>
+         <div><p>Vsi slovenski duševni delavci, ki soglašate s to izjavo, prijavite svoje podpise!</p></div>
+      </body>
+   </text>
+</TEI>

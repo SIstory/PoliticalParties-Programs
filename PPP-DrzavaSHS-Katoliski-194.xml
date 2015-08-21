@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stališče Vseslovenske ljudske stranke o nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšno združitev Države Slovencev, Hrvatov in Srbov s Kraljevinama srbijo in črno goro, podana na seji Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani 
+               21. novembra 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31126</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-194.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31126</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra 1918</title>
+               </analytic>
+               <monogr>
+                  <title>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo 1918–1921</title>
+                  <title>1. del: od 1. nov. 1918 do 26. feb. 1919</title>
+                  <edition>Peter Ribnikar</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Arhiv Republike Slovenije</publisher>
+                     <pubPlace>http://www.sistory.si/SISTORY:ID:768</pubPlace>
+                     <date when="1998">1998</date>
+                     <biblScope unit="page">124</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.194.PPP">
+            <p>Predloženi načrt <orgName>zemaljske vlade za <placeName>Dalmacijo</placeName></orgName>
+               <hi rend="superscript">
+                  <note place="foot" source="#SourceBornDigital">
+                     O predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName> glej pojasnilo v dok. št. 173, op. 3.
+                  </note>
+               </hi> v svoji osnovi nasprotuje vsakršnim demokratičnim načelom in ga vsled tega odklanjamo kot nespremljivega. Ker pa je potrebno, da se za cel[o]i <placeName>držav[o]i SHS</placeName> skupne zadeve tudi že za čas provizorija ustvarijo skupni vladni organi, ki naj bi vodili tudi priprave za bodočo konstituanto, smo mnenja, da naj bi se ta prov. državni ustroj uredil potom pogajanj in dogovorov legitimiranih zastopnikov Slovencev, Hrvatov in Srbov kot enakopravnih enot. Izjavljamo, da smo v tem smislu pripravljeni takoj začeti pogajanja.</p>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

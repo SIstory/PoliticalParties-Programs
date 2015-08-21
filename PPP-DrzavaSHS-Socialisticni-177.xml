@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raprava predstavnika Jugoslovanske socialnodemokratske stranke Antona Kristana o združitviDržave Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno Goro na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatov in Srbov 
+               23. novembra 1918 v Zagrebu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31108</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-177.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31108</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik sa sednice Središnjeg odbora Narodnog vijeća SHS</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">641</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceBornDigital">
+            <p xml:lang="sl">Originalno digitalno besedilo.</p>
+            <p xml:lang="en">Born digital.</p>
+            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
+            <p xml:lang="en">Author: Jurij Perovšek</p>
+         </sourceDesc>
+      </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+     <body>
+        <div xml:id="No.177.PPP">
+           <gap reason="irrelevant"/>
+           <p>Uime jugoslovenske soc. demokracije [govorio je] <persName>Kristan</persName>. On je iz principa protiv monarhije, a za republiku. Davno smo očekivali kao ozebli sunca ujedinjenje svih naših jugoslavenskih zemalja, a sada, kada smo se oslobodili od njemačkoga i mađarskoga iga,<note place="foot" source="#SourceBornDigital">
+              Jarma.
+           </note> bojimo se ono izvršiti, što smo davno željeli.</p>
+           <p>	
+              <persName>Radićev</persName> prijedlog predstavlja krajnji separatizam. Prijedlog dra. <persName>Tresića-Pavičića</persName> prima uđuture<note place="foot" source="#SourceBornDigital">
+                 Počez.
+              </note> krfski pakt, koji se ne može čitav prihvatiti. <persName>Angjelinovićev</persName> prijedlog ne može se prihvatiti, jer odgađa čitavu stvar. <orgName>Narodno vijeće</orgName> treba reorganizirati, da bude u njemu zastupan istinski položaj, kao što su to učinili Česi. 50.000 duša mora izaslati po jednoga delegata. Srbi moraju po tom razmjeru imati iz kraljevine 90 delegata, a <placeName>Crna Gora</placeName> razmjeran broj. Mjesto Regenta neka se postavi direktorij. <placeName>Sarajevo</placeName> ne može da bude prestolnica nove države, jer je nezgodno po svom geografskom položaju. Konstituanta se mora raspisati jedan mjesec iza početka mirovnih konferencija. Ako konstituanta zaključi monarhiju, neka bude monarhija, ako zaključi republiku, neka bude republika. Danas čitav svijet gleda na nas. Dajmo mu primjer sloge. Mi hoćemo veliku <placeName>Jugoslaviju</placeName>, mi ćemo je i stvoriti.</p>
+           <p/>
+           <gap reason="irrelevant"/>
+        </div>
+      </body>
+   </text>
+</TEI>

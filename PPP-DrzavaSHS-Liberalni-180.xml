@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stališča načelstva Jugoslovanske demokratske stranke o aktualnih političnih vprašanjih, sprejeta na seji 13. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31112</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Liberalni-180.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31112</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Poročilo s seje načelstva JDS</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">LI</biblScope>
+                     <biblScope unit="issue">269</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://www.dlib.si/?URN=URN:NBN:SI:DOC-5LZJJLXD</pubPlace>
+                     <date when="1918-11-14">14. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Poročilo s seje načelstva JDS.</head>
+            <p>Načelstvo JDS je v svoji redni tedenski seji, dne 18. novembra t. l. razpravljal o tekočih zadevah, o najbolj perečih vprašanjih se je zavzelo sledeče stališče:</p>
+            <list rend="numbered" xml:id="No.180.PPP">
+            <item n="1."><orgName>Načelstvo JDS</orgName> vidi politično, kulturno in gospodarsko bodočnost jugoslovanskega naroda zajamčeno edino le v popolnoma enotni <placeName>državi SHS</placeName> z osrednjo vlado. Državna oblika naj sloni na ustavi, ki je demokratska in ki omogoča državljanom svobodo ter socijalno pravično življenje. – Vprašanje državne oblike ne sme motiti in onemogočati enotnosti in edinstvenosti <placeName>države SHS</placeName>.</item>
+            <item n="2."><orgName>Načelstvo JDS</orgName>. poziva <orgName>Narodno vlado</orgName>, da takoj odpravi cenzuro in dovoli prosto kolportažo časopisja ter popolno svobodo zborovanj. Vse tri zahteve so jako nujne in naj jih <orgName>Narodna vlada</orgName> čimpreje ugodno reši.</item>
+            <item n="3.">V razgovoru o <orgName>Narodni vladi</orgName> se je poudarjalo, da bodi ta vlada popolnoma nepristranska in naj čimpreje odpravi stari avstrijski sistem in njega nositelje.</item>
+            </list>
+         </div>
+        </body>
+   </text>
+</TEI>

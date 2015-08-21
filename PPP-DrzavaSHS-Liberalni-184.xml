@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razprava liberalno usmerjenega predstavnika tržaških Slovencev dr. Otokarja Rybařa o združitvi Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatov in Srbov 23. in 24. novembra 1918 v Zagrebu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31116</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Liberalni-184.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31116</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik sa sednice Središnjeg odbora Narodnog vijeća SHS</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">641</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.184.PPP">
+            <p>	
+               <persName>Dr. Rybař</persName>: Mi se ne bojimo srpskoga naroda, nego se bojimo Nijemaca i Talijana. Narod traži ujedinjenje. Moramo imati krov nad sobom, jer smo danas res nullius, a taj krov nad glavom jest <orgName>zajednička naša vlada</orgName>. Proglašenje <placeName>države S. H. S.</placeName> suverenom državom u <placeName>Zagrebu</placeName> dana <date when="1918-10-29">29. X. 1918</date>. nazvao je talijanski komandant u <placeName>Puli</placeName> »carnevalle ritardato«. To je za njega jedna komična opereta. Talijani nas naprosto ne priznavaju.</p>
+            <gap reason="irrelevant"/>
+            <p>	
+               <persName>Dr. Rybař</persName> nastavlja svoj jučerašnji govor i naglašuje, da moramo biti za monarhiju, jer smo nezreli za republiku. Ne trebamo se bojati srpske hegemonije. Slavi srpsku vojsku i srpsko junaštvo, koje se pokazalo pred čitavim svijetom.</p>
+            <p/>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

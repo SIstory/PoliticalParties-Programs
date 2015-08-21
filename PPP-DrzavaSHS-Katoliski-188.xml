@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija o obliki in načinu združitve Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, sprejeta na posvetu razširjenega načelstva Vseslovenske ljudske stranke 
+               21. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31120</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Katoliski-188.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31120</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</title>
+               </analytic>
+               <monogr>
+                  <title>Slovenec</title>
+                  <title>politični list za slovenski narod</title>
+                  <imprint>
+                     <biblScope unit="volume">XLVI</biblScope>
+                     <biblScope unit="issue">269</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-21">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</head>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.188.PPP">
+            <p>Oprta na narodno pravo, na načela krfskega pakta in na sklep sabora od dne <date when="1918-10-29">29. oktobra</date>, po katerem bo »splošna narodna ustavodajna skupščina z vnaprej določeno kvalificirano večino, ki bo popolnoma zavarovala pred vsakim majoriziranjem, končno odločila o obliki vladavine kakor tudi o notranjem ustroju naše države, utemeljena na popolni ravnopravnosti Slovencev, Hrvatov in Srbov, zahteva <orgName>V. L. S.</orgName>, da opuste sedanje vlade in oblasti na skupnem jugoslovanskem ozemlju vsako dejanje, ki bi moglo kakorkoli prejudicirati pravu našega ljudstva, da se glede svojega položaja v eni skupni državi samo prosto odloči.</p>
+            <p>
+               <orgName>V. L. S.</orgName> zahteva, naj se prično med legitimiranimi zastopniki Slovencev, Hrvatov in Srbov dogovori, da se pripravi za konstituanto glede ustroja države potrebno soglasje, ki je predpogoj močne in notranje edinstvene države.</p>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

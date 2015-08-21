@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Razprava predstavnika Jugoslovanske demokratske stranke dr. Vekoslava Kukovca o združitvi Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatovi in Srbov 
+               23. in 24. novembra 1918 v Zagrebu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31117</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Liberalni-185.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31117</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik sa sednice Središnjeg odbora Narodnog vijeća SHS</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">641</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <gap reason="irrelevant"/>
+         <div xml:id="No.185.PPP">
+            <p>	
+               <persName>Dr. Kukovec</persName>: Zajednička vlada mora se stvoriti u interesu naših okupiranih krajeva i u interesu <placeName>slovenske Štajerske</placeName> i <placeName>Kranjske</placeName>. Neprijatelj je pred vratima i vreba na naše narodne zemlje. Jugoslovenska ideja, koja živi kroz vijekove u srcima čitavoga našeg naroda, mora danas zadobiti praktično izvršenje. Oni, koji su sposobni, dobit će hegemoniju u svoje ruke. U sadašnjem kritičnom momentu moramo govoriti samo o svojemu spasu, a ne o sitničavim interesima pojedinih plemena i o politici fraza. Danas je istinita poslovica »Hanibal ante portas«, i zato treba prešno uzeti u ruke kormilo.</p>
+            <p>	</p>
+         </div>
+         <gap reason="irrelevant"/>
+        </body>
+   </text>
+</TEI>

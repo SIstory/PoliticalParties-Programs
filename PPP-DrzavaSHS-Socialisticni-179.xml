@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zahteve, sprejete na shodih Jugoslovanske socialnodemokratske stranke  
+               24. novembra 1918 po Slovenskem</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31110</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-179.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31110</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Resolucije</title>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslovanske socialno demokratične stranke </title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">268</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-22">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="No.179.PPP">
+           <div>
+              <head>Resolucije</head>
+              <head n="I."><hi rend="italic" >Politične zahteve</hi>.</head>
+              <list rend="numbered"> 
+              <item n="1.">Protestiramo proti zasedbi slovenskega ozemlja po italijanskih četah, ker nasprotuje ta imperialistični akt italijanske vlade načelu <hi rend="italic">samoodločbe narodov</hi>, izražene tudi v <persName>Wilsonovih</persName> poslanicah.
+               <p><placeName>Trst</placeName>, kakor tudi vse <placeName>Primorje bivše avstro-ogrske države</placeName>, razven <placeName>Furlanije</placeName>, mora po tem načelu pripasti novo nastali <placeName>narodni državi SHS</placeName>.</p>
+               <p>Protestiramo nadalje še posebej proti postopanju italijanskih okupacijskih oblasti, ki internirajo in zapirajo svobodne državljane SHS v koncentracijska taborišča, zatirajo narodni pokret v nasilno zasedenem ozemlju našega naroda ter rekvirirajo živila že itak izžetemu prebivalstvu, kar vse je v nasprotju z veljavnimi določili mednarodnega prava.</p>
+                 <p>Pozivljamo <orgName>Narodno vijeće</orgName> in <orgName>srbsko vlado</orgName>, da energično protestirata proti temu postopanju <orgName>kraljevske italijanske armade</orgName> pri <orgName>ententi</orgName> in <placeName>Zedinjenih državah ameriških</placeName>, zahtevajoč, da <orgName>kraljevsko italijanska armada</orgName> spoštuje obstoječe mednarodno pravo, in da takoj izprazni zasedeno ozemlje, v kolikor je del <placeName>države SHS</placeName>.</p></item>
+                 <item n="2.">Vsled političnega položaja v naši novo nastali državi sami in zaradi uravnanja našega razmerja napram <placeName>Italiji</placeName> ter drugim na novo nastalim narodnim državam, je nujno, da se čimpreje osnuje začasna enotna državna oblast na celem jugoslovanskem ozemlju, ki naj z <hi rend="italic">enakomernim</hi> poudarkom zastopa interese Slovencev, Hrvatov in Srbov <hi rend="italic">navzven</hi>, ter v najkrajšem času skliče konstituanto, najkasneje en mesec po sklepu miru. Ta začasna državna oblast se sestavi iz <orgName>Narodnega vijeća</orgName>, ki ga je reformirati po dejanskem razmerju organiziranih političnih sil na jugoslovanskem ozemlju bivše <placeName>avstro-ogrske monarhije</placeName>, <orgName>srbske in črnogorske narodne skupščine</orgName> in zastopnikov <orgName>Jugoslovanskega odbora v <placeName>Londonu</placeName></orgName>. Ta začasna državna oblast naj izvoli iz svoje srede začasno skupno vlado in njenega predsednika.
+                  <p>Konstituanta, ki naj določi obliko vladavine, njeno ustavo in upravo, se naj izvoli po splošni, enaki, tajni in proporčni volilni pravici vseh državljanov, obojega spola, starih nad 21 let. Število mandatov za konstituanto naj se razdeli tako, da odpade na vsakih 25.000 duš najmanj po en poslanec, volilni okraji pa naj obsegajo za enkrat področja dosedanjih narodnih vlad.</p></item>
+               <item n="3."><placeName>Jugoslovanska država</placeName> bodi socialna republika z najširšo samoupravo ljudstva.	</item>
+               <item n="4.">Odpravijo naj se vsi naslovi, redovi in plemstva.</item>
+               <item n="5.">Zahtevamo popolno enakopravnost obeh narečej, to je slovenščine in srbo-hrvaščine v vsej državi, enakopravnost in svobodo vseh <hi rend="italic">verstev</hi>; odklanjamo pa vse separatističnim ciljem služeče federalistične težnje.</item>
+               <item n="6">Zahtevamo popolno in takojšnjo svobodo besede, tiska, združevanja in zborovanja.</item>
+              </list>
+            </div>
+            <div>
+               <head n="II.">
+                  <hi rend="italic">Gospodarska vprašanja</hi>.</head>
+               <list rend="numbered">
+               <item n="1.">Preskrbo ljudstva z najpotrebnejšimi živili, obleko in obutvijo, surovinami in drugimi industrijskimi produkti je državno organizirati. V to svrho je takoj stopiti v stike z <placeName>zveznimi ameriškimi in sosednimi državami</placeName>, da se doseže čimprej potrebni uvoz. Ves izvoz in uvoz naj stoji pod strogo državno kontrolo, v kateri namen je ustvariti državno importno in eksportno centralo.</item>
+               <item n="2.">V svrho podržavljenja vseh rudnikov, železnic in veleindustrije je pri teh podjetjih takoj uvesti prisilno državno upravo, pri čemer se je ravnati po načelu, da je določiti za prehodno dobo v svrho zagotovitve proizvajalne intenzitete delež na dobičku vsem, ki so udeleženi na produkciji pri posameznem obratu. Obenem pa je ukreniti vse potrebno, da preidejo ta podjetja čimprej v državno last.</item>
+               <item n="3.">Zahtevamo razlastitev fidejkomisov, zemljišč raznih fondov in veleposestev na celem jugoslovanskem ozemlju. Da si <placeName>država SHS</placeName> zagotovi ta zemljišča, je pri njih takoj uvesti prisilno državno upravo. Obenem pa je proglasiti za neveljavne vse transakcije, ki so bile izvršene <date notBefore="1918-10-19">po 19. oktobru t. l.</date>
+               </item>
+               <item n="4.">V dosego najekonomičnejše izrabe energetičnih sil na našem ozemlju je podržaviti vse vodne sile in poskrbeti za njih strogo sistematično izrabo.</item>
+               <item n="5.">Zahtevamo državno kontrolo v svrho racijonelnega obdelovanja zemlje.</item>
+               <item n="6.">Zahtevamo konfiskacijo vojnih dobičkov za državne potrebe.</item>
+               <item n="7.">Pri rudnikih, železnicah in industrijskih podjetjih je takoj izvesti delavsko kontrolo pri upravi teh obratov kot prvi korak socializacije produkcijskega organizma.</item>
+               </list>
+            </div>
+            <div>
+               <head n="III.">
+                  <hi rend="italic">Socialna vprašanja</hi>.</head>
+               <list rend="numbered">
+                  <item n="a"><p>Zahtevamo načelno enotno delavsko varstveno zakonodajo za vse osebe, ki stoje v mezdnem razmerju. Odpraviti je vse posebne zakone in naredbe za služinčad in rudarje. Vse delavstvo v obrti, trgovini in kmetijstvu je podrediti enemu zakonu.</p>
+               <p>Do sedaj veljavni obrtni red in vse tozadevne naredbe je razširiti i na kmetijsko delavstvo, služinčad in rudarje. Zakon o trgovskih pomočnikih ostane v veljavi do časa ko bo proglašen nov enotni zakon.</p>
+               <p><orgName>Obrtna sodišča</orgName> je razširiti na rudarje in služinčad.</p></item>
+               <item n="II.">V varstvenem zakonodajstvu je izvesti naslednje izpremembe:
+                  <list rend="numbered">
+               <item n="1.">Osemurni delavnik, za vse delavce in nastavljence brez izjeme in 36-urni nedeljski počitek.</item>
+               <item n="2.">Prepoved ženskega nočnega dela. V soboto bodi dovoljeno žensko delo samo do 12 opoldan. Žene morajo biti izločene iz vseh obratov škodljivih zdravju, katerih seznam bodi strogo omejen.</item>
+               <item n="3.">Otrokom do 15. leta bodi prepovedano vsako produkcijsko delo. Mladoletni delavci od 15. do 18. leta ne smejo biti zaposleni od 6. ure zvečer do 7. ure zjutraj.</item>
+               <item n="4.">Vajensko razmerje je reformirati po naslednjih načelih:
+                  <list rend="numbered">
+               <item n="a)">Ustanoviti je posredovalnice z zastopstvom učiteljev, zdravnikov, staršev, delavcev in delodajalcev, kamor bi se mogla obrniti mladina, ki je zapustila šolo, za svet pri izbiri poklica. Učni načrt normalne ljudske šole, bodi tako urejen, da omogočuje in podpira možnost, da učenec pokaže nagnjenost in zmožnost za gotovi poklic.</item>
+               <item n="b)">Maksimalna vajenska doba naj traja dve leti uštevši dobo izkušenj. Izvzete so seveda specijalne umetniške obrtne stroke.</item>
+               <item n="c)">Učni mojster je odgovoren za izučitev vajenca, on nosi vse nastale izdatke v slučaju podaljšanja učne dobe ali izučitve pri drugem mojstru.</item>
+               <item n="d">Prepovedano je uporabljati vajence k delom, škodljivemu zdravju.</item>
+               <item n="e">Ustanoviti je državna vajenska nadzorstva in redno nadzorovanje nad zdravstvenim stanjem vajencev.</item>
+               <item n="f">Urediti je obvezno pohajanje strokovnih nadaljevalnih šol za vse mladoletne delavce in delavke do 18. leta, nameščene v obrti, trgovini, prometu in kmetijstvu. V učni načrt je sprejeti vse predmete, katerih znanje bode potreboval dijak v življenju.</item></list></item>
+               <item n="5.">Priznati je načelo minimalne zakonito določene mezde, ki jo predlagajo posebne mezdne komisije, ki jih sestavijo nestrankarske uradne osebe, sestavljene iz zastopnikov delavcev in delodajalcev.</item>
+               <item n="6.">Priznati je veljavnost delavnih pogodb, podpisanih od delavskih strokovnih in delodajalskih organizacij.</item>
+               <item n="7.">Odpraviti je delavske knjižice in postaviti na njih mesto legitimacije o vrsti in dobi zaposlenosti.</item>
+               <item n="8.">Vsak delavec in vsak nastavljenec ima vsako leto pravico do najmanj enotedenskega dopusta.</item></list></item>
+                 
+               <item n="III.">Varstvene in zavarovalne zakone in naredbe je primerno uporabljati tudi za domače delavce. Domače delo bodi prepovedano v vseh strokah, kjer je to brez odloga možno, kot je to n. pr. v konfekčni stroki in dalje v vseh onih strokah, kjer je to nevarno za zdravje. Za domače delavstvo naj bodo predpisani seznami delavcev in mezdne knjižice.</item>
+               <item n="IV.">Zasebnim in javnim delavcem in nastavljencem mora biti zagotovljeno svobodno koalicijsko pravo. Vsaka omejitev zborovanja in združevanja je kaznjiva.</item>
+               <item n="V.">Prepovedi priseljevanja, izseljevanja in preseljevanja so nepripustna. Inozemsko delavstvo ima iste pravice na varstvo in zavarovanje kot domače.</item>
+               <item n="VI.">Poverjeništvo za socialno skrb je razširiti v poverjeništvo za delavske zadeve in socialno skrb, pridobiti mu je vse delavske in socialno politične zadeve.</item>
+               <item n="VII.">Ustanoviti je delavske zbornice kot avtonomne oblasti z državno subvencijo v svrho zastopanja delavskih interesov. Strokovnim organizacijam bodi zajamčeno zastopstvo v vseh zborih, kjer se obravnavajo vprašanja delavstva in socialne zakonodaje. Pri poverjeništvu za delavske zadeve in socialno skrb je ustanoviti poseben delavski sosvet.</item>
+               <item n="VIII.">Vse javne posredovalnice dela kot tudi one strokovnih organizacij morajo imeti pravico do poštnine prostih pošiljatev in uradne telefonične zveze. Brezposelnim je nuditi brezplačno vožnjo na kraj dela.</item>
+               <item n="IX.">K obrtnemu nadzorstvu je pritegniti moške in ženske iz delavskega stanu. K temu nadzorstvu je pripojiti rudniško nadzorstvo, v katerem naj bodo zastopani rudarji.</item>
+               <item n="X.">Glede delavskega zavarovanja zahtevamo:
+                  <list rend="numbered">
+                  <item n="1." rend="italic">Bolniško zavarovanje:
+                     <p>Bolniški zakon je popolnoma reformirati v tem smislu, da so podvržene bolniškemu zavarovanju vse osebe, ki stoje v mezdnem razmerju brez razlike prejemkov. Posebej zahtevamo, da so podvrženi bolniški zavarovalnici tudi kmetiški, gozdni in domači delavci, ter služinčad. Dalje je uvesti obvezno rodbinsko zavarovanje.</p>
+               <p>Kar se tiče organizacije, zahtevamo za sedaj, da je odpraviti vse bolniške blagajne, ki sedaj nimajo najmanj 200 članov. Posebej je odpraviti takozvane po zakonu iz <date when="1892">leta 1892.</date> zapisane blagajne. Odpraviti je bolniške rudarske bratske skladnice in je uvrstiti rudarje v okrajne bolniške blagajne.</p>
+                  </item>
+                  <item n="2." rend="italic">Zavarovanje proti nezgodam:
+               <p>Obveznost zavarovanja je razširiti na vse obrtne, kmetiške in vse gozdne obrate in na vso domačo služinčad in domače delavstvo. Za časa zdravljenja je zvišati zavarovalnino na višino mezde, zlasti za one, ki nimajo pravice do bolniškega zavarovanja. Zavarovalnino za vdove, ki niso zmožne za delo, je zvišati za 50 odstotkov.</p>
+               <p>Stoječ na načelu splošnega in enotnega zavarovanja, ki bi obsegalo vse delavne stroke, zahtevamo, da se pripoji zavarovanje rudarjev zoper nezgodo splošnemu delavskemu zavarovanju.</p>
+               <p>V svrho enotne ureditve delavskega socialnega zavarovanja in v svrho rešitve načelnih sporov je uredili centralni zavarovalni urad.</p>
+                  </item>
+                  <item n="3." rend="italic">Starostno in invalidsko zavarovanje:
+               <p>Vojna je zadela zlasti delavstvo tako, da postane predčasno nezmožno za delo in se hitrejše postara, vsled tega zahtevamo, da se kar najhitreje uvede starostno in invalidno zavarovanje.</p>
+                  </item>
+                  <item n="4." rend="italic">Zahtevamo zavarovanje proti brezposelnosti.</item>
+                  </list>
+               </item>
+               </list>
+               <p/>
+            </div>
+          </div>
+        </body>
+   </text>
+</TEI>

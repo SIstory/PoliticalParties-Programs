@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stališče Jugoslovanske socialnodemokratske stranke o nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšnjo združitev Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, podano na seji Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani 
+               21. novembra 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31107</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-176.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31107</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra 1918</title>
+               </analytic>
+               <monogr>
+                  <title>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo 1918–1921</title>
+                  <title>1. del: od 1. nov. 1918 do 26. feb. 1919</title>
+                  <edition>Peter Ribnikar</edition>
+                  <imprint>
+                     <biblScope unit="volume">I</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <publisher>Arhiv Republike Slovenije</publisher>
+                     <pubPlace>http://www.sistory.si/SISTORY:ID:768</pubPlace>
+                     <date when="1998">1998</date>
+                     <biblScope unit="page">125</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+     <body>
+        <div>
+          <gap reason="irrelevant"/>
+           <p xml:id="No.176.PPP">Vsled političnega položaja v naši novo nastali državi sami in zaradi uravnavanja našega razmerja napram <placeName>Italiji</placeName> ter drugim na novo nastalim narodnim državam, je nujno, da se čimpreje osnuje začasna <hi rend="italic">enotna državna oblast na celem jugoslovanskem ozemlju, ki naj z enakomernim poudarkom zastopa interese Slovencev, Hrvatov in Srbov na zunaj ter v najkrajšem času skliče konstituanto, najkasneje en mesec po sklepu miru. Ta začasna državna oblast naj se sestavi iz </hi>
+              <orgName>Narodnega Veča</orgName>,
+              <hi rend="italic"> ki ga je reformirati po dejanskem razmerju organiziranih političnih sil na jugoslovanskem ozemlju 
+                 <placeName rend="italic">bivše avstro-ogrske monarhije</placeName>,</hi>
+              <hi rend="italic"> 
+                 <orgName rend="italic">srbske in črnogorske narodne skupščine</orgName></hi>
+              <hi rend="italic"> in zastopnikov </hi>
+              <orgName rend="italic">Jugoslovanskega odbora v <placeName>Londonu</placeName>.</orgName>
+              <hi rend="italic"> Ta začasna oblast naj izvoli iz svoje srede začasno skupno vlado in njenega predsednika. Konstituanta, ki naj določi obliko vladavine, njeno ustavo in upravo, se naj izvoli po splošni, enaki, tajni in proporčni volivni pravici vseh državljanov obojega spola, starih nad 21 let. Število mandatov za konstituanto naj se razdeli tako, da odpade na vsakih 25.000 duš najmanj po en poslanec, volivni okraji pa naj obsegajo zaenkrat področja dosedanjih narodnih vlad. 
+                 <placeName>Jugoslovanska država</placeName></hi>
+              <hi rend="italic"> bodi socialna republika z najširšo samoupravo ljudstva</hi>.</p>
+           <p/>
+          <gap reason="irrelevant"/>
+        </div>
+     </body>
+   </text>
+</TEI>

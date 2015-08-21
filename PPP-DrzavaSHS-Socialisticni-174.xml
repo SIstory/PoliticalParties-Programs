@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zahteve socialnodemokratskega delavstva, sprejete na njegovem shodu 10. novembra 1918 v Ljubljani</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31106</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Socialisticni-174.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31106</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Veličasten shod v Mestnem domu v Ljubljani</title>
+               </analytic>
+               <monogr>
+                  <title>Naprej</title>
+                  <title>glasilo jugoslovanske socialno demokratične stranke </title>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <biblScope unit="issue">258</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <date when="1918-11-22">22. 11. 1918</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+     <body>
+         <div xml:id="No.174.PPP">
+            <div>
+              <head>Politično vprašanje.</head>
+               <list rend="numbered">
+                  <item n="1.">Zahtevamo, da <orgName>Narodno vijeće</orgName> v zvezi z narodnimi
+                     vladami oziroma z vsemi poverjeništvi takoj jasno in razumljivo proglasi vse iz
+                     bivše <placeName>avstro-ogrske monarhije</placeName> izločeno jugoslovansko
+                     ozemlje za odrešeni del enotne <placeName>jugoslovanske države</placeName>, ki
+                     jo je dosedaj predstavljala svobodna <placeName>Srbija</placeName> in
+                        <orgName>Jugoslovanski odbor v <placeName>Londonu</placeName></orgName>.</item>
+                  <item n="2.">Zahtevamo, da <orgName>Narodno vijeće</orgName> takoj sestavi in z letaki
+                     razglasi osnovne ustavne naredbe z začasno, toda brezpogojno veljavnostjo za
+                     celo jugoslovansko ozemlje na tleh bivše <placeName>avstro-ogrske
+                        monarhije</placeName>. V teh ustavnih naredbah mora biti obrazložen
+                     obstoječi državni aparat in medsebojno razmerje njegovih posameznih delov. Ta
+                     provizorična ustava naj posebno jasno povdari, da je iz <orgName>Narodnega
+                        vijeća</orgName> izvoljeno vrhovno vodstvo začasno najvišja vrhovna oblast,
+                     ki vrši svoje upravne posle potom začasnih narodnih vlad oziroma poverjenikov.
+                     V vseh ukrepih političnega značaja odloča <orgName>Narodno
+                     vijeće</orgName>.</item>
+                  <item n="3.">Shod zahteva, da mora <placeName>Jugoslovanska država</placeName> postati
+                     socialna republika, ker le ta odgovarja našim socialističnim načelom.</item>
+                  <item n="4.">
+                     <p>V svojem manifestu z dne <date when="1918-10-10">10. oktobra t. l.</date>
+                        je proglasilo <orgName>Narodno vijeće</orgName>, da hoče biti
+                           <placeName>jugoslovanska država</placeName> svobodna, moderna država, ki
+                        bo temeljila na načelih politične in gospodarske demokracije. Zahtevamo, da
+                           <orgName>narodna vlada <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName>
+                        tudi praktično uveljavlja načela demokratizma. V svojem prvem razglasu z dne
+                           <date when="1918-10-31">31. oktobra t. l.</date> pa je izdala
+                           <orgName>narodna vlada</orgName> v <placeName>Ljubljani</placeName>
+                        naslednjo določbo: »Vsi dosedanji zakoni in vse dosedanje naredbe ostanejo
+                        še nadalje v veljavi.« Na podlagi te določbe pa je sedaj <orgName>policijsko
+                           ravnateljstvo <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName> naznanilo
+                        z odlokom z dne <date when="1918-11-08">8. novembra t. l.</date>, da ostanejo
+                        omejitve svobodnega zbiranja in združevanja iz policijske
+                           <placeName>Avstrije</placeName> še nadalje v veljavi. <lb/>Ta odlok stoji
+                        v diametralnem nasprotstvu z načeli političnega demokratizma. </p>
+                     <p>Zato zahtevamo, da <orgName>Narodna vlada <placeName>SHS</placeName></orgName> v
+                           <placeName>Ljubljani</placeName> takoj prekliče veljavnost zakona o
+                        društvenem pravu z dne <date when="1867-11-15">15. novembra 1867</date>, d. z.
+                        št. 134, in zakona o shodnem pravu z dne <date when="1867-11-15">15. novembra
+                           1867</date>, d. z. št. 135. Nadalje zahtevamo, da prekliče <orgName>Narodna
+                           vlada <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName> takoj vse zakone
+                        in naredbe iz bivše policijske <placeName>Avstrije</placeName>, ki omejujejo
+                        politično svobodo državljanov. Socialisti si najodločnejše prepovedujemo
+                        politično policijo. Zahtevamo popolno politično svobodo, zahtevamo popolno
+                        svobodo zbiranja in združevanja že v prehodni dobi.</p>
+                  </item>
+                  <item n="5.">Shod apelira na mednarodni socialistični odbor, da skliče mednarodno
+                     socialistično konferenco v istem kraju in ob istem času, kakor se bo vršila
+                     mednarodna konferenca vojujočih se držav.</item>
+               </list>
+            </div>
+            <div>
+               <head>Gospodarska in socialna vprašanja.</head>
+               <p>Štiriletna vojna je zahtevala od jugoslovanskega naroda na ozemlju
+                  bivše <placeName>avstro-ogrske monarhije</placeName> najtežje materialne in
+                  krvne žrtve. Gospodarsko je naš narod tako izmozgan, da mu preti življenski
+                  bankerot. Primanjkuje nam živil in mnogih potrebnih surovin, trgovina in obrt sta
+                  deloma uničena, industrija deluje v zelo omejenem obsegu. Poleg tega pa nam preti
+                  vsled končane vojne obča brezposelnost.</p>
+               <p>Zato zahtevamo od <orgName>Narodnega vijeća</orgName> začasne vrhovne vlade
+                  jugoslovanskega ozemlja na tleh bivše <placeName>bivše avstro-ogrske
+                     monarhije</placeName> v <placeName>Zagrebu</placeName> naslednje:</p>
+               <list rend="numbered">
+               <item n="1.">da se takoj sestavi v <placeName>Zagrebu</placeName> posebna interresortna
+                  komisija strokovnjakov iz celega našega jugoslovanskega ozemlja na tleh
+                  bivše <placeName>avstro-ogrske monarhije</placeName>, ki naj stopi takoj v
+                  zvezo z aliiranimi in sosednimi državami, da doseže čimpreje uvoz potrebnih živil,
+                  surovin in industrijskih produktov.</item>
+               <item n="2.">V svrho podržavljenja vseh rudnikov, železnic in veleindustrije, je pri teh
+                  podjetjih takoj uvesti prisilno državno upravo in ukreniti vse potrebno, da
+                  preidejo ta podjetja čimprej v državno last. V dosego najekonomičnejše izrabe
+                  energetičnih sil na našem ozemlju, je podržaviti vse vodne sile in ustvariti
+                  strogo sistematično izrabo. Preskrba ljudstva z najpotrebnejšimi živili je državno
+                  organizirati. Ves izvoz in uvoz naj stoji pod strogo državno kontrolo, v kateri
+                  namen je ustvariti državno importno in eksportno centralo.</item>
+               <item n="3."><p>Da bodo delavski interesi kar najbolj zajamčeni in da bo uprava delavskih
+                  zahtev kar najbolj enotna, zahtevamo takojšnjo ustanovitev oziroma dopolnitev
+                  sedanjih poverjeništev za socialno skrb v poverjeništva za delavske zadeve in
+                  socialno skrb. Temu poverjeništvu je takoj prideliti vse delavske in socialno
+                  politične zadeve in jih istočasno izločiti iz drugih poverjeništev, v kolikor so
+                  jim prideljena.</p>
+                  <p>Pri poverjeništvu za delavske zadeve in socialno skrb je takoj urediti naslednje
+                  oddelke:</p>
+               <list rend="numbered">
+                  <item n="a)">oddelek za organizacijo delovnega trga in za brezposelnost;</item>
+                  <item n="b)">oddelek za invalide in zaostale;</item>
+                  <item n="c)">oddelek za socialno zavarovanje;</item>
+                  <item n="d)">oddelek za delovno pravo in varstvo delavcev;</item>
+                  <item n="e)">oddelek za interesne organizacije in zastope delavstva;</item>
+                  <item n="f)">oddelek za stanovanja;</item>
+                  <item n="g)">Oddelek za mladinsko skrb.</item>
+               </list>
+               </item>
+               <item n="4."><p>Zahtevamo ustanovitev delavskih zbornic kot avtonomnih oblasti z državno
+                  subvencijo. Delavske zbornice imajo braniti delavstvo pred kapitalističnim
+                  izkoriščanjem in poravnavati spore med delom in kapitalom. Da se te zbornice
+                  čimprej urede, zahtevamo, da stopi vlada v stik z delavstvom v
+                  svrho potrebnih predpriprav.</p>
+               <p>Da pa bo delavstvo že v prehodni dobi obvarovano kapitalističnega izkoriščanja,
+                  zahtevamo ustanovitev začasnih mešanih paritetnih komisij za posamezne stroke,
+                  katerih naloga je, da urede spore med delom in kapitalom. Proti razsodbam teh
+                  komisij ima vsaka stranka pravico priziva na osrednjo mešano paritetno komisijo v
+                     <placeName>Zagrebu</placeName>, ki je istotako le prehodnega značaja. V vsaki
+                  teh komisij ima vlada svojega zastopnika, ki vodi
+                  pogajanja.</p></item>
+               <item n="5."><orgName>Narodno vijeće</orgName> je proglasilo v svojem manifestu z dne <date when="1918-10-19">19. oktobra t. l.</date>, da bo temeljila
+                     <placeName>jugoslovanska država</placeName> na gospodarskem demokratizmu in
+                  socialni pravičnosti. Z ozirom nato zahtevamo, da se takoj uvede začasno
+                  naredbenim pozneje pa zakonitim potom delavska kontrola pri upravi vseh obratov
+                  kot prvi korak socializacije produkcijskega organizma.</item>
+               <item n="6.">Vse doslej veljavne vzdrževalnine, podpore, zavarovalnine in pokojnine, ki
+                  nosijo javnopravni značaj, je redno izplačevati, dokler ne nastopijo take
+                  okoliščine, ki odpravijo njih naslov. Prevzeti je celo dosedanje socialno
+                  zakonodajstvo in ves tozadevni aparat. V slučajih, kjer so bili zavodi izven
+                  našega ozemlja, je takoj ustanoviti osrednji zavod v
+                     <placeName>Ljubljani</placeName>, oziroma v <placeName>Zagrebu</placeName>, in
+                  ukreniti vse potrebno, da pridejo akti agende in denar na ta zavod.</item>
+               <item n="7.">Zahtevamo razlastitev fidejkomisov, zemljišča raznih fondov in veleposestev na
+                  celem jugoslovanskem ozemlju. Da si <placeName>država <placeName>SHS</placeName></placeName> zagotovi ta
+                  zemljišča kot zemljišča nekdanje <placeName>avstro-ogrske monarhije</placeName>,
+                  je takoj uvesti prisilno državno upravo. Obenem pa je proglasiti za neveljavne vse
+                  transakcije pri teh zemljiščih, ki so bile izvršene po <date notBefore="1918-10-19">19.
+                     oktobru t. l.</date>
+               </item>
+               <item n="8.">Zahtevamo državno kontrolo v svrho racijonalnega obdelovanja zemlje.</item>
+               </list>
+           </div>
+         </div>
+      </body>
+
+   </text>
+</TEI>

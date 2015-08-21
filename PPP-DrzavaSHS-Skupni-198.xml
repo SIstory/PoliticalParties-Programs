@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolucija kulturnega odseka Narodnega sveta za slovenlovenske dežele in Istro o kulturni avtonomiji, sprejeta 18. novembra 1918</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31130</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Skupni-198.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31130</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Vprašanje kulturne avtonomije 1918</title>
+                  <author>
+                     <forename>Bogo</forename>
+                     <surname>Grafenauer</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title>Zgodovinski časopis</title>
+                  <imprint>
+                     <biblScope unit="volume">42</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <pubPlace>Ljubljana</pubPlace>
+                     <pubPlace>http://sistory.si/?urn=SISTORY:ID:13965</pubPlace>
+                     <date when="1988">1988</date>
+                     <biblScope unit="page">568</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+        </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+          <div xml:id="No.198.PPP">
+                <p>Ob postanku <placeName>države Slovencev, Hrvatov in Srbov</placeName> pričakuje kulturni odsek <orgName>N. S.</orgName>, da bo nova politično popolnoma edinstvena država, naj bo organizirana kakorkoli, po svoji moči pospeševala z vsemi razpoložljivimi sredstvi razvoj prosvetnega življenja vseh treh rodov podlagi kulturne avtonomije. Neoviran razmah individualnih sil vseh treh plemen je najzdravejši pogoj za polno duševno bogastvo <placeName>Jugoslavije</placeName>. </p>
+                <p>Kulturna politika bo morala vsekakor upoštevati dejstvo, da je dala zgodovina slovenstvu v teku stoletij posebno duševno vsebino. Slovenski del jugoslovanskega naroda se je razvil tudi jezikovno samostojno, tako da je slovenščina, nositeljica te duševne vsebine, dasi najbližja sorodnica srbo-hrvaščini, danes organizem zase in da je v območju slovenskega književnega jezika za sedaj možno uspešno kulturno delo edinole v tem jeziku. </p>
+                <p>Če bi se Slovencem onemogočil lasten kulturni razvoj, bi sledil neizogibno silen upad kulturnega življenja v slovenskem plemenu, ki bi prenehalo biti tvorno: Vsaka etnična skupina pa se čuti svobodno samo v toliko, v kolikor more uveljavljati svojo tvornost. Vsak narod je pomemben človeštvu v toliko, v kolikor je tvorec novih vrednot. Tudi bi se mogla prilagoditi kulturnemu prelomu samo tenka plast slovenske inteligence, dočim bi bile široke mase, jedro našega plemena, izobčene od dobrin kulturnih pridobitev in pahnjene v kulturni polumrak.</p>
+                <p>Kulturna avtonomija pa nikakor ne odvezuje duševnih delavcev vseh treh plemen dolžnosti, iskati vedno tesnejših stikov, vedno globjega medsebojnega umevanja in sporazuma v vseh vprašanjih ter skrbeti za medsebojno spopolnjevanje skupnega  prosvetnega dela, ki bo na svojem višku zadnja najlepša utemeljitev svobodne <placeName>Jugoslavije</placeName> v družini narodov.</p>
+                <closer>Dr. <persName>Ambrožič</persName>, Dr. <persName>Anton Breznik</persName>, <persName>Ivan Cankar</persName>, Dr. <persName>Izidor Cankar</persName>, Dr. <persName>Mirko Černič</persName>, <persName>Anton Debeljak</persName>, Dr. <persName>Josip Debevec</persName>, <persName>Lojze Dolinar</persName>, <persName>Franc Finžgar</persName>, <persName>Anton Funtek</persName>, Dr. <persName>Ivan Grafenauer</persName>, Dr. <persName>Pavel Grošelj</persName>, <persName>Matej Hubad</persName>, <persName>Rihard Jakopič</persName>, <persName>Dr. Franc Kimovec</persName>, <persName>F. Klemenčič</persName>, <persName>Marij Kogoj</persName>, <persName>Juš Kozak</persName>, Dr. <persName>Alojzij Kraigher</persName>, Dr. <persName>Krivic</persName>, <persName>Anton Lajovic</persName>, Dr. <persName>Lemež</persName>, <persName>Vladimir Levstik</persName>, Dr. <persName>Josip Mal</persName>, Dr. <persName>Jos. Mantuani</persName>, <persName>Anton Melik</persName>, <persName>Stanko Premrl</persName>, <persName>Albin Prepeluh</persName>, <persName>Milan Pugelj</persName>, Dr. <persName>Josip Puntar</persName>, Dr. <persName>Fran Ramovš</persName>, <persName>Ivan Ravnik</persName>, <persName>Hinko Smrekar</persName>, <persName>Matej Sternen</persName>, <persName>Alojzij Steska</persName>, <persName>Fran Tratnik</persName>, Dr. <persName>A. Ušeničnik</persName>, <persName>Ivan Vavpotič</persName>, <persName>I. Vurnik</persName>, Dr. <persName>Zalokar</persName>, <persName>Ivan Zorman</persName>, Dr. <persName>Aug. Žigon</persName>, <persName>Žmitek</persName>, <persName>Oton Zupančič</persName>.</closer>
+             
+          </div>
+       </body>
+   </text>
+</TEI>

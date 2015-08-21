@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adresa Narodnega vijeća Slovencev, Hrvatov in Srbov v Zagrebu prebrana pred srbskim prestolonaslednikom Aleksandrom Karađorđevićem ob združitvi Države Slovencev, Hrvatov in Srbov in Kraljevine Srbije v Kraljestvo Srbov, Hrvatov in Slovencev 1. decembra 1918 v Beogradu</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31134</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Skupni-202.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31134</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Adresa izaslanstva Narodnog vijeća SHS prestolonasledniku Aleksandru i njegov odgovor</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">673–674</biblScope>
+                  </imprint>
+               </monogr>  
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+      <body>
+          <div xml:id="No.202.PPP">
+             <opener><salute>Vaše Kraljevsko Visočanstvo!</salute></opener>
+                <p>Osećamo se srećnim što u ime <orgName>Narodnog Veća Slovenaca, Hrvata i Srba</orgName>, možemo da pozdravimo Vaše Kraljevsko Visočanstvo u prestonici oslobođene <placeName>Srbije</placeName> kao Vrhovnog Komandanta pobedonosne <orgName>narodne vojske</orgName>, koja je u zajedničkoj borbi s vojskama naših moćnih saveznika stvorila uvjete za izvršenje velikog dela našeg narodnog ujedinjenja. Slovenci, Hrvati i Srbi, koji su na teritoriji <placeName>bivše austro-ugarske monarhije</placeName> izveli prevrat i privremeno konstituirali nezavisnu narodnu državu, prožmani idejom narodnog jedinstva i oslanjajući se na veliko načelo demokracije, koja traži da svaki narod sam ima da odluči o svojoj sudbini, izjavili su već u objavi <orgName>Narodnog Veća</orgName> 
+                   od <date when="1918-10-19">19. X.</date> da žele i hoće da se sjedine sa <placeName>Srbijom</placeName> i <placeName>Crnom Gorom</placeName> u jedinstvenu narodnu <placeName>državu Srba, Hrvata i Slovenaca</placeName>, koja bi obuhvatila čitav neprekinuti etnografski teritorij Južnih Slovena. Da se ova misao provede u delu zaključilo je <orgName>Narodno Veće</orgName> u svojoj sedmci od <date when="1918-11-24">24. XI</date>, da proglašava ujedinjenje <placeName>države Slovenaca, Hrvata i Srba</placeName> sa <placeName>Srbijom</placeName> i <placeName>Crnom Gorom</placeName> u jednu jedinstvenu državu, i izabralo je svoje odaslanstvo, koje stupa pred <persName>Vaše Kraljevstvo Visočanstvo</persName> da Vam ovaj zaključak <orgName>Narodnog Veća</orgName> zvanično i u svečanoj formi saopći.</p>
+                <p>Zaključak je <orgName>Narodnog Veća</orgName>, da vladarsku vlast na čitavom teritoriju sada jedinstvene <placeName>države Srba, Hrvata i Slovenaca</placeName> vrši Njegovo Veličanstvo <persName>Kralj Petar</persName>, odnosno u njegovoj zameni kao Regent Vaše Kraljevsko Visočanstvo, a ujedno bi se u sporazumu sa vladom Vašeg Kraljevskog Visočanstva i predstavnicima sviju narodnih stranaka u <placeName>Srbiji</placeName> i <placeName>Crnoj Gori </placeName>imala da obrazuje jedinstvena parlamentarna vlada na području <placeName>Jugoslovenske Države</placeName> uz jedinstveno narodno predstavništvo.</p>
+                
+                   <p>Vaše Kraljevsko Visočanstvo!</p>
+                <p>Želja bi <orgName>Narodnoga Veća</orgName> bila da se, obzirom na provizorno stanje, ovo privremeno narodno predstavništvo obrazuje sporazumno između <orgName>Narodnog Veća</orgName> i predstavnika naroda <placeName>Kraljevine Srbije</placeName>, i da se ustanovi odgovornost državne vlade prema modernim parlamentarnim načelima ovom <orgName>Narodnom Predstavništvu</orgName>, koje bi trebalo da ostane na okupu sve do Konstituante, da princip ustavnosti i parlamentarne odgovornosti vlade dođe do potpunog izražaja. Iz istoga razloga ostali bi na snazi pod kontrolom državne vlade dosadanji autonomni administrativni organi, koji će za svoje uredovanje biti odgovorni autonomnim predstavništvima. U ovo prelazno doba trebalo bi, po našem mišljenju, stvoriti preduvjete za konačnu organizaciju naše jedinstvene države. Naša državna vlada trebala bi u tu svrhu posebice da pripravi Konstituantu, koja bi prema iznesenom predlogu <orgName>Narodnog Veća</orgName> bila izabrana na temelju općeg, jednakog, izravnog, tajnog i proporcionalnog prava glasa, a sastala bi se najkasnije 6 meseci posle sklopljenog mira.</p>
+             <p>U ovom istorijskom času, kad stupamo pred Vaše Kraljevsko Visočanstvo kao predstavnici naroda sa celog teritorija Južnih Slovena u <placeName>bivšoj austro-ugarskoj monarhiji</placeName>, duboko smo ožalošćeni što moramo konstatirati da su veliki dragoceni delovi našeg narodnoga područja okupirani od <orgName>četa <placeName>kraljevine Italije</placeName></orgName>, koja je do duše saveznica sa <orgName>Silama Sporazuma</orgName> i s kojom želimo živeti u dobrim prijateljskim odnosima, ali nismo pripravni priznati opravdanost bilo kakvih ugovora, pa ni londonskoga, po kojem, uz povredu nacionalnih načela i principa samoodređenja, bi bili prisiljeni da deo našeg naroda odstupimo u sastav tuđe države. Posebno upozoravamo Vaše Kraljevsko Visočanstvo da talijanska okupaciona uprava prelazi granice i oblasti određene i samim uvjetima primirja, sklopljenim s glavnim zapovednikom bivše <placeName>austro-ugarske</placeName> vojske poslije nego što se taj teritorij proglasio nezavisnim i integralnim delom <placeName>države Srba, Hrvata i Slovenaca</placeName>, o čemu ćemo <orgName>vladi Vašeg Kraljevskog Visočanstva</orgName> podneti potrebite dokaze. A s punim uverenjem dajemo izraza svojoj nadi: da će se Vaše Kraljevsko Visočanstvo zajedno s celim našim narodom zauzeti da se definitivne granice naše države označe tako, da budu u skladu sa etnografskim našim granicama, a primenom načela narodnog samoodređenja proklamiranog od predsednika <placeName>Sjedinjenih Američkih Država</placeName> 
+                   <persName>Wilsona</persName> i od sviju <orgName>Sila Sporazuma</orgName>.</p>
+             <closer><signed>Neka živi Njegovo Kraljevsko Veličanstvo <persName>Kralj Petar</persName>!</signed>
+                <signed>Neka živi Vaše Kraljevsko Visočanstvo!</signed>
+                <signed>Neka živi ceo naš ujedinjeni srpsko-hrvatsko-slovenački narod!</signed>
+                   <signed>Neka živi slobodna i ujedinjena <placeName>Jugoslavija</placeName>!</signed></closer>
+           </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Napotila Narodnega vijeća Slovencev, Hrvatov in Srbov v Zagrebu sprejet na seji njegovega osrednjega odbora 24. novembra 1918 delegaciji, izbrani za izvedbo združitve Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro</title>
+            <respStmt>
+               <persName>Jurij Perovšek</persName>
+               <resp>Prepis vira</resp>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Neja Blaj Hribar</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:31133</pubPlace>
+            <pubPlace>https://github.com/SIstory/PoliticalParties-Programs/tree/master/PPP-DrzavaSHS-Skupni-201.xml</pubPlace>
+            <idno type="URL">http://www.sistory.si/SISTORY:ID:31133</idno>
+            <date>2015</date>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="true">
+            <biblStruct>
+               <analytic>
+                  <title>Zapisnik sa sednice Središnjeg odbora Narodnog vijeća SHS</title>
+               </analytic>
+               <monogr>
+                  <title>Građa o stvaranju jugoslovenske države</title>
+                  <title>1. I – 20. XII 1918</title>
+                  <edition>Dragoslav Janković</edition>
+                  <edition>Bogdan Krizman</edition>
+                  <imprint>
+                     <biblScope unit="volume">II</biblScope>
+                     <pubPlace>Beograd</pubPlace>
+                     <publisher>Institut društvenih nauka</publisher>
+                     <date when="1964">1964</date>
+                     <biblScope unit="page">646</biblScope>
+                  </imprint>
+               </monogr>  
+            </biblStruct>
+         </sourceDesc>
+       </fileDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+   </teiHeader>
+   <text>
+       <body>
+             <div xml:id="No.201.PPP">
+                <list rend="numbered">
+                <item n="1.">Konačnu organizaciju nove države može odrediti samo sveopća narodna ustavotvorna skupština svega ujedinjenog naroda Srba, Hrvata i Slovenaca s većinom od dvije trećine glasova. Konstituanta mora se sastati najkasnije 6 mjeseci poslije sklopljena mira. Izrijekom se konstituanti pridržava pravo, da odredi ustav, razumijevajući ovdje naročito državnu formu (monarhija ili republika), unutrašnje državno ustrojstvo i osnovna prava državljana; zatim državnu zastavu, te sjedište vlade i drugih državnih vrhovnih organa. </item>
+                <item n="2.">Do sastanka konstituante vršit će provizorno zakonodavnu vlast <orgName>»Državno vijeće«</orgName> kome pripadaju: svi članovi <orgName>»Narodnog vijeća«</orgName> u <placeName>Zagrebu</placeName>, koji će se nadopuniti s 5 članova <orgName>»Jugoslavenskog odbora« u <placeName>Londonu</placeName></orgName>; zatim razmjerni broj predstavnika <placeName>kraljevine Srbije</placeName>, koje će odabrati <orgName>Narodna skupština</orgName> u dogovoru s tamošnjim političkim strankama; te razmjeran broj predstavnika <placeName>Crne Gore</placeName>, koje će odabrati onamošnja <orgName>Narodna skupština</orgName>.</item>
+                <item n="3."><orgName>Državno vijeće Srba, Hrvata i Slovenaca</orgName> odredit će na prvom sastanku provizornu državnu i pomorsku zastavu.</item>
+                <item n="4.">Vladarsku vlast vršit će do odluke konstituante kralj Srbije, odnosno <persName>prijestolonaslednik Aleksandar</persName> kao regent <placeName>države Srba, Hrvata i Slovenaca</placeName>. Regent nije odgovoran <orgName>»Državnom vijeću«</orgName>, pred kojim polaže zakletvu. On će po načelima parlamentarne vladavine imenovati vladu, koja uživa povjerenje <orgName>»Državnog vijeća«</orgName>. On ima pravo zakonodavne inicijative i sankcije. <orgName>»Državno vijeće«</orgName> može se odgoditi samo vlastitim zaključkom, a ne može se raspustiti prije sastanka konstituante.</item>
+                <item n="5.">Provizorno sjedište državne vlade i <orgName>»Državnog vijeća«</orgName> odredit će se sporazumno.</item>
+                <item n="6."><orgName>Državno vijeće</orgName> bit će dužno, da provede izbore za konstituantu i da ju odmah sazove. Izborni red za konstituantu odredit će <orgName>Državno vijeće</orgName> na osnovu općeg, izravnog, proporcionalnog i tajnog prava glasa sa zastupstvom manjina.</item>
+                <item n="7."><orgName>Državna vlada</orgName>, odgovorna <orgName>Državnom vijeću</orgName>, upravljat će državnim poslovima, pa ćc biti sastavljena od ministra predsjednika i ministara za sve grane državne uprave, te od 7 državnih tajnika, koji će imati mesto i glas u ministarskom vijeću, i to po jedan za <placeName>Srbiju</placeName>, za <placeName>Hrvatsku</placeName> i <placeName>Sloveniju</placeName>, za <placeName>Bosnu i Hercegovinu</placeName>, za <placeName>Sloveniju</placeName>, za <placeName>Dalmaciju</placeName>, za <placeName>Crnu Goru</placeName>, te za <placeName>Bačku</placeName>, <placeName>Banat</placeName> i <placeName>Baranju</placeName>. Državni tajnici imaju zastupati interese svoje zemlje u državnoj vladi, pa – predlažući državnoj vladi prijedloge zemaljskih vlada – imaju paziti, da se tim prijedlozima ne vrijeđaju ni zakoni ni državni interesi.</item>
+                <item n="8.">Poslovi spoljašnji, vojni, pomorski, državne financije, pošte i brzojavi izuzeti su iz djelokruga zemaljskih odnosno pokrajinskih vlada, te pridržani isključivo državnoj vladi. Druge poslove vode zemaljske odnosno pokrajinske vlade u autonomnom djelokrugu po uputama i pod nadzorom državne vlade.</item>
+                <item n="9.">U autonomnim poslovima vrše nad zemaljskom vladom nadzor zemaljski sabori, odnosno pokrajinska će se vijeća sastaviti po dogovoru stranaka dotične pokrajine; ne postigne li se sporazum, odlučit će <orgName>državno vijeće</orgName>. Na čelu pokrajinskih vlada stoje predstojnici – a u <placeName>Zagrebu</placeName>, na čelu zemaljske vlade ban, – koje imenuje vladar, odnosno regent na prijedlog zemaljskih sabora odnosno pokrajinskih vijeća.</item>
+                <item n="10.">Zemaljskim vladama doznačivat će potrebita financijalna sredstva državna vlada u okviru državnog proračuna, prihvaćena od <orgName>Državnog vijeća</orgName>.</item>
+                <item n="11.">Na znazi ostaju svi dosadanji zakoni i drugi propisi isto tako i organizacija sudova, na dosadašnje administrativno ustrojstvo i sadašnji organi zemaljskih vlada.</item>
+                </list>
+             </div>
+       </body>
+   </text>
+</TEI>
