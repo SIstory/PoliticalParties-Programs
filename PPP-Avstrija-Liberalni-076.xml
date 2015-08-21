@@ -47,13 +47,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
+            <head>Resolucije mariborskega shoda zaupnikov <orgName>štajerske Narodne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.76.PPP">Shod zaupnikov Narodne stranke smatra ustanovitev poljudnega
+            <p xml:id="No.76.PPP">Shod zaupnikov <orgName>Narodne stranke</orgName> smatra ustanovitev poljudnega
                tednika <q>Domovina</q> kot nadomestilo za dosedanje napredne pokrajinske liste za
                nujno potrebno, da se more provesti enotna strankarska organizacija in da se poglobi
                ideje jugoslovanske državnosti med najširšimi sloji.</p>

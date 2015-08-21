@@ -48,27 +48,32 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Dnevne vesti.</head>
-            <p xml:id="No.62.PPP"><hi rend="bold">Izvrševalni odbor narodno-napredne stranke</hi> je
+            <p xml:id="No.62.PPP"><hi rend="bold">Izvrševalni odbor <orgName>narodno-napredne stranke</orgName></hi> je
                storil v svoji seji dne <date when="1913-04-18">18. aprila t. l.</date>
                <choice>
                   <sic>soglano</sic>
                   <corr>soglasno</corr>
-               </choice> sledeči sklep: I. Narodna-napredna stranka obžaluje, da vodilni avstrijski
+               </choice> sledeči sklep: I. <orgName>Narodna-napredna stranka</orgName> obžaluje, da vodilni avstrijski
                politiki ne uvidevajo, da ima najmočnejši steber <placeName>habsburške
                   monarhije</placeName> postati združeno avstrijsko Jugoslovanstvo, kateremu pa
                gredo vse tiste pravice,kakor jih uživa bodisi katerikoli narod tega cesarstva.
                   <placeName>Avstro-Ogrska</placeName> pa naj išče iz političnih in gospodarskih
-               razlogov svojih pravih prijateljic v prvi vrsti na slovanskem Balkanu. – II.
-               Narodna-napredna stranka vidi in išče bodočnost slovenskega naroda edino le v okviru
+               razlogov svojih pravih prijateljic v prvi vrsti na <geogName>slovanskem Balkanu</geogName>. – II.
+               <orgName>Narodna-napredna stranka</orgName> vidi in išče bodočnost slovenskega naroda edino le v okviru
                avstrijske monarhije; konštatuje pa, da niti stremljenje po političnem in kulturnem
                zedinjenju vseh avstro-ogrskih Jugoslovanov, niti želja po kultur. zbližanju vseh
                jugoslovanskih plemen ne nasprotuje zgorajšnjemu nepremakljivemu temeljnemu načelu. –
-               III. Narodno-napredna stranka odklanja vsak stik s sanjarijami drugih eventualnosti,
+               III. <orgName>Narodno-napredna stranka</orgName> odklanja vsak stik s sanjarijami drugih eventualnosti,
                meni pa, da izvirajo take sanjarije iz dušnih refleksov, ki se vselej pri velikih
                svetovnih dogodkih pojavljajo med kipečo mladino, ne da bi zamogle roditi realnih
                posledic.</p>

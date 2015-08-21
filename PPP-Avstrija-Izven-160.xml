@@ -46,14 +46,19 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.160.PPP" type="ordered">
-               <item n="VII.">Protestira najodločneje proti temu, da je c. kr. vlada prepovedala
-                  javno prireditev III. shoda narodno-radikalnega dijaštva; vidi v tej prepovedi nov
+            <list xml:id="No.160.PPP" rend="numbered">
+               <item n="VII.">Protestira najodločneje proti temu, da je <orgName>c. kr. vlada</orgName> prepovedala
+                  javno prireditev III. shoda <orgName>narodno-radikalnega dijaštva</orgName>; vidi v tej prepovedi nov
                   izraz vladnega sistema, ki hoče ubiti vsak pojav naprednega življa na ljubo našim
                   klerikalcem ter naroča sklicateljem shoda, da uporabijo vsa zakonita sredstva, da
                   se ožigosa ta prepoved kot protizakonita.</item>

@@ -51,8 +51,8 @@
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list type="ordered">
-               <item n="III.">K verskemu vprašanju:<list xml:id="No.164.PPP" type="simple">
+            <list rend="numbered">
+               <item n="III.">K verskemu vprašanju:<list xml:id="No.164.PPP" rend="simple">
                      <item>
                         <p>Naloga države je, da čuva potom svojih osnovnih zakonov svobodo vere in
                            vesti. To zahteva strpnost, napram vsem konfesijam, ki jih je smatrati v

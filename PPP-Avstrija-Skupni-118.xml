@@ -50,13 +50,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.118.PPP.1">Visoki deželni zbor skleni:</p>
-            <p xml:id="No.118.PPP.2">Visoka c. kr. vlada se pozivlja, da čim prej pri državnem zboru
+            <p xml:id="No.118.PPP.1">Visoki <orgName>deželni zbor</orgName> skleni:</p>
+            <p xml:id="No.118.PPP.2">Visoka <orgName>c. kr. vlada</orgName> se pozivlja, da čim prej pri državnem zboru
                izposluje ustanovitev vseučilišča z bogoslovno, pravoslovno in modroslovno fakulteto
                v <placeName>Ljubljani</placeName>, koja bi vstrezala zahtevam slovenskega naroda,
                ter bi, vstrezaje zahtevam celokupne države, združevala pod svojim krilom ukaželno

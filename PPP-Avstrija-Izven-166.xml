@@ -47,13 +47,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Slovenska Kmečka Stranka</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.166.PPP.1">Ustanovitev Kmečke Stranke ni krivica proti nobenemu drugemu
+            <p xml:id="No.166.PPP.1">Ustanovitev <orgName>Kmečke Stranke</orgName> ni krivica proti nobenemu drugemu
                stanu, ker kmet pusti vsakemu drugemu pravico, da se organizira in združuje, <hi
                   rend="italic">kakor sam hoče</hi>. A isto pravico zahtevajo kmetje tudi sami zase
                in <hi rend="italic">nečejo biti pod političnim jerobstvom neizkušenih ljudi iz
@@ -63,7 +68,7 @@
                <hi rend="bold">kmetje sami</hi>. Namen stranke je razviden iz oklica, ki gre po celi
                deželi. Ker stoji stranka na verskem, katoliškem stališču, ji je lahko ob dani
                potrebi stopiti glede političnega uveljavljanja katoliških načel v stik z vsako drugo
-               katoliško stranko, če je res katoliška, ne le v besedah,ampak tudi v dejanjih. <hi
+               katoliško stranko, če je res katoliška, ne le v besedah, ampak tudi v dejanjih. <hi
                   rend="bold">V svojih stvareh </hi>pa hoče biti kmečka stranka <hi rend="bold"
                   >neodvisna</hi>, kakor zahtevajo načela <hi rend="bold">prave demokracije in
                   samoodločbe</hi>.</p>
@@ -71,7 +76,7 @@
                naravno, da bodo <hi rend="italic">duhovniki, ki imajo ljubezen do ljudstva</hi>, z
                njo sodelovali, kar bo le v splošno korist in kar kmečka stranka iskreno želi v
                verskem in narodnem interesu.</p>
-            <p xml:id="No.166.PPP.3">Slovenska Kmečka Stranka pojde mirno, a krepko, in vztrajno
+            <p xml:id="No.166.PPP.3"><orgName>Slovenska Kmečka Stranka</orgName> pojde mirno, a krepko, in vztrajno
                svojo pot.</p>
             <gap reason="irrelevant"/>
          </div>

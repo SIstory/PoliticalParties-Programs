@@ -53,6 +53,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -66,8 +71,8 @@
                   svojo pozicijo v javnem življenju zahvaliti samo oživotvorjenju imenovanih
                   resolucij med slovenskim ljudstvom in pa nezasluženemu zaupanju,katero se jim je
                   svojedobno v dobri veri naklonilo.</p>
-               <p>Osobito obsojamo najodločneje postopanje kranjskih državnih poslancev S. L. S. v
-                  Jug. klubu, ki so izgubili vsako pravico do zaupanja katoliškega slovenskega
+               <p>Osobito obsojamo najodločneje postopanje kranjskih državnih poslancev <orgName>S. L. S.</orgName> v
+                  <orgName>Jug. klubu</orgName>, ki so izgubili vsako pravico do zaupanja katoliškega slovenskega
                   ljudstva. Ko dvigamo z današnjim dnem vnovič častitljivo, v bojih preizkušeno
                   slovensko katoliško zastavo, izjavljamo, da hočemo pod tem zmagoslavnim praporom
                   nadaljevati delo in boj za resnični blagor poštenega, vernega slovenskega ljudstva
@@ -99,8 +104,8 @@
                   hočemo pripravno in prijazno urediti in <hi rend="italic">iz njega</hi> izključiti
                   vsako drugorodno umešavanje. Vstrajamo pa zvesti in neupogljivi pod habsburško
                   lorenskim žezlom in <hi rend="italic">pozivljamo katoliško slovensko ljudstvo, da
-                     se kot en mož združi v stari zvestobi okolu našega ljubljenega
-                  vladarja!</hi></p>
+                     se kot en mož združi v stari zvestobi okolu našega <persName>ljubljenega
+                  vladarja!</persName></hi></p>
             </div>
             <div xml:id="No.167.PPP.3">
                <head>III.</head>
@@ -123,7 +128,7 @@
                   slovensko ljudstvo otrese z brezozbzirno energijo od sebe vsako podtikanje, kakor
                   bi bilo ali hotelo biti v katerikoli zvezi s krivoprisežnimi uskoki onkraj
                   črnožoltih mejnikov. Mi se zanašamo za našo pravično stvar izključno na pomoč
-                  Vsegamogočnega, na pravicoljubnost našega ljubljenega vladarja in na moralno silo
+                  Vsegamogočnega, na pravicoljubnost našega <persName>ljubljenega vladarja</persName> in na moralno silo
                   našega katoliškega ljudstva. Vsakega pa, ki z dvoumnimi izjavami ali z zlobnim
                   podtikanjem skuša vzbujati sum, kakor <corr>da</corr> bi naš narod iskal kaka
                   druga pota za uresničenje svojih narodnih uzorov, odločno odklanjamo in obsojamo
@@ -131,7 +136,7 @@
             </div>
             <div xml:id="No.167.PPP.4">
                <head>IV.</head>
-               <p>Stranki, ki si danes prisvaja ime <q>Slovenske ljudske stranke</q>, odrekamo vsako
+               <p>Stranki, ki si danes prisvaja ime <q><orgName>Slovenske ljudske stranke</orgName></q>, odrekamo vsako
                   zaupanje, ker so si prilastili v njej odločilni vpliv ljudje, ki so se <hi
                      rend="italic">popolnoma izneverili vodilnim načelom stranke, ki nam je bila pod
                      tem imenom skozi desetletja modra in zanesljiva vodnica v vsem našem javnem
@@ -145,7 +150,7 @@
                      zmagoslavno svojo glavo</hi> in ima najzaneslivejšo oporo v takozvani novi
                   ljudski stranki. Že se kaže na obzorju možnost in verjetnost <hi rend="italic"
                      >nove liberalne dobe in kulturnega boja</hi>, v veliko škodo katoliškemu
-                  slovenskemu ljudstvu in katoliški cerkvi na <placeName>Slovenskem</placeName>.</p>
+                  slovenskemu ljudstvu in <orgName>katoliški cerkvi</orgName> na <placeName>Slovenskem</placeName>.</p>
                <p>Zato pozivljamo katoliško slovensko ljudstvo, duhovnike in lajike, da se združijo
                   z nami v novo, krepko katoliško organizacijo, da skupno branimo v javnem življenju
                   najdražjo svetinjo našega naroda: <hi rend="italic">sveto katoliško vero</hi>, in
@@ -154,7 +159,7 @@
             </div>
             <div xml:id="No.167.PPP.5">
                <head>V.</head>
-               <p>Z največjim ogorčenjem obsojamo sedanjo pisavo večine v <q>Katoliški tiskarni</q>
+               <p>Z največjim ogorčenjem obsojamo sedanjo pisavo večine v <q><orgName>Katoliški tiskarni</orgName></q>
                   izhajajočih listov, ki se od svobodomiselnih in framazonskih listov razlikujejo le
                   še v tem, da so slabše urejevani.</p>
                <p>Ta pisava je <hi rend="italic">nevredna katoliškega imena</hi>. Ker so vsi drugi
@@ -165,7 +170,7 @@
                   obstoja.</p>
                <p><hi rend="italic">Vse somišljenike pozivljamo, da novi dnevnik podpirajo z vsemi
                      močmi duševno in gmotno</hi>.</p>
-               <p><q>Kat. tisk. društvo</q> pa pozivljamo, da naredi red v svojih vrstah in da
+               <p><q><orgName>Kat. tisk. društvo</orgName></q> pa pozivljamo, da naredi red v svojih vrstah in da
                   izvoli odbor, ki bo vodil tisk <hi rend="italic">v smislu društvenih pravil!
                   </hi>Potem novega dnevnika ne bo več treba.</p>
                <p>Vsem somišljenikom priporočamo, da delujejo za čim večje razširjanje ted. <hi
@@ -174,24 +179,24 @@
             <div xml:id="No.167.PPP.6">
                <head>VI.</head>
                <p>Da zagotovimo gmotno podlago novemu dnevniku in da pospešimo katoliški slovenski
-                  tisk sploh, ustanovimo <hi rend="italic"><q>Katoliški tiskovni sklad</q></hi>,
+                  tisk sploh, ustanovimo <hi rend="italic"><q><orgName>Katoliški tiskovni sklad</orgName></q></hi>,
                   čigar uprava se izroči <q>Zadružni tiskarni</q> v
                   <placeName>Ljubljani</placeName>.</p>
-               <p>Ko se razmere v <q>Katoliški tiskarni</q> zadovoljivo urede, pripade ostanek tega
-                     zaklada<q>»Kat. tisk. društvu</q> za povzdigo katol. tiska.</p>
+               <p>Ko se razmere v <q><orgName>Katoliški tiskarni</orgName></q> zadovoljivo urede, pripade ostanek tega
+                     zaklada<q><orgName>Kat. tisk. društvu</orgName></q> za povzdigo katol. tiska.</p>
             </div>
             <div xml:id="No.167.PPP.7">
                <head>VII.</head>
                <p>Da se naše namere čimprej uresničijo, ustvarimo potrebne politične in nepolitične
                   organizacije!</p>
-               <p>Že danes sklenemo, da ustanovimo <hi rend="italic"><q>Slovensko katoliško
-                        zvezo</q></hi> s sedežem v <placeName>Ljubljani</placeName>, kot osrednje
+               <p>Že danes sklenemo, da ustanovimo <hi rend="italic"><q><orgName>Slovensko katoliško
+                        zvezo</orgName></q></hi> s sedežem v <placeName>Ljubljani</placeName>, kot osrednje
                   politično društvo, v kterem naj se zbero vsi naši somišljeniki, ki smejo po
                   veljavnem društvenem zakonu biti člani političnih društev.</p>
             </div>
             <div xml:id="No.167.PPP.8">
                <head>VIII.</head>
-               <p>Ker se nahaja takozvana ljudska stranka pod neizkušenim vodstvom, ki s svojo
+               <p>Ker se nahaja takozvana <orgName>ljudska stranka</orgName> pod neizkušenim vodstvom, ki s svojo
                   docela zgrešeno taktiko vodi narod v katastrofo, pozivljamo vse dobro misleče
                   njene pristaše, da krenejo čimprej na pravo pot.</p>
                <p>Pripravljeni smo se z vsakim, ki čuti <hi rend="italic">katoliško</hi> in <hi

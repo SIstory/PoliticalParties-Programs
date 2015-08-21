@@ -54,18 +54,23 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Shod zaupnikov narodno napredne stranke.</head>
+            <head><orgName>Shod zaupnikov narodno napredne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.61.PPP"><hi rend="italic">Narod.-napredna stranka</hi> je po <date
+            <p xml:id="No.61.PPP"><hi rend="italic"><orgName>Narod.-napredna stranka</orgName></hi> je po <date
                   when="1908-09-20">20. septembru 1908</date> mnogo žrtvovala in zapostavila, da
                omogoči skupen boj slovenskih strank, da pade vladni sistem in se vzame nemštvu
-               njegovo nenaravno moč. Obžaluje pa, da mora danes konstatirati, da v <q>S. L. S.</q>
+               njegovo nenaravno moč. Obžaluje pa, da mora danes konstatirati, da v <q><orgName>S. L. S.</orgName></q>
                ta smer ni našla poštenega odziva, dasi je ta stranka na zunaj to zatrjevala, v
-               resnici pa položaj le v svoje strankarske svrhe izrabljala. Narodno-napredna stranka
+               resnici pa položaj le v svoje strankarske svrhe izrabljala. <orgName>Narodno-napredna stranka</orgName>
                hoče vztrajati v najradikalnejšem odporu proti vladi in nemštvu brez ozira na levo in
                desno in brez kompromisov, pri tem pa nikakor zanemarjati svojih kulturnih in
                gospodarskih teženj, temuč<note source="#SourceBornDigital">Temveč.</note> delati

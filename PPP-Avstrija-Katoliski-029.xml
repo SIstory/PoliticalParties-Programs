@@ -48,13 +48,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Prvi občni zbor.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.29.PPP">Vprvič zbrano <q>Katoliško-politično in gospodarsko društvo za
+            <p xml:id="No.29.PPP">Vprvič zbrano <q><orgName>Katoliško-politično in gospodarsko društvo</orgName> za
                   Slovence na <placeName>Koroškem</placeName></q> porablja to priliko, da izreka
                svojo toplo zahvalo <hi rend="italic">slovenskim državnim poslancem</hi>, ki se že
                več let ne utrudijo, možato potegovati se za nas koroške Slovence in braniti naše

@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -57,31 +62,31 @@
             <gap reason="irrelevant"/>
             <div xml:id="No.122.PPP.1">
                <head>I.</head>
-               <list type="ordered">
-                  <item n="1.)">Deželni zbor se izreka za načelo splošne, enake, neposredne in tajne
+               <list rend="numbered">
+                  <item n="1.)"><orgName>Deželni zbor</orgName> se izreka za načelo splošne, enake, neposredne in tajne
                      volilne pravice pri volitvah v deželni zbor in v poslansko zbornico državnega
                      zbora, ter uvideva nujno potrebo, da se izvrši čimpreje volilna preosnova, ki
                      oživotvori označena načela.</item>
-                  <item n="2.)">C. kr. osrednja vlada se pozivlje, da nemudoma predloži državnemu
+                  <item n="2.)"><orgName>C. kr. osrednja vlada</orgName> se pozivlje, da nemudoma predloži državnemu
                      zboru zakonski načrt v pod 1. označenem zmislu.</item>
-                  <item n="3.)">C. kr. vlada se pozivlje, da nujno izdela zakonska načrta o
+                  <item n="3.)"><orgName>C. kr. vlada</orgName> se pozivlje, da nujno izdela zakonska načrta o
                      spremembi deželnega reda in deželnega volilnega reda v pod 1. navedenem zmislu
                      in ju predloži deželnemu zboru, ki naj se baš v svrho sklepanja o teh zakonskih
-                     načrtih skliče v izredno zasedanje vsaj meseca januarja 1906.</item>
+                     načrtih skliče v izredno zasedanje vsaj meseca <date when="1906-01">januarja 1906</date>.</item>
                </list>
             </div>
             <div xml:id="No.122.PPP.2">
                <head>II.</head>
                <p>Za slučaj, da bi nujno oživotvorjenje označene reforme parlamentarnim potom
-                  izkazalo se kot nemogoče, se c. kr. osrednja vlada pozivlje, nasvetovati na
+                  izkazalo se kot nemogoče, se <orgName>c. kr. osrednja vlada</orgName> pozivlje, nasvetovati na
                   najvišjem mestu, da se sedanji deželno- in državnozborski volilni red, ki sloni na
-                  oktroiranem februarskem patentu iz l. 1861., potom najvišje odločitve razveljavi
+                  oktroiranem februarskem patentu iz l. <date when="1861">1861.</date>, potom najvišje odločitve razveljavi
                   in istim potom uvede za državni in deželni zakonodajni zastop nov volilni red po
                   načelih splošne, enake, neposredne in tajne volilne pravice.</p>
             </div>
             <div xml:id="No.122.PPP.3">
                <head>III.</head>
-               <p>C. kr. osrednja vlada se pozivlje skrbeti za to, da se v vsakem slučaju, enodobno
+               <p><orgName>C. kr. osrednja vlada</orgName> se pozivlje skrbeti za to, da se v vsakem slučaju, enodobno
                   z oživotvorjenjem novih volilnih redov uveljavi tudi poseben zakon v osiguranje
                   popolne svobode vsacega k volitvi upravičenega državljana. </p>
             </div>

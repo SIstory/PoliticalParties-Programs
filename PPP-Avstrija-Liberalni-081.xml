@@ -54,17 +54,22 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName 
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Program Jugoslovanske demokratične stranke (J. D. S.)</head>
+            <head>Program <orgName>Jugoslovanske demokratične stranke (J. D. S.)</orgName></head>
             <head>predlog pripravljalnega odbora.</head>
             <div xml:id="No.81.PPP.1">
                <head n="I.">Splošna politična načela.</head>
                <div>
                   <head n="1.">Narodnost in nje pojmovanje.</head>
-                  <p>J. D. S. je narodna stranka. V naši narodnosti vidimo poleg skupnosti jezika,
+                  <p><orgName>J. D. S.</orgName> je narodna stranka. V naši narodnosti vidimo poleg skupnosti jezika,
                      skupnost kulturnih in socijalnih posebnosti, ki jih je ustvarilo ljudstvo tekom
                      stoletij. Te posebnosti jamčijo našemu narodu nravni in gmotni obstoj, zato
                      zahtevamo, da se vpoštevajo in goje. Narodnost nam je živa tvorna sila, ki se
@@ -74,7 +79,7 @@
                </div>
                <div>
                   <head n="2.">Enakopravnost in svoboda državljanov.</head>
-                  <p>J. D. S. je demokratska stranka. Volja ljudstva je merodajni činitelj javnega
+                  <p><orgName>J. D. S.</orgName> je demokratska stranka. Volja ljudstva je merodajni činitelj javnega
                      življenja. Vsi državljani so enakopravni. Ne priznavamo posameznikom, stanovom
                      in napravam nobenih predpravic. Pod zunanje enakimi predpogoji naj si vsakdo
                      lahko vstvari človeka vredno življenje. Odklanjamo vsakršno omejitev
@@ -92,13 +97,13 @@
                      </choice> kmet in od njegovega prospeha odvisno malomeščanstvo z relativno
                      maloštevilnim industrijskim delavstvom. Med temi stanovi so razredne razlike še
                      malo nerazvite in niso dovolj jake, da bi same po sebi onemogočale enotno
-                     politično organizacijo. J. D. S. stoji na stališču, da se more narodna celota
+                     politično organizacijo. <orgName>J. D. S.</orgName> stoji na stališču, da se more narodna celota
                      uspešno razvijati le, če se enakomerno dvigajo vsi stanovi naroda in zlasti
-                     šibki sloji. J. D. S. je proti vsaki politiki, ki bi merila na to, da bi živel
+                     šibki sloji. <orgName>J. D. S.</orgName> je proti vsaki politiki, ki bi merila na to, da bi živel
                      en stan na stroške drugih stanov, zlasti pa tudi odklanja izigravanje enega
                      stanu proti drugemu. Le demokratska politika, ki ima pred očmi vse stanove in
-                     celoto naroda, more preustrojiti državo ter dvigniti v njej posameznike. J. D.
-                     S. stremi za koncentracijo sil in jih hoče izravnavati v prid skupnemu
+                     celoto naroda, more preustrojiti državo ter dvigniti v njej posameznike. <orgName>J. D.
+                     S.</orgName> stremi za koncentracijo sil in jih hoče izravnavati v prid skupnemu
                      smotru.</p>
                </div>
                <div>
@@ -118,7 +123,7 @@
                <div>
                   <head n="6.">Narodna država Slovencev, Hrvatov in Srbov.</head>
                   <p>Stoječ na stališču narodnega edinstva S. H. S. ter naslanjajoč se na načelo
-                     samoodločbe narodov, zahteva J. D. S. – v zmislu izjav naših jugoslovanskih
+                     samoodločbe narodov, zahteva <orgName>J. D. S.</orgName> – v zmislu izjav naših jugoslovanskih
                      državnih poslancev – svojo neodvisno, na demokratskih načelih urejeno narodno
                      državo Slovencev, Hrvatov in Srbov.</p>
                </div>
@@ -167,7 +172,7 @@
                <head n="IV.">Prosveta.</head>
                <div>
                   <head n="1.">Splošna načela.</head>
-                  <p>J. D. S. je za svobodo prepričanja ter za njega svobodno izražanje in
+                  <p><orgName>J. D. S.</orgName> je za svobodo prepričanja ter za njega svobodno izražanje in
                      uveljavljanje.</p>
                   <p>V umski zmožnosti posameznikovi, v njega strokovni in moralni sposobnosti
                      vidimo temelj in izhodišče vsakega zdravega napredka.</p>
@@ -175,7 +180,7 @@
                      in javnem življenju je bistven del našega programa.</p>
                </div>
                <div>
-                  <head n="2.">J. D. S. in umetnost.</head>
+                  <head n="2."><orgName>J. D. S.</orgName> in umetnost.</head>
                   <p>V popolnost kulturnega življenja spada tudi umetnost. Hočemo iskati in
                      uporabljati sredstva, s katerim se povzdigne med narodom smisel za lepoto v
                      vseh strokah umetnosti.</p>
@@ -190,7 +195,7 @@
                </div>
                <div>
                   <head n="4.">Brezplačnost šolstva.</head>
-                  <p>J. D. S. zahteva podržavljenje in brezplačnost vsega šolstva. Nadarjene ljudi,
+                  <p><orgName>J. D. S.</orgName> zahteva podržavljenje in brezplačnost vsega šolstva. Nadarjene ljudi,
                      ki so brez sredstev, je treba iz javnih sredstev podpirati tako, da se bodo
                      mogli brez skrbi posvetiti poljubnim študijam.</p>
                </div>
@@ -269,7 +274,7 @@
                </div>
                <div>
                   <head n="5.">Strokovne organizacije.</head>
-                  <p>Posebno važnost polaga J. D. S. na stanovske strokovne organizacije, ki so
+                  <p>Posebno važnost polaga <orgName>J. D. S.</orgName> na stanovske strokovne organizacije, ki so
                      najuspešnejše sredstvo za okrepitev gospodarsko šibkega delavstva, obrtništva
                      in kmetijstva. Strokovno združevanje, ki naj tvori gospodarsko organizacijo
                      posameznih stanov, naj bo po zakonu obvezno, a strokovni pripadniki naj se
@@ -313,7 +318,7 @@
                <div>
                   <head n="9.">Delavstvo.</head>
                   <p>Vrednosti nastajajo zlasti iz dela. Krivično je, če gospoduje denar nad delom
-                     in človekom, ki dela. Zato zahteva J. D. S., naj bo pri dobičku iz produkcije
+                     in človekom, ki dela. Zato zahteva <orgName>J. D. S.</orgName>, naj bo pri dobičku iz produkcije
                      pravično soudeležen tudi delavec.</p>
                   <p>Zahtevamo od zakonodaje, da ravno tako, kakor druge stanove, čuva in brani tudi
                      delavca kapitalističnega izkoriščanja ter tudi temu stanu omogoči se dvigniti
@@ -356,7 +361,7 @@
                </div>
                <div>
                   <head n="11.">Industrija.</head>
-                  <p>J. D. S. hoče podpirati razvoj narodne industrije kot bogat vir blagostanja v
+                  <p><orgName>J. D. S.</orgName> hoče podpirati razvoj narodne industrije kot bogat vir blagostanja v
                      narodu.</p>
                   <p>Posebej je treba pospeševati vse panoge industrije (čipkarstvo, pletiljstvo,
                      žebljarstvo, obrt lesnih izdelkov, lončarjev, pečarjev, sitarjev, ščetarjev,
@@ -385,7 +390,7 @@
             </div>
             <div xml:id="No.81.PPP.6">
                <head n="VI.">Skrb za zdravje naroda.</head>
-               <p>Negovanje ljudskega zdravja je važna zahteva J. D. S. Posvečati hočemo ljudskemu
+               <p>Negovanje ljudskega zdravja je važna zahteva <orgName>J. D. S.</orgName> Posvečati hočemo ljudskemu
                   zdravju tem večjo pažnjo, ker nam je v tem oziru povzročila dolgotrajna vojna še
                   posebno škodo. Potrebne so reforme v zakonih (obrtni red, stavbeni red, mladinski
                   zakon itd.) in socijalne naprave, ki bi posredno ali neposredno dvigale zdravstvo
@@ -400,7 +405,7 @@
                <head n="VII.">Mir in vojne posledice.</head>
                <p>Najkrepkejše poudarjamo zahtevo po splošnem miru, a pri sklepanju miru naj pride
                   do veljave volja naroda brez vsake potvore.</p>
-               <p>Posebno paznost hoče J. D. S. posvečati obnovi vseh od vojne prizadetih pokrajin.
+               <p>Posebno paznost hoče <orgName>J. D. S.</orgName> posvečati obnovi vseh od vojne prizadetih pokrajin.
                   Ker so te pokrajine trpele za druge, naj se jim vsa škoda poravna, in sicer
                   zahtevamo, da se o tem s popolno odgovornostjo izjavi država s posebnim zakonom;
                   seveda ima država pravico, da potem k poravnavi škode pritegne tudi druge

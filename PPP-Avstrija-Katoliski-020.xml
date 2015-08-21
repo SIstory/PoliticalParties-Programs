@@ -48,19 +48,24 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.20.PPP.1">Zbor zaupnikov S. L. S., kateri je po § 3. strankinega pravilnika kot <q>vrhovna oblast
+            <p xml:id="No.20.PPP.1">Zbor zaupnikov <orgName>S. L. S.</orgName>, kateri je po § 3. strankinega pravilnika kot <q>vrhovna oblast
                v vseh zadevah stranke, bodisi načelno-pragmatičnih ali taktičnih, parlamentarnih ali
                izvenparlamentarnih in čegar sklepi so merodajni za postopanje stranke odnosno njenih
                organov v vsakem oziru in povsodi</q>, izjavlja:</p>
-            <list type="ordered" xml:id="No.20.PPP.2">
+            <list rend="numbered" xml:id="No.20.PPP.2">
                <item n="1.">da obsoja poskus razdružitve stranke,</item>
-               <item n="2.">ugotavlja, da S. L. S. prej kakor slej obstoji.</item>
+               <item n="2.">ugotavlja, da <orgName>S. L. S.</orgName> prej kakor slej obstoji.</item>
             </list>
             <gap reason="irrelevant"/>
          </div>

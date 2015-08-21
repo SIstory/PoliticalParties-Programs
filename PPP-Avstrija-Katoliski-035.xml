@@ -44,6 +44,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -62,9 +67,9 @@
                duševnem, marveč vzlasti tudi v gmotnem oziru, vendar je človeštvo, vzgojevano po
                brezverskih načelih, duševno že tako onemoglo, da še vedno dere za njim v svoj –
                propad.</p>
-            <p>Tej razjedajoči sili nasproti deluje že 19 vekov katoliška cerkev. In ko dandanes
+            <p>Tej razjedajoči sili nasproti deluje že 19 vekov <orgName>katoliška cerkev</orgName>. In ko dandanes
                gleda te žalostne razmere, toži, kakor nekdaj Gospod, rekoč: <q>Množice se mi
-                  smilijo</q>. Zato cerkev kliče na delo vse svoje zveste: <q>Zbirajte se, družite
+                  smilijo</q>. Zato <orgName>cerkev</orgName> kliče na delo vse svoje zveste: <q>Zbirajte se, družite
                   se, delajte, da rešite, kar je rešiti mogoče!</q></p>
             <p>Tako kliče <persName>Leon XIII.</persName>, slavnovladajoči papež, katoličane na
                delo. Med drugim priporoča jim v ta namen vzlasti katoliške shode, kjer se javno
@@ -83,7 +88,7 @@
             <p><hi rend="italic">Slovenci!</hi> I. slovenski katoliški shod v
                   <placeName>Ljubljani</placeName> naj spričuje, da živi med nami še vedno isto
                katoliško prepričanje, s katerim se je naš narod odlikoval vsa stoletja, odkar je
-               vstopil v katoliško cerkev. Ta shod naj bo svetu porok, da Slovenci tudi v sedanjih
+               vstopil v <orgName>katoliško cerkev</orgName>. Ta shod naj bo svetu porok, da Slovenci tudi v sedanjih
                časih ostanemo zvesti načelom katol. vere, ter da smo pripravljeni vse storiti, da ta
                načela ostanejo v veljavi pri našem ljudstvu za vselej.</p>
             <p>V ta namen pa nam treba: <hi rend="italic">Jasnosti o naših namenih in

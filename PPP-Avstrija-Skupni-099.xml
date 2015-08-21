@@ -48,13 +48,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Poziv.</head>
             <p xml:id="No.99.PPP.1">Z ozirom na sedanje potrebe je proménilo politično društvo
-                  <q>Edinost</q>, ktero je sedaj le za <placeName>Trst</placeName> in okolico
+                  <q><orgName>Edinost</orgName></q>, ktero je sedaj le za <placeName>Trst</placeName> in okolico
                vstanovljeno bilo, svoja pravila ter rastegnolo svoje delovanje po vsem
                   <placeName>Primorskem</placeName>.</p>
             <p xml:id="No.99.PPP.2">Ker je politično društvo za brambo narodnih pravic v prvi vrsti
@@ -64,7 +69,7 @@
                stroki delajo in začasno poverjeništvo v svojem kraji izvršujejo, dokler ne bode
                stvar dobro organizirana. Iz malega raste veliko; ko bode društvo imelo mnogo udov,
                razprostre lažje svoje področje posebno v sosedno <placeName>Istro</placeName>. Vedno
-               bodi geslo: V Edinosti je moč, razločka mej posameznimi narodnostmi ni, ker vsi smo
+               bodi geslo: V <orgName>Edinosti</orgName> je moč, razločka mej posameznimi narodnostmi ni, ker vsi smo
                Slovani, in ko taki bodemo krepili nad narod sebi in Avstriji v prid ter korakali do
                cilja.</p>
             <closer>Odbor.</closer>

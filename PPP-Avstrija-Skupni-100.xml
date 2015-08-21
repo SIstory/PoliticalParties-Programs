@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -79,7 +84,7 @@
                   mej Italijani v <placeName>Trstu</placeName>, <placeName>Gorici</placeName> in
                   nekaterih Istrskih mestih neka stranka, ki drzno proglaša primorske pokrajine za
                   del italijanskega kraljestva in te nakane javi po veleizdajskih činih. – Mi južni
-                  Slovani, ki smo naravni gospodarji jadranskega primorja, ne moremo vsega tega
+                  Slovani, ki smo naravni gospodarji <geogName>jadranskega primorja</geogName>, ne moremo vsega tega
                   mirno gledati, ampak slovesno nam je <hi rend="italic">protestovati</hi> proti
                   onim činom. Glede na to in pa tudi z ozirom na druge silne potrebe našega naroda,
                   kliče vas, <hi rend="italic">južni Slovani</hi>, odbor političnega društva <hi
@@ -88,7 +93,7 @@
                      m.</date> na velikem prostoru blizo cerkve v <hi rend="italic"
                         ><placeName>Dolini</placeName></hi> in se začne ob 2½ uri popoludne. –
                   Obravnavale in sklepale se bodo te le točke:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="1)">Adresa udanosti na cesarja in protest proti rogoviljenju one
                      italijanske stranke, ki dela na spojenje primorskih slovanskih pokrajin z
                         <placeName>Italijo</placeName>.</item>
@@ -97,7 +102,7 @@
                   <item n="3)">Nasveti in sklepi, kako bi se dalo povzdignoti šolstvo na
                         <placeName>Primorskem</placeName>, posebno pa v
                      <placeName>Istri</placeName>.</item>
-                  <item n="4)">Nasveti in sklepi, kako bi se dale pogozditi mnoge goličave na Krasu
+                  <item n="4)">Nasveti in sklepi, kako bi se dale pogozditi mnoge goličave na <geogName>Krasu</geogName>
                      in v <placeName>Istri</placeName>.</item>
                </list>
             </div>

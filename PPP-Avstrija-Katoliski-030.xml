@@ -43,6 +43,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -53,7 +58,7 @@
                <head><hi rend="italic">Ime in sedež društva.</hi></head>
                <div>
                   <head>§ 1.</head>
-                  <p>Društvo se imenuje <q>Slovenska kmečka zveza</q> za
+                  <p>Društvo se imenuje <q><orgName>Slovenska kmečka zveza</orgName></q> za
                         <placeName>Štajersko</placeName>, je politično društvo in ima svoj sedež v
                         <placeName>Mariboru</placeName>.</p>
                </div>
@@ -62,9 +67,9 @@
                <head><hi rend="italic">Društveni namen.</hi></head>
                <div>
                   <head>§ 2.</head>
-                  <p><q>Slovenska kmečka zveza</q> za <placeName>Štajersko</placeName> ima
+                  <p><q><orgName>Slovenska kmečka zveza</orgName></q> za <placeName>Štajersko</placeName> ima
                      namen:</p>
-                  <list type="ordered">
+                  <list rend="numbered">
                      <item n="1.">Voditi ustavni boj za politične pravice, za gospodarsko
                         blagostanje in za nravno čilost kmečkega stanu.</item>
                      <item n="2.">Braniti kmečki stan pred vsemi nevarnostmi, ki pretijo njegovemu
@@ -91,7 +96,7 @@
                   <p>V dosego svojega namena uporablja društvo vsa primerna, zakonito dovoljena
                      sredstva.</p>
                   <p>Osobito se društvo:</p>
-                  <list type="ordered">
+                  <list rend="numbered">
                      <item n="1.">Udeležuje volilnih bojev v državni in deželni zbor, v okrajne,
                         občinske in druge samoupravne zastope ter prireja v ta namen volilne
                         shode.</item>

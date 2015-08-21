@@ -46,13 +46,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.161.PPP" type="ordered">
-               <item n="VIII.">Češko dijaštvo, prisotno na III. shodu nar.-radikalnega dijaštva v
+            <list xml:id="No.161.PPP" rend="numbered">
+               <item n="VIII.">Češko dijaštvo, prisotno na III. shodu <orgName>nar.-radikalnega dijaštva</orgName> v
                      <placeName>Ljubljani</placeName> se pridružuje z živim zanimanjem vsem
                   zahtevam, ki jih je shod izrekel, in povdarja te-le misli:<list>
                      <item n="1.">V narodno-radikalnem gibanju slovenskega dijaštva vidi kar

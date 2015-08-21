@@ -50,12 +50,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.117.PPP">C. kr. vlada se pozivlja, takoj storiti vse potrebno, da se bodo
+            <p xml:id="No.117.PPP"><orgName>C. kr. vlada</orgName> se pozivlja, takoj storiti vse potrebno, da se bodo
                varovale slovenskemu, oziroma hrvatskemu prebivalstvu na
                   <placeName>Kranjskem</placeName>, <placeName>Štajerskem</placeName>,
                   <placeName>Koroškem</placeName> in <placeName>Primorskem</placeName> v ustavi

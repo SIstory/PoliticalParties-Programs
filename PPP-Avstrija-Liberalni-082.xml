@@ -48,12 +48,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName 
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <opener>Dež. posl. dr. <persName>Ivan Tavčar</persName></opener>
-            <head>Nekoliko pripomb h gospodarskemu programu JDS.</head>
+            <head>Nekoliko pripomb h gospodarskemu programu <orgName>JDS</orgName>.</head>
             <gap xml:id="No.82.PPP.1" reason="irrelevant"/>
             <p xml:id="No.82.PPP.2">Pred vsem zavrnemo tiste, katerim se zdi, da smo na ustanovnem
                zboru premalo povdarjali razliko med našo in socijalno-demokratično stranko.</p>
@@ -83,11 +88,11 @@
                tudi vsako kolesce odkazano svojo posebno nalogo, tako da stroj obstane, če vzameš iz
                njega kolo ali pa tudi najmanjše kolesce. <hi rend="italic">Ta harmonija v političnem
                   in gospodarskem življenju mora biti prvi ideal, pa tudi prvi cilj naše
-                  Jugoslovanske demokrat. stranke</hi>. </p>
+                  <orgName>Jugoslovanske demokrat. stranke</orgName></hi>. </p>
             <gap xml:id="No.82.PPP.5" reason="irrelevant"/>
             <p xml:id="No.82.PPP.6">Naj končno spregovorimo še o stvari, ki je nekatere somišljenike
                vznemirila, ker se je v debati od ene strani stavil predlog, ki izgleda na prvi hip
-               nekako boljševiško. Nekateri so menili, da hoče ta predlog, naj se JDS. izreče za
+               nekako boljševiško. Nekateri so menili, da hoče ta predlog, naj se <orgName>JDS.</orgName> izreče za
                odpravo privatne lastnine in so se čudili, da ni bil a limine odklonjen, temveč
                izročen izvrševalnemu odboru v nadaljno razpravljanje. Predvsem je pripomniti, da se
                je formalno postopalo z vsemi predlogi enako – nobeden ni bil definitivno odklonjen,
@@ -113,8 +118,8 @@
                nikakor ne zahtevamo <q>odprave privatne lastnine</q>.</p>
             <p xml:id="No.82.PPP.8">Boj za gospodarsko osamosvojitev našega naroda je eden naših
                najtežjih problemov. Približali se bodemo konečni rešitvi le z dobro premišljenim,
-               previdnim in prevdamim delom. Menimo, da tvori novi program Jugoslovanske demokratske
-               stranke dobro podlago za tako delo in za to je potrebno, da smo si o njega
+               previdnim in prevdamim delom. Menimo, da tvori novi program <orgName>Jugoslovanske demokratske
+               stranke</orgName> dobro podlago za tako delo in za to je potrebno, da smo si o njega
                dalekosežnesti povsem na jasnem.</p>
          </div>
       </body>

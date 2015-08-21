@@ -47,13 +47,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Prvi javni shod <q>Slovenskega društva</q> v <placeName>Ljubljani</placeName>.</head>
+            <head>Prvi javni shod <q><orgName>Slovenskega društva</orgName></q> v <placeName>Ljubljani</placeName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.47.PPP.1">Slovensko politično društvo pričakuje od slovenskih državnih poslancev, da bodo v
+            <p xml:id="No.47.PPP.1"><orgName>Slovensko politično društvo</orgName> pričakuje od slovenskih državnih poslancev, da bodo v
                prihodnjem državnem zboru kolikor mogoče skupno delovali z drugimi slovanskimi
                poslanci in da se bodo resno držali programa, vsprejetega po državno- in
                deželnozborskih poslancih pri lanskem shodu v <placeName>Ljubljani</placeName>, in da bodo pristopili le
@@ -63,7 +68,7 @@
             <p xml:id="No.47.PPP.2">Istotako pričakuje društvo od slovenskih poslancev, da bodo s svojimi volilci v vedni
                zvezi ostajali, ter jim po volilnih shodih poročali, kaj so v dotičnem zasedanji
                storili za obči slovenski program, koliko so dosegli in v čem so se trudili.</p>
-            <p xml:id="No.47.PPP.3">Slovensko politično društvo, dasi je prepričano, da daje v naši kronovini sedanja
+            <p xml:id="No.47.PPP.3"><orgName>Slovensko politično društvo</orgName>, dasi je prepričano, da daje v naši kronovini sedanja
                šola vse garancije za versko odgojo in da se pri nas ne kaže potreba po kakih
                reformah, pričakuje od slovenskih državnozborskih poslancev, da naj se odločno
                protivijo vsaki spremembi šolskih zakonov, ki bi bila v kvar verski odgoji naše

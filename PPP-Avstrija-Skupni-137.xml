@@ -56,28 +56,33 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.137.PPP">
             <opener>O ustanovnem zboru narodnega sveta v Ljubljani se je izdal
                naslednji<lb/>komunike:</opener>
-            <p>Ustanovni zbor Narodnega sveta v <placeName>Ljubljani</placeName> se je vršil dne
+            <p>Ustanovni zbor <orgName>Narodnega sveta v <placeName>Ljubljani</placeName></orgName> se je vršil dne
                   <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta 1918.</date> v
-               posvetovalnici mestnega magistrata ljubljanskega. Narodni svet se je sestavil iz
-               odposlancev, ki so jih imenovale sledeče organizacije:1. Vseslovenska ljudska
-               stranka; 2. Jugoslovanska demokratska stranka; 3. Jugoslovanska socijalno-demokratska
-               stranka, ki sicer ne pošlje svojih delegatov kot članov N. S., a se bo delovanja N.
-               S. vendar udeleževala; 4. Tržaško politično društvo <q>Edinost</q>; 5. <q>Politično
-                  in gospodarsko društvo za Slovence in Hrvate v <placeName>Istri</placeName></q>;
-               6. <q>Katoliško politično in gospodarsko društvo za Slovence na
-                     <placeName>Koroškem</placeName></q>. <placeName>Dalmacija</placeName> sicer ne
-               pristopi formalno k ljubljanskemu N. S., ker bi se vsled prevelikih prometnih težkoč
-               dalmatinskim poslancem ne bilo mogoče udeleževati sej N. S., vendar je poslala svoje
-               delegate k ustanovnemu zboru N. S. Nekateri delegati pa bodo redno prihajali k
-               posvetovanjem N. S. v <placeName>Ljubljano</placeName>.</p>
-            <p>Narodni svet v <placeName>Ljubljani</placeName> se smatra kot del <hi rend="italic"
-                  >vseobčega Jugoslovanskega narodnega odbora</hi>, ki se bo v kratkem sešel v <hi
+               posvetovalnici mestnega magistrata ljubljanskega. <orgName>Narodni svet</orgName> se je sestavil iz
+               odposlancev, ki so jih imenovale sledeče organizacije: 1. <orgName>Vseslovenska ljudska
+               stranka</orgName>; 2. <orgName>Jugoslovanska demokratska stranka</orgName>; 3. <orgName>Jugoslovanska socijalno-demokratska
+               stranka</orgName>, ki sicer ne pošlje svojih delegatov kot članov <orgName>N. S.</orgName>, a se bo delovanja <orgName>N.
+               S.</orgName> vendar udeleževala; 4. <orgName>Tržaško politično društvo <title>Edinost</title></orgName>; 5. <q><orgName>Politično
+                  in gospodarsko društvo za Slovence in Hrvate v <placeName>Istri</placeName></orgName></q>;
+               6. <q><orgName>Katoliško politično in gospodarsko društvo za Slovence na
+                     <placeName>Koroškem</placeName></orgName></q>. <placeName>Dalmacija</placeName> sicer ne
+               pristopi formalno k ljubljanskemu <orgName>N. S.</orgName>, ker bi se vsled prevelikih prometnih težkoč
+               dalmatinskim poslancem ne bilo mogoče udeleževati sej <orgName>N. S.</orgName>, vendar je poslala svoje
+               delegate k ustanovnemu zboru <orgName>N. S.</orgName> Nekateri delegati pa bodo redno prihajali k
+               posvetovanjem <orgName>N. S.</orgName> v <placeName>Ljubljano</placeName>.</p>
+            <p><orgName>Narodni svet v <placeName>Ljubljani</placeName></orgName> se smatra kot del <hi rend="italic"
+                  >vseobčega <orgName>Jugoslovanskega narodnega odbora</orgName></hi>, ki se bo v kratkem sešel v <hi
                   rend="italic"><placeName>Zagrebu</placeName></hi>.</p>
             <p>Na zboru, ki se je vršil <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta
                   1918</date>., je najprej sklicatelj dr. <persName>Ant. Korošec</persName> opisal
@@ -114,27 +119,27 @@
             <p>Narod, ki hoče biti nositelj države, ki hoče prevzeti in izvrševati državne pravice v
                blagor ljudstva, mora <hi rend="italic">zbrati vse državnotvorne moči v enoto</hi>.
                Stranke morajo izložiti vprašanja, dotikajoča se usode vsega naroda iz svojega
-               delokroga ter jih prepustiti Narodnemu svetu. Slovenski narod si je izbral Narodni
+               delokroga ter jih prepustiti <orgName>Narodnemu svetu</orgName>. Slovenski narod si je izbral Narodni
                svet zlasti zato, da bo pripravljen na oni zgodovinski trenutek, <hi rend="italic">ko
                   prevzame skupno z Hrvati in Srbi vse pravice in dolžnosti državne
                   samostojnosti</hi>.</p>
             <p>Predsednikovemu poročilu je sledila temeljita debata, po kateri se je redigiral <hi
-                  rend="italic">pravilnik N. S</hi>.</p>
-            <p>Po tem pravilniku je glavni namen N. S. delo za ujedinjenje jugoslovanskega naroda v
+               rend="italic">pravilnik <orgName>N. S.</orgName></hi></p>
+            <p>Po tem pravilniku je glavni namen <orgName>N. S.</orgName> delo za ujedinjenje jugoslovanskega naroda v
                samostojno državo.</p>
-            <p>Razen tega je namen N. S.:</p>
-            <list type="ordered">
+            <p>Razen tega je namen <orgName>N. S.</orgName>:</p>
+            <list rend="numbered">
                <item n="a)">obramba in pospešavanje skupnih kulturnih zadev;</item>
                <item n="b)">obramba in gojitev skupnih gospodarskih interesov ter zavesti
                   gospodarske osamosvojitve;</item>
                <item n="c)">reprezentacija naroda in pospešavanje narodnih koristi na zunaj,
                   dogovorno s parlamentarno delegacijo.</item>
             </list>
-            <p>N. S. bo imel tudi nalogo, sklepati in odločevati o vseh zadevah, ki jih v N. S.
+            <p><orgName>N. S.</orgName> bo imel tudi nalogo, sklepati in odločevati o vseh zadevah, ki jih v <orgName>N. S.</orgName>
                zastopani činitelji priznajo za skupne.</p>
-            <p>Da bo mogel N. S. izvršiti vse to, so se izvolili sledeči <hi rend="italic"
+            <p>Da bo mogel <orgName>N. S.</orgName> izvršiti vse to, so se izvolili sledeči <hi rend="italic"
                   >odseki</hi>:</p>
-            <list type="ordered">
+            <list rend="numbered">
                <item n="1."><hi rend="italic">Organizacijski odsek</hi> bo pomagal predsedstvu pri
                   organizaciji in bo izdelal načrt za preuredbo skupne narodne organizacije v
                   sporazumu s strankami. Ta odsek bode organiziral delo, ki ga bodo vršili posamezni
@@ -166,7 +171,7 @@
             </list>
             <p>Debata je bila živahna, vsi sklepi so se vršili soglasno. Predsednikom se je izvolil
                soglasno državni poslanec dr. <persName>Ant. Korošec</persName>, v predsedstvo pa še
-               sedem članov Narodnega sveta.</p>
+               sedem članov <orgName>Narodnega sveta</orgName>.</p>
          </div>
       </body>
    </text>

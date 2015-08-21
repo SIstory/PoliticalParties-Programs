@@ -51,8 +51,8 @@
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.156.PPP" type="ordered" n="III.">
-               <item><list type="ordered">
+            <list xml:id="No.156.PPP" rend="numbered" n="III.">
+               <item><list rend="numbered">
                      <item n="1.">nujno želi, da se jugoslovansko dijaštvo kar najintenzivneje bavi
                         z jugoslovanskim vprašanjem v celem obsegu;</item>
                      <item n="2.">želi, da se ustvarijo kar najtrdnejši stiki med naprednim
@@ -68,7 +68,7 @@
                         poznavanja v prvi vrsti vzajemno napredne dijaške liste in ostale
                         publikacije (<title>Omladina</title>, <title>Hrvatski Dijak</title>);</item>
                      <item n="5.">najodločnejše protestira proti brezprimernemu progonu bratov Srbov
-                        na Hrvatskem, kateri se zaradi njihovega kulturnega in gospodarskega boja
+                        na <placeName>Hrvatskem</placeName>, kateri se zaradi njihovega kulturnega in gospodarskega boja
                         med narodom in radi poštene borbe za narodna prava obtožujejo radi zločina
                         veleizdaje. Zaprtim boriteljem za pravo svobodo naroda izrekamo svoje
                         najiskrenejše simpatije.</item>

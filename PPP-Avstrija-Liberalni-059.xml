@@ -48,12 +48,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Program <q>Slovenske Gospodarske Stranke</q>.</head>
-            <list xml:id="No.59.PPP" type="ordered">
+            <head>Program <q><orgName>Slovenske Gospodarske Stranke</orgName></q>.</head>
+            <list xml:id="No.59.PPP" rend="numbered">
                <item n="1.">Narod je v današnjem stanju razvoja človeštva najnaravnejša skupina;
                   zato je sodelovanje na narodnostni podlagi najložje izvedljivo in
                   najuspešneje.</item>

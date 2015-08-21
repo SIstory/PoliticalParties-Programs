@@ -48,17 +48,22 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.21.PPP.1">Zbor zaupnikov S. L. S.</p>
-            <list type="ordered" xml:id="No.21.PPP.2">
-               <item n="1.">radostno pozdravlja ustanovitev Jugoslovanskega kluba;</item>
-               <item n="2.">odobrava, da so naši poslanci S. L. S. v delegacije poslali načelnika
-                  Jugoslovanskega kluba;</item>
+            <p xml:id="No.21.PPP.1">Zbor zaupnikov <orgName>S. L. S.</orgName></p>
+            <list rend="numbered" xml:id="No.21.PPP.2">
+               <item n="1.">radostno pozdravlja ustanovitev <orgName>Jugoslovanskega kluba</orgName>;</item>
+               <item n="2.">odobrava, da so naši poslanci <orgName>S. L. S.</orgName> v delegacije poslali načelnika
+                  <orgName>Jugoslovanskega kluba</orgName>;</item>
                <item n="3.">obsoja izstop poslancev dr. <persName>Šusteršiča</persName> in
                      <persName>Jakliča</persName>.</item>
             </list>

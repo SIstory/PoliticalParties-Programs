@@ -54,18 +54,23 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Šesti shod katol. polit. društva.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.5.PPP">Katoliško politično društvo, zbrano na VI. društvenem shodu v
+            <p xml:id="No.5.PPP"><orgName>Katoliško politično društvo</orgName>, zbrano na VI. društvenem shodu v
                   <placeName>Ljubljani</placeName>, izreka svoje soglasje z resolucijami,
                sklenjenimi dné <date when="1890-10-02">2. oktobra t. l.</date> na shodu slovenskih
                poslancev v <placeName>Ljubljani</placeName>,<note source="#SourceBornDigital">Glej dok. št. 98.</note> in
                izjavlja svojo radost, da so tudi slovenski poslanci s svojimi resolucijami priznali
-               načela, ki vodijo <q>Katoliško politično društvo</q>, kot prava in slovenskemu narodu
+               načela, ki vodijo <q><orgName>Katoliško politično društvo</orgName></q>, kot prava in slovenskemu narodu
                koristna, ter izraža željo, da bi gospodje poslanci prej ko mogoče uresničili te
                resolucije, in zagotavlja, da bodo pri tem poslu radovoljno podpiralo delovanje
                slovenskih poslancev. </p>

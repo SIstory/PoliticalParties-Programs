@@ -47,14 +47,19 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.74.PPP"><hi rend="italic">Shod zaupnikov Narodne stranke za
-                     <placeName>Štajersko</placeName></hi> izraža z najkrepkejšim poudarkom zahtevo
+            <p xml:id="No.74.PPP"><hi rend="italic">Shod zaupnikov <orgName>Narodne stranke za
+                     <placeName>Štajersko</placeName></orgName></hi> izraža z najkrepkejšim poudarkom zahtevo
                po miru. Mir pa je za naš narod mogoč le, <hi rend="italic">če pride pri njega
                   sklepanju do veljave po načelu samoodločbe prava volja narodov brez vsake potvore.
                   Naš narod v zaledju in v strelskih jarkih pričakuje od svetovne vojne ujedinjenje

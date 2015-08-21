@@ -50,13 +50,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.121.PPP.1" type="ordered">
-               <item n="1.)">Deželni zbor izreka svoje obžalovanje, da deželni predsednik kot
+            <list xml:id="No.121.PPP.1" rend="numbered">
+               <item n="1.)"><orgName>Deželni zbor</orgName> izreka svoje obžalovanje, da deželni predsednik kot
                   zastopnik deželne vlade govori v deželni zbornici domala brez izjeme v nemškem
                   jeziku.</item>
                <item n="2.)">Deželnemu odboru se naroča, da ne sprejme od deželne vlade nobenega

@@ -48,6 +48,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -86,7 +91,7 @@
                   zadevah.</p>
                <p>S stališča tega razvojnega pojmovanja izjavlja jugoslovanska socialna demokracija
                   programatično:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="1.">Avstro-ogrski Jugoslovani smatrajo za končni smoter svojega
                      narodno-političnega stremljenja <hi rend="italic">popolno narodno združitev
                         vseh Jugoslovanov</hi> ne glede na različnost imena, vere, pisave in
@@ -136,7 +141,7 @@
                <p>V svrho trajne organizacije dela v gorenjem smislu izreka prva
                   socialno-demokratična konferenca, da se osnuje stalen jugoslovanski socialistični
                   odbor, v katerem naj bodo za sedaj po trije zastopniki hrvatske,
-                  bosensko-hercegovske in avstrijske jugoslovanske socialno-demokratične stranke,
+                  bosensko-hercegovske in avstrijske <orgName>jugoslovanske socialno-demokratične stranke</orgName>,
                   izjavljajoč že vnaprej, da sčasoma postane ta razširjeni odbor predstavitelj vseh
                   jugoslovanskih socialnih demokratov sploh. Ta odbor ima nalogo, da izvršuje trajno
                   zvezo med jugoslovanskimi socialno-demokratičnimi strankami, zlasti stalno uredbo
@@ -144,8 +149,8 @@
                   uravnava smer narodnega in političnega boja Jugoslovanov, da posreduje kulturno
                   združevanje z medsebojnim spoznavanjem in s popularizacijo posebnih ekonomskih,
                   kulturnih in političnih razmer vseh delov Jugoslovanstva.</p>
-               <p>Ta odbor smatra konferenca za viden izraz Zveze jugoslovanskih
-                  socialno-demokratičnih strank, katera s tem ne bo končana, ampak katera se bo
+               <p>Ta odbor smatra konferenca za viden izraz <orgName>Zveze jugoslovanskih
+                  socialno-demokratičnih strank</orgName>, katera s tem ne bo končana, ampak katera se bo
                   nadalje popolnoma izvedla na jugoslovanskih socialističnih konferencah kot stalna
                   uredba medsebojnega občevanja in spoznavanja.</p>
             </div>

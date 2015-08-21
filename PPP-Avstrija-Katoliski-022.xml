@@ -54,15 +54,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.22.PPP">Zbor zaupnikov S. L. S. z veseljem odobrava soglasni sklep vodstva
+            <p xml:id="No.22.PPP">Zbor zaupnikov <orgName>S. L. S.</orgName> z veseljem odobrava soglasni sklep vodstva
                stranke dne <date when="1917-09-18">18. sept. 1917</date>,<note
-                  source="#SourceBornDigital">Glej dok. št. 17.</note> s katerim se je S. L. S.
+                  source="#SourceBornDigital">Glej dok. št. 17.</note> s katerim se je <orgName>S. L. S.</orgName>
                izjavila za majniško deklaracijo,<note source="#SourceBornDigital">Glej dok. št.
                   130.</note> odločno pa zavrača kasnejše tolmačenje bivšega načelnika stranke,<note
                   source="#SourceBornDigital">Dr. <persName>Ivan Šusteršič</persName>.</note> češ,

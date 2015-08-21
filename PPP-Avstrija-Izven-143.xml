@@ -44,13 +44,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.143.PPP.1">Narodno-radikalno dijaštvo:</p>
-            <list xml:id="No.143.PPP.2" type="ordered">
+            <p xml:id="No.143.PPP.1"><orgName>Narodno-radikalno dijaštvo</orgName>:</p>
+            <list xml:id="No.143.PPP.2" rend="numbered">
                <item n="">Smatra organizovano poljudno delo med slovenskim ljudstvom najvažnejšim
                   sredstvom za napredek na kulturnem, političnem in gospodarskem polju.</item>
                <item n="II.">Ustanavljajo naj se v večjih krajih stalne ljudske knjižnice, v

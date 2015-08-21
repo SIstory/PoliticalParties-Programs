@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -58,10 +63,10 @@
             <gap reason="irrelevant"/>
             <div>
                <head n="E.">Resolucije socijalnega odseka.</head>
-               <p xml:id="No.149.PPP.1">Dijaško-socijalni odsek II. shoda narodno-radikalnega
-                  dijaštva smatra zahtevo po telesni vzgoji dijaštva za važno socijalno vprašanje,
+               <p xml:id="No.149.PPP.1">Dijaško-socijalni odsek II. shoda <orgName>narodno-radikalnega
+                  dijaštva</orgName> smatra zahtevo po telesni vzgoji dijaštva za važno socijalno vprašanje,
                   za katerega rešitev je treba resnega in smotrenega dela. Zato:</p>
-               <list xml:id="No.149.PPP.2" type="ordered">
+               <list xml:id="No.149.PPP.2" rend="numbered">
                   <item n="I.">veljaj boj naših organizacij predvsem škodljivemu vplivu alkohola,
                      nikotina in zlorabi spolnega občevanja pri nas samih potom proučevanja in
                      ustanavljanja abstinenčnih krožkov, med ljudstvom pa s poukom in

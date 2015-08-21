@@ -47,25 +47,30 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <head>Zaupni shod <q>narodno-napredne stranke</q> na Goriškem.</head>
+         <head>Zaupni shod <q><orgName>narodno-napredne stranke</orgName></q> na Goriškem.</head>
          <gap reason="irrelevant"/>
          <div xml:id="No.69.PPP.1">
             <head>I.</head>
-            <p>Zaupni shod <hi rend="italic"><q>narodo-napredne stranke na
+            <p>Zaupni shod <hi rend="italic"><q><orgName>narodo-napredne stranke</orgName> na
                         <placeName>Goriškem</placeName></q></hi>, zbran dne <date when="1900-03-08"
                   >8. marca 1900</date>
                <placeName>v Gorici</placeName>, naglaša potrebo ožje organizacije na temelju teh
                načel:</p>
-            <list type="ordered">
+            <list rend="numbered">
                <item n="1.">Vsestranski svobodni razvoj slovenskega ljudstva v duševnem in gmotnem
                   oziru.</item>
                <item n="2.">Vsem stanovom se priznavajo enake pravice, pa tudi enake dolžnosti; zato
                   se izključuje nadvladje kateregakoli stanu.</item>
                <item n="3.">V verska in cerkvena vprašanja se stranka kratko ni malo ne vtika,
-                  obsoja pa profanacijo in zlorabo vere in cerkve v politiške svrhe.</item>
+                  obsoja pa profanacijo in zlorabo vere in <orgName>cerkve</orgName> v politiške svrhe.</item>
                <item n="4.">Svobodna šola in svobodno učiteljstvo, kateremu je zagotoviti po državi
                   in deželi stanu primerno gmotno podlago, da more skrbeti za potrebni ugled in
                   vsestransko daljno izobraževanje.</item>
@@ -81,7 +86,7 @@
                <item n="7.">Pozdravljamo gibanje <hi rend="italic">delavstva</hi>, želimo mu krepke
                   organizacije, katero hočemo pospeševati.</item>
                <item n="8.">
-                  <list type="ordered">
+                  <list rend="numbered">
                      <item n="a)">Zahtevamo popolno <hi rend="italic">enakopravnost</hi> in <hi
                            rend="italic">enakoveljavnost</hi> slovenske narodnosti in jezika v vseh
                         državnih in avtonomnih uradih, v cerkvi, v šoli in sploh v vsem javnem
@@ -97,7 +102,7 @@
                         brigati se za moralno in materijalno povzdigo slovenskega ljudstva.</item>
                   </list>
                </item>
-               <item n="9.">Narodno-napredna stranka na <placeName>Goriškem</placeName> bo iskala vedno najožjo dotiko z
+               <item n="9."><orgName>Narodno-napredna stranka</orgName> na <placeName>Goriškem</placeName> bo iskala vedno najožjo dotiko z
                   narodnimi strankami na <placeName>Slovenskem</placeName>, ne pustivši nikdar izpred očij vzajemnosti z
                   vsemi slovanskimi narodi.</item>
                <item n="10.">Stranka stoji na stališču narodne samouprave.</item>

@@ -47,16 +47,21 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Shod zaupnikov narodno-napredne stranke.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.58.PPP.1">Zbor zaupnih mož narodnonapredne stranke na <placeName>Kranjskem</placeName>, sklican
+            <p xml:id="No.58.PPP.1"><orgName>Zbor zaupnih mož narodnonapredne stranke</orgName> na <placeName>Kranjskem</placeName>, sklican
                na dan <date when="1906-11-15">15. novembra 1906</date> v
                   <placeName>Ljubljano</placeName>:</p>
-            <list xml:id="No.58.PPP.2" type="ordered">
+            <list xml:id="No.58.PPP.2" rend="numbered">
                <item n="1.)">Konstatuje, sklicujé na svojo resolucijo z dne <date when="1906-03-25"
                      >25. marca 1906</date>, da načrt državnozborske volilne reforme, kakor je bil
                   sprejet v odseku ter predložen zbornici, ne-le v ničemer ne popravlja kričečega

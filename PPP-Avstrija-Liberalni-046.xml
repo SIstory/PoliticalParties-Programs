@@ -47,6 +47,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -71,7 +76,7 @@
                vladajočih oblastev nemamo pričakovati podpore, ona ne da bi nas podpirala v našem
                boji, nam še odtegujejo to, kar smo si s trudom priborili.</p>
             <p>V vseh strokah uprave vidimo nazadovanje. Treba je torej tudi nam organizacije in
-               spoznanje te potrebe je rodilo <hi rend="bold"><q>Slovensko društvo</q></hi>. Našega
+               spoznanje te potrebe je rodilo <hi rend="bold"><q><orgName>Slovensko društvo</orgName></q></hi>. Našega
                društva naj se oklene vsakdo, komur je mari obstanek in napredek naroda. Naše društvo
                bode poklicano, da se ustavlja pogubnim nakanam nam sovražnih elementov, ono bode
                imelo pazno uho za preteče nam nevarnosti in bode dvigalo svoj glas, kadar in
@@ -79,10 +84,10 @@
             <p>Vrhu tega bode delalo naše društvo na to, da se povsod pospešujejo in zboljšajo <hi
                   rend="italic">trgovinski</hi> in <hi rend="italic">obrtni</hi> interesi ter
                povzdigne <hi rend="italic">kmetski stan</hi> v gmotnem in kulturnem oziru. Tuja je
-                  <hi rend="italic"><q>Slovenskemu društvu</q></hi> vsaka nakana konkurence v
+                  <hi rend="italic"><q><orgName>Slovenskemu društvu</orgName></q></hi> vsaka nakana konkurence v
                lastnem taboru in ono radovoljno priznava opravičenost vsake druge združitve, ako po
                drugih potih doseza iste smotre.</p>
-            <p><hi rend="italic"><q>Slovensko društvo</q></hi> tudi ne bode rušilo narodne
+            <p><hi rend="italic"><q><orgName>Slovensko društvo</orgName></q></hi> tudi ne bode rušilo narodne
                discipline in bode rado prepuščalo prvo besedo v vseh važnejših zadevah tudi odslej
                zvezi naših narodnih zastopnikov.</p>
             <p>Na noge torej slovenski rodoljubi, da dobi društvo najširšo podlago in se trdno

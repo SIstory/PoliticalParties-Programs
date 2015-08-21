@@ -55,13 +55,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.125.PPP" type="ordered">
-               <item n="1.">C. kr. osrednja vlada se glede na sklepe deželnega zbora kranjskega v
+            <list xml:id="No.125.PPP" rend="numbered">
+               <item n="1."><orgName>C. kr. osrednja vlada</orgName> se glede na sklepe <orgName>deželnega zbora kranjskega</orgName> v
                   sejah dne 28. februarija<note place="foot" source="#SourceBornDigital">Glej dok.
                      št. 118. </note> in 28. decembra 1898<note place="foot"
                      source="#SourceBornDigital">Glej dok. št. 119.</note> nujno pozivlja, da
@@ -74,8 +79,8 @@
                   ustanovitev vseučilišča v <placeName>Ljubljani</placeName>.</item>
                <item n="3.">Izvolijo naj se iz deželnega zbora trije člani v ta namen, da stopijo v
                   stalen vseučiliški odbor, v katerem naj bodo z enakim številom odposlancev
-                  zastopani: občinski svet ljubljanski, <q>Matica Slovenska</q>, društvo
-                     <q>Pravnik</q>, <q>Leonova družba</q> in profesorski zbor knezoškofijskega
+                  zastopani: <orgName>občinski svet ljubljanski</orgName>, <q><orgName>Matica Slovenska</orgName></q>, društvo
+                     <q><orgName>Pravnik</orgName></q>, <q><orgName>Leonova družba</orgName></q> in profesorski zbor knezoškofijskega
                   semenišča v <placeName>Ljubljani</placeName>. Ta odbor naj stopi na primeren način
                   v dotiko tudi z zastopniki slovenske akademične mladine na dunajskem, graškem in
                   praškem vseučilišču.</item>

@@ -47,14 +47,19 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
+            <head>Resolucije mariborskega shoda zaupnikov <orgName>štajerske Narodne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.75.PPP.1">Shod zaupnikov Narodne stranke na
-                  <placeName>Štajerskem</placeName> poudarja, da treba nemudoma oživeti napredno
+            <p xml:id="No.75.PPP.1">Shod zaupnikov <orgName>Narodne stranke na
+                  <placeName>Štajerskem</placeName></orgName> poudarja, da treba nemudoma oživeti napredno
                politično organizacijo, ne morda da se zopet prične strankarska borba, temveč da se
                veliki skupni narodni ideji pritegnejo in v njej uveljavijo vse razpoložljive
                sile.</p>
@@ -69,11 +74,11 @@
                naprednemu svetovnemu naziranju in ki hočejo, odklanjajoč enostransko razredno
                stališče, na vseh poljih delati za socijalizacijo gospodarstva. Takoj naj se dvignejo
                široke mase našega naroda v gmotnem, nravnem in zdravstvenem oziru.</p>
-            <p xml:id="No.75.PPP.3">V formalnem oziru pooblašča shod zaupnikov Narodne stranke
-               izvrševalni odbor, da takoj stopi v dogovor z izvrševalnim odborom narodno-napredne
-               stranke na <placeName>Kranjskem</placeName> in z odbori drugih naprednih strank, da
+            <p xml:id="No.75.PPP.3">V formalnem oziru pooblašča shod zaupnikov <orgName>Narodne stranke</orgName>
+               izvrševalni odbor, da takoj stopi v dogovor z izvrševalnim odborom <orgName>narodno-napredne
+               stranke na <placeName>Kranjskem</placeName></orgName> in z odbori drugih naprednih strank, da
                se pripravi program in organizacijski štatut nove enotne stranke in se v najkrajšem
-               času skliče ustanovni shod Jugoslovanske demokratske stranke.</p>
+               času skliče ustanovni shod <orgName>Jugoslovanske demokratske stranke</orgName>.</p>
             <gap reason="irrelevant"/>
          </div>
       </body>

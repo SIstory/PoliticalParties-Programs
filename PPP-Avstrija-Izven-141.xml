@@ -49,8 +49,8 @@
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.141.PPP" type="ordered">
-               <item n="I."><list type="ordered">
+            <list xml:id="No.141.PPP" rend="numbered">
+               <item n="I."><list rend="numbered">
                      <item n="a)">Obsoja nečuveno indolenco slovenskih profesorjev, ki še niso
                         napisali slovenskih učnih knjig za srednje šole. Povdarja potrebo, da se
                         slovenski srednješolski učitelji organizujejo, da zastopajo stanovske
@@ -77,7 +77,7 @@
                   naziranja. Narodna in socijalna ideja veže naša društva. Po načelu dela in
                   samopomoči naj se razvijajo sile posameznika v korist celoti. Akademična društva
                   naj delajo, da se dviga dijaštvo duševno, nravno in gmotno. O sredstvih, da se
-                  dosežejo ti nameni izjavlja:<list type="ordered">
+                  dosežejo ti nameni izjavlja:<list rend="numbered">
                      <item n="a)">Društva naj intenzivno goje strokovno in splošno izobrazujoče
                         predavateljstvo. V čitalnici naj ne manjka znanstvenih revij, knjižnica naj
                         vsebuje znamenita dela moderne splošno znanstvene in tudi leposlovne

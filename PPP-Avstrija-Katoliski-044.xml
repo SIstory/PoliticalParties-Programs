@@ -126,6 +126,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani goegName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -147,26 +152,26 @@
                   hočemo in – dobili jo bodemo!</hi></p>
             <p>Prekrasno pač bode upravno ozemlje jugoslovansko, blagrovano z vso prirodno lepoto
                ter obdarovano z vsem naravnim bogastvom. Gorski velikani našega planinskega sveta in
-               divje razklano kraško gorovje na črnogorski in srbski meji, čar gorenjskih in
-               koroških jezer in nepopisna krasota plitviških jezer v <placeName>Liki</placeName> –
+               divje razklano kraško gorovje na črnogorski in srbski meji, čar <geogName>gorenjskih in
+               koroških jezer</geogName> in nepopisna krasota <geogName>plitviških jezer</geogName> v <placeName>Liki</placeName> –
                morda najlepše, kar turistu nudi <placeName>Evropa</placeName> – podzemeljska čuda
-               naših jam in sanjava krasota jadranskega obrežja – katera dežela na celem svetu se bo
+               naših jam in sanjava krasota <geogName>jadranskega obrežja</geogName> – katera dežela na celem svetu se bo
                pač mogla meriti z našo <placeName>Jugoslavijo</placeName>, kar se tiče naravnega
                lepotičja! In prirodno bogastvo! V hrvaški in slavonski nižavi najrodovitnejše polje,
-               po bregovih in gričkih od slovenskih goric in znamenitega Pohorja doli do
-               blagoslovljene Fruške gore najlepši vinogradi, velikanske šume z neizčrpnim bogastvom
+               po bregovih in gričkih od slovenskih goric in znamenitega <geogName>Pohorja</geogName> doli do
+               blagoslovljene <geogName>Fruške gore</geogName> najlepši vinogradi, velikanske šume z neizčrpnim bogastvom
                hrastovega, smrečjega in bukovega lesa, pod zemljo deloma še nedvigneni zakladi
                železa, premoga, svinca, živega srebra, asfalta in drugih porabnih rud in kopanin,
                blagotvorne toplice in zdravilni vrelci v izobilju, poleg teh naravnih bogastev pa –
-               sinje morje z celo vrsto izbornih pristanišč, morje jadransko, katero direktno drži
-               proti sueškemu prekopu kot najkrajša cesta med evropsko celino in južno in vzhodno
+               sinje morje z celo vrsto izbornih pristanišč, <geogName>morje jadransko</geogName>, katero direktno drži
+               proti <geogName>sueškemu prekopu</geogName> kot najkrajša cesta med evropsko celino in južno in vzhodno
                   <placeName>Azijo</placeName>, vzhodno <placeName>Afriko</placeName> in daljno
                   <placeName>Avstralijo</placeName>!</p>
             <p>To je naše ozemlje in kako je ljudstvo, katero tod prebiva? Poznamo ga in lehko se
                nanj zanašamo! Skozi dolga, mračna stoletja zasužnjen in teptan ohranil je troimenski
                naš narod navzlic robstva in bolečini vendar neupognjeno svojo moč in žilavost. Le
                zavedal se ni svoje sile in potrpežljivo klonil je svoj tilnik pod težki jarm, ki so
-               mu ga nakladali sosedje, prevzetni Madžar in nemški <q>Herrenvolk</q>. <hi
+               mu ga nakladali sosedje, prevzetni Madžar in nemški <foreign>Herrenvolk</foreign>. <hi
                   rend="italic">Danes pa je vstal naš narod</hi>, vzbudil iz zaspanosti ga je bojni
                vihar, kateri sedaj pretresa vesoljni svet, zaveda se sedaj svoje lastne moči in
                nikdar več se ne bode klanjal nepoklicanim jerobom in neopravičenim tlačiteljem. Ves
@@ -189,8 +194,8 @@
                   plačati sami, mi sinovi zanemarjenih in sedaj zaostalih dežel, večinoma
                   opustošenih in osiromašenih po grozotah svetovne vojske? Mar ne bo finančni polom
                   naravna posledica naše samostalnosti?!</q></p>
-            <p>To so pomisleki in ugovori, katerih ne kaže ošabno in prezirljivo odklanjati <q>a
-                  limine</q>. Iz njih se poraja dolžnost, resno premišljevati o načinu, kako in pod
+            <p>To so pomisleki in ugovori, katerih ne kaže ošabno in prezirljivo odklanjati <foreign>a
+                  limine</foreign>. Iz njih se poraja dolžnost, resno premišljevati o načinu, kako in pod
                katerimi pogoji utegnejo najbolj shajati naše dežele in njih prebivalci pod svojo
                novo domačo streho. Nikoli se ne bomo prerano bavili s temi temeljnimi pisanji. Torej
                sem opravičen i jaz, ako se lotim naloge, v tem članku in njegovih nadaljevalnih
@@ -242,7 +247,7 @@
                tedaj bode ustregla svojemu namenu, zasigurati prebivalstvu varni obstanek in razvoj.
                In baš radi tega je zelo verjetno, da upravna sistema, docela primerna
                   <placeName>Ercegovini</placeName> ali <placeName>Sremu</placeName>, ne bi povsem
-               nespremenjena brez očitne škode mogla vpeljati se ob Soči ali Krki. V tem pogledu
+               nespremenjena brez očitne škode mogla vpeljati se ob <geogName>Soči</geogName> ali <geogName>Krki</geogName>. V tem pogledu
                nikar nobene tesnosrčnosti med zakonodajalci in organizatorji naše samostalnosti!
                Zgodovinsko in državnopravno ločeni skozi toliko stoletij se bodemo ložje privadili
                eden drugemu, ako se bodemo mogli prosto gibati po svoje. Prepotrebna asimilacija
@@ -328,7 +333,7 @@
                svetniki ne, katere si jih je izposodil iz deželnega parlamenta.</p>
             <p>Deželni zbor naj bo izvoljen na podlagi splošne, enake, tajne volilne pravice iz cele
                dežele, torej iz vsega ozemlja od <placeName>Spielfelda</placeName> počenši doli do
-               jadranske obale. Predsednika si izbere sam, v kompetenco njegovo spadajo naj vse
+               <geogName>jadranske obale</geogName>. Predsednika si izbere sam, v kompetenco njegovo spadajo naj vse
                zadeve, katere niso po osnovnem zakonu izrecno pridržane osrednjemu parlamentu cele
                   <placeName>Jugoslavije</placeName>.</p>
             <p>Važno je tudi vprašanje deželnih financ. Kaj posebno hudo tlači vse dežele v naši
@@ -385,7 +390,7 @@
                okraja in pohlevno mu služi podložnik njegov, okrajni šolski nadzornik. Tam svojo
                voljo narekava okrajni glavar, v cestnem okraju pa – in ceste so vendar istotako del
                novodobne kulture kakor šole – v tem zastopu pa niti besede nima! Nevzdržljive
-               razmere! Združimo vsa ta <q>disjecta membra</q>, spojimo vse te funkcije v <hi
+               razmere! Združimo vsa ta <foreign>disjecta membra</foreign>, spojimo vse te funkcije v <hi
                   rend="italic">okrajnem svetu</hi> ter razpredelimo ga po osnovnem statutu v razne
                   <hi rend="italic">sekcije</hi> ali oddelke, katerim se naj poverijo dotične
                upravne naloge. Kedar se pa gre za zadeve, tikajoče te uprave celega okraja, potem
@@ -396,8 +401,8 @@
                združi v tehničen okoliš, tako da bo postreženo z inženirji, gozdarskimi tehniki
                itd.</p>
             <p>Istina je, da je ureditev okrajnih uradov baš tako važna kakor težavna. Dvigne se
-               vprašanje, bode-li okrajni svet imel zgolj <q>votum consultativum</q> ali pa <q>votum
-                  decisivum</q>, bodo-li izvoljeni zastopniki ljudstva v njem zgolj
+               vprašanje, bode-li okrajni svet imel zgolj <foreign>votum consultativum</foreign> ali pa <foreign>votum
+                  decisivum</foreign>, bodo-li izvoljeni zastopniki ljudstva v njem zgolj
                   <q>nasvetovali</q> ali pa <q>določali</q>? Eno kakor drugo ima svoje težkoče in
                nedostatke. V prvem slučaju ti grozi nevarnost, da se ti skozi to luknjo zopet ne
                prikrade nesnaga komaj iztiranega birokratizma, v drugem pa se ti lahko pripeti, da v
@@ -430,8 +435,8 @@
                takozvanih <q>avtonomnih</q> mestih, na primer v <placeName>Ljubljani</placeName>,
                   <placeName>Mariboru</placeName>, <placeName>Celju</placeName>,
                   <placeName>Ptuju</placeName> itd. sta itak združeni okrajno glavarstvo in občina;
-               mestni župan je obenem okrajni glavar za mestni okoliš. Ne bi to bilo <q>mutatis
-                  mutandis</q> izvršljivo tudi na kmetih? Povsod, po vseh avstrijski deželah, čujejo
+               mestni župan je obenem okrajni glavar za mestni okoliš. Ne bi to bilo <foreign>mutatis
+                  mutandis</foreign> izvršljivo tudi na kmetih? Povsod, po vseh avstrijski deželah, čujejo
                se več ali manj upravičene tožbe o slabi občinski upravi. Le deloma so utemeljene v
                nedostatnosti dotičnih županov, poglavitni vzrok tiči marveč v preobilici bremen,
                katera prešibkim občinskim plečam država navali <corr>in</corr> dežela. Kaj naj
@@ -458,9 +463,9 @@
                svojemu lastnemu prepričanju popolnoma se vzdržati i najskromnejšega poskusa, da bi
                predrugačil tudi državne politiške urade. In tedaj so se dvignili baš iz krogov
                narodnih poslancev proti njemu in njegovi občinski reformi glasni ugovori, češ:
-                  <q>Kaj ima ljudstvo od take zamene? Istina je, da bodo okrajna glavarstva s tako
+                  <said>Kaj ima ljudstvo od take zamene? Istina je, da bodo okrajna glavarstva s tako
                   urejenimi občinami laglje izhajala, da bo olajšana državna uprava, a troški bodo
-                  zadeli in preobremenjali našega davkoplačevalca!</q> Ugovori niso bili povsem
+                  zadeli in preobremenjali našega davkoplačevalca!</said> Ugovori niso bili povsem
                neopravičeni in tudi pripadniki <hi rend="italic"
                   ><persName>Winklerjevega</persName></hi> načrta, kateri so se bili zanj zavzeli
                radi očividnih prednosti njegovih, jih niso mogli razveljaviti. In tako se je od
@@ -483,8 +488,8 @@
             <p>Že v uvodnem članku zahteval sem poleg moderne, točne uprave tudi <hi rend="italic"
                      ><q>ceneno</q></hi>. Ali pri upravi je kakor z blagom. Kar je dobrega blaga,
                vsaj običajno ni po ceni. Dobra uprava stane denar, vsaj na videz mora biti draga. In
-               na ves glas zakličem svojim rojakom: <hi rend="italic"><q>Varujte se preslabo
-                     plačanega uradnika!</q></hi> Nič ni nevarnejšega in pogubnejšega za narod, nego
+               na ves glas zakličem svojim rojakom: <hi rend="italic"><said>Varujte se preslabo
+                     plačanega uradnika!</said></hi> Nič ni nevarnejšega in pogubnejšega za narod, nego
                stradajoče uradništvo. Jasno to vidimo dandanes, ko so neznosna draginja in totalni
                polom naše valute uradnika strmoglavili iz priznane njegove družabne veljave dasi med
                bedni proletarijat, Ne varajmo se! Kako pač moremo zahtevati od uradnika, kateri je
@@ -494,7 +499,7 @@
                tudi tedaj še, ko sam glad trpi in z njim vred njegova obitelj, ko bode kmalu sam
                razcapan okoli hodil ter si zastonj glavo belil, češ kako preskrbim dostojno obleko
                svoji ženi in dobre čevlje svojim otročičem? Toliko idealizma ni več na svetu. Star
-               latinski izrek se glasi: <q>Paupertas semper meritrix</q>, po domače: <q>Revščina je
+               latinski izrek se glasi: <foreign>Paupertas semper meritrix</foreign>, po domače: <q>Revščina je
                   zmiraj vlačuga.</q> Tedaj je skoraj nadčloveško, ako bi stradajoči uradnik navzlic
                vsem skušnjavam vedno in z isto sveto nepristranostjo in neomahljivo točnostjo vršil
                poverjeni mu upravni posel!</p>
@@ -659,7 +664,7 @@
             <p>Niti radi tega ne bi pretakal solza, če se prva jugoslovanska tehnika prav kje drugod
                ustanovi in ne na Slovenskem, toda z vso odločnostjo bi vztrajal pri zahtevi, naj se
                bogato opremi ter na vse stroke raztegne <hi rend="italic">slovenska državna obrtna
-                  šola v Ljubljani</hi>. Po mojem mnenju bodi ona zavod, kateri naj preskrbi
+                  šola v <placeName>Ljubljani</placeName></hi>. Po mojem mnenju bodi ona zavod, kateri naj preskrbi
                razvijajočo se jugoslovansko industrijo s <hi rend="italic">praktičnimi
                   inženirji</hi>. Sem naj prihajajo učenci z vseh krajev širne
                   <placeName>Jugoslavije</placeName>, da se izuče v vseh panogah obrtnega pouka. </p>

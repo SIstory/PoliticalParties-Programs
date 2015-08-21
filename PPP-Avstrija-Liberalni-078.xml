@@ -47,13 +47,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName 
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
+            <head>Resolucije mariborskega shoda zaupnikov <orgName>štajerske Narodne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.78.PPP">Shod zaupnikov Narodne stranke pozdravlja mogočni pokret
+            <p xml:id="No.78.PPP">Shod zaupnikov <orgName>Narodne stranke</orgName> pozdravlja mogočni pokret
                jugoslovanske ideje v hrvatskem in srbskem delu našega edinstvenega naroda.</p>
             <gap reason="irrelevant"/>
          </div>

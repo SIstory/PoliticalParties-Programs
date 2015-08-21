@@ -50,17 +50,22 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.25.PPP">Zbor zaupnikov poziva državne, oziroma deželne poslance dr.
                   <persName>Šusteršiča</persName>, <persName>Jakliča</persName>, dr.
                   <persName>Lampeta</persName>, dr. <persName>Pegana</persName> in dr.
-                  <persName>Zajca</persName> kot glavne krivce, ki so poskušali razbiti S. L. S. in
-               so se z vstopom v drugo stranko izključili iz S. L. S., da takoj odlože vse od
+                  <persName>Zajca</persName> kot glavne krivce, ki so poskušali razbiti <orgName>S. L. S.</orgName> in
+               so se z vstopom v drugo stranko izključili iz <orgName>S. L. S.</orgName>, da takoj odlože vse od
                stranke sprejete državno-, oziroma deželnozborske mandate.</p>
             <gap reason="irrelevant"/>
          </div>

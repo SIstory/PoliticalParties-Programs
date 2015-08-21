@@ -49,6 +49,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -56,7 +61,7 @@
          <div xml:lang="hrv">
             <gap reason="irrelevant"/>
             <p xml:id="No.103.PPP.1"><gap reason="irrelevant"/> neka se:</p>
-            <list xml:id="No.103.PPP.2" type="ordered">
+            <list xml:id="No.103.PPP.2" rend="numbered">
                <item n="1.">Ukine zakon, kojim je zabranjeno kod nas onim služiti, koji izuče na
                   zagrebačkom sveučilišću – ono je ustrojeno kako sva cislitavska.</item>
                <item n="2.">Neka se gimnazija njemačka u <placeName>Pazinu</placeName> pretvori u
@@ -64,8 +69,8 @@
                   nejma mjesta, Talijani imaju svoju u <placeName>Kopru</placeName>. Hrvati sa
                   Slovencim imaju dvostruko veće pravo na svoju gimnaziju nego li Talijani.</item>
                <item n="3.">Našim mladičem neka se dopusti polaziti hrvatske gimnazije osobito onu
-                  na <placeName>Rieci</placeName>, kamo idu s manjim troškom mladici s kvarnerskih
-                  otoka i s iztočne strane <placeName>Istre</placeName>.</item>
+                  na <placeName>Rieci</placeName>, kamo idu s manjim troškom mladici s <geogName>kvarnerskih
+                  otoka</geogName> i s iztočne strane <placeName>Istre</placeName>.</item>
                <item n="4.">Na muškem učiteljišću u <placeName>Kopru</placeName> nek se podučava <hi
                      rend="italic">sve</hi> v materinjem jeziku, a neka se Hrvati i Slovenci uče kao
                   drugi jezik talijanski a Talijani hrvatski ili slovenski ako pedagogi dopušćajo

@@ -49,6 +49,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -56,12 +61,12 @@
             <head>Pravila <q>katoliškega političnega društva</q> v Ljubljani.</head>
             <div>
                <head>§ 1.</head>
-               <p>Katoliško politično društvo ima svoj sedež v
+               <p><orgName>Katoliško politično društvo</orgName> ima svoj sedež v
                      <placeName>Ljubljani</placeName>.</p>
             </div>
             <div xml:id="No.1.PPP.2">
                <head>§ 2.</head>
-               <p>Društvu je namen: Pospeševati slovenskega naroda duševni in gmotni napredek v
+               <p><orgName>Društvu</orgName> je namen: Pospeševati slovenskega naroda duševni in gmotni napredek v
                   verskih, državnih, občinskih, šolskih, gospodarskih in socijalnih zadevah;
                   razširjati med Slovenci versko, narodno in gospodarsko izobraženost; braniti
                   verske, narodne in državne pravice slovenskega naroda in pospeševati ustavni
@@ -70,7 +75,7 @@
             </div>
             <div xml:id="No.1.PPP.3">
                <head>§ 3.</head>
-               <p>Da društvo dosega svoj namen, uporablja v to vse zakonito dovoljene pripomočke,
+               <p>Da <orgName>društvo</orgName> dosega svoj namen, uporablja v to vse zakonito dovoljene pripomočke,
                   vzlasti napravlja društvo na raznih krajih vojvodine
                      <placeName>Kranjske</placeName> društvene shode, na katerih se razpravljajo
                   zadeve, ki so važne v verskem, narodnem, narodno-gospodarskem ali v političnem
@@ -79,7 +84,7 @@
             </div>
             <div>
                <head>§ 4.</head>
-               <p>Društvo je ustanovljeno, kader pristopi vsaj 20 udov in kader se izvoli odbor. Ud
+               <p><orgName>Društvo</orgName> je ustanovljeno, kader pristopi vsaj 20 udov in kader se izvoli odbor. Ud
                   sme biti vsak polnoletni avstrijski državljan moškega spola, ako se zglasi pri
                   društvenem vodstvu, ako ga odbor sprejme in ako mu postava ne brani pristopiti k
                   političnemu društvu. Ako komu odbor odreče sprejem, ni odboru treba naznanjati
@@ -96,7 +101,7 @@
             <div>
                <head>§ 6.</head>
                <p>Vsak ud ima pravico:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">prejemati, brati in izposojati si tiskovine, ki jih izdaja
                      društvo;</item>
                   <item n="b)">vdeleževati se društvenih shodov in zborov;</item>
@@ -110,7 +115,7 @@
             <div>
                <head>§ 7.</head>
                <p>Vsak ud ima dolžnost:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">pospeševati in podpirati po svoji moči društvene namene;</item>
                   <item n="b)">ravnati se po zborovih in odborovih sklepih;</item>
                   <item n="c)">vplačevati v društveno blagajnico 1 gld. vsako leto in pridobivati
@@ -130,7 +135,7 @@
                   občnemu zboru, naznani ga 14 dnij poprej pismeno odboru, ki določi, ali se postavi
                   na dnevni red ali ne.</p>
                <p>Občni zbor ima pravico:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">voliti društveni odbor; to je: deset odbornikov, izmed katerih jih
                      mora vsaj šest stanovati v <placeName>Ljubljani</placeName>, in dva namestnika, katerih vsaj eden
                      stanuje v <placeName>Ljubljani</placeName>;</item>
@@ -175,12 +180,12 @@
             <div>
                <head>§ 14.</head>
                <p>Društvo se razdruži</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">ako to sklene občni zbor;</item>
                   <item n="b)">če je razpusti politično oblastvo.</item>
                </list>
                <p>V prvem slučaju odloči o premoženju občni zbor, v drugem pa se izroči:
-                  <q>Katoliškemu tiskovnemu društvu v <placeName>Ljubljani</placeName></q>.</p>
+                  <q><orgName>Katoliškemu tiskovnemu društvu</orgName> v <placeName>Ljubljani</placeName></q>.</p>
             </div>
          </div>
       </body>

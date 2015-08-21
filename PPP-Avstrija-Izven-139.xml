@@ -52,6 +52,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName 
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -94,7 +99,7 @@
                vedno hujši, da stoji tudi <placeName>Kranjska</placeName> na pragu novega narodnega boja. Narod naj se
                čuti jedno <hi rend="italic">vseslovensko</hi> celoto. V drugih slovanskih
                narodih vidimo mogočno oporo, ki bo postala tem realnejša in trdnejša, čim
-               spoznamo mi in oni znamenitost naše pozicije ob Adriji, Vzbujanje narodnega čuta
+               spoznamo mi in oni znamenitost naše pozicije ob <geogName>Adriji</geogName>, Vzbujanje narodnega čuta
                je le del narodnega dela, ki naj bo <hi rend="italic">vsestransko</hi>, pri
                čemer moramo danes socijalno-ekonomsko delo tem bolj povdarjati, čim jačji je v
                tem pogledu postal naš nasprotnik, ki danes pretežno s tem sredstvom proti nam

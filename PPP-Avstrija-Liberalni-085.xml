@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName in orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -84,14 +89,14 @@
                najboljša volja, tudi najsvetejše navdušenje ne more kar čez noč pretvoriti moža,
                vzraslega in osivelega v šoli in v jarmu staroavstrijskega birokratizma – v modernega
                demokrata. Naturam si expellas …!</p>
-            <p xml:id="No.85.PPP.2">In sedaj k načrtu samemu! Z vrh Triglava gleda in opisuje pl.
+            <p xml:id="No.85.PPP.2">In sedaj k načrtu samemu! Z vrh <geogName>Triglava</geogName> gleda in opisuje pl.
                   <persName>Šuklje</persName> uvodoma v res lepih besedah pestro in bogato lepoto
                jugoslovanske zemlje; toda to kar objema z enim ljubečim pogledom njegovo slovansko
                oko, to mora takoj razcepiti njegov avstrijski razum, ponižavajoč ga s skalnatih
-               strmin triglavskih na ponižno ljubljansko Šmarno goro. <hi rend="italic"><q>Upravna
+               strmin triglavskih na ponižno ljubljansko <geogName>Šmarno goro</geogName>. <hi rend="italic"><q>Upravna
                      sistema, docela primerna <placeName>Ercegovini</placeName> ali
                         <placeName>Sremu</placeName>, ne bi povsem nespremenjena brez očitne škode
-                     mogla vpeljati se ob Soči ali Krki</q></hi> – tako modruje naš zaslužni bivši
+                     mogla vpeljati se ob <geogName>Soči</geogName> ali <geogName>Krki</geogName></q></hi> – tako modruje naš zaslužni bivši
                deželni glavar, ergo – <hi rend="italic"><q>pridem do zaključka, da bi kazalo
                      jugoslovansko našo skupino deliti na tri upravna ozemlja:
                         <placeName>Slovenijo</placeName>, <placeName>Hrvatsko</placeName> v ožjem
@@ -148,7 +153,7 @@
                provincijalnih mej ne glede na geografično in gospodarsko gravitacijo posameznih
                pokrajin. Samo da ostanemo Kranjci, Štajerci in Primorci, kakor se spodobi. Bog ne
                daj, da bi priklopili n. pr. cerkljanske gorjance gorenjskemu okrožju, kamor z vsemi
-               štirimi gravitirajo, ali pa n. pr. iz istega razloga Vipavsko dolino obmorskemu
+               štirimi gravitirajo, ali pa n. pr. iz istega razloga <geogName>Vipavsko dolino</geogName> obmorskemu
                okrožju. Naj tudi živa potreba zahteva več in manjših legopisno, gospodarsko in
                prometno bolj zaokroženih okrožij – <q>zgodovinske</q> meje nad vse! Vsako okrožje
                imej po tem načrtu zopet svojo okrajno vlado z izvoljenim okrožnim svetom in z
@@ -193,7 +198,7 @@
                zagotovi za Božič par čevljev in za Veliko noč novo, praznično obleko in natura.
                Upamo!</p>
             <p xml:id="No.85.PPP.7">Sklepno naj bo pribito le še dejstvo, da študija g. pl.
-                  <persName>Šukljeja</persName> tudi inicijativna ni. Na glavni skupščini JDS dne
+                  <persName>Šukljeja</persName> tudi inicijativna ni. Na glavni skupščini <orgName>JDS</orgName> dne
                   <date from="1918-06-29" to="1918-06-30">29. in 30. junija t. l.</date> se je v
                političnem odseku temeljito in obširno razpravljalo o ustavi in upravi
                   <placeName>Jugoslavije</placeName> ter so se na glavnem zborovanju soglasno
@@ -201,7 +206,7 @@
                soglašajo z načrtom g. dvornega svetnika. Dotično poročilo izide v najkrajšem času v
                tisku in potem bo prilika, izpregovoriti o stvari kaj več. Na to bi se usojal
                opozarjati zlasti tudi gospoda člankarja v <q>Slovencu</q> z dne <date
-                  when="1918-10-15">15. oktobra</date>, ki je na načela, sprejeta v JDS., vezan.</p>
+                  when="1918-10-15">15. oktobra</date>, ki je na načela, sprejeta v <orgName>JDS.</orgName>, vezan.</p>
          </div>
       </body>
    </text>

@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -62,22 +67,22 @@
             <gap reason="irrelevant"/>
             <div>
                <head>Narodni svet</head>
-               <p xml:id="No.65.PPP.1">N. N. S. uvideva nujno potrebo skupnega narodnega zastopstva
+               <p xml:id="No.65.PPP.1"><orgName>N. N. S.</orgName> uvideva nujno potrebo skupnega narodnega zastopstva
                   in skupne reprezentance vseh jugoslovanskih strank, stoječih na temelju majniške
                      deklaracije.<note source="#SourceBornDigital">Glej dok. št. 130.</note> V to
-                  svrho naj se osnuje čim hitreje in pred vsem Jugoslovanski centralni narodni odbor
-                  za pokrajine, zastopane v dunajskem državnem zboru; v tem odboru naj imajo
+                  svrho naj se osnuje čim hitreje in pred vsem <orgName>Jugoslovanski centralni narodni odbor
+                  za pokrajine</orgName>, zastopane v <orgName>dunajskem državnem zboru</orgName>; v tem odboru naj imajo
                   enakomerno zastopstvo vse deklaracijske stranke in organizacije; za pristop in
-                  sodelovanje pa je povabiti tudi Jugoslovansko socijalno demokracijo. Jugoslovanski
-                  centralni narodni odbor si bo svoj delokrog sam soglasno določil, ter je v njen
+                  sodelovanje pa je povabiti tudi <orgName>Jugoslovansko socijalno demokracijo</orgName>. <orgName>Jugoslovanski
+                  centralni narodni odbor</orgName> si bo svoj delokrog sam soglasno določil, ter je v njen
                   načeloma izključeno vsako majorizovanje. Poglavitna njegova naloga pa bo tudi, da
                   bo stopil brez odloga v stik z deklaracijskimi strankami v
                      <placeName>Banovini</placeName> in <placeName>Ercegbosni</placeName> v svrho
                   združitve.</p>
-               <p xml:id="No.65.PPP.2">Izvrševalnemu odbora N. N. S. se naroča, da o tem sklepu
-                  obvesti vse deklaracijske jugoslovanske politične organizacije in Jugoslovanski
-                  klub na <placeName>Dunaju</placeName> z željo naj le-ta posreduje nujni razgovor
-                  med strankami. Na velikonočnem velikem zboru zaupnikov N. N. S. bo potem
+               <p xml:id="No.65.PPP.2">Izvrševalnemu odbora <orgName>N. N. S.</orgName> se naroča, da o tem sklepu
+                  obvesti vse deklaracijske jugoslovanske politične organizacije in <orgName>Jugoslovanski
+                  klub</orgName> na <placeName>Dunaju</placeName> z željo naj le-ta posreduje nujni razgovor
+                  med strankami. Na velikonočnem velikem zboru zaupnikov <orgName>N. N. S.</orgName> bo potem
                   izvrševalni odbor imel poročati o uspehu te akcije. </p>
             </div>
             <gap reason="irrelevant"/>

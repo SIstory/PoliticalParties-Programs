@@ -50,12 +50,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.50.PPP.1">Slavni deželni zbor naj na podlagi člena 19. deželnega reda
+            <p xml:id="No.50.PPP.1">Slavni <orgName>deželni zbor</orgName> naj na podlagi člena 19. deželnega reda
                sklene:</p>
             <p xml:id="No.50.PPP.2">Z ozirom na volilno reformo, kojo hoče vlada izvesti, izreka se
                deželni zbor te vojvodine za vpeljavo splošne direktne volilne pravice, če bi se pa

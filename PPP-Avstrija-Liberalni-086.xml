@@ -55,6 +55,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -65,7 +70,7 @@
                vprašanje, kakšen bodi ustroj naše bodoče skupne jugoslovanske domovine. Gospod pl.
                   <persName>Šuklje</persName> nam je tudi že razvil nekaj svojih misli o načinu
                bodoče uprave na slovenskih zemlji.<note source="#SourceBornDigital">Glej dok. št.
-                  44.</note> Ne da hočemo prejudicirati samoodločbi naroda samega ali sklepom NS.,
+                  44.</note> Ne da hočemo prejudicirati samoodločbi naroda samega ali sklepom <orgName>NS.</orgName>,
                ki je kot naša začasno vrhovna instanca po našem mnenju poklican v soglasju z večino
                bodočih državljanov položiti temelj naši narodni stavbi, bodi nam dovoljeno,
                povdariti nekatere momente, ki se nam vidijo velike važnosti za uspešno rešitev
@@ -133,7 +138,7 @@
                urejena po enotnih načelih, je po prednavedenem menda nedvomno. <hi rend="italic"
                   >Nikakega pametnega razloga pa tudi</hi> ni za mnenje, – in v tem g. pl.
                   <persName>Šukljeju</persName> ne moremo pritrditi – <hi rend="italic">da naj se
-                  onstran Sotle in Save drugače upravlja in sodi kakor pri nas Slovencih</hi>.
+                  onstran <geogName>Sotle</geogName> in <geogName>Save</geogName> drugače upravlja in sodi kakor pri nas Slovencih</hi>.
                Nasprotno, čim enotnejši je državni ustroj, tem lažje in hitreje bomo mogli doseči
                svoje skupne cilje. Končno tudi ureditve šolstva ne bomo mogli prepustiti zgolj
                posameznim narodnim skupinam. Dasi smo uverjeni, da nam skoro vstane v naši beli
@@ -176,7 +181,7 @@
                bodi naša zveza poklicana, poglobiti naše stike z onimi, ki so po jeziku in krvi <hi
                   rend="italic">isti</hi>, in pripravljati pot danes nam še neznani višji kulturni
                jednotnosti. Uverjeni smo, da bo uprav to tesno medsebojno občevanje in spoznavanje
-               za vse, danes še diferencirane skupine v Jugoslaviji obrodilo bogate sadove ter <hi
+               za vse, danes še diferencirane skupine v <placeName>Jugoslaviji</placeName> obrodilo bogate sadove ter <hi
                   rend="italic">izredno poživilo in poplemenitilo naša kulturna stremljenja</hi>.
                Nadaljni razvoj mirnim srcem puščamo bodočnosti.</p>
             <p xml:id="No.86.PPP.17">Mi smo tesarji in zidarji. Stvar naših potomcev bo, da naš dom

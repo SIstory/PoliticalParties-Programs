@@ -59,11 +59,11 @@
          <div>
             <gap reason="irrelevant"/>
             <p xml:id="No.154.PPP.1">Slovensko narodno-radikalno dijaštvo zbrano na svojem III.
-               shodu v Ljubljani v dnevih <date from="1909-09-16" to="1909-09-20">od 16.–20.
+               shodu v <placeName>Ljubljani</placeName> v dnevih <date from="1909-09-16" to="1909-09-20">od 16.–20.
                   septembra 1909</date><note place="foot">Shod je potekal od 17.–19. 9. 1909.</note>
                s svojimi gosti, naprednimi češkimi in jugoslovanskimi dijaki </p>
-            <list xml:id="No.154.PPP.2" type="ordered" n="I.">
-               <item><list type="ordered">
+            <list xml:id="No.154.PPP.2" rend="numbered" n="I.">
+               <item><list rend="numbered">
                      <item n="1.">vidi v organizaciji slovenskega klerikalnega dijaštva del one
                         mednarodne sile, ki uporabljajoč moderna sredstva služi edino-le interesom
                            <placeName>Rima</placeName> ter zavira s tem prost razvoj slovenskega

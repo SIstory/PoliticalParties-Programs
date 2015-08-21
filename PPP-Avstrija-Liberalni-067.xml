@@ -47,6 +47,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -55,7 +60,7 @@
             <gap reason="irrelevant"/>
             <div>
                <head>Pozdrav Čehom.</head>
-               <p xml:id="No.67.PPP">Zbor zaupnikov narodno-napredne stranke pošilja bratskemu
+               <p xml:id="No.67.PPP">Zbor zaupnikov <orgName>narodno-napredne stranke</orgName> pošilja bratskemu
                   češkemu narodu prisrčne pozdrave ter obnavlja prisego zvestobe v boju na življenje
                   in smrt za velike cilje svobode in neodvisnosti.</p>
             </div>

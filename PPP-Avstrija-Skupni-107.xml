@@ -65,6 +65,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -75,10 +80,10 @@
                <head>Resolucije</head>
                <div>
                   <head>Splošni politični položaj</head>
-                  <list xml:id="No.107.PPP" type="ordered">
+                  <list xml:id="No.107.PPP" rend="numbered">
                      <item n="1.">Vseslovenski in istersko-hrvatski shod sprejme združenje vseh slovenskih in
                         hrvatskih državnih poslancev z veseljem na znanje in odobrava v vseh točkah
-                        program <q>Slovanske krščansko-narodne zveze</q>.</item>
+                        program <q><orgName>Slovanske krščansko-narodne zveze</orgName></q>.</item>
                      <item n="2.">Slovenskim in istersko-hrvatskim državnim poslancem se izreka popolno
                         zaupanje in se isti pozivljejo, naj v parlamentarni večini vstrajajo, dokler bode
                         odločno in neodvisno od trenotnih vladnih tendenc, dejansko izvrševala svoj

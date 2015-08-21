@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -58,7 +63,7 @@
             <gap reason="irrelevant"/>
             <div>
                <head n="B.">Resolucija o svobodni šoli.</head>
-               <p xml:id="No.146.PPP.1">II. shod narodno-radikalnega dijaštva se pridružuje ideji
+               <p xml:id="No.146.PPP.1">II. shod <orgName>narodno-radikalnega dijaštva</orgName> se pridružuje ideji
                      <hi rend="italic"><soCalled>Svobodne šole</soCalled></hi>. Svobodna šola je
                   ideal šole, ki hoče podeljevati gojencem pridobitve civilizacije na tak način, da
                   ne krši individualnih zmožnosti, temveč jim da vse pogoje, da se razvijajo <hi
@@ -66,7 +71,7 @@
                <p xml:id="No.146.PPP.2">V doslednosti te elementarne vzgojeslovne zahteve treba
                   odstraniti <hi rend="italic">vse</hi>, kar ovira, da se šolstvo ne razvija v tem
                   smislu. Predvsem zahtevamo:</p>
-               <list xml:id="No.146.PPP.3" type="ordered">
+               <list xml:id="No.146.PPP.3" rend="numbered">
                   <item n="I.">na vseh šolah, ki naj bodo resnično narodne, pouk <hi rend="italic">v
                         materinskem </hi>jeziku;</item>
                   <item n="II.">reformo vseh šolskih uradov, v katerih naj zasedajo izključno
@@ -74,19 +79,19 @@
                      direktne volilne pravice. Vsi šolskoupravni organi v jezikovno mešanih krajih
                      naj bodo, dokler se ne ugodu naši fundamentalni zahtevi po narodni avtonomiji,
                      deljeni po narodnostih;</item>
-                  <item n="III."><list type="ordered">
+                  <item n="III."><list rend="ordered">
                         <item n="a)">odstranitev šolnine in pristojbin na vseh šolah – od najnižje
                            do najvišje. Učila naj bodo za nepremožne učence brezplačna;</item>
                         <item n="b)">znižanje števila učencev pod enim učiteljem in uredbo šol po
                            modernih zdravstvenih zahtevah;</item>
                      </list>
                   </item>
-                  <item n="IV."><list type="ordered">
+                  <item n="IV."><list rend="numbered">
                         <item n="a)">višjo izobrazbo učiteljstva;</item>
                         <item n="b)">njega pedagogično neodvisnost;</item>
                         <item n="c)">njega državljansko svobodo in enakopravnost z drugimi stanovi,
-                           predvsem kot nje pogoj odstranitev § 54. šol. zakona iz leta
-                           1869.;</item>
+                           predvsem kot nje pogoj odstranitev § 54. šol. zakona iz <date when="1869">leta
+                           1869</date>.;</item>
                         <item n="d)">izboljšanje materijelnega stanja učiteljstva potom povišanja
                            plač;</item>
                      </list>

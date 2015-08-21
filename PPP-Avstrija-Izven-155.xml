@@ -46,21 +46,26 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.155.PPP" type="ordered">
+            <list xml:id="No.155.PPP" rend="numbered">
                <item n="1.">vidi v narodno-obrambnem delu bistveni predpogoj za kulturno in
                   gospodarsko osamosvojitev slovenskega naroda. Pozivlja vso slovensko javnost, da
                   posveča temu vprašanju čim največ pozornosti;</item>
                <item n="2.">pozdravlja z veseljem misel ustanovitve gospodarsko obrambnega društva
-                     <q>Branibor</q> in želi, da se v doglednem času ustanovi parcelacijska
+                  <q><orgName>Branibor</orgName></q> in želi, da se v doglednem času ustanovi parcelacijska
                   banka;</item>
                <item n="3.">pozivlja merodajne faktorje, da pokličejo čimprej v življenje slovenski
                   narodni svet;</item>
-               <item>4. povdarja važnost prihodnjega ljudskega štetja za našo politično in
+               <item n="4.">povdarja važnost prihodnjega ljudskega štetja za našo politično in
                   državnopravno bodočnost in pričakuje od vodilnih krogov, da store:<list
                      type="ordered">
                      <item n="a)">Vse potrebne korake, da se rubrika občevalnega jezika nadomesti z

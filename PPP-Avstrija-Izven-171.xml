@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -75,16 +80,16 @@
                   razpolagajo z neizmernim naravnim bogastvom, z malo da neizčrpnimi državnimi
                   denarnimi viri, z mogočno veleindustrijo in trgovino, z visoko kulturo. Poleg
                   vsega pa uživajo <placeName>Zedinjene države</placeName> tudi še <hi rend="italic"
-                     >izolirano lego</hi>. <soCalled>Velika luža</soCalled> jih loči od vseh ostalih
+                     >izolirano lego</hi>. <soCalled><geogName>Velika luža</geogName></soCalled> jih loči od vseh ostalih
                   velesil sveta. Vsakemu je jasno, da je situacija bodoče
                      <placeName>Jugoslavije</placeName> bistveno drugačna v kratkomalo vseh ozirih,
                   v katerih je <placeName>Amerika</placeName> močnejša, ali vsaj tako močna, kot
                   vsaka druga velevlast, je <placeName>Jugoslavija</placeName> slabejša kot sploh
                   vsaka velevlast in mejila bo, kakor smo že povdarjali, neposredno na velevlast
                      <placeName>Italijo</placeName>, ki je obenem mogočen in nerazmerno močnejši
-                  konkurent na Jadranskem morju. V takem položaju je stališče slabejšega konkurenta
+                  konkurent na <geogName>Jadranskem morju</geogName>. V takem položaju je stališče slabejšega konkurenta
                   zelo težavno. Bati se je, da si <placeName>Italija</placeName> takoj osvoji
-                  komercijelno prvenstvo na Jadranski obali. To prvenstvo pa ne bo od danes do
+                  komercijelno prvenstvo na <geogName>Jadranski obali</geogName>. To prvenstvo pa ne bo od danes do
                   jutri, ker bo <placeName>Italija</placeName> dosti močna, da je trajno obdrži.
                   Roko v roki s tem bo šlo industrijelno prvenstvo v naših deželah.</p>
                <p xml:id="No.171.PPP.2">Nerazmerno ugodnejša je pozicija jugoslovanske države kot

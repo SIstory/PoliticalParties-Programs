@@ -52,6 +52,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -64,7 +69,7 @@
                protestira proti intervenciji južnoštajerskih in koroških nacionalnih Nemcev ter
                nemškutarjev pri cesarju <date when="1918-05-25">dné 25. maja t. l.</date> ter jim
                odreka vsako pravico govoriti v imenu slovenskega ljudstva.</p>
-            <p xml:id="No.95.PPP.2">Jugoslovanska socialno demokratična stranka stoji neomajno na sklepih jugoslovanske
+            <p xml:id="No.95.PPP.2"><orgName>Jugoslovanska socialno demokratična stranka</orgName> stoji neomajno na sklepih jugoslovanske
                tivolske konference iz leta <date when="1909">1909</date>.<note place="foot"
                   source="#SourceBornDigital">Glej dok. št. 82.</note> ter na sklepih strankinega
                zbora <date when="1917-12">decembra 1917</date>;<note place="foot"
@@ -80,9 +85,9 @@
             <p xml:id="No.95.PPP.4">Izvrševalni odbor smatra za potrebno, da stopi v tozadevni dogovor z italijanskimi in
                nemškimi sodrugi ter se z njimi sporazume.</p>
             <gap xml:id="No.95.PPP.5" reason="irrelevant"/>
-            <p xml:id="No.95.PPP.6">Glede ustanovljenega Narodnega Sveta<note place="foot" source="#SourceBornDigital"
+            <p xml:id="No.95.PPP.6">Glede ustanovljenega <orgName>Narodnega Sveta</orgName><note place="foot" source="#SourceBornDigital"
                   >Glej dok. št. 134 in dok. št. 135. </note> izjavlja celokupni izvrševalni odbor,
-               da jugoslovanska socialno demokratična stranka ne vstopi v Narodni Svet, pač pa ne
+               da jugoslovanska socialno demokratična stranka ne vstopi v <orgName>Narodni Svet</orgName>, pač pa ne
                odklanja sodelovanja, pridržuje si za izvršitev sprejetih sklepov povsem prosto
                roko.</p>
             <gap reason="irrelevant"/>

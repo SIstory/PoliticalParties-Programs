@@ -42,6 +42,7 @@
                      <pubPlace>Ljubljana</pubPlace>
                      <pubPlace>http://www.dlib.si/details/URN:NBN:SI:DOC-Y49J8SJP</pubPlace>
                      <date when="1918-10-26">26. 10. 1918</date>
+                     <biblScope unit="page">124</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -54,6 +55,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName in orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -73,17 +79,17 @@
                   pr. v smislu krfskega programa pod dinastijo <persName>Karagjorgjevičev</persName>
                   ali pa kot republiko. Mimogredoč naj kratko izjavimo, da bi bili mi v tem slučaju
                   za republiko. Ne vidimo namreč nobenega pametnega razloga, da bi, če se ločimo
-                  odene dinastije, isto zamenjali za drugo, kajti to bi bila silno starokopitna
+                  od ene dinastije, isto zamenjali za drugo, kajti to bi bila silno starokopitna
                   rešitev celega vprašanja. Sicer pa to nikakor ni glavna stvar. Veliko važnejše je
                   stvarno vprašanje, ki se mora predvsem rešiti, t. j. popolna samostojnost ali
                   pristop k Zvezi zedinjenih držav. <hi rend="italic">Predvsem pa, in to ponavljamo
                      in podčrtamo, more biti naš etnografični teritorij popolnoma zasiguran z našo
-                     jugoslovansko državo</hi>. To je conditio sine quanon, preko katere nihče ne
+                     <placeName>jugoslovansko državo</placeName></hi>. To je <foreign>conditio sine quanon</foreign>, preko katere nihče ne
                   more.</p>
                <p xml:id="No.170.PPP.4">Ne da se tajiti, da je z zgolj narodnega stališča popolna
                   samostojnost zelo vabljiva in blesteča. Treba pa je misliti nekoliko dalje: na
                   možnosti življenja in razvoja in nemotenega obstoja naše nove države.</p>
-               <p xml:id="No.170.PPP.5"><placeName>Jugoslavija</placeName> leži ob Jadranskem morju;
+               <p xml:id="No.170.PPP.5"><placeName>Jugoslavija</placeName> leži ob <geogName>Jadranskem morju</geogName>;
                   velik del obali<note place="foot" source="#SourceBornDigital">Obale.</note> je
                   naša narodna posest. To nam daje velike možnosti za življenje in razvoj, toda
                   prezreti ne smemo, da imamo ob isti obali mogočnega soseda, trikratno močnejšega
@@ -93,8 +99,8 @@
                   najdragocenejše dele svojega narodnega ozemlja. Opraviti bomo imeli tedaj predvsem
                   s politično, potem z mogočno gospodarsko in osobito komercijelno konkurenco tega
                   soseda. <placeName>Italija</placeName> bo po vojski močnejša kot kedaj poprej in
-                  ta njena moč bo latentna nevarnost za <placeName>Jugoslavijo</placeName>. Liga
-                  narodov nas pred to nevarnostjo ne bo mogla varovati, ker se bo šlo za prosto
+                  ta njena moč bo latentna nevarnost za <placeName>Jugoslavijo</placeName>. <orgName>Liga
+                  narodov</orgName> nas pred to nevarnostjo ne bo mogla varovati, ker se bo šlo za prosto
                   kretanje narodnih in gospodarskih moči na svetovnem pozorišču. V prihodnjem članku
                   hočemo svoje misli naprej razviti.</p>
                <closer>

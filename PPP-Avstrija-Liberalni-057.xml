@@ -53,25 +53,30 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Iz eksekutivnega odbora narodno-napredne stranke</head>
-            <p xml:id="No.57.PPP.1">Eksekutivni odbor narodno-napredne stranke je sklenil predložiti
+            <head>Iz eksekutivnega odbora <orgName>narodno-napredne stranke</orgName></head>
+            <p xml:id="No.57.PPP.1">Eksekutivni odbor <orgName>narodno-napredne stranke</orgName> je sklenil predložiti
                shodu zaupnih mož sledeči program:</p>
-            <list xml:id="No.57.PPP.2" type="ordered">
-               <item n="1.">Narodno-napredna stranka hoče politično organizovati slovenski narod na
+            <list xml:id="No.57.PPP.2" rend="numbered">
+               <item n="1."><orgName>Narodno-napredna stranka</orgName> hoče politično organizovati slovenski narod na
                   temelju <hi rend="italic">nacionalizma</hi>, <hi rend="italic">demokratizma in
                      svobodomiselnosti</hi>. Končni smoter stranke je, da pribori narodu svobodno
                   nacionalno življenje in kulturno blagostanje na podlagi povzdige duševne
                   izobrazbe, gospodarsko osamosvojitev in socialno pravičnost na podlagi
                   enakopravnosti vseh stanov.</item>
-               <item n="2.">Stranka zahteva vsled tega kot temeljni postulat <hi rend="italic"
+               <item n="2."><orgName>Stranka</orgName> zahteva vsled tega kot temeljni postulat <hi rend="italic"
                      >slovenskega naroda narodno avtonomijo</hi>, katere končni cilj bodi zedinjena
                      <placeName>Slovenija</placeName> in združitev s
                   <placeName>Hrvatsko</placeName>.</item>
-               <item n="3.">Od države zahteva stranka predvsem glede slovenskih pokrajin priznanje
+               <item n="3.">Od države zahteva <orgName>stranka</orgName> predvsem glede slovenskih pokrajin priznanje
                   in uveljavljenje popolne enakopravnosti slovenskega jezika v uradu in šoli, uvedbo
                   slovenskega notranjega uradnega jezika, ustanovitev višjega deželnega sodišča v
                      <placeName>Ljubljani</placeName> za vse slovenske pokrajine in ustanovitev
@@ -79,17 +84,17 @@
                   in samostojno organizacijo vsega slovenskega šolstva na podlagi slovenskega učnega
                   jezika, ustanovitev slovenske univerze v <placeName>Ljubljani</placeName> in vseh
                   potrebnih slovenskih strokovnih šol.</item>
-               <item n="4.">Stranka se bo slej ko prej z vsemi sredstvi borila zoper neznosno
-                  zlorabo cerkve in duhovnih oblasti v politične in posvetne svrhe, ter v ta namen
-                  zahteva tudi strogo ločitev cerkve od države. Zlasti stranka ne pripoznava cerkvi
+               <item n="4."><orgName>Stranka</orgName> se bo slej ko prej z vsemi sredstvi borila zoper neznosno
+                  zlorabo <orgName>cerkve</orgName> in duhovnih oblasti v politične in posvetne svrhe, ter v ta namen
+                  zahteva tudi strogo ločitev <orgName>cerkve</orgName> od države. Zlasti <orgName>stranka</orgName> ne pripoznava <orgName>cerkvi</orgName>
                   nikake pravice do šole ter zahteva od cerkve popolnoma svobodno šolo.</item>
-               <item n="5.">Za vse zakonodajne zastope priznava stranka načelo splošne, enake,
+               <item n="5.">Za vse zakonodajne zastope priznava <orgName>stranka</orgName> načelo splošne, enake,
                   direktne in tajne volilne pravice na podlagi proporcionalnega volilnega sistema:
                   Načelo splošne volilne pravice naj se uveljavi tudi v avtonomne zastope.</item>
-               <item n="6.">Stranka je za razširjenje avtonomije mest in občin sploh.</item>
-               <item n="7.">Stranka je pripravljena pospeševati strokovno organizacijo vsakega
+               <item n="6."><orgName>Stranka</orgName> je za razširjenje avtonomije mest in občin sploh.</item>
+               <item n="7."><orgName>Stranka</orgName> je pripravljena pospeševati strokovno organizacijo vsakega
                   posameznega stanu.</item>
-               <item n="8.">Kmetijski stan hoče stranka braniti predvsem zoper nevarnost
+               <item n="8.">Kmetijski stan hoče <orgName>stranka</orgName> braniti predvsem zoper nevarnost
                   industrializovanja po tujem kapitalu ter zahteva v to svrho izdatnih legislativnih
                   sredstev zoper razkosavanje kmetij, ureditev kmetijskega realnega kredita,
                   olajšanje dedinskih in prenosnih pristojbin itd.; kot nujno potrebo smatra v
@@ -100,7 +105,7 @@
                   ustanovitvijo kmetijskih nadaljevalnih šol z gospodinjskimi tečaji in končno
                   krepko organizacijo kmeta-producenta.<note source="#SourceBornDigital">Na tem
                      mestu je k predlogu strankinega programa, ki ga je oblikoval eksekutivni odbor
-                     NNS (<hi rend="italic">Slovenski narod</hi>, leto XXXIX, št. 254, V Ljubljani,
+                     <orgName>NNS</orgName> (<hi rend="italic">Slovenski narod</hi>, leto XXXIX, št. 254, V Ljubljani,
                      6. 11. 1906, Iz eksekutivnega odbora narodno-napredne stranke), strankin shod
                      na pobudo posestnika <persName>Jenka</persName> z <placeName>Brnika</placeName>
                      v program vključil še prizadevanje za oblikovanje samostojne kmečke kreditne
@@ -110,28 +115,28 @@
                      in onemoglostno zavarovanje kmečkih delavcev. (<hi rend="italic">Slovenski
                         narod</hi>, leto XXXIX, št. 264, 17. 11. 1906, Shod zaupnikov
                      narodno-napredne stranke).</note></item>
-               <item n="9.">Stranka polaga veliko važnost na to, da zadobi slovenski narod krepko in
+               <item n="9."><orgName>Stranka</orgName> polaga veliko važnost na to, da zadobi slovenski narod krepko in
                   svobodno trgovino ter lastno industrijo. Obsoja trgovskemu stanu sovražno
-                  strankarsko, na obe strani pogubno združevanje kmeta-konsumenta. Stranka smatra
+                  strankarsko, na obe strani pogubno združevanje kmeta-konsumenta. <orgName>Stranka</orgName> smatra
                   trgovstvu za potrebno večjo splošno in strokovno izobrazbo, v kar naj služijo
                   meščanske šole trgovskega značaja, trgovske srednje šole in trgovske akademije.
-                  Zoper proletariziranje trgovstva zahteva stranka zadostne zakonite odpomoči,
+                  Zoper proletariziranje trgovstva zahteva <orgName>stranka</orgName> zadostne zakonite odpomoči,
                   pozdravlja ustanavljanje trgovini in industriji služečih pomožnih naprav,
                   udeleževanje in združevanje domačega kapitala v interesu osamosvojitve slovenske
                   trgovine in razvoja slovenske industrije, razširjenje prometnih cest ter
                   razkrivanja in izkoriščanja naravnih bogastev domačih dežela.</item>
                <item n="10.">Krepke pomoči je potreben prav tako velevažni <hi rend="italic">obrtni
                      stan</hi>, ki hira v prvi vrsti na nedostatni strokovni in kupčijski izobrazbi,
-                  na zastarelosti produkcije in pomanjkanju kapitala. Stranka se hoče torej boriti
+                  na zastarelosti produkcije in pomanjkanju kapitala. <orgName>Stranka</orgName> se hoče torej boriti
                   za ustanavljanje oziroma pomnoževanje obrtno-nadaljevalnih in meščanskih šol
                   obrtnega značaja po meri lokalnih potreb in za organizacijo umetno-obrtnega
                   šolstva. Treba je nadalje spopolniti obrtno zadružništvo ter priboriti mu večji
                   ugled in veljavo. Preskrbeti mu je cenejši in lažji kredit ter rešiti vprašanje o
                   prepotrebnih mojstrskih bolniških blagajnicah ter o preskrbi za starost in
                   onemoglost.</item>
-               <item n="11.">Eden svojih glavnih stebrov videva stranka v zavednem in organizovanem
+               <item n="11.">Eden svojih glavnih stebrov videva <orgName>stranka</orgName> v zavednem in organizovanem
                      <hi rend="italic">uradništvu</hi>, čigar upravičeno stremljenje za izboljšanje
-                  svojega gmotnega položaja hoče vsled tega stranka z vsemi močmi podpirati in hoče
+                  svojega gmotnega položaja hoče vsled tega <orgName>stranka</orgName> z vsemi močmi podpirati in hoče
                   z vsemi silami delovati na to, da se ustanovi časovni avanzma,<note source="#SourceBornDigital">Napredovanje v
                      službi.</note> da se določijo službena leta na 35 let in da se sestavi
                   službena pragmatika in hoče osobito paziti na to, da se na slovenski zemlji
@@ -140,23 +145,23 @@
                <item n="12.">Isto velja glede <hi rend="italic">učiteljskega stanu</hi>, čigar
                   gmotni položaj je tako krivičen in nevreden, da je smatrati izdatno izboljšanje
                   tega položaja za eno najvažnejših kulturnih dolžnosti vsake ljudske stranke. Roko
-                  v roki s tem izboljšanjem pa se hoče boriti stranka tudi za povišanje znanstvene
+                  v roki s tem izboljšanjem pa se hoče boriti <orgName>stranka</orgName> tudi za povišanje znanstvene
                   izobrazbe ljudskega učiteljstva.</item>
-               <item n="13.">Stranka popolnoma uvideva težavni položaj vsega delavskega stanu,
+               <item n="13."><orgName>Stranka</orgName> popolnoma uvideva težavni položaj vsega delavskega stanu,
                   zlasti onega, stoječega v službi veleindustrije in velikih prometnih podjetij ter
                   z iskrenimi simpatijami pozdravlja samostalno socialno organizacijo tega važnega
                   in enakopravnega stanu, želeč le, da si ohrani ta organizacija narodno podlago.
-                  Zlasti hoče stranka krepko podpirati potezanje organizovanega delavstva za
+                  Zlasti hoče <orgName>stranka</orgName> krepko podpirati potezanje organizovanega delavstva za
                   omejitev ženskega in otroškega dela v tovarnah, za izdatno starostno in
                   invaliditetno preskrbljenje vseh delavskih slojev in za brezplačnost vsega
                   šolskega pouka.</item>
                <item n="14.">V interesu prepotrebnega razširjenja obzorja prostega naroda naglaša
-                  stranka veliko važnost ljudske literature svobodomiselnega in popularno
+                  <orgName>stranka</orgName> veliko važnost ljudske literature svobodomiselnega in popularno
                   znanstvenega značaja, ustanavljanje ljudskih knjižnic in prirejanje javnih
                   predavanj ter hoče vsa taka prizadevanja najizdatneje podpirati.</item>
-               <item n="15.">Končno stranka uvideva, da je slovensko ozemlje preveč eksponirano in
+               <item n="15.">Končno <orgName>stranka</orgName> uvideva, da je slovensko ozemlje preveč eksponirano in
                   naš narod premajhen, da bi zamogel s samopomočjo doseči zoper vse sovražnike
-                  zadostno zavarovano samostalnost; zategadelj hoče stranka iskati pomoči v
+                  zadostno zavarovano samostalnost; zategadelj hoče <orgName>stranka</orgName> iskati pomoči v
                   intenzivnem kulturnem in gospodarskem zbliževanju in druženju z ostalimi
                   slovanskimi narodi, zlasti pa jugoslovanskimi.</item>
             </list>

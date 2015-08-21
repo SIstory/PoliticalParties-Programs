@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -63,8 +68,8 @@
             <p xml:id="No.38.PPP.1"><hi rend="italic"><placeName>Opatija</placeName>, <date
                      when="1912-09-19">19. septembra</date></hi>. Na povabilo obojnih strankinih
                vodstev zbrali so se v <placeName>Opatiji</placeName> zaupniki <hi rend="italic"
-                  >Stranke Prava</hi>, za vse hrvaške dežele in <hi rend="italic">Vseslovenske
-                  Ljudske Stranke</hi> k političnemu posvetu. </p>
+                  ><orgName>Stranke Prava</orgName></hi>, za vse hrvaške dežele in <hi rend="italic"><orgName>Vseslovenske
+                  Ljudske Stranke</orgName></hi> k političnemu posvetu. </p>
             <p xml:id="No.38.PPP.2">Posvetovanja so se vršila včeraj in danes (<date
                   from="1912-09-18" to="1912-09-19">18. in 19. septembra</date>) v dvorani pod
                kupljo hotela <q>Stefanie</q>.</p>
@@ -95,9 +100,9 @@
                hrvaško-slovenskega naroda in pa iz tega položaja izvirajoče posledice ter se je
                doseglo v vseh točkah popolno soglasje.</p>
             <p xml:id="No.38.PPP.6">Konstatiralo se je, da stremite obe stranki tako v
-               narodnopolitičnih, kakor v kulturnih ozirih za enakimi cilji v duhu programa Stranke
-               Prava in sklenilo se je soglasno ustvariti skupno organizacijo s tem, da se ustanovi
-                  <hi rend="bold">Hrvaško Slovenski Zvršilni Odbor</hi>.</p>
+               narodnopolitičnih, kakor v kulturnih ozirih za enakimi cilji v duhu programa <orgName>Stranke
+               Prava</orgName> in sklenilo se je soglasno ustvariti skupno organizacijo s tem, da se ustanovi
+                  <hi rend="bold"><orgName>Hrvaško Slovenski Zvršilni Odbor</orgName></hi>.</p>
             <p xml:id="No.38.PPP.7">Nadalje se je sklenilo, <hi rend="bold">da se skliče na dan
                      <date when="1912-10-20">20. oktobra t. l.</date> v
                      <placeName>Ljubljano</placeName> skupščina vseh državnih in deželnih poslancev,
@@ -105,8 +110,8 @@
             <p xml:id="No.38.PPP.8">Vršilo se je temeljito posvetovanje <hi rend="bold">o politični
                   taktiki</hi> bližnjega časa v različnih javnih zastopih in tudi v tem pogledu se
                je izkazalo popolno soglasje.</p>
-            <p xml:id="No.38.PPP.9">Ukrenilo se je vse potrebno, da se stalni Hrvaško Slovenski
-               Zvršilni Odbor konstituira v teku prihodnjega tedna in prevzame vodstvo poslov.</p>
+            <p xml:id="No.38.PPP.9">Ukrenilo se je vse potrebno, da se stalni <orgName>Hrvaško Slovenski
+               Zvršilni Odbor</orgName> konstituira v teku prihodnjega tedna in prevzame vodstvo poslov.</p>
             <p>Za danes objavljamo samo komunike, ki naznanja jugoslovanskemu svetu dogodke, ki se
                nam zde naravnost zgodovinske važnosti. Razume se, da se na to zadevo še povrnemo.
                Ves hrvaško slovenski narod bo opatijsko dejanje svojih zaupnikov pozdravljal z

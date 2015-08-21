@@ -53,15 +53,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Jugoslovanska socialno-demokratična konferenca</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.89.PPP.1">Jugoslovanska socialna demokracija izraža mnenje, da s podobno
+            <p xml:id="No.89.PPP.1"><orgName>Jugoslovanska socialna demokracija</orgName> izraža mnenje, da s podobno
                zaključkom zadnjega češkega in nemškega strankinega zbora stopi tudi vodstvo
-               jugoslovanske socialno-demokratične stranke v dotiko s socialno demokracijo ostalih
+               <orgName>jugoslovanske socialno-demokratične stranke</orgName> v dotiko s socialno demokracijo ostalih
                narodov v <placeName>Avstriji</placeName> za posvetovanje o reviziji brnskega
                programa, pri čemer naj ji bodo izhodišče zaključki današnje konference.<note
                   place="foot" source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo

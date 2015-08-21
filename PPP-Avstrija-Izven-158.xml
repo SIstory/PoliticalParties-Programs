@@ -46,13 +46,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.158.PPP" type="ordered">
-               <item n="V."><list type="ordered">
+            <list xml:id="No.158.PPP" rend="numbered">
+               <item n="V."><list rend="numbered">
                      <item n="1.">Ponavlja znova svojo odločno zahtevo po slovenskem vseučilišču v
                         <placeName>Ljubljani</placeName>;</item>
                      <item n="2.">zahteva za ustanovitev vseučilišča v <placeName>Ljubljani</placeName> prepotrebne
@@ -63,7 +68,7 @@
                         slovanskimi univerzami ter med avstrijskimi vseučilišči;</item>
                      <item n="4.">zahteva popolno slovensko srednje in ljudsko šolstvo na vsem
                         slovenskem ozemlju, posebno pa poživlja slovenske državne poslance, da se
-                        zavzemajo za podržavljenje Ciril in Metodove šole pri <placeName>sv. Jakobu v
+                        zavzemajo za podržavljenje <orgName>Ciril in Metodove šole</orgName> pri <placeName>sv. Jakobu v
                         Trstu</placeName>;</item>
                      <item n="5.">obsoja dunajsko vlado, ki zavlačuje razvoj slovenskega srednjega
                         šolstva s tem, da že spisanih knjig za višjo gimnazijo ne aprobira, in

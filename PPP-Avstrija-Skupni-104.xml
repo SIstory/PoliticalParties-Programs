@@ -152,7 +152,7 @@
                   decembra 1867</date> št. 142 drž. zak. izhaja pravica zahtevati, da uradi vsake
                vrste s slovenskim prebivalstvom v slovenskih pokrajinah izključno slovenski
                poslujejo in se zahteva v ta namen:</p>
-            <list xml:id="No.104.PPP.3" type="ordered">
+            <list xml:id="No.104.PPP.3" rend="numbered">
                <item n="a)">da vlada imenuje za urade v slovenskih pokrajinah uradnike v govoru in
                   pismu popolnoma zmožne slovenščine, katere znanje imajo dokazati pred redno
                   komisijo višjega sodišča, oziroma namestništva;</item>
@@ -171,7 +171,7 @@
             <gap reason="irrelevant"/>
             <p xml:id="No.104.PPP.6">Opiraje se na ravno isti člen temeljnih zakonov je gledé
                šolstva zahtevati:</p>
-            <list xml:id="No.104.PPP.7" type="ordered">
+            <list xml:id="No.104.PPP.7" rend="numbered">
                <item n="a)">da se ljudska šola, namenjena odgoji slovenske oziroma istersko-hrvatske
                   mladine, povsod vredi na podlagi verskega izpovedanja in z izključno materinim
                   učnim jezikom, da se za njo potrebno učiteljsko osobje pridobi s primerno
@@ -184,7 +184,7 @@
                   <placeName>Ljubljani</placeName>, obrtno šolo v <placeName>Trstu</placeName> pa
                tako preustroji, da se bode nekoliko predmetov podučevalo tudi v slovenskem
                jeziku.</p>
-            <list xml:id="No.104.PPP.9" type="ordered">
+            <list xml:id="No.104.PPP.9" rend="numbered">
                <item n="b)">Da se na novo oživotvori gimnazija v <choice>
                      <sic>Kranj</sic>
                      <corr>Kranju</corr>
@@ -201,7 +201,7 @@
                namenjenih srednjih šol, oziroma paralelk, naj se izroča takim ravnateljem in
                deželnim šolskim nadzornikom, kateri so slovenskega, oziroma hrvatskega jezika zmožni
                v besedi in pisavi.</p>
-            <list xml:id="No.104.PPP.11" type="ordered">
+            <list xml:id="No.104.PPP.11" rend="numbered">
                <item n="c)">Deželni šolski svèt v <placeName>Gradcu</placeName> in
                      <placeName>Celovcu</placeName> naj se razdeli v dva oddelka, v slovenski in
                   nemški.</item>

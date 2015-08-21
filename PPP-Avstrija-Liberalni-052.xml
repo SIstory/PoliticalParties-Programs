@@ -47,15 +47,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Naš program.</head>
             <gap reason="irrelevant"/>
-            <list xml:id="No.52.PPP" type="ordered">
-               <item n="">
-                  <p>Narodno napredna stranka stoji na stališču <hi rend="italic">narodne
+            <list xml:id="No.52.PPP" rend="numbered">
+               <item n="1.">
+                  <p><orgName>Narodno napredna stranka</orgName> stoji na stališču <hi rend="italic">narodne
                         avtonomije</hi> ter se bori s tega načelnega stališča za vsestranski
                      svobodni razvoj slovenske narodnosti v politiškem, kulturnem in socialnem
                      oziru.</p>
@@ -65,35 +70,35 @@
                   <p>Od državne uprave zahteva stranka večjo brigo za moralno in materialno povzdigo
                      slovenskega naroda.</p>
                </item>
-               <item n="2.">Stranka zahteva svobodno, sicer na kulturnih načelih krščanstva
+               <item n="2."><orgName>Stranka</orgName> zahteva svobodno, sicer na kulturnih načelih krščanstva
                   zgrajeno, a od vsake cerkvene uprave popolnoma nezavisno narodno šolo in v to
                   svrho izdatno izboljšanje gmotnega položaja učiteljskega stanu, združeno s
                   povišanjem njegove znanstvene in strokovne izobrazbe.</item>
                <item n="3.">V verska in cerkvena vprašanja se stranka načeloma ne vtika, zahteva pa
                   nujno zadostnih legislativnih sredstev zoper vsako zlorabo cerkvene in duhovske
                   oblasti v politiške namene.</item>
-               <item n="4.">Stranka priznava jednakopravnost in jednakoveljavnost vseh stanov ter
+               <item n="4."><orgName>Stranka</orgName> priznava jednakopravnost in jednakoveljavnost vseh stanov ter
                   vsled tega odločno odklanja nadvladje bodisi politiško in socialno kateregakoli
                   stanu.</item>
-               <item n="5.">Dosledno je stranka načeloma za splošno direktno in tajno volilno
+               <item n="5.">Dosledno je <orgName>stranka</orgName> načeloma za splošno direktno in tajno volilno
                   pravico, zahtevati pa mora pred dejanjsko vpeljavo glede na posebne sedanje
                   razmere v slovenski domovini zadostnih legislativnih jamstev za popolno svobodo
                   izraževanja ljudske volje in zlasti zoper oviranje te svobode po politiški zlorabi
-                  cerkve.</item>
-               <item n="6.">Stranka vpošteva veliko važnost meščanstva za kulturni in gospodarski
+                  <orgName>cerkve</orgName>.</item>
+               <item n="6."><orgName>Stranka</orgName> vpošteva veliko važnost meščanstva za kulturni in gospodarski
                   napredek naroda slovenskega ter teži na to, da postopa meščanstvo vsporedno z
                   drugimi produktivnimi sloji. Skrb stranke je odstranjevati vsako pojavljajoče se
                   nasprotstvo med stanovi.</item>
                <item n="7.">
-                  <p>V narodno-gospodarskem pogledu naglaša stranka veliko važnost kmetijstva za
+                  <p>V narodno-gospodarskem pogledu naglaša <orgName>stranka</orgName> veliko važnost kmetijstva za
                      slovenski narod ter zahteva izdatno zakonito varstvo kmetijskega stanu v vsakem
                      oziru z ureditvijo kmetskega realnega kredita v ohranjenje kmetskih domov in
                      osebnega kredita v zboljšanje gospodarstva, z olajšanjem, oziroma odpravo
-                     dedinskih in prenosnih pristojbin itd. Stranka zahteva v prilog kmetijske
+                     dedinskih in prenosnih pristojbin itd. <orgName>Stranka</orgName> zahteva v prilog kmetijske
                      produkcije pravično pogodbo z <placeName>Ogrsko</placeName>, tej produkciji
                      koristne trgovinske pogodbe in koristno prometno tarifno politiko.</p>
                   <p>Ker je glavni vzrok propadanja kmetijskega stanu zlasti v slovenskih pokrajinah
-                     pasivna kmetijska produkcija, zato zahteva stranka vse tiste naprave in uredbe,
+                     pasivna kmetijska produkcija, zato zahteva <orgName>stranka</orgName> vse tiste naprave in uredbe,
                      ki pomagajo povzdigniti to produkcijo kvantitativno in kvalitativno, posebno pa
                      smatra za nujno potrebno boljšo strokovno naobrazbo kmetijskega stanu in njega
                      stanovsko organizacijo v svrho samopomoči.</p>
@@ -107,17 +112,17 @@
                   <p>V dosego teh smotrov je težiti na olajšanje prometa po pomnožitvi in
                      sistematični ureditvi prometnih sredstev in na zboljšanje zvez s tujezemstvom,
                      da se izkoristijo naravne sile in zakladi naših dežela.</p>
-                  <p>Narodno napredna stranka pa obsoja najodločneje trgovskemu in obrtnemu stanu
+                  <p><orgName>Narodno napredna stranka</orgName> pa obsoja najodločneje trgovskemu in obrtnemu stanu
                      sovražno neplodno združevanje kmetovalca v konsumna društva, katera se ne
                      omejujejo zgolj na nabavo strogo kmetijskih potrebščin.</p>
                </item>
-               <item n="9.">Za izboljšanje položaja delavskega stanu hoče stranka skrbeti za večjo
+               <item n="9.">Za izboljšanje položaja delavskega stanu hoče <orgName>stranka</orgName> skrbeti za večjo
                   strokovno omiko delavstva po državni in deželni upravi, s primerno ureditvijo
                   obrtnega nadaljevalnega pouka itd., koja višja omika pomore delavskemu stanu do
                   boljšega položaja v socialnem oziru in boljšega gmotnega stanja, dalje hoče
                   stranka skrbeti za ureditev zavarovanja proti boleznim in nezgodam, zlasti pa za
                   preskrbljenje vseh delavskih slojev za starost in onemoglost.</item>
-               <item n="10.">Narodno-napredna stranka je pripravljena, stopiti v tesno zvezo z vsemi
+               <item n="10."><orgName>Narodno-napredna stranka</orgName> je pripravljena, stopiti v tesno zvezo z vsemi
                   narodno-naprednimi slovenskimi in slovanskimi strankami, katere soglašajo z
                   narodnimi in gospodarskimi zahtevami in težnjami njenega programa.</item>
             </list>

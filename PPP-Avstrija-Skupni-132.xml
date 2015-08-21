@@ -46,12 +46,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.132.PPP">Podpisani poslanci, združeni v Jugoslovanskem klubu, izjavljajo,
+            <p xml:id="No.132.PPP">Podpisani poslanci, združeni v <orgName>Jugoslovanskem klubu</orgName>, izjavljajo,
                da zahtevajo na temelju narodnega načela in hrvaškega državnega prava, naj se vsa
                ozemlja monarhije, v katerih prebivajo Slovenci, Hrvati in Srbi, zedinijo pod žezlom
                habsburško-lotarinške dinastije v samostojno državno telo, ki bodi prosto vsakega

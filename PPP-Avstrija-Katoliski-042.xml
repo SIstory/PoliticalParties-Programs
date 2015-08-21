@@ -49,6 +49,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -57,8 +62,8 @@
                1912</date>.</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.42.PPP">Izjavljamo, da tvorimo Hrvati in Slovenci eno narodno celoto.
-               Vsled tega hočemo pristaši Stranke prava in Vseslovenske Ljudske Stranke skupno
-               delovati v duhu in pravcu programa Stranke prava za jedinstvo, pravice in svobodni
+               Vsled tega hočemo pristaši <orgName>Stranke prava</orgName> in <orgName>Vseslovenske Ljudske Stranke</orgName> skupno
+               delovati v duhu in pravcu programa <orgName>Stranke prava</orgName> za jedinstvo, pravice in svobodni
                razvoj hrvatsko slovenskega naroda v okviru <placeName>habsburške
                   monarhije</placeName>. V svesti smo si, da so hrvatskoslovenske dežele odločilnega
                pomena za pozicijo monarhije kot velevlasti in kakor se zavedamo svojih dolžnosti

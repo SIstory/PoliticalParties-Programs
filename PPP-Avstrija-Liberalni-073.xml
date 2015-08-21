@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -68,7 +73,7 @@
                   stranke</hi>, obsegajoče vse napredne in klerikalno politične skupine našega
                naroda, ki stoje na programu narodne samoodločbe. Zdi se nam ta načrt načelno
                predalekosežen in praktično neizpeljiv. V tem oziru opozarjamo na razprave zadnjega
-               zaupniškega sestanka S. L. S.<note source="#SourceBornDigital">Prim. dok. št.
+               zaupniškega sestanka <orgName>S. L. S.</orgName><note source="#SourceBornDigital">Prim. dok. št.
                   23.</note> Tudi vzgledi iz drugih narodov, ki jih navaja spoštovani gospod doktor,
                nas ne prepričajo: Čehi organiziralo sedaj enotno stranko, toda ta stranka naj ne bo
                le deklaracijska, temveč tudi odločno napredna. Veliko resnico pa govori avtor, ko
@@ -76,10 +81,10 @@
                ter povzročiti v tvorbi strank najdalekosežnejše spremembe. Njegov klic po enotno
                organiziranem političnem delu za našo deklaracijo mora najti kar najkrepkejšega
                odmeva. Mi menimo, da je pot k dosegi tega cilja: zenostavljenje našega strankarskega
-               organizma in koalicija. S. L. S. organizira svoje vrste enotno, <hi rend="italic"
+               organizma in koalicija. <orgName>S. L. S.</orgName> organizira svoje vrste enotno, <hi rend="italic"
                   >enotno naj se organizira tudi napredno slovenstvo</hi>. Obstoj pokrajinskih
-               strank danes ni več opravičen. Na plan naj stopita Vseslovenska ljudska stranka in
-               Vseslovenska napredna demokratična stranka, ki skleneta trdno koalicijo za boj za
+               strank danes ni več opravičen. Na plan naj stopita <orgName>Vseslovenska ljudska stranka</orgName> in
+               <orgName>Vseslovenska napredna demokratična stranka</orgName>, ki skleneta trdno koalicijo za boj za
                našo samoodločbo. To se nam zdi neobhodno potrebno, načelno upravičeno in praktično
                izpeljivo, da se z vso vnemo posvetimo skupni prvi in največji nalogi naše narodne
                politike.</p>
@@ -90,19 +95,19 @@
                Slovencev in Srbov. Marsikateri Tomaž, ki še pred letom ni verjel, postaja veren. Za
                ujedinjenje v smislu deklaracije <date when="1917-05-30">30. maja</date><note
                   source="#SourceBornDigital">Glej dok. št. 124.</note> se je izjavila cela
-               <placeName>Slovenija</placeName>, tako da ima Jugoslovanski klub naših poslancev res večino naroda za seboj.
-               V tem oziru ni razločka med naprednjaki in pristaši ljudske stranke. Naša narodna
-               stranka <placeName>Štajerska</placeName> je bila prva, ki se je na več shodih že pred pol letom izrekla za
+               <placeName>Slovenija</placeName>, tako da ima <orgName>Jugoslovanski klub</orgName> naših poslancev res večino naroda za seboj.
+               V tem oziru ni razločka med naprednjaki in pristaši ljudske stranke. Naša <orgName>narodna
+               stranka <placeName>Štajerska</placeName></orgName> je bila prva, ki se je na več shodih že pred pol letom izrekla za
                ujedinjenje Slovencev s Hrvati in Srbi v smislu državnozborske deklaracije.</p>
             <p xml:id="No.73.PPP.4">Tej edinosti vseh narodno mislečih Slovencev pa še ne odgovarja
                vidna oblika naše slovenske politične organizacije. Vse poslance na <placeName>Dunaju</placeName> in ves
                narod v domovini veže sicer jugoslovanska deklaraciji, v politični organizaciji v
                slovenskih deželah pa to ujedinjenje še ne najde odločnega izraza. Pred vojsko smo
-               imeli naprednjaki narodno-napredno stranko za <placeName>Kranjsko</placeName>, narodno-napredno stranko na
-               <placeName>Goriškem</placeName>, narodno stranko v <placeName>Trstu</placeName> in narodno stranko <placeName>štajersko</placeName>. Nasproti tem
-               organizacijam je stala vseslovenska ljudska stranka, ki pa tudi ni bila enotno
+               imeli naprednjaki <orgName>narodno-napredno stranko za <placeName>Kranjsko</placeName></orgName>, <orgName>narodno-napredno stranko na
+               <placeName>Goriškem</placeName></orgName>, <orgName>narodno stranko v <placeName>Trstu</placeName></orgName> in <orgName>narodno stranko <placeName>štajersko</placeName></orgName>. Nasproti tem
+               organizacijam je stala <orgName>vseslovenska ljudska stranka</orgName>, ki pa tudi ni bila enotno
                organizirana, ampak je bila bolj zveza ljudskih strank posameznih pokrajin. Sedaj smo
-               obogateni za novo kmečko stranko dr. <persName>Šusteršičevo</persName>, četudi bolj na papirju.</p>
+               obogateni za novo <orgName>kmečko stranko dr. <persName>Šusteršičevo</persName></orgName>, četudi bolj na papirju.</p>
             <p xml:id="No.73.PPP.5">Opravičbo svojega obstanka so razne imenovane stranke v dobi let
                sicer dokazale z delom za svoje programe in z bojem za svoja politična načela.
                Stranke pa niso namenjene za večnost, ampak so trenotni izraz narodnega življenja.
@@ -149,7 +154,7 @@
                meri, napredni krogi morajo pa že po bistvu svojih strank biti pomirjeni, da je v
                veliki slovenski stranki dandanes za njih delovanje več nego dovolj priložnosti.
                Glede vodilnih načel se bo dalo pri primerni dobri volji najti in določiti jamstvo
-               sodelovanja za obe svetovni naziranji, kakor že izkušnja Jugoslovanskega kluba v
+               sodelovanja za obe svetovni naziranji, kakor že izkušnja <orgName>Jugoslovanskega kluba</orgName> v
                parlamentu dovolj dokazuje. Zlasti obmejni Slovenci si moramo biti v svesti, da je
                močna slovenska enotna stranka sposobnejša rešiti nas v sedanji kritični dobi
                narodnega pogina, nego <hi rend="italic">neorganizirana</hi> množica strank. Jasno
@@ -204,14 +209,14 @@
                delavski program. Pri današnjem nespremenjenem stanju strankarstva na <placeName>Slovenskem</placeName> bi
                pa bil pravi čudež, doživeti tozadevno enotno postopanje. Kak narodni svet, ki se
                nasvetuje od več strani, ne bo sposoben uveljaviti se tozadevno zadostno. Delo
-               Jugoslovanskega kluba v parlamentu, ki je vseskozi srečno in času primerno, mora se
+               <orgName>Jugoslovanskega kluba</orgName> v parlamentu, ki je vseskozi srečno in času primerno, mora se
                poglobiti in utrditi tudi med narodom in skrajni čas je, da se resno vzame v pretres
                ideja ustanovitve enotne slovenske stranke in da se organizacija iste izpelje v
                soglasju z vsemi dosedanjimi strankami, ki so se izrekle za ujedinjenje. Baviti se je
                z zadevo posameznim organizacijam in sliši naj se vsestransko javno mnenje o tem
                predlogu.</p>
             <p xml:id="No.73.PPP.8">O obliki in izvršitvi naj pa s končnim predlogom stopi pred
-               javnost Jugoslovanski klub, ki si je pridobil s svojim parlamentarnim delom splošno
+               javnost <orgName>Jugoslovanski klub</orgName>, ki si je pridobil s svojim parlamentarnim delom splošno
                zaupanje in ki samo enotno stranko najnujneje potrebuje.</p>
             <closer>Dr. <persName>V. K.</persName></closer>
          </div>

@@ -87,6 +87,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -95,8 +100,8 @@
             <gap reason="irrelevant"/>
             <div xml:id="No.87.PPP.1">
                <head n="I.">Načelna izjava</head>
-               <p>Avstrijska socijalno-demokratična delavska stranka<note place="foot"
-                     source="#SourceBornDigital">Jugoslovanska socialnodemokratska stranka.</note>
+               <p><orgName>Avstrijska socijalno-demokratična delavska stranka</orgName><note place="foot"
+                     source="#SourceBornDigital"><orgName>Jugoslovanska socialnodemokratska stranka</orgName>.</note>
                   hoče vse ljudstvo, ne glede na narodnost, pleme in spol rešiti iz okov ekonomične
                   odvisnosti, odstraniti hoče politično brezpravnost in skrbeti za povzdigo <hi
                      rend="italic">duševne omike</hi>. – Vzroka temu sramotnemu stanju ni iskati v
@@ -124,7 +129,7 @@
                   pravni zavesti ljudstva, da izpelje ta program. Sicer se bode in se mora stranka v
                   svojem postopanji ravnati včasih tudi po okoliščinah, posebno pa po postopanji
                   svojih nasprotnikov. Izrekajo pa se v obče naslednji temeljni stavki:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="1.">Socialno-demokratična delavska stranka na
                         <placeName>Avstrijskem</placeName><note place="foot"
                         source="#SourceBornDigital">Na <placeName>Slovenskem</placeName>.</note> je
@@ -156,13 +161,13 @@
                      vere za zasebno zadevo.</item>
                   <item n="6.">Vzrok neprestane vojne nevarnosti je stalno vojaštvo, čegar vedno
                      naraščajoče breme odtujuje ljudstvo njegovej kulturni nalogi.</item>
-                  <item n="7.">Socijalno-demokratična delavska stranka zavzela bode svoje stališče
+                  <item n="7."><orgName>Socijalno-demokratična delavska stranka</orgName> zavzela bode svoje stališče
                      nasproti vsem važnim političnim in ekonomičnim vprašanjem, zastopala bode
                      vsigdar koristi proletarijata in odločno nastopila proti vsakemu zakrivanju in
                      tajenju stanovskih nasprotstev, kakor tudi proti izkoriščanju delavcev na
                      korist gospodujočih strank.</item>
                   <item n="8."><note place="foot" source="#SourceBornDigital">Točka 8. je dopolnitev
-                        III. zbora ASDS.</note> Ker indirektni davki, ki so naloženi na prepotrebne
+                        III. zbora <orgName>ASDS</orgName>.</note> Ker indirektni davki, ki so naloženi na prepotrebne
                      življenske potrebščine, ljudstvo tembolj obtežujejo, čim revnejše je, ker so
                      sredstvo za izkoriščanje in premotenje delavnega ljudstva, zahtevamo, da se vsi
                      indirektni davki odstranijo in se vpelje samo jeden, direkten, naraščajoč<note
@@ -210,7 +215,7 @@
             <div xml:id="No.87.PPP.3">
                <head n="III.">Resolucija o zakonodajstvu v varstvo delavcev in socijalna
                      reforma<note place="foot" source="#SourceBornDigital">Dodatek <q>in socialna
-                        reforma</q> je dopolnilo III. zbora ASDS.</note></head>
+                        reforma</q> je dopolnilo III. zbora <orgName>ASDS</orgName>.</note></head>
                <p>To kar se dandanes pred vsem imenuje socijalna reforma, – da je namreč država
                   vpeljala in organizirala zavarovanje delavcev proti bolezni in nezgodi, izvira
                   pred vsem iz strahu pred naraščajočim gibanjem proletarjata, v upanji delavce
@@ -222,17 +227,17 @@
                   morebiti odstraniti samostojne delavske pomočne organizacije, ki so gospodujočim
                   kot šole in vadnice organizacije in uprave trn v peti. Gledé na te razmere
                   izjavlja shod:<note place="foot" source="#SourceBornDigital">Odstavek je dopolnilo
-                     III. zbora ASDS.</note></p>
+                     III. zbora <orgName>ASDS</orgName>.</note></p>
                <p>Delavsko zavarovanje se sploh ne dotika jedra socijalnega problema. Naprava, ki v
                   najboljšem slučaju za delo nezmožnemu proletarcu daje malenkostno miloščino,
                   katero je sam drago plačal, ne zasluži imena <soCalled>socijalna
                      reforma</soCalled>.<note place="foot" source="#SourceBornDigital">Odstavek je
-                     dopolnilo III. zbora ASDS.</note></p>
+                     dopolnilo III. zbora <orgName>ASDS</orgName>.</note></p>
                <p>Delavstvo se v tem ne bode dalo premotiti, temveč razširjalo bode jasno spoznanje,
                   da mora imeti prava socijalna reforma za delo zmožnega delavca za predmet in da je
                   njen zadnji cilj odstraniti izkoriščanja, da pa seveda izkoriščevalci nikdar ne
                   bodo izvedli te reforme, temveč samo izkoriščani delavci.<note place="foot"
-                     source="#SourceBornDigital">Odstavek je dopolnilo III. zbora ASDS.</note></p>
+                     source="#SourceBornDigital">Odstavek je dopolnilo III. zbora <orgName>ASDS</orgName>.</note></p>
                <p>Dokler trpi<note place="foot" source="#SourceBornDigital">Vlada.</note>
                   kapitalistični način produkcije, mogoče je le deloma omejiti posledice
                   izkoriščanja s poštenim in ne pomanjkljivim zakonodajstvom v varstvo delavcev, ki
@@ -250,7 +255,7 @@
                   njih sredstva nezadostna in skrajno omejena v svojih pravicah.</p>
                <p>Zakonodajstvo v varstvo delavcev, ako hoče svoj smoter doseči, mora najmanj
                   obsegati:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="1.">Popolno koalicijsko svobodo in postavno priznano pravico, da se
                      dogovore o plači in kartelih.</item>
                   <item n="2.">Osemurni delavnik brez opomb<note place="foot"

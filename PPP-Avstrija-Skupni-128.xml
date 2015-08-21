@@ -69,13 +69,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.128.PPP.1">S pritrditvijo deželnega zbora Svoje vojvodine
-                  <placeName>Kranjske</placeName> ukazujem tako:</p>
+            <p xml:id="No.128.PPP.1">S pritrditvijo <orgName>deželnega zbora Svoje vojvodine
+                  <placeName>Kranjske</placeName></orgName> ukazujem tako:</p>
             <div xml:id="No.128.PPP.2">
                <head>Člen I.</head>
                <p>Spreminjaje in dopolnjevaje deželni red za vojvodino
@@ -83,14 +88,14 @@
                      when="1861-02-26">26. februarja 1861</date>. l. drž. zak. št. 20, stopijo
                   namesto spodaj oznamenjenih paragrafov deželnega reda, oziroma kot ustavki k
                   posameznim paragrafom nastopna določila:</p>
-               <list type="simple">
+               <list rend="simple">
                   <label>§ 3.</label>
                   <item>
                      <p>Deželni zbor obstoji iz petdesetih članov, namreč:</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="a)">Knezoškofa ljubljanskega; </item>
                         <item n="b)">z devetinštirideset izvoljenih poslancev in sicer:<list
-                              type="ordered">
+                              rend="numbered">
                               <item n="I.">deset poslancev velikega posestva,</item>
                               <item n="II.">dvanajst poslancev mest in trgov navedenih v volilnem
                                  redu ter trgovske in obrtne zbornice,</item>
@@ -102,7 +107,7 @@
                   <label>§ 11.</label>
                   <item>
                      <p>Deželni odbor, ki je upravni in izvrševalni organ deželnega zastopa, obstoji
-                        pod predsedstvom deželnega glavarja iz petero iz srede deželnega zbora
+                        pod predsedstvom deželnega glavarja iz petero iz srede <orgName>deželnega zbora</orgName>
                         izvoljenih prisednikov.</p>
                      <p>Deželni glavar imenuje za slučaj zadržka namestnika za vodstvo deželnega
                         odbora iz njegove sredine.</p>
@@ -113,7 +118,7 @@
                         I.), enega poslanci mest in trgov ter trgovske in obrtne zbornice (§ 3.,
                         II.), enega poslanci kmetskih občin (§ 3., III.), enega poslanci splošnega
                         volilskega razreda (§ 3. IV.), ter enega vsi zbrani deželni poslanci iz
-                        srede deželnega zbora.</p>
+                        srede <orgName>deželnega zbora</orgName>.</p>
                      <p>Vsaka taka volitev se izvrši z nadpolovično večino glasujočih.</p>
                      <p>Če se pri prvi in pri ponovljeni volitvi ne doseže nadpolovična večina, se
                         ima vršiti ožja volitev med tistima dvema osebama, kateri ste pri drugi
@@ -128,24 +133,24 @@
                         trgov ter trgovske in obrtne zbornice (§ 3., II.), potem poslanci volilskega
                         razreda kmetskih občin (§ 3., III.) in poslanci splošnega volilskega razreda
                         (§ 3., IV.) po enega odsekovega člana, vsi zbrani poslanci pa ostale
-                        odsekove člane iz srede deželnega zbora.</p>
+                        odsekove člane iz srede <orgName>deželnega zbora</orgName>.</p>
                      <p>Za posamezne nove volitve veljaj volilni način, po katerem se je bil volil
                         odsekov član, čegar mesto se ima izpolniti.</p>
                   </item>
                   <label>§ 33.</label>
                   <item>
-                     <p>Vsled pravilnega sklicanja zbrani deželni zbor ima v svoj delokrog spadajoče
+                     <p>Vsled pravilnega sklicanja zbrani <orgName>deželni zbor</orgName> ima v svoj delokrog spadajoče
                         zadeve razpravljati in reševati v sejah.</p>
                      <p>Razpravna jezika deželnega zbora in njegovih odsekov sta oba deželna
                         jezika.</p>
                      <p>Deželni glavar odreja, otvarja in zaključuje seje.</p>
                      <p>Prvosednik je dolžan skrbeti za vzdržavanje miru in reda med posvetovanji
-                        deželnega zbora in za to, da se varuje parlamentarna dostojnost. Motenje
+                        <orgName>deželnega zbora</orgName> in za to, da se varuje parlamentarna dostojnost. Motenje
                         razprav deželnega zbora in pregreške njegovih članov proti parlamentarni
                         dostojnosti kaznuje prvosednik s klicem <q>k redu</q>.</p>
-                     <p>Ako eden ali več članov deželnega zbora hudo moti mir, se težko pregreši
-                        zoper parlamentarni red ali kruto žali deželni zbor ali prvosednika, smejo
-                        se dotični člani na dobo največ treh sej izključiti iz deželnega zbora.</p>
+                     <p>Ako eden ali več članov <orgName>deželnega zbora</orgName> hudo moti mir, se težko pregreši
+                        zoper parlamentarni red ali kruto žali <orgName>deželni zbor</orgName> ali prvosednika, smejo
+                        se dotični člani na dobo največ treh sej izključiti iz <orgName>deželnega zbora</orgName>.</p>
                      <p>Ako misli prvosednik, da je dan povod za izključenje kakega člana, ima
                         sklicati disciplinarni odsek ter, če treba, prekiniti deželnozborsko
                         sejo.</p>
@@ -160,18 +165,18 @@
                         članov; predseduje odseku po letih najstarejši izmed navzočih članov. O
                         izključenju in o dobi izključenja sklepa odsek v tajni seji z večino glasov.
                         Svoji razsodbi mora pridejati disciplinarni odsek razloge.</p>
-                     <p>Sklep disciplinarnega odseka ima predsednik deželnega zbora takoj v deželnem
-                        zboru razglasiti.</p>
+                     <p>Sklep disciplinarnega odseka ima predsednik deželnega zbora takoj v <orgName>deželnem
+                        zboru</orgName> razglasiti.</p>
                      <p>Ako se glasi sklep disciplinarnega odseka na izključenje, pozove prvosednik
                         dotičnega poslanca, da zapusti dvorano.</p>
                      <p>Priziv zoper ta sklep na deželni zbor je nedopusten.</p>
                      <p>Izključeni člani ne dobivajo za dobo izključenja nobenih dnevščin.</p>
-                     <p>Ako se deželni zbor odloži ali sklene, se konča veljavnost izključenja.</p>
+                     <p>Ako se <orgName>deželni zbor</orgName> odloži ali sklene, se konča veljavnost izključenja.</p>
                   </item>
                   <label>§ 34.</label>
                   <item>
                      <p>Deželnozborske seje so javne.</p>
-                     <p>Ako poslušalci motijo razprave deželnega zbora, je po naročilu prvosednika
+                     <p>Ako poslušalci motijo razprave <orgName>deželnega zbora</orgName>, je po naročilu prvosednika
                         odstraniti nepokojnike, eventuelno izprazniti galerije.</p>
                      <p>Izjemoma se more napraviti tajna seja, če to želi prvosednik ali vsaj petero
                         članov, in če se po odstranjenju poslušalcev za to odloči deželni zbor.</p>

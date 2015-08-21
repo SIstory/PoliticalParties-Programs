@@ -52,12 +52,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <gap reason="irrelevant"/>
          <div xml:id="No.93.PPP">
-            <p>Jugoslovanska socialno demokratična stranka je zastopnica delavskega ljudstva, ki
+            <p><orgName>Jugoslovanska socialno demokratična stranka</orgName> je zastopnica delavskega ljudstva, ki
                tvori nje jedro in moč. Zategadelj mora biti vsa notranja organizacija in taktika
                oprta na delavsko ljudstvo. Stranka pa je tudi realna in splošno politična. Stoji na
                stališču razrednega boja. S tem poudarja, da je delavstvo oni faktor, po kojem se
@@ -65,7 +70,7 @@
                stanovi.</p>
             <p>V lastnem političnem, strokovnem in gospodarskem oziru pa zahteva delavstvo polno
                samoodločevanje.</p>
-            <p>Jugoslovanska socialno demokratična stranka dosledno povdarja svoje internacionalno
+            <p><orgName>Jugoslovanska socialno demokratična stranka</orgName> dosledno povdarja svoje internacionalno
                stališče, zato tudi obžaluje, da se je avstrijska internacionala opustila v veliko
                škodo proletarijata vseh narodov v državi. Pozivlja eksekutivo, da stori brez odloga
                energične korake, da se vspostavi zopet internacionala na podlagi polnega

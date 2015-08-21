@@ -48,15 +48,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
             <opener xml:id="No.18.PPP.1">Njega Veličanstvu cesarju <persName>Karlu Prvemu</persName>
                na <placeName>Dunaju</placeName>.</opener>
-            <p xml:id="No.18.PPP.2">Zbor zaupnikov Slovenske Ljudske Stranke, najmočnejše politične
+            <p xml:id="No.18.PPP.2">Zbor zaupnikov <orgName>Slovenske Ljudske Stranke</orgName>, najmočnejše politične
                organizacije na <placeName>Kranjskem</placeName>, zbran dne <date when="1917-12-27"
                   >27. decembra</date> v <placeName>Ljubljani</placeName> prvikrat, odkar je Vaše
                Visočanstvo zasedlo slavni habsburški prestol, izraža Vašemu Veličanstvu in prejasni
@@ -69,7 +74,7 @@
                kot katoliška stranka tudi s hvaležnostjo in zadoščenjem pozdravljamo Vašega
                Veličanstva iz spoštovanja do prave človeške časti izvirajočo vitežko odločbo zoper
                dvoboj.</p>
-            <closer>V globoki spoštljivosti<lb/> Za. zbor zaupnikov<lb/> S. L. S. prelat
+            <closer>V globoki spoštljivosti<lb/> Za. zbor zaupnikov<lb/> <orgName>S. L. S.</orgName> prelat
                   <persName>Kalan</persName>.</closer>
             <gap reason="irrelevant"/>
          </div>

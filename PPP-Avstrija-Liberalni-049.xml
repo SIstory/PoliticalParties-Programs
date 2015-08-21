@@ -47,13 +47,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head><q>Slovenskega društva</q> III. javni društveni shod</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.49.PPP"><q>Slovenskega društva</q> odbor obrne naj se do svojih poverjenikov s pozivom, da
+            <p xml:id="No.49.PPP"><q><orgName>Slovenskega društva</orgName></q> odbor obrne naj se do svojih poverjenikov s pozivom, da
                mu naznanijo vse take slučaje, ko se kršijo jezikovni ukazi in naj potem
                skrbi za pota in sredstva, da se tem nedostatkom odpomore.</p>
             <gap reason="irrelevant"/>

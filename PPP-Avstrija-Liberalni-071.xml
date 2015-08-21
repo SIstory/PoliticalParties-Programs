@@ -42,6 +42,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+     <revisionDesc>
+        <change>
+           <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+        </change>
+     </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -143,7 +148,7 @@
                od uradov, ki sami sestavljajo nemške vloge na urade, ki se boje vsake zamere pri
                vladi – kaj hočete zahtevati od teh ljudi? In baš ti ljudje zahtevajo od naših občin,
                da naj store to, česar oni ne store. Slovenci! Ne naše narodno vodstvo, ampak
-               priprosta občina <placeName>Kokarje</placeName> v Savinjski dolini nam je priborila
+               priprosta občina <placeName>Kokarje</placeName> v <geogName>Savinjski dolini</geogName> nam je priborila
                jezikovne pravice, kolikor jih dosedaj sploh imamo. Dosledno je zavračala vsak nemški
                dopis od vseh uradov. Ni se strašila groženj, ne kazni, – in glejte, ta občina je
                dosegla, da ji dopisujejo državni uradi, da ji dopisujejo <hi rend="italic">vojaški
@@ -416,7 +421,7 @@
                   <hi rend="italic">slovenski trgovec</hi> in <hi rend="italic">slovenski
                   obrtnik</hi>. V obrambo male obrti zahtevamo od zakonodaje, da ji osigura obstanek
                poleg velike obrti, industrije. Strokovna obrtna organizacija, kakor je
-                  <q>Občeslovensko obrtno društvo v <placeName>Celju</placeName></q>, o katerem
+                  <q><orgName>Občeslovensko obrtno društvo v <placeName>Celju</placeName></orgName></q>, o katerem
                želimo, da začne s pozitivnim uspešnim delom, bo zdatno zvišala odporno silo
                slovenskega obrtništva. V tem oziru z veseljem pozdravljamo odločni napredek
                slovenskega obrtništva v <placeName>Šoštanju</placeName>, ki si je samostojno uredilo
@@ -434,7 +439,7 @@
                   <placeName>Rogatec</placeName> – <placeName>Brežice</placeName> ali
                   <placeName>Mestinje</placeName> – <placeName>Brežice</placeName> in
                   <placeName>Konjice</placeName> – <placeName>Velenje</placeName> ter zvezo
-               Savinjske doline s <placeName>Kranjsko</placeName>. Zahtevamo podržavljenje vseh
+               <geogName>Savinjske doline</geogName> s <placeName>Kranjsko</placeName>. Zahtevamo podržavljenje vseh
                železnic, posebej južne železnice, ki vozi skozi naše kraje. V korist kmetijskega
                proizvajanja, v korist trgovstvu in obrti pa zahtevamo obenem izjednačenje tarifov
                (cen) na železnicah za prevažanje blaga.</p>
@@ -546,10 +551,10 @@
                ljudskih, ampak vseh, ker je baš telovadba, <hi rend="italic">razumna</hi> telovadba
                pogoj telesne čilosti in svežosti. Tudi ko mladenič in deklica izstopita iz šole, se
                ne sme pustiti telovadba na stran. V tem oziru smo odkriti in odločni prijatelji in
-               zagovorniki <hi rend="italic">slovenskega Sokolstva</hi>, ki ima kot glavno načelo
+               zagovorniki <hi rend="italic"><orgName>slovenskega Sokolstva</orgName></hi>, ki ima kot glavno načelo
                   <hi rend="italic">jačenje telesa</hi>, gibčnost telesa, <hi rend="italic">ker to
                   je pogoj zdravega duševnega razvoja</hi>. Z veseljem bomo zasledovali in podpirali
-               v term zmislu delovanje slovenskega Sokolstva, ker nam je baš ono jamstvo, da si
+               v term zmislu delovanje <orgName>slovenskega Sokolstva</orgName>, ker nam je baš ono jamstvo, da si
                izgojimo krepek zarod, sposoben za čim višjo vsestransko izobrazbo.</p>
             <p xml:id="No.71.PPP.46">Duševno vzgojo pa ima človeku dati rodbina, šola, javnost,
                umetnost in književnost, gospodarski, politični in socijalni odnošaji. Šolska vzgoja
@@ -668,7 +673,7 @@
                oddelek. Z ozirom na to, da Slovenci smo prosvitljen narod in da hočemo kot tak biti
                ravnopravni z vsemi drugimi narodi, z ozirom dalje na to, da hočemo naše sinove kot
                uradnike, profesorje itd. imeti vzgojene v slovenskem duhu, zahtevamo odločno <hi
-                  rend="italic">slovensko vseučilišče v Ljubljani</hi>.</p>
+                  rend="italic">slovensko vseučilišče v <placeName>Ljubljani</placeName></hi>.</p>
             <p xml:id="No.71.PPP.59">Želimo tudi, da se naše ženstvo vzgaja v dobre, nravne žene, v
                razumne gospodinje; zahtevamo zato <hi rend="italic">slovenske gospodinjske šole</hi>
                ter za prvo vsaj gospodinjske tečaje, v katerih se bo naša ženska mladina privadila
@@ -715,7 +720,7 @@
                časih slovenskih taborov v letih sedemdesetih.</p>
             <p xml:id="No.71.PPP.66">Vsi zedinjeni Slovenci s svojo narodno samoupravo bi odločevali
                o vseh svojih gospodarskih, prosvetnih in političnih potrebah samostojno s svojim <hi
-                  rend="italic">narodnim, ljudskim zborom ali parlamentom v Ljubljani</hi>.
+                  rend="italic">narodnim, ljudskim zborom ali parlamentom v <placeName>Ljubljani</placeName></hi>.
                Zahtevamo, da se na enaki način zrušijo vse dosedanje kronovine ali dežele in da se
                vsi narodi združijo v narodnostne skupine ali celote ter vsaka taka narodna skupina
                za sebe odločuje o svojih narodnih zadevah. Le o vprašanjih, ki zadevajo celo državo,
@@ -789,7 +794,7 @@
                svobodo, ki zastopa načela vsestranske narodne svobode in vsestranske izomike. To pa
                naši odpadniki in naši narodni nasprotniki niso, in zato jih zaničujemo kot
                najostudnejše nazadnjake.</p>
-            <quote xml:id="No.71.PPP.75"><hi rend="italic">Slovenci zelene Štajerske!</hi></quote>
+            <quote xml:id="No.71.PPP.75"><hi rend="italic">Slovenci zelene <placeName>Štajerske</placeName>!</hi></quote>
             <p xml:id="No.71.PPP.76">Po teh načelih hočemo delati kot stranka in hočemo pisati naš
                časopis. Ne gre se nam za to, da bi naš narod dobil nove poslance, nove župane itd.,
                   <hi rend="italic">gre se nam za to, da v naši politiki na znotraj in na zunaj

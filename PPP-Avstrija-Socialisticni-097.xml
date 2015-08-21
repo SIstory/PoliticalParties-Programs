@@ -52,6 +52,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -65,7 +70,7 @@
                   <persName>Bugšek</persName>, <persName>Ferfolja</persName> in
                   <persName>Raušer</persName>. Za zapisnikarje pa sodrugi
                   <persName>Petejan</persName> in <persName>Kavrič</persName>. Govorili so k
-               dnevnemu redu: <q>Stališče jugoslovanskih socialističnih strank napram aktuelnim
+               dnevnemu redu: <q>Stališče <orgName>jugoslovanskih socialističnih strank</orgName> napram aktuelnim
                   narodnim vprašanjem</q> sodrugi <persName>Bugšek</persName>, <persName>A.
                   Kristan</persName>, <persName>Jakšič</persName>, <persName>Korač</persName>,
                   <persName>Regent</persName>, <persName>Gaspari</persName>,
@@ -93,19 +98,19 @@
                <p>Konferenca smatra, da je z ozirom na zgodovinsko dobo, v koji se nahajamo, tako v
                   interesu jugoslov. proletarijata kakor tudi v interesu nujne rešitve jugoslov.
                   vprašanja, da stranka sodeluje v <choice>
-                     <abbr>N. S.</abbr>
-                     <expan>Narodnih Svetih</expan>
+                     <abbr><orgName>N. S.</orgName></abbr>
+                     <expan><orgName>Narodnih Svetih</orgName></expan>
                   </choice> oz. v <choice>
-                     <abbr>N. O.</abbr>
-                     <expan>Narodnem Odboru</expan>
-                  </choice><note place="foot" source="#SourceBornDigital">Mišljeno je Narodno Vijeće
-                     Slovencev, Hrvatov in Srbov, ustanovljeno na sestanku odposlancev Slovencev,
+                     <abbr><orgName>N. O.</orgName></abbr>
+                     <expan><orgName>Narodnem Odboru</orgName></expan>
+                  </choice><note place="foot" source="#SourceBornDigital">Mišljeno je <orgName>Narodno Vijeće
+                     Slovencev, Hrvatov in Srbov</orgName>, ustanovljeno na sestanku odposlancev Slovencev,
                      Hrvatov in Srbov iz <placeName>habsburške monarhije</placeName>
                      <date from="1918-10-05" to="1918-10-06">5. in 6. 10. 1918</date> v
                         <placeName>Zagrebu</placeName>.</note> skupno z ostalimi strankami v narodu
                   S. H. S. v vseh točkah, ki ne nasprotujejo našim socialističnim načelom. Vsled
                   tega konferenca izjavlja, da jugoslovanske soc. dem. stranke stopijo v posamezne
-                  Narodne Svete oziroma v osrednji Narodni Odbor ter tam uveljavljajo svoja
+                  <orgName>Narodne Svete</orgName> oziroma v osrednji Narodni Odbor ter tam uveljavljajo svoja
                   socialistična načela, ki se tičejo rešitve narodnih, političnih, gospodarskih in
                   kulturnih vprašanj ter da v potrebi odločno nastopijo proti vsemu onemu, kar bi
                   našim načelom nasprotovalo.</p>

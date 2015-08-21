@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -63,11 +68,11 @@
             <opener>(Glas iz <placeName>Štajerske</placeName>.)<lb/>V <placeName>Celju</placeName>,
                   <date when="1912-10-22">22. oktobra</date></opener>
             <p xml:id="No.72.PPP.1">Vprašal sem različne svoje prijatelje, ki se ukvarjajo veliko s
-               politiko, kaj sodijo o bratenju Vseslovenske ljudske stranke s hrvaško Stranko
-                  prava?<note source="#SourceBornDigital">Glej dok. št. 41 in dok. št. 42.</note>
+               politiko, kaj sodijo o bratenju <orgName>Vseslovenske ljudske stranke</orgName> s hrvaško <orgName>Stranko
+                  prava</orgName>?<note source="#SourceBornDigital">Glej dok. št. 41 in dok. št. 42.</note>
                Večina je skomizgnila z rameni, drugi so me opozorili na v <q>Slovencu</q> objavljen
                   <persName>Šusteršičev</persName> govor na nedeljskem <q>hrvaško-slovenskem
-                  saboru</q> v Ljubljani: <q>Varovati se moramo in hočemo nesmiselnega in neplodnega
+                  saboru</q> v <placeName>Ljubljani</placeName>: <q>Varovati se moramo in hočemo nesmiselnega in neplodnega
                   frazerstva in kričaštva, ki ljubi pozo radikalno-narodnega junaštva, v resnici pa
                   je preračunjeno komedijanstvo …</q> In dostavili so moji prijatelji: S tem je
                   <persName>Šusteršič</persName> sam najbolje ocenil najprej <q>navdušeno</q>
@@ -80,7 +85,7 @@
                vsak dan pri klerikalcih. Tem postaja ravno Slovenska<note
                   source="#SourceBornDigital">Slovenija.</note> premajhna za aspiracije njih
                dunajskih in rimskih komandantov ter domačih, slovensko govorečih voditeljev.
-               Poskusili so že svoj čas s hrvaško kmečko stranko. Saj nam je še živo v spominu, kako
+               Poskusili so že svoj čas s <orgName>hrvaško kmečko stranko</orgName>. Saj nam je še živo v spominu, kako
                navdušeno so pozdravljali <persName>Šusteršič</persName>, <persName>Krek</persName>
                in sploh vsi aranžerji sedanjega <q>prvega hrvaško-slovenskega sabora</q> v
                   <placeName>Ljubljani</placeName>
@@ -88,15 +93,15 @@
                bilo nič, morda bodo imeli slovenski klerikalci več sreče z <persName>Mile
                   Starčevićem</persName>. Upamo samo, da ne bo treba zopet financirati kake v
                dolgove zakopane zagrebške tiskarne in da bo dr. <persName>Šusteršič</persName> v
-               boju za državnopravni program Stranke prava vsaj tako vstrajen, kakor za bosanske
+               boju za državnopravni program <orgName>Stranke prava</orgName> vsaj tako vstrajen, kakor za bosanske
                kmetiče v delegacijah. Edino dobro je, da so naši slovenski klerikalni volilci tako
                konservativne, potrpežljive in malo misleče duše: kajti njihovi voditelji in stranke
-               menjujejo hitreje imena ko suknje. Katoliško-narodna, slovenska ljudska, vseslovenska
-               ljudska stranka, to je šlo naglo drugo za drugim. Menda ne ostanejo dolgo tudi
+               menjujejo hitreje imena ko suknje. <orgName>Katoliško-narodna, slovenska ljudska, vseslovenska
+               ljudska stranka</orgName>, to je šlo naglo drugo za drugim. Menda ne ostanejo dolgo tudi
                planinski Hrvatje …</p>
             <p xml:id="No.72.PPP.3">Ali se splača tu na novo konstatirati strahovito praznoto vseh
                govorov na tem <q>prvem hrvaško-slovenskem saboru</q> v
-                  <placeName>Ljubljani</placeName>? Človek bi mislil, da je kje ob Sotli v prijazni
+                  <placeName>Ljubljani</placeName>? Človek bi mislil, da je kje ob <geogName>Sotli</geogName> v prijazni
                vinski kleti med veselimi vinskimi brati, ki ob čaši vinca rujnega slave pobratimi je
                – da jih drugi dan, ko se s težko glavo vzbude, do dobrega pozabijo in gredo za
                svojimi, včasi prav neveselimi praktičnimi posli. <hi rend="italic">Na takih
@@ -115,7 +120,7 @@
                   <persName>Šusteršičevo</persName> zatrjevanje, da on in njegova stranka ne bode
                navzlic vsemu vseslovenstvu, pravaštvu in hrvaštvu <hi rend="italic">zapiral oči pred
                   realnimi dejstvi</hi> … Če bode torej realna politika zahtevala kaj drugega ko
-               držati se svete prisege na državnopravni program Stranke prava, pa se bode iz
+               držati se svete prisege na državnopravni program <orgName>Stranke prava</orgName>, pa se bode iz
                planinskega Hrvata dr. <persName>Šusteršiča</persName> čudovito naglo pokazal
                najtrdnejši pristaš nedeljene <placeName>Cis- in Translitvanije</placeName>, robat
                kmet, ki mu je agrarni program vse in ki žvižga na vse hrvaško, koncilijanten
@@ -134,13 +139,13 @@
                upoštevajo drugače kakor da se iz njih norca delajo. Tudi na <q>prvem
                   hrvaško-slovenskem saboru</q> v <placeName>Ljubljani</placeName> se je vendar
                zdelo aranžerjem potrebno potolažiti štajerske in koroške Slovence s prazno grožnjo
-               centralnega vodstva Vseslovenske ljudske stranke …</p>
+               centralnega vodstva <orgName>Vseslovenske ljudske stranke</orgName> …</p>
             <p xml:id="No.72.PPP.5">Slovenski klerikalci niso doslej ničesar teoretičnega in
                praktičnega storili za uresničenje našega najvišjega političnega cilja, združenja
                vseh slovenskih dežel, dasi je od tega v veliki meri odvisen naš narodni obstanek in
                je to politično geslo popularno vsaj v izobraženih krogih našega naroda. <hi
-                  rend="bold">Že to kaže, da bodo še manj storili za državnopravne cilje Stranke
-                  prava, ki jih pri nas le malo ljudi pozna in ki bi jih široke vrste našega
+                  rend="bold">Že to kaže, da bodo še manj storili za državnopravne cilje <orgName>Stranke
+                  prava</orgName>, ki jih pri nas le malo ljudi pozna in ki bi jih široke vrste našega
                   ljudstva, ko bi bile o njih poučene, direktno odklonile</hi>. Treba je to jasno
                povedati in se ne loviti za kakimi fantomi. To je v interesu hrvaškega naroda.</p>
          </div>

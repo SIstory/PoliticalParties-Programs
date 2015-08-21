@@ -49,6 +49,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -59,8 +64,8 @@
                   <placeName>Dunaj</placeName>, <date when="1912-10-10">10. oktobra</date>
                </dateline>
             </opener>
-            <p>Včeraj in danes se je novoustanovljena <q>Hrvaško-slovenska narodna zveza</q> v
-               prostorih državnozborskega <q>Hrvaško-slovenskega kluba</q> posvetovala. Posvetovanja
+            <p>Včeraj in danes se je novoustanovljena <q><orgName>Hrvaško-slovenska narodna zveza</orgName></q> v
+               prostorih državnozborskega <q><orgName>Hrvaško-slovenskega kluba</orgName></q> posvetovala. Posvetovanja
                so se danes popoldne končala. Soglasno se je, kakor poroča <q>Hrvaška
                   korespondenca</q>, sklenil sledeči komunike:</p>
             <p xml:id="No.40.PPP.1">Danes so se končala posvetovanja hrvaško-slovenskega
@@ -70,13 +75,13 @@
                   Akačič</persName> in dr. <persName>Janko Brejc</persName>. Sklenilo se je, da
                   <date when="1912-10-20">20. oktobra</date> zborujejo v
                   <placeName>Ljubljani</placeName> vsi državni in deželni poslanci obeh združenih
-               strank. Pred tem shodom zborujeta vodstvi hrvaške stranke prava in Vseslovenske
-               Ljudske Stranke v <placeName>Ljubljani</placeName>, na katerih zborih se ratificirajo
+               strank. Pred tem shodom zborujeta vodstvi <orgName>hrvaške stranke prava</orgName> in <orgName>Vseslovenske
+               Ljudske Stranke</orgName> v <placeName>Ljubljani</placeName>, na katerih zborih se ratificirajo
                v <placeName>Opatiji</placeName> in na <placeName>Dunaju</placeName> sklenjeni
                sklepi.</p>
             <p xml:id="No.40.PPP.2">Ko se je razmotrival politični položaj, se je soglasno zavzelo
                stališče, <hi rend="bold">da monarhija svojih dolžnosti nasproti Hrvatom in
-                  Slovencem, ki se svojega pomena za velemoč monarhije glede na Adrijo in na <placeName>Balkan</placeName>
+                  Slovencem, ki se svojega pomena za velemoč monarhije glede na <geogName>Adrijo</geogName> in na <placeName>Balkan</placeName>
                   zavedajo, ni izpolnjevala in da je tozadevno potrebna temeljita
                izprememba</hi>.</p>
             <p xml:id="No.40.PPP.3">Posvetovanj so se udeležili za hrvaško stranko prava predsednik

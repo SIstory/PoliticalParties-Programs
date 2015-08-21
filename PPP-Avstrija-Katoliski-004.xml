@@ -48,20 +48,25 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodan orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Šesti shod katol. polit. društva.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.4.PPP.1">Šesti shod <q>Katol. polit. društva</q> v <placeName>Ljubljani</placeName> izjavlja prepričanje, da je za
+            <p xml:id="No.4.PPP.1">Šesti shod <q><orgName>Katol. polit. društva</orgName></q> v <placeName>Ljubljani</placeName> izjavlja prepričanje, da je za
                slovenski ženski naraščaj potrebna višja izobražba na versko-narodni podlagi;</p>
             <p xml:id="No.4.PPP.2">vendar pa smatra, da bi bila ustanovitev novega višjega dekliškega izobraževališča v
                <placeName>Ljubljani</placeName> pri sedanjih finančnih razmerah <placeName>dežele kranjske</placeName> in vzlasti <placeName>mesta
                ljubljanskega</placeName> neizpeljiva, iz krščansko-pedagogičnih ozirov pa neumestna;</p>
-            <p xml:id="No.4.PPP.3">zato pozdravlja z veseljem otvoritev višje slovenske gospodinjske šole pri uršulinkah
+            <p xml:id="No.4.PPP.3">zato pozdravlja z veseljem otvoritev višje slovenske gospodinjske šole pri <orgName>uršulinkah</orgName>
                v <placeName>Ljubljani</placeName> kot primeren začetek za višje izobraževanje slovenske ženske mladine;</p>
-            <p xml:id="No.4.PPP.4">slednjič izraža željo, da slavni deželni odbor vsprejme od uršulinskega reda ponudeno
+            <p xml:id="No.4.PPP.4">slednjič izraža željo, da slavni deželni odbor vsprejme od <orgName>uršulinskega reda</orgName> ponudeno
                mu nadzorstvo nad slednjim zavodom brez prikratbe nadzorovalne pravice državne šolske
                oblasti.</p>
             <gap reason="irrelevant"/>

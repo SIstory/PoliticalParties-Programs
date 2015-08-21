@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -62,7 +67,7 @@
                kmalu ne vrnejo in katere je treba dobro izkoristiti. Notranje razmere v
                   <placeName>habsburškem cesarstvu</placeName> in mednarodni položaj vobče takorekoč
                narekujeta južnim Slovanom habsburške monarhije približno taki-le program:</p>
-            <list type="ordered">
+            <list rend="numbered">
                <item n="1.">Iz ozemlja, katero naj tvorijo del <placeName>Koroške</placeName>,
                      <placeName>Štajerske</placeName> in <placeName>Ogrske</placeName>,
                      <placeName>Kranjska</placeName>, <placeName>Goriška</placeName>,
@@ -76,22 +81,22 @@
                   prirodnega prava <placeName>jugoslovansko kraljestvo</placeName> v okvirju
                      <placeName>habsburške monarhije</placeName>. Meja tega kraljestva mora iti od
                      <placeName>Eishaara</placeName> ob laški meji na
-                     <placeName>Koroškem</placeName> po gorskem grebenu k izlivu Valentinskega
-                  potoka v Ziljo, čez Kotje v Ziljski dolini po gorskem grebenu, čez Belo jezero, po
-                  gorskem grebenu čez Kammering ob Dravi, po gorskem grebenu čez Koberco, dalje čez
-                  Arje, po gorskem grebenu čez Oberboden, po strugi Tiebelbachu do izliva v Glino,
-                  po strugi Gline do izliva Vimičkega potoka, po Beli steni čez Plešivec, Svinec ob
-                  Goršici, po gorskem grebenu čez Speikkogel dalje do Šmarnega v Labodski dolini, po
-                  gorskem grebenu čez Koralpo na <placeName>Štajersko</placeName> k virom Bela
-                  Sulme, po strugi Sulme do izliva v Muro, po strugi Mure do izliva Perkovega
-                  mlinskega potoka, čez Farovce k izlivu Pöltenbacha v Kučenico, po strugi Kučenice
-                  čez Stergagorje v dolino Dojberskega potoka do izliva v Rabo, po strugi Rabe do
-                  izliva Lugoškega potoka čez Ispank in Ramoezo ob Krki, po strugi Krke do izliva v
-                  Muro, po strugi Mure do izliva v Dravo, po strugi Drave do izliva v Donavo, po
-                  strugi Donave proti toku do Frančiškovega prekopa, po strugi Frančiškovega prekopa
-                  do Tise, po strugi Tise proti toku do izliva Moruše, po strugi Moruše proti toku
-                  do Arada, čez Arad, Temešvar, Krnjak po gorskem grebenu k izlivu Požeškega potoka
-                  v Donavo. Odtod pa gre državna meja tja do Eishaara. Umestno bi bilo, da
+                     <placeName>Koroškem</placeName> po gorskem grebenu k izlivu <geogName>Valentinskega
+                  potoka</geogName> v <geogName>Ziljo</geogName>, čez <placeName>Kotje</placeName> v <geogName>Ziljski dolini</geogName> po gorskem grebenu, čez <geogName>Belo jezero</geogName>, po
+                  gorskem grebenu čez <placeName>Kammering</placeName> ob <geogName>Dravi</geogName>, po gorskem grebenu čez <geogName>Koberco</geogName>, dalje čez
+                  <geogName>Arje</geogName>, po gorskem grebenu čez <placeName>Oberboden</placeName>, po strugi <geogName>Tiebelbachu</geogName> do izliva v <geogName>Glino</geogName>,
+                  po strugi <geogName>Gline</geogName> do izliva <geogName>Vimičkega potoka</geogName>, po <geogName>Beli steni</geogName> čez <geogName>Plešivec</geogName>, <placeName>Svinec ob
+                  <geogName>Goršici</geogName></placeName>, po gorskem grebenu čez <geogName>Speikkogel</geogName> dalje do <placeName>Šmarnega v <geogName>Labodski dolini</geogName></placeName>, po
+                  gorskem grebenu čez <geogName>Koralpo</geogName> na <placeName>Štajersko</placeName> k virom <geogName>Bela
+                  Sulme</geogName>, po strugi <geogName>Sulme</geogName> do izliva v <geogName>Muro</geogName>, po strugi <geogName>Mure</geogName> do izliva <geogName>Perkovega
+                  mlinskega potoka</geogName>, čez <placeName>Farovce</placeName> k izlivu <geogName>Pöltenbacha</geogName> v <geogName>Kučenico</geogName>, po strugi <geogName>Kučenice</geogName>
+                  čez <geogName>Stergagorje</geogName> v dolino <geogName>Dojberskega potoka</geogName> do izliva v <geogName>Rabo</geogName>, po strugi <geogName>Rabe</geogName> do
+                  izliva <geogName>Lugoškega potoka</geogName> čez <placeName>Ispank</placeName> in <placeName>Ramoezo ob <geogName>Krki</geogName></placeName>, po strugi <geogName>Krke</geogName> do izliva v
+                  <geogName>Muro</geogName>, po strugi <geogName>Mure</geogName> do izliva v <geogName>Dravo</geogName>, po strugi <geogName>Drave</geogName> do izliva v <geogName>Donavo</geogName>, po
+                  strugi <geogName>Donave</geogName> proti toku do <geogName>Frančiškovega prekopa</geogName>, po strugi <geogName>Frančiškovega prekopa</geogName>
+                  do <geogName>Tise</geogName>, po strugi <geogName>Tise</geogName> proti toku do izliva <geogName>Moruše</geogName>, po strugi <geogName>Moruše</geogName> proti toku
+                  do <placeName>Arada</placeName>, čez <placeName>Arad</placeName>, <placeName>Temešvar</placeName>, <placeName>Krnjak</placeName> po gorskem grebenu k izlivu <geogName>Požeškega potoka</geogName>
+                  v <geogName>Donavo</geogName>. Odtod pa gre državna meja tja do <placeName>Eishaara</placeName>. Umestno bi bilo, da
                      <placeName>habsburško cesarstvo</placeName> odstopi
                      <placeName>Furlansko</placeName>
                   <placeName>Italiji</placeName> v zameno slovenskega dela
@@ -119,8 +124,8 @@
                <item n="5."><placeName>Jugoslovansko kraljestvo</placeName> se razdeli v tri pokrajine, v srbsko, hrvatsko
                   in slovensko. Takšno pokrajino tvori ozemlje, na katerem eno pleme kompaktno
                   prebiva in katero imej ime v historiji utemeljeno. Slovenska pokrajina bi se
-                  imenovala <placeName>kraljestvo Ilirija</placeName>, hrvatska trojedina kraljevina in srbska srbsko
-                  vojvodstvo in bosansko kraljestvo. Vsaka pokrajina bi imela svojega kraljevega
+                  imenovala <placeName>kraljestvo Ilirija</placeName>, hrvatska <placeName>trojedina kraljevina</placeName> in srbska <placeName>srbsko
+                  vojvodstvo</placeName> in <placeName>bosansko kraljestvo</placeName>. Vsaka pokrajina bi imela svojega kraljevega
                   namestnika, svojo pokrajinsko vlado in pokrajinsko zbornico. <placeName>Zagreb</placeName> bi bil glavno
                   mesto <placeName>jugoslovanskega kraljestva</placeName>, kjer bi bil sedež osrednje vlade, odgovorne
                   osrednjemu parlamentu. Da bi moralo biti razmerje med jugoslovanskim kraljestvom

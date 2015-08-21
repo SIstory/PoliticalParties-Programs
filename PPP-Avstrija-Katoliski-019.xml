@@ -49,25 +49,30 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Zborovanje zaupnikov Slov. Ljudske Stranke.</head>
+            <head>Zborovanje zaupnikov <orgName>Slov. Ljudske Stranke</orgName>.</head>
             <gap reason="irrelevant"/>
             <opener>Udanostna izjava Presvetlemu gospodu knezoškofu ljubljanskemu dr.
                   <persName>Antonu B. Jegliču</persName>.</opener>
-            <p xml:id="No.19.PPP.1">Zbor zaupnikov S. L. S., zbran dne <date when="1917-12-27">27.
-                  decembra 1917</date> v Ljubljani, izraža svojemu škofu sinovsko udanost ter se mu
+            <p xml:id="No.19.PPP.1">Zbor zaupnikov <orgName>S. L. S.</orgName>, zbran dne <date when="1917-12-27">27.
+                  decembra 1917</date> v <placeName>Ljubljani</placeName>, izraža svojemu škofu sinovsko udanost ter se mu
                iskreno zahvaljuje: </p>
             <p xml:id="No.19.PPP.2">da po navodilih sv. očeta <persName>Benedikta XV.</persName>
                tako vneto deluje za svetovni mir, da je v najodličnejši dobi življenja Slovencev vse
                sinove slovenskega naroda ob deklaracijskem programu združil in zedinil, da je tako
-               jasno, odločno in možato nastopil za obstoj in edinost S. L. S.</p>
+               jasno, odločno in možato nastopil za obstoj in edinost <orgName>S. L. S.</orgName></p>
             <p xml:id="No.19.PPP.3">Nadejamo se, da bo Presvetli vladika končno kot sad svojega
-               plemenitega stremljenja za blagor Cerkve in naroda videl vso svojo duhovščino
+               plemenitega stremljenja za blagor <orgName>Cerkve</orgName> in naroda videl vso svojo duhovščino
                združeno in zedinjeno.</p>
-            <closer>Za zbor zaupnikov<lb/> S. L. S. prelat <persName>Kalan</persName></closer>
+            <closer>Za zbor zaupnikov<lb/> <orgName>S. L. S.</orgName> prelat <persName>Kalan</persName></closer>
             <gap reason="irrelevant"/>
          </div>
       </body>

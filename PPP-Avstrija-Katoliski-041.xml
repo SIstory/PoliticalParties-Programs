@@ -55,6 +55,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -63,25 +68,25 @@
                1912</date>.</head>
             <gap reason="irrelevant"/>
             <div>
-               <head>Resolucije osrednjega vodstva Vseslovenske Ljudske Stranke in Hrvatske Stranke
-                  Prava</head>
-               <p xml:id="No.41.PPP.1">Osrednje vodstvo Vseslovenske ljudske stranke, ki je
+               <head>Resolucije osrednjega vodstva <orgName>Vseslovenske Ljudske Stranke</orgName> in <orgName>Hrvatske Stranke
+                  Prava</orgName></head>
+               <p xml:id="No.41.PPP.1">Osrednje vodstvo <orgName>Vseslovenske ljudske stranke</orgName>, ki je
                   zborovalo dne <date when="1912-10-20">20. t. m.</date> dopoldne v
                      <placeName>Ljubljani</placeName>, <hi rend="bold">je soglasno odobrilo
                      opatijske in dunajske resolucije</hi><note source="#SourceBornDigital">Glej
-                     dok. št. 38 in dok. št. 40.</note> zastopnikov V. L. S. in stranke prava.
+                     dok. št. 38 in dok. št. 40.</note> zastopnikov <orgName>V. L. S.</orgName> in <orgName>stranke prava</orgName>.
                   Obenem je sklenilo sledečo resolucijo:</p>
-               <p xml:id="No.41.PPP.2">Centralno vodstvo V. L. S. jemlje z ogorčenjem na znanje
+               <p xml:id="No.41.PPP.2">Centralno vodstvo <orgName>V. L. S.</orgName> jemlje z ogorčenjem na znanje
                   poročilo koroškega strankinega vodstva <hi rend="bold">o nečuvenem zatiranju
                      slovenskega ljudstva v vseh panogah javne, avtonomne in državne uprave na
                      Koroškem, protestira proti sistematični zlorabi javne oblasti</hi> v
                   ponemčevalne namene in proti raznim poskusom vtisniti deželi na umeten način pečat
                   izključno nemškega značaja, konstatira, da je ljudsko štetje falzifikat dejanskih
                   razmer, ki vsled tega za presojo narodnostnih zadev in vprašanj ne more priti v
-                  poštev in končno od poslancev V. L. S. nujno pričakuje, da nevzdržljivim razmeram
+                  poštev in končno od poslancev <orgName>V. L. S.</orgName> nujno pričakuje, da nevzdržljivim razmeram
                   na <placeName>Koroškem</placeName> posvečajo svojo najintenzivnejšo skrb in
                   pozornost ter se pri tem eventualno poslužujejo tudi <hi rend="bold">najostrejših
-                     parlamentarnih sredstev</hi>. </p>
+                     parlamentarnih sredstev</hi>.</p>
                <p xml:id="No.41.PPP.3">Koroškim pritožbam se pridružujejo tudi <hi rend="bold"
                      >štajerski</hi> zaupniki ter kažejo na vedno silnejši pritisk od Nemcev pod
                   očividno zaslombo sovražne nam vlade.</p>
@@ -94,14 +99,14 @@
                      Hercegovine</placeName> in 3 narodni zastopniki iz
                   <placeName>Istre</placeName>, <hi rend="bold">so se istotako vzeli na znanje
                      opatijski in dunajski sklepi</hi> in sledeči komunike sklenil:</p>
-               <list type="ordered" xml:id="No.41.PPP.5">
+               <list rend="numbered" xml:id="No.41.PPP.5">
                   <item n="1.">Vrhovna uprava stranke prava je z velikim zadovoljstvom in iskreno
                      radostjo vzela na znanje poročilo o sklepih, storjenih <date when="1912-09-19"
                         >19. rujna</date><note source="#SourceBornDigital">Septembra.</note> v
                         <placeName>Opatiji</placeName> in <date when="1912-10-09">9. listopada<note
-                           source="#SourceBornDigital">Oktobra.</note> 1912</date> na Dunaju med
-                     delegati stranke prava in Vseslovenske ljudske stranke, vsled kojih stopa
-                     Vseslovenska ljudska stranka v vrste Stranke prava in v celoti sprejme njen
+                           source="#SourceBornDigital">Oktobra.</note> 1912</date> na <placeName>Dunaju</placeName> med
+                     delegati stranke prava in <orgName>Vseslovenske ljudske stranke</orgName>, vsled kojih stopa
+                     <orgName>Vseslovenska ljudska stranka</orgName> v vrste <orgName>Stranke prava</orgName> in v celoti sprejme njen
                      državnopravni program od leta <date when="1894">1894</date>.</item>
                   <item n="2.">Da se doseže edinstvo in svoboda, smatra vrhovna uprava stranke prava
                      za koristno sodelovanje vseh narodnih sil in želi v tem delu pozdraviti kot
@@ -119,12 +124,12 @@
                      žrtve, za gotovo pričakuje, spoštujoč prava in svobodo drugih narodov, da
                      monarhija in njeni narodi v svojem lastnem interesu izpolnijo svojo dolžnost
                      nasproti potlačenemu hrvatskemu narodu.</item>
-                  <item n="5.">Plenum vseh hrvatskih narodnih zastopnikov, članov Stranke prava iz
+                  <item n="5.">Plenum vseh hrvatskih narodnih zastopnikov, članov <orgName>Stranke prava</orgName> iz
                      vseh zemelj, na svojem sestanku v <placeName>Ljubljani</placeName>
                      <date when="1912-10-20">20. listopada t. l.</date>, soglasno odobrava in
                      sprejema te izjave svoje vrhovne uprave ter izjavljajo,<note
                         source="#SourceBornDigital">Izjavlja.</note> da bodo z vso odločnostjo
-                     nadaljevali borbo in delo v duhu programa stranke prava.</item>
+                     nadaljevali borbo in delo v duhu programa <orgName>stranke prava</orgName>.</item>
                </list>
                <gap reason="irrelevant"/>
             </div>

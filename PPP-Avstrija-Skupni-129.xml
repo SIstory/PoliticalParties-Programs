@@ -69,24 +69,29 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.129.PPP.1">S pritrditvijo deželnega zbora Svoje vojvodine Kranjske
+            <p xml:id="No.129.PPP.1">S pritrditvijo <orgName>deželnega zbora</orgName> Svoje <placeName>vojvodine Kranjske</placeName>
                ukazujem tako:</p>
             <div xml:id="No.129.PPP.2">
                <head>Člen I.</head>
-               <p>Spreminjaje in dopolnjevaje volilni red za deželni zbor vojvodine Kranjske, izdan
-                  z zakonom z dne 5. novembra 1898. l., štev. 40. dež. zak., stopijo na mesto spodaj
-                  oznamenjenih paragrafov volilnega reda za deželni zbor, oziroma kot ustavki k
+               <p>Spreminjaje in dopolnjevaje volilni red za <orgName>deželni zbor vojvodine <placeName>Kranjske</placeName></orgName>, izdan
+                  z zakonom z dne <date when="1898-11-05">5. novembra 1898. l.</date>, štev. 40. dež. zak., stopijo na mesto spodaj
+                  oznamenjenih paragrafov volilnega reda za <orgName>deželni zbor</orgName>, oziroma kot ustavki k
                   posameznim paragrafom nastopna določila:</p>
                <list>
                   <label>§ 3.</label>
                   <item>
                      <p>Za volitev poslancev mest in trgov tvori:</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="1.)">deželno stolno mesto <placeName>Ljubljana</placeName> dva
                            volilna okraja in sicer<list type="ordered">
                               <item n="a)">volilni okraj mesto <placeName>Ljubljana</placeName>
@@ -129,7 +134,7 @@
                   <label>§ 7 <hi rend="italic">a</hi>).</label>
                   <item>
                      <p>Volilni okraji za volitev poslancev splošnega volilskega razreda so:</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="1.)">Deželno stolno mesto <placeName>Ljubljana</placeName>
                            (Krajevna občina).</item>
                         <item n="2.)">sodni okraj <placeName>Ljubljana</placeName> brez krajevne
@@ -182,9 +187,9 @@
                         volijo neposredno vsi tisti občani, ki imajo po posebnem občinskem štatutu
                         mesta <placeName>Ljubljane</placeName> ali po občinskem zakonu pravico
                         voliti občinski zastop in ki niso po §§ 16. in 16. <hi rend="italic">a</hi>
-                        volilnega reda za deželni zbor izključeni odnosno izvzeti od volilne pravice
+                        volilnega reda za <orgName>deželni zbor</orgName> izključeni odnosno izvzeti od volilne pravice
                         in kateri</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="a)">v občinah s tremi volilnimi razredi spadajo v prvi in drugi
                            razred in kateri v tretjem razredu plačujejo najmanj po <hi rend="italic"
                               >osem kron</hi> cesarskega neposrednega davka na leto;</item>
@@ -238,13 +243,13 @@
                   </item>
                   <label>§ 15.</label>
                   <item>
-                     <p>V deželni zbor se sme voliti vsak, kdor ni izključen niti izvzet od volilne
+                     <p>V <orgName>deželni zbor</orgName> se sme voliti vsak, kdor ni izključen niti izvzet od volilne
                         pravice v zmislu tega zakona, če je</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="a)">avstrijski državljan,</item>
                         <item n="b)">trideset let star,</item>
                         <item n="c)">samopraven in če</item>
-                        <item n="d)">ima volilno pravico za deželni zbor v kateremkoli volilskem
+                        <item n="d)">ima volilno pravico za <orgName>deželni zbor</orgName> v kateremkoli volilskem
                            razredu dežele.</item>
                      </list><p>Isto velja tudi glede poslancev trgovske in obrtne zbornice.</p>
                   </item>
@@ -329,7 +334,7 @@
                      <p>V vsaki volilni skupini se vodstvo volitve, ki jo je izvršiti ob navzočnosti
                         volilnega komisarja, poveri volilni komisiji, katera ima sestavljena biti
                         takole:</p>
-                     <list type="ordered">
+                     <list rend="numbered">
                         <item n="1.)">Za volilski razred velikega posestva iz štirih od volilcev in
                            iz treh od deželnega predsednika imenovanih članov;</item>
                         <item n="2.)">za vsaki kraj, ki je uvrščen v volilski razred mest in trgov,
@@ -394,16 +399,16 @@
                         izvoljenemu poslancu, zoper katerega ne obstoji nobeden v § 16. in 16. <hi
                            rend="italic">a</hi> določenih izključivnih oziroma izjemnih razlogov,
                         izgotoviti in dostaviti dati volilno poverilo.</p>
-                     <p>To volilno poverilo daje izvoljenemu poslancu pravico vstopiti v deželni
-                        zbor in vstvarja domnevo veljavnosti njegove volitve za toliko časa, dokler
+                     <p>To volilno poverilo daje izvoljenemu poslancu pravico vstopiti v <orgName>deželni
+                        zbor</orgName> in vstvarja domnevo veljavnosti njegove volitve za toliko časa, dokler
                         se ne določi nasprotno.</p>
                      <p>Vse volilne spise mora deželni predsednik poslati deželnemu odboru; le ta
-                        jih ima presoditi in o njih poročati deželnemu zboru, kateremu pristaje
+                        jih ima presoditi in o njih poročati <orgName>deželnemu zboru</orgName>, kateremu pristaje
                         odločba o dopustitvi izvoljenih (§ 31. deželnega reda).</p>
                   </item>
                   <label>§ 46.</label>
                   <item>
-                     <p>Za sklep deželnega zbora o nasvetovanih spremembah deželnozborskega
+                     <p>Za sklep <orgName>deželnega zbora</orgName> o nasvetovanih spremembah deželnozborskega
                         volilnega reda je potrebna navzočnost najmanj treh četrtin vseh članov in
                         pritrditev najmanj dveh tretjin navzočih poslancev. Spremembe §§ 1., 2., 3.,
                         11., 12. in 46. se pa morejo skleniti le ob navzočnosti najmanj

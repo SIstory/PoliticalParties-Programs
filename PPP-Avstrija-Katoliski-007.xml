@@ -49,12 +49,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Volilcem za dež. zbor kranjski!</head>
-            <p>V kratkem se bodo vršile nove volitve za kranjski deželni zbor!</p>
+            <head>Volilcem za <orgName>dež. zbor kranjski</orgName>!</head>
+            <p>V kratkem se bodo vršile nove volitve za <orgName>kranjski deželni zbor</orgName>!</p>
             <p>V kratkem bode tedaj ljudstvo imelo določiti svojo lastno usodo za prihodnjih šest
                let!</p>
             <p>Voliti bode imelo ljudstvo mej <hi rend="italic">katoliško-narodnimi možmi in
@@ -67,7 +72,7 @@
                zanj pravo mesto. Javno življenje se snuje pred njegovimi očmi in stranke,ki
                nastopajo, so po svojih <hi rend="italic">načelih</hi> in po svojem <hi rend="italic"
                   >delovanju</hi> očite vsakomer.</p>
-            <p xml:id="No.7.PPP.7"><hi rend="italic">Katoliško-narodna stranka</hi> povdarja v
+            <p xml:id="No.7.PPP.7"><hi rend="italic"><orgName>Katoliško-narodna stranka</orgName></hi> povdarja v
                svojih načelih, da je živa, dejanjska <hi rend="italic">katoliška vera temelj</hi>
                vsemu zasebnemu in družabnemu življenju, jedina trdna opora nravnemu in gmotnemu
                zdravju posamnih ljudij, pa tudi družin, občin, dežel, narodov in držav. – Zato
@@ -80,7 +85,7 @@
                   >vestnega izpolnjevanja vseh dolžnostij</hi>, ki jih naklada služba v javnih
                zastopih <hi rend="italic">in neustrašeno, nesebično, požrtvovalno, vestno skrb za
                   javni blagor</hi>.</p>
-            <p>Liberalna stranka govori o veri samo kot o <hi rend="italic">verskem čutu</hi> in se
+            <p><orgName>Liberalna stranka</orgName> govori o veri samo kot o <hi rend="italic">verskem čutu</hi> in se
                brani verskemu vplivu v javnosti. Od Boga postavljeno oblast, vzlasti duhovsko,
                pobija in blati. Najgrje napada sv. Očeta, škofe in duhovnike, zaničuje pa tudi vse
                priprosto ljudstvo, očitajoč mu nerazsodnost in neumnost, kar se je vzlasti pokazalo
@@ -94,7 +99,7 @@
                blagor gospodari z javnim imetjem, kakor priča novo gledališče, nova bolnišnica in
                nespametna zahteva »višje dekliške šole« itd.</p>
             <p>Liberalne stranke so si v tem povsod jednake, in sad njihovega delovanja je vedno <hi
-                  rend="italic">narodova škoda</hi>. Naša liberalna stranka je vredna sestrica
+                  rend="italic">narodova škoda</hi>. <orgName>Naša liberalna stranka</orgName> je vredna sestrica
                nemških liberalcev. Posamnih njenih članov ne presojamo in ne govorimo o njihovem
                zasebnem življenju, toda to pa trdimo: V javnem delovanju so merodajna strankina
                načela, ne pa posamnikovo mnenje; klubov terorizem nadvladuje pri vseh liberalnih
@@ -149,8 +154,8 @@
             <p>Sleherni stori svojo dolžnost in na volilni dan bode zmagalo staro slovensko
                geslo:</p>
             <p><hi rend="bold">Vse za vero, dom, cesarja!</hi></p>
-            <closer><hi rend="bold">Osrednji volilni odbor<lb/>Katoliško-narodne
-               stranke</hi></closer>
+            <closer><hi rend="bold">Osrednji volilni odbor<lb/><orgName>Katoliško-narodne
+               stranke</orgName></hi></closer>
          </div>
       </body>
    </text>

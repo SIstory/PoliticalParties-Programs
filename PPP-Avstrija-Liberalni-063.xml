@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -87,7 +92,7 @@
                naroda ni končano, temveč se <hi rend="italic">šele</hi> prične. Ako verujemo, da si
                bodemo izvojevali svobodo in ujedinjenje, (in ta vera je temelj našega
                deklaracijskega boja), potem moramo tudi že misliti in pripravljati, kako si bodemo
-               to našo Jugoslavijo <hi rend="italic">uredili</hi>. Lastna država bo nalagala naši
+               to našo <placeName>Jugoslavijo</placeName> <hi rend="italic">uredili</hi>. Lastna država bo nalagala naši
                gospodarski, kulturni, socijalni politiki povsem nove, velike in težavne naloge,
                stavila nas bo pred nove probleme in bo v vsakem oziru zahtevala najresnejšega
                tekmovanja narodnih duševnih sil. V volji in zahtevi po lastni državi smo si vsi
@@ -125,7 +130,7 @@
                odločitev? Ali se bodemo brez ugovora pokoravali njegovim nazorom o demokraciji? Ali
                bodemo priznali, da sme odstraniti kot duhovni nadpastir urednika ker le-ta ne hodi
                po poti, ki si jo želi škof? Ali moremo na drugi strani verjeti, da bo hierarhija
-               priznala naš nazor, da interesi cerkve niso še narodni interesi in da cerkveni
+               priznala naš nazor, da interesi <orgName>cerkve</orgName> niso še narodni interesi in da cerkveni
                poglavarji ne morejo biti tudi naši politični šefi?</p>
             <p xml:id="No.63.PPP.5">Odgovor na ta banalna vprašanja je tudi odgovor na vprašanje o
                praktični izpeljivosti in resnični koristnosti enotne politične organizacije celega
@@ -134,7 +139,7 @@
                   rend="italic">mora</hi> izjaloviti. Nekaj drugega pa je seveda zahteva, da moramo
                zaenkrat zapostaviti vse, kar nas loči ter z združenimi močmi stremeti za prvim
                svojim ciljem, za uresničenjem deklaracije. Edini moramo biti v tem, da smo brez
-               razlike trdna opora našemu Jugoslovanskemu klubu.</p>
+               razlike trdna opora našemu <orgName>Jugoslovanskemu klubu</orgName>.</p>
             <p xml:id="No.63.PPP.7">Prepričani smo, da se da ta enotnost najbolje doseči, ako na eni
                strani pošteno izpovemo, kaj nas sicer loči, na drugi strani pa ravnotako pošteno in
                v medsebojnem spoštovanju iščemo oblike, ki nam omogoči smotreno, trajno skupno
@@ -143,7 +148,7 @@
                naše narodne politike. Danes smo ne toliko programatično kakor organizatorično
                razcepljeni, provincijalizirani. V času boja za narodno edinstvo imamo zlasti
                naprednjaki še vedno pokrajinske stranke. Socijalna demokracija je že od vsega
-               začetka enotno organizirana, reorganizacijo je izvedla sedaj tudi V. L. S., le
+               začetka enotno organizirana, reorganizacijo je izvedla sedaj tudi <orgName>V. L. S.</orgName>, le
                napredno Slovenstvo se še ni povzpelo do odločilnega čina. To se mora v najkrajšem
                času zgoditi in se bo tudi zgodilo. Zgodovinska naloga naprednega Slovenstva je, da
                se organizatorično in programatično pripravi na novo dobo.</p>

@@ -71,18 +71,23 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div decls="#bibl.Slovenec.1898-03-18">
-            <p xml:id="No.116.PPP.1">Mej kluboma napredne narodne in katoliško narodne stranke v
+            <p xml:id="No.116.PPP.1">Mej kluboma <orgName>napredne narodne</orgName> in <orgName>katoliško narodne stranke</orgName> v
                deželnem zboru je bila sklenjena in od vodstev obeh strank potrjena naslednja spravna
                   pogodba:<note place="foot"
                   source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">Ta odstavek je
                   natisnil le <hi rend="italic">Slovenski narod</hi>.</note></p>
             <div xml:id="No.116.PPP.2">
                <head>I.</head>
-               <p>Kluba katoliško-narodne in narodne stranke<note place="foot"
+               <p>Kluba <orgName>katoliško-narodne</orgName> in <orgName>narodne stranke</orgName><note place="foot"
                      source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
                         rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in katoliško
                      narodne stranke.</note> v deželnem zboru kranjskem skleneta med sabo za tekočo
@@ -92,7 +97,7 @@
                   se <hi rend="italic">za</hi> narodne pravice ter politični, gospodarski in
                   socijalni napredek slovenskega ljudstva.</p>
                <p>Kot svojo posebno nalogo bodeta sprijateljena kluba smatrala:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">potezati se za pravice in napredek celokupnega slovenstva v zmislu
                      resolucij vseslovenskega in istersko-hrvatskega shoda z dne <date
                         when="1897-09-14">14. septembra 1897</date>;<note place="foot"
@@ -108,11 +113,11 @@
             </div>
             <div xml:id="No.116.PPP.3">
                <head>II.</head>
-               <p>Da poslancem katoliško-narodne in onim narodne stranke<note place="foot"
+               <p>Da poslancem <orgName>katoliško-narodne</orgName> in onim <orgName>narodne stranke</orgName><note place="foot"
                      source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
                         rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in onim
                      katoliško-narodne stranke.</note> ne bode potreba odrekati se – zlasti onim
-                  katoliško-narodne stranke katoliško narodnih, in onim narodne stranke naprednih –
+                  <orgName>katoliško-narodne</orgName> stranke katoliško narodnih, in onim <orgName>narodne stranke</orgName> naprednih –
                      načel,<note place="foot"
                      source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
                         rend="italic">Slovenskem narodu</hi> je natisnjeno: ne bode potreba odrekati
@@ -166,7 +171,7 @@
                <head>VI.</head>
                <p>V doslej spornih točkah gledališča in višje dekliške šole se bode dogovorno
                   naslednje postopalo:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">glede podpore nemškemu gledališču prepušča se članom obeh klubov
                      svoboda;</item>
                   <item n="b)">slovenskemu gledališču se osigura letna podpora najmanje 6000
@@ -186,7 +191,7 @@
             <div xml:id="No.116.PPP.9">
                <head>VIII.</head>
                <p>Oba kluba zavežeta se delovati k temu, da se ublažé nasprotja, ki so nastala vsled
-                  mejsebojnih bojev katoliško-narodne in narodne stranke na političnem,
+                  mejsebojnih bojev <orgName>katoliško-narodne</orgName> in <orgName>narodne stranke</orgName> na političnem,
                   gospodarskem, socijalnem in zlasti tudi časnikarskem polju.</p>
                <p>Oba sprijatejena kluba se zavežeta varovati sedanje posestno stanje obeh strank
                   mej spravno dobo in sicer tako, da se vsaka stranka obveže, ko bi v kakem volilnem
@@ -208,7 +213,7 @@
                <p>Ker je pričakovati, da se v tem slučaju odpové tudi dr. <persName>Adolf
                      Schaffer</persName> svojemu mandatu v deželnem šolskem svetu, obvezani so vsi
                   slovenski deželni odborniki, na njegovo mesto voliti tistega deželnega odbornika,
-                  katerega odloči klub katoliško-narodne stranke.</p>
+                  katerega odloči klub <orgName>katoliško-narodne stranke</orgName>.</p>
             </div>
             <div xml:id="No.116.PPP.11">
                <head>X.</head>
@@ -244,12 +249,12 @@
                <p>Zaradi velike važnosti, katera je v narodnem oziru pripisovati okrepljenju
                   kmetijstva in malega obrtništva, obvezujeta se oba kluba, da bodeta skupno
                   delovala za snovanje kmetijskih in obrtnih produktivnih zadrug po vseh večjih
-                  krajih dežele Kranjske.</p>
+                  krajih dežele <placeName>Kranjske</placeName>.</p>
             </div>
             <div xml:id="No.116.PPP.15">
                <head>XIV.</head>
-               <p>Ko bi deželni zbor kranjski prišel v položaj, da bi iz svoje srede imel izbirati
-                  poslance za državni zbor, zavezujeta se oba sprijateljena kluba, glasovati
+               <p>Ko bi <orgName>deželni zbor kranjski</orgName> prišel v položaj, da bi iz svoje srede imel izbirati
+                  poslance za <orgName>državni zbor</orgName>, zavezujeta se oba sprijateljena kluba, glasovati
                   soglasno za devet kandidatov, katerih pet bode imenoval klub katoliško-narodne,
                   štiri pa klub narodne stranke. V slučaju, da bi iz tako voljenega državnega zbora
                   vršile se volitve v delegacije, imata se voliti pravi član in njega namestnik
@@ -270,8 +275,8 @@
                   sprijateljenih klubov. Od teh izvodov shrani po jednega načelnik vsakega
                   kluba.</p>
                <p>Ta dogovor odobruje[ta]</p>
-               <p><hi rend="italic">Vodstvo katoliško-národne stranke</hi></p>
-               <p>[in] [vodstvo narodne stranke.]<note place="foot"
+               <p><hi rend="italic">Vodstvo <orgName>katoliško-národne stranke</orgName></hi></p>
+               <p>[in] [<orgName>vodstvo narodne stranke</orgName>.]<note place="foot"
                      source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18"><hi rend="italic"
                         >Slovenski narod</hi>, leto XXXI, št. 63, Ljubljana, 18. 3. 1898, Spravna
                      pogodba.</note></p>

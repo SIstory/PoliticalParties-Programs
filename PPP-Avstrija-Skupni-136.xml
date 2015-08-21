@@ -56,20 +56,25 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.136.PPP.1">
             <head>Uvod</head>
-            <list type="ordered">
+            <list rend="numbered">
                <item n="1.">Naš namen je, da se za v monarhiji živeče Slovence, Hrvate in Srbe
-                  ustanovi skupni <q>Narodni odbor</q>, kjer bodo po medsebojno dogovorjenem
+                  ustanovi skupni <q><orgName>Narodni odbor</orgName></q>, kjer bodo po medsebojno dogovorjenem
                   proporcu zastopani vsi politični činitelji, ki na temelju edinstvenosti
                   jugoslovanskega naroda hočejo izvojevati samostojno jugoslovansko državo.</item>
-               <item n="2.">Za ozemlja <placeName>Cislajtanije</placeName> se osnuje Narodni svet,
+               <item n="2.">Za ozemlja <placeName>Cislajtanije</placeName> se osnuje <orgName>Narodni svet</orgName>,
                   katerega namen in delokrog je, sklepati in odločevati o vseh zadevah, ki jih v
-                  Narodnem svetu zastopani činitelji priznajo za skupne.</item>
-               <item n="3.">Skupne zadeve v smislu točke 2. so zlasti:<list type="ordered">
+                  <orgName>Narodnem svetu</orgName> zastopani činitelji priznajo za skupne.</item>
+               <item n="3.">Skupne zadeve v smislu točke 2. so zlasti:<list rend="numbered">
                      <item n="a)">Delo za ujedinjenje jugoslovanskega naroda v samostojno
                         državo.</item>
                      <item n="b)">Smotreno delo za popolno ravnopravnost našega jezika v šolah,
@@ -91,25 +96,25 @@
             </list>
          </div>
          <div xml:id="No.136.PPP.2">
-            <head>Organizacija Narodnega sveta.</head>
-            <list type="ordered">
+            <head>Organizacija <orgName>Narodnega sveta</orgName>.</head>
+            <list rend="numbered">
                <item n="4.">
-                  <p>Narodni svet sestoji iz 50. članov. Od teh jih odpade na
+                  <p><orgName>Narodni svet</orgName> sestoji iz 50. članov. Od teh jih odpade na
                         <placeName>Dalmacijo</placeName> 12, ki jih izberejo tamkajšni politični
-                     činitelji v medsebojnem sporazumu, na <placeName>Istro</placeName> 5, ki jih imenuje politično društvo
-                     za <placeName>Istro</placeName> v <placeName>Pazinu</placeName>, na <placeName>Trst</placeName> 2 (politično društvo Edinost), na Vseslovensko
-                     Ljudsko Stranko 18 in na Jugoslovansko demokratsko stranko 10. Socijalnim
-                     demokratom pritičejo 3 mandati. Stranke izbirajo svoje zastopnike potom
+                     činitelji v medsebojnem sporazumu, na <placeName>Istro</placeName> 5, ki jih imenuje <orgName>politično društvo
+                        za <placeName>Istro</placeName> v <placeName>Pazinu</placeName></orgName>, na <placeName>Trst</placeName> 2 (<orgName>politično društvo Edinost</orgName>), na <orgName>Vseslovensko
+                     Ljudsko Stranko</orgName> 18 in na <orgName>Jugoslovansko demokratsko stranko</orgName> 10. <orgName>Socijalnim
+                     demokratom</orgName> pritičejo 3 mandati. Stranke izbirajo svoje zastopnike potom
                      izvrševalnih odborov, oziroma odborov političnih društev in sicer za dobo enega
                      leta. Imajo pa pravico jih vsaki čas odpoklicati. V tem slučaju, kakor tudi v
                      slučaju odstopa in smrti morajo izvrševalni odbori, odbori političnih društev
                      imenovati nove člane tekom enega meseca za ostalo funkcijsko dobo.</p>
-                  <p>Sedež Narodnega sveta si izberejo člani z večino glasov.</p>
-                  <p>Sedeži strank, ki niso pristopile, pa priznavajo načela Narodnega sveta,
-                     ostanejo nezasedeni, vendar more Narodni svet te stranke po potrebi vabiti k
+                  <p>Sedež <orgName>Narodnega sveta</orgName> si izberejo člani z večino glasov.</p>
+                  <p>Sedeži strank, ki niso pristopile, pa priznavajo načela <orgName>Narodnega sveta</orgName>,
+                     ostanejo nezasedeni, vendar more <orgName>Narodni svet</orgName> te stranke po potrebi vabiti k
                      sejam.</p>
                </item>
-               <item n="5.">Narodni svet deluje:<list type="ordered">
+               <item n="5."><orgName>Narodni svet</orgName> deluje:<list rend="numbered">
                      <item n="a)">v plenumu, ki se shaja k rednim sejam vsako četrtletje, k izrednim
                         na poziv predsednika ali na zahtevo vsaj 10 članov in sicer v tem slučaju
                         najkasneje v 8 dneh po obvestitvi predsednika. Plenum voli predsedstvo,
@@ -134,7 +139,7 @@
                            narodno statistiko, za določitev narodnih mej, za ustavne reforme, za
                            ustavne projekte narodne države, za pripravo pogajanj med narodi, za
                            manjšine, za šolstvo, za gospodarsko koncentracijo, za narodno
-                           uradništvo, železničarstvo, novinarstvo, za financiranje Narodnega sveta
+                           uradništvo, železničarstvo, novinarstvo, za financiranje <orgName>Narodnega sveta</orgName>
                            i. t. d.</p>
                         <p>V vseh skupinah se glasu je z dvetretjinsko večino prisotnih. Če ugovarja
                            ena tretjina se ima glasovanje preložiti na prihodnjo sejo, koje datum
@@ -144,16 +149,16 @@
                            obakrat ugovarja sklepu ena tretjina navzočih, obravnava nadalje o njej
                            predsedstvo oziroma plenum. Če se ista zadeva obravnava dvakrat v plenumu
                            in obakrat ena tretjina navzočih ugovarja proti sklepu, je smatrati, da
-                           je dotična zadeva izločena iz delokroga Narodnega sveta.</p>
+                           je dotična zadeva izločena iz delokroga <orgName>Narodnega sveta</orgName>.</p>
                      </item>
                   </list>
                </item>
-               <item n="6.">Če pride do prepira v kakem formalnem vprašanju v Narodnem svetu, ali če
-                  se stranke v sporu v kaki častni zadevi, ki je v zvezi z delokrogom Narodnega
-                  sveta, podvržejo razsodišču, razsodi le to po prostem prevdarku. Predsedstvo voli
+               <item n="6.">Če pride do prepira v kakem formalnem vprašanju v <orgName>Narodnem svetu</orgName>, ali če
+                  se stranke v sporu v kaki častni zadevi, ki je v zvezi z delokrogom <orgName>Narodnega
+                  sveta</orgName>, podvržejo razsodišču, razsodi le to po prostem prevdarku. Predsedstvo voli
                   vsako leto 3 razsodnike, a stranke se v sporazumu s predsedstvom zedinijo lahko
                   tudi za drugačno razsodništvo.</item>
-               <item n="7.">Premoženje Narodnega sveta, če iz njega izstopi nad polovica članov,
+               <item n="7.">Premoženje <orgName>Narodnega sveta</orgName>, če iz njega izstopi nad polovica članov,
                   pripade manjšinskim organizacijam po sklepu razsodišča.</item>
                <item n="8.">Ta štatut je mogoče spremeniti le v soglasju z udeleženimi
                   strankami.</item>

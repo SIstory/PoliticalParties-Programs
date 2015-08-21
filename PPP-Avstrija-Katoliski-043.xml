@@ -48,6 +48,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -149,7 +154,7 @@
                države. Dovolj so me radi tega napadali. In imajo zase mnogo logičnih in teoloških
                argumentov. Toda zame je logika razvoja in življenja, ki v resnici ne nasprotuje
                katolicizmu. Sicer pa kakor <placeName>Rim</placeName> hoče! On hoče konkordat, torej
-               ga hočemo tudi mi. Katoliška Cerkev mora kakor pravoslavna imeti v bodoči državi
+               ga hočemo tudi mi. <orgName>Katoliška Cerkev</orgName> mora kakor <orgName>pravoslavna</orgName> imeti v bodoči državi
                javnopravni značaj; nadalje ne sme biti državne cerkve. Vsem verskim družbam sploh se
                mora dati popolna avtonomija, a država naj se čim manj vtika v njihove posle.</p>
             <gap reason="irrelevant" xml:id="No.43.PPP.10"/>
@@ -159,8 +164,8 @@
                v centralnem parlamentu, potem ne vpoštevate nekaterih stvari. Vzemimo, da je država
                ustrojena tako, kakor sedaj govorimo. Sedanja strankarska konstelacija bo imela tudi
                na razmere v centralnem parlamentu odločilen vpliv. Najprej se bodo narodne stranke
-               zbližale. Slovenska ljudska stranka bo nastopala vzajemno s skupino okrog
-                  <q>Novin</q>, a upam, da se bo tudi med Srbi razvila analogna kulturna in
+               zbližale. <orgName>Slovenska ljudska stranka</orgName> bo nastopala vzajemno s skupino okrog
+                  <title>Novin</title>, a upam, da se bo tudi med Srbi razvila analogna kulturna in
                strankarska tendenca ter bomo morda dobili v parlament kakega srbskega klerikalca.
                Liberalci slovenski, srbski in hrvatski bodo med seboj kooperirali, ravno tako
                socialisti. Razen tega se bodo morda razvile kake avtonomistične stranke, ki bodo

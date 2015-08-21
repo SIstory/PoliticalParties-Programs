@@ -49,6 +49,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -56,7 +61,7 @@
             <head>Prvi shod katol. polit. društva.</head>
             <head>(Dalje.)</head>
             <gap reason="irrelevant"/>
-            <opener xml:id="No.2.PPP.1">Visoka gosposka zbornica!</opener>
+            <opener xml:id="No.2.PPP.1"><orgName>Visoka gosposka zbornica!</orgName></opener>
             <p xml:id="No.2.PPP.2">1. Ko je bil sedaj veljavni zakon za državne ljudske šole
                sklenen, obetali so si od zakona najboljših vspehov za splošno ljudsko omiko. A kar
                so upali in pričakovali, ni se izpolnilo in se tudi ni moglo izpolniti.</p>
@@ -118,9 +123,9 @@
                šol. To samovoljno in zlorabno vporabo zakona je v mnogem pospeševal omenjeni
                paragraf veljavnega državnega zakona za ljudske šole, ker se ne izrazi o tem dovolj
                natančno. Treba torej tudi vtem oziru nujne premembe.</p>
-            <p xml:id="No.2.PPP.11">Dostojno podpisano <q>katol. politično društvo</q> v
-                  <placeName>Ljubljani</placeName> misli, da je nepotrebno in celó razžaljivo za
-               razumnost in modrost odličnih članov gosposke zbornice, da bi hotelo še le dokazovati
+            <p xml:id="No.2.PPP.11">Dostojno podpisano <q><orgName>katol. politično društvo v
+               <placeName>Ljubljani</placeName></orgName></q> misli, da je nepotrebno in celó razžaljivo za
+               razumnost in modrost odličnih članov <orgName>gosposke zbornice</orgName>, da bi hotelo še le dokazovati
                vsestransko in od vseh pedagogov priznano načelo: da je le tedaj pričakovati v
                ljudski šoli vspešnega in sadonosnega poduka, ako se isti vrši na podlagi vsem
                otrokom umevnega, torej materinega jezika.</p>
@@ -133,12 +138,12 @@
                jezik.</p>
             <p xml:id="No.2.PPP.13">Ker se pa predloga izročena visoki gosposki zbornici ne ozira ne
                na potrebe verstva in ne materinega jezika kot učni jezik, zato stavi vdano podpisano
-                  <q>katol. politično društvo v <placeName>Ljubljani</placeName></q>, ki si je
+               <q><orgName>katol. politično društvo v <placeName>Ljubljani</placeName></orgName></q>, ki si je
                stavilo nalogo pospeševati slovenskega naroda duševni in gmotni napredek v verskem,
-               narodnem in državnem oziru, zbrano na društvenem shodu v Ljubljani dné <date
+               narodnem in državnem oziru, zbrano na društvenem shodu v <placeName>Ljubljani</placeName> dné <date
                   when="1890-03-09">9. marca 1890</date>, skromno prošnjo:</p>
-            <p xml:id="No.2.PPP.14">Visoka gosposka zbornica izvôli predloženi postavni načrt vis.
-               c. kr. vlade gledé nekaterih prememb državnega zakona za ljudske šole odkloniti in
+            <p xml:id="No.2.PPP.14"><orgName>Visoka gosposka zbornica</orgName> izvôli predloženi postavni načrt vis.
+               <orgName>c. kr. vlade</orgName> gledé nekaterih prememb državnega zakona za ljudske šole odkloniti in
                skleniti tako ljudsko-šolsko postavo, ki bo popolno vstrezala veri učencev in
                določevala jasno materin jezik kot učni jezik v šoli.</p>
          </div>

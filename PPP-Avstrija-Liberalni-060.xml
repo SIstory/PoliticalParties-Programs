@@ -52,6 +52,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -59,11 +64,11 @@
             <gap reason="irrelevant"/>
             <p xml:id="No.60.PPP.1">Smoter kmetske stranke je, da se slovenski kmet ohrani krepak na
                svojem podedovanem posestvu. Da to doseže, stavi si stranka sledeči načrt:</p>
-            <list xml:id="No.60.PPP.2" type="ordered">
+            <list xml:id="No.60.PPP.2" rend="numbered">
                <item n="1.">Kmetski stan naj se združi v krepko celoto, da ga povzpé do prave
                   zavednosti in napredka ter da mu pridobi ugled in veljavo, ki mu po vsej pravici
                   gre v javnosti.</item>
-               <item n="2.">Kmetska stranka zahteva, da se vpelje na ljudskih šolah in učiteljiščih
+               <item n="2."><orgName>Kmetska stranka</orgName> zahteva, da se vpelje na ljudskih šolah in učiteljiščih
                   strokoven pouk, da se ustanovi zimske kmetijske in gospodinjske šole in tečaje ter
                   je za prirejanje strokovnih predavanj po deželi. Zahteva ustanovitev deželnih
                   uzornih gospodarstev v posameznih krajih.</item>
@@ -76,11 +81,11 @@
                <item n="4.">Zahtevamo pravično preureditev dosedanjih davkov, v prvi vrsti pa
                   popolno odpravo neupravičenega zemljiškega davka.</item>
                <item n="5.">Zahtevamo razbremenitev zadolženih kmetijskih posestev z večletnim
-                  odplačevanjem. Kmetska stranka bo delala na to, da se ustanovi slovenska
+                  odplačevanjem. <orgName>Kmetska stranka</orgName> bo delala na to, da se ustanovi slovenska
                   poljedelska banka.</item>
                <item n="6.">Razkosavanje srednjih in malih kmetij naj se omeji, nasprotno pa naj se
                   pospešuje zlaganje zemljišč.</item>
-               <item n="7.">Kmetska stranka bo pospeševala pridobitno zadružništvo.</item>
+               <item n="7."><orgName>Kmetska stranka</orgName> bo pospeševala pridobitno zadružništvo.</item>
                <item n="8.">Z vso vnemo bo delala na to, da se reši pereče vprašanje gledé
                   pomanjkanja kmetijskih delavcev in poslov in zabrani prevelik naval brezposelnih
                   ljudij v mesta. Upelje naj se zavarovanje delavcev in poslov za starost in
@@ -97,7 +102,7 @@
                      colnina<note source="#SourceBornDigital">Carina.</note> in voznina na
                   tujezemske pridelke naj onemogoči konkurenco z domačimi pridelki.</item>
                <item n="12.">Preurediti je lovski zakon na korist kmetijstvu.</item>
-               <item n="13.">Kmetska stranka stoji na strogo narodnem stališču. Delala bo na to, da
+               <item n="13."><orgName>Kmetska stranka</orgName> stoji na strogo narodnem stališču. Delala bo na to, da
                   se sčasoma ustanovi vseslovenska poljedelska stranka. – V političnem oziru je
                   popolnoma neodvisna in samostojna. Po potrebi pa stopa v dogovor, eventuelno tudi
                   v zvezo z drugimi strankami.</item>

@@ -48,13 +48,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Prvi občni zbor.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.28.PPP.1"><q>Katoliško-politično in gospodarsko društvo za Slovence na
+            <p xml:id="No.28.PPP.1"><q><orgName>Katoliško-politično in gospodarsko društvo</orgName> za Slovence na
                      <placeName>Koroškem</placeName></q>, ki se je danes vprvič zbralo in se
                ustanovilo, porablja to priložnost, da se poklanja Vaši Prevzvišenosti ter izraža
                svojo hvaležnost in veliko radost nad krepko izjavo visokočastitih škofov v šolski

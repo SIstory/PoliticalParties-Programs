@@ -72,6 +72,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -97,7 +102,7 @@
                stikov vsaj med onimi kosi Jugoslovanstva, ki so obsojeni na življenje v monarhiji.
                Po mojih mislili smo zares našli pot, ki je za zdaj edino možna in primerna – to pot
                namreč, da se seznanjajo in zbližujejo sorodne politične stranke v posameznih
-               deželah. Slovenska socialno demokratična stranka je pred štirimi leti sklicala v
+               deželah. <orgName>Slovenska socialno demokratična stranka</orgName> je pred štirimi leti sklicala v
                   <placeName>Ljubljano</placeName> jugoslovansko konferenco, katere so se udeležili
                zastopniki vseh jugoslovanskih bratskih strank – samo Bolgara, če se prav spominjam,
                ni bilo nobenega. Kar se je tam govorilo in sklepalo, zame ni toliko važno, kakor že

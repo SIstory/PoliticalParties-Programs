@@ -44,15 +44,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja BLaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.144.PPP">Narodno-radikalno dijaštvo priporoča, da se društva
+            <p xml:id="No.144.PPP"><orgName>Narodno-radikalno dijaštvo</orgName> priporoča, da se društva
                narodno-radikalnih akademikov združijo v enotnejšo organizacijo, ki naj na podlagi
                dosedanjih organizacij skuša biti nekak izvrševalni in reprezentativni organ
-               narodno-radikalnega dijaštva. Naše glasilo je <title>Omladina</title>.</p>
+               <orgName>narodno-radikalnega dijaštva</orgName>. Naše glasilo je <title>Omladina</title>.</p>
             <gap reason="irrelevant"/>
          </div>
       </body>

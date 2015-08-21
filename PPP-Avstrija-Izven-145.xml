@@ -56,6 +56,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -63,8 +68,8 @@
             <head>Resolucije II. shoda nar.-rad. dijaštva v Celju od 5. do 8. kimovca 1907</head>
             <div>
                <head n="A.">Resolucija o dvobojnem vprašanju.</head>
-               <p xml:id="No.145.PPP.1">Drugi shod narodno-radikalnega dijaštva:</p>
-               <list xml:id="No.145.PPP.2" type="ordered">
+               <p xml:id="No.145.PPP.1">Drugi shod <orgName>narodno-radikalnega dijaštva</orgName>:</p>
+               <list xml:id="No.145.PPP.2" rend="numberd">
                   <item n="I.">smatra dvoboj za protinravno, kulturnim težnjam našega časa
                      neodgovarjajoče sredstvo za obrambo osebne časti, ki tudi ne more nuditi
                      zadoščenja za kakršnokoli žalitev. Radi tega ga najodločnejše odklanja;</item>
@@ -77,7 +82,7 @@
                      ministrstva dovoljenje, da smejo biti rezervni častniki in kadeti tudi člani te
                      naše organizacije.</item>
                   <item n="IV.">Predpriprave za ustanovitev take organizacije naj izvrši poseben
-                     odsek narodno-radikalnih društev, ki naj pritegne s posredovanjem naše
+                     odsek <orgName>narodno-radikalnih društev</orgName>, ki naj pritegne s posredovanjem naše
                      starejšinske organizacije temu delu tudi izvendijaško razumništvo.</item>
                </list>
             </div>

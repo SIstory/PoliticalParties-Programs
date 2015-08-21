@@ -47,15 +47,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Shod zaupnikov narodno-napredne stranke.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.55.PPP.1">Shod zaupnikov narodnonapredne stranke, zbran dne <date when="1906-03-25">25. marca
+            <p xml:id="No.55.PPP.1">Shod zaupnikov <orgName>narodnonapredne stranke</orgName>, zbran dne <date when="1906-03-25">25. marca
                   1906</date> v <placeName>Ljubljani</placeName> skleni soglasno:</p>
-            <list type="ordered" xml:id="No.55.PPP.2">
+            <list rend="numbered" xml:id="No.55.PPP.2">
                <item n="1.)">da protestuje z največjo ogorčenostjo zoper razdelitev volilnih okrajev
                   na <placeName>Koroškem</placeName> v vladni predlogi državnozborske volilne
                   reforme, ker ta razdelitev bije v lice načelu splošne in enake volilne pravice ter

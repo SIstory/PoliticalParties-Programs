@@ -72,6 +72,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -81,8 +86,8 @@
                svojih bistvenih določbah sloneča na zistemu neznosnih privilegijev posameznih
                stanov, popolnoma zastarela in naravnost udarec v obraz zdravi pameti ter pravicam
                ljudstva, – predlagajo podpisani:</p>
-            <p xml:id="No.11.PPP.2"><hi rend="italic">Deželni zbor naj sklene:</hi></p>
-            <list type="ordered" xml:id="No.11.PPP.3">
+            <p xml:id="No.11.PPP.2"><hi rend="italic"><orgName>Deželni zbor</orgName> naj sklene:</hi></p>
+            <list rend="numbered" xml:id="No.11.PPP.3">
                <item n="1.)">Deželni red in deželnega zbora volilni red za vojvodino
                      <placeName>Kranjsko</placeName> se ima spremeniti na temelju načela <hi
                      rend="italic">splošne in enake volilne pravice</hi>.</item>

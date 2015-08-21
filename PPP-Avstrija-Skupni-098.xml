@@ -48,6 +48,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -57,8 +62,8 @@
                neugodne razmere tržaškega slovenskega ljudstva in prebivalcev po okolici neobhodno
                zahtevajo, da se v <placeName>Trstu</placeName> ustanovi slovensk časopis.</p>
             <p xml:id="No.98.PPP.2">Sprevidevši to potrebo, sklenolo je politično društvo
-                  <q>Edinost</q> izdajati časnik, ki bode:</p>
-            <list xml:id="No.98.PPP.3" type="ordered">
+                  <q><orgName>Edinost</orgName></q> izdajati časnik, ki bode:</p>
+            <list xml:id="No.98.PPP.3" rend="numbered">
                <item n="a)">popolnem <hi rend="italic">neodvisen</hi> imel pred očmi z društvom
                   enake namere;</item>
                <item n="b)">on bode <hi rend="italic">svobodoljuben</hi>, nikakor pa ne svobodnjašk;

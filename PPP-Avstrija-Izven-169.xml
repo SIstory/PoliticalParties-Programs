@@ -47,6 +47,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -56,10 +61,10 @@
             <p xml:id="No.169.PPP.1">Vsi <gap reason="irrelevant"/> različni računi z izidom vojske
                so nam ustvarili popolnoma novo politično grupacijo in nove politične skupine.</p>
             <p xml:id="No.169.PPP.2">Pričnimo z najbolj radikalno strujo, z ono, ki ne računa le z
-               neomejeno zmago antante, ampak jo tudi želi. Da eden ali drugi računa z zmago
-               antante, to še ne bi bila tako strašna reč, ker sreča je opoteča, posebno bojna. To
+               neomejeno zmago <orgName>antante</orgName>, ampak jo tudi želi. Da eden ali drugi računa z zmago
+               <orgName>antante</orgName>, to še ne bi bila tako strašna reč, ker sreča je opoteča, posebno bojna. To
                je priznal tudi minister <persName>Burian</persName>. Nekaj druzega je pa, če kdo
-               želi in komaj čaka, da zmaga antanta. Kaj pričakujejo ti ljudje od antantne zmage za
+               želi in komaj čaka, da zmaga <orgName>antanta</orgName>. Kaj pričakujejo ti ljudje od antantne zmage za
                Slovence? Če govorimo s takim človekom in mu stavimo to vprašanje, nam bo odgovoril:
                   <said>Mi bomo postali združen narod Jugoslovanov, dobili bomo svojo neodvisno
                   državo in rešeni bomo nemške in mažarske in laške nadvlade.</said> – Poglejmo,
@@ -67,7 +72,7 @@
             <p xml:id="No.169.PPP.3"><said>Mi bomo dosegli ujedinjenje troimenega naroda Slovencev,
                   Hrvatov in Srbov</said> – kaj se to pravi? To se pravi, da naj izginejo vsi
                razločki med Slovenci, Hrvati in Srbi. Ali bodo res izginili? Ne verjamemo. Srbi so
-               močan in samozavesten narod in tem tudi danes, ko vse vpije za Jugoslavijo kakor
+               močan in samozavesten narod in tem tudi danes, ko vse vpije za <placeName>Jugoslavijo</placeName> kakor
                noro, niti v sanjah ne pade na um, da bi rekli, da hočejo zatajiti svoje starodavno
                srbsko ime, svojo srbsko-pravoslavno vero, svojo srbsko književnost in svojo srbsko
                državo. Po vsi svoji naravi in po vsi svoji zgodovinski preteklosti in po sedanji
@@ -78,7 +83,7 @@
                sedanjostjo in bodočnostjo bo samo ta, da danes gospoduje Nemec, potem bo pa Srb.</p>
             <p xml:id="No.169.PPP.4">Srb pa samo na eni strani. Na drugi strani bi dobili v deželo
                še vse hujšega nasprotnika, namreč Lahe. Lahi imajo po londonski pogodbi izgovorjen
-               lep kos slovenske zemlje, če zmaga antanta. To vedo vsi naši antantarji, in vendar se
+               lep kos slovenske zemlje, če zmaga <orgName>antanta</orgName>. To vedo vsi naši antantarji, in vendar se
                vnemajo zanjo, kakor da bi bila to za naš narod največja sreča, če nas razdele na dva
                ali tri plati! <said>Pa vsaj nas ne bodo razdelili,</said> – tako odgovarjajo, –
                   <said>ker to nasprotuje narodni samoodločbi!</said> – Poznamo ta odgovor, poznamo
@@ -87,27 +92,27 @@
                hočemo mi sami? Kje? Dosedaj še tega ne vemo in kakor vse kaže, tudi nikdar vedeli ne
                bomo!</p>
             <p xml:id="No.169.PPP.5">Zato ne verjamemo na ujedinjenje troimenega naroda v lastno
-               državo pod okriljem antante. Vzrok, da se ena struja med nami ogreva za antanto, mora
+               državo pod okriljem <orgName>antante</orgName>. Vzrok, da se ena struja med nami ogreva za <orgName>antanto</orgName>, mora
                biti drug in drugačen.</p>
             <p xml:id="No.169.PPP.6">Mi vemo in tudi ne tajimo, da trpimo Slovenci mnogo pod nemško
-               nadvlado. In samo sovraštvo do nemštva vodi gotove ljudi v naročje antante in pa
+               nadvlado. In samo sovraštvo do nemštva vodi gotove ljudi v naročje <orgName>antante</orgName> in pa
                sovraštvo do katoličanstva, ker je <placeName>Avstrija</placeName> katoliška država!
                To sta dva vodilna nagiba in nič druzega! Napačna sta pa oba; iz sovraštva do Nemcev
                še ni treba želeti razpada <placeName>Avstrije</placeName>, ker so mogoče pametne
                reforme tudi v <placeName>Avstriji</placeName>, sovraštvo do katoličanstva pa
                nasprotuje lastnemu načelu svobodomiselstva o toleranci.</p>
-            <p xml:id="No.169.PPP.7">Ta struja, o kateri smo govorili dosedaj, se zavzema za antanto
+            <p xml:id="No.169.PPP.7">Ta struja, o kateri smo govorili dosedaj, se zavzema za <orgName>antanto</orgName>
                iz prepričanja (čeprav je to prepričanje za Slovence naravnost pogubno) in je vsaj
                vsled tega vredna spoštovanja v toliko, kolikor se spoštuje prepričanje.</p>
-            <p xml:id="No.169.PPP.8">Kaj naj pa rečemo o drugi struji, ki je za antanto vneta iz
+            <p xml:id="No.169.PPP.8">Kaj naj pa rečemo o drugi struji, ki je za <orgName>antanto</orgName> vneta iz
                golega strahu – in iz gole bojazni pred vislicami! So nasprotniki in sovražniki
                Nemcev, a pravijo, da so reforme v <placeName>Avstriji</placeName> tudi mogoče;
                pravijo, da so katoliki, in vendar vlečejo skupaj en voz s prvo strujo, ki je
-               najhujša nasprotnica katoličanstva! Ti pravijo bržkone tako: Antanta bo zmagala. Če
+               najhujša nasprotnica katoličanstva! Ti pravijo bržkone tako: <orgName>Antanta</orgName> bo zmagala. Če
                pa zmaga, bo udarila po svojih nasprotnikih. Če pa pokažemo, da nismo njeni
                nasprotniki, nam bodo pa prizanesli, milostno prizanesli. A ne samo prizanesli, še
                pohvalili nas bodo in se nas veselili, kakor je nad enim spokorjencem več veselja
-               kakor nad 99 pravičniki! Torej pritegnimo k antanti in rešeni smo in bomo. Naša misel
+               kakor nad 99 pravičniki! Torej pritegnimo k <orgName>antanti</orgName> in rešeni smo in bomo. Naša misel
                je, da se kruto varajo! Dokler jih potrebujejo, so jim pač dobro došli pomočniki;
                kadar jih pa ne bo več treba, takrat se bodo pa odprle knjige, kjer so zapisani vsi
                njihovi mali in veliki grehi in takrat jim bodo rekli: Prijatelj, hvala na
@@ -116,7 +121,7 @@
             <p xml:id="No.169.PPP.9">Tretja struja je pošteno avstrijska in slovenska, brez vsakih
                pridržkov, brez hlimbe in hinavstva in skrivanja. Ta stoji na stališču poštene,
                patrijotiške majniške deklaracije in vidi edino rešitev za Slovenstvo v
-                  <persName>habsburški monarhiji</persName>, katere notranje uredbe ne odobrava čez
+                  <placeName>habsburški monarhiji</persName>, katere notranje uredbe ne odobrava čez
                drn in strn, a tudi ne obupava nad njo; ampak je uverjena in prepričana, da bo mogoče
                v soglasju z ustanovnimi faktorji pribojevati tudi Slovencem tisto stališče v državi,
                katero jim gre. Ta struja je mnenja, da nas silijo tudi gospodarski vzroki, da hočemo

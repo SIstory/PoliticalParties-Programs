@@ -48,14 +48,19 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Slovenska kmečka zveza.</head>
+            <head><orgName>Slovenska kmečka zveza</orgName>.</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.32.PPP.1">Spodnještajerski slovenski kmetje, zbrani na ustanovnem zboru
-                  <q>Slovenske kmečke zveze</q>, slovesno izjavljajo, da vkljub vsem gonjam zadnjega
+                  <q><orgName>Slovenske kmečke zveze</orgName></q>, slovesno izjavljajo, da vkljub vsem gonjam zadnjega
                časa trdno in nepremično vstrajajo na dosedanjem verskem in narodnem programu
                spodnještajerskih Slovencev:</p>
             <p xml:id="No.32.PPP.2">istotako slovesno izjavljajo, da bodo povsod in z vsemi silami

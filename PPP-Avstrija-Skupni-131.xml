@@ -48,12 +48,17 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.131.PPP">Deželni zbor pozdravlja aneksijo <placeName>Bosne in
+            <p xml:id="No.131.PPP"><orgName>Deželni zbor</orgName> pozdravlja aneksijo <placeName>Bosne in
                   Hercegovine</placeName>, v trdni nadeji, da je s tem zvršen prvi korak k združenju
                vseh južnih Slovanov naše monarhije v državnopravno samostojen organizem pod žezlom
                habsburške dinastije.</p>

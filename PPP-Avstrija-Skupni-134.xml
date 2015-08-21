@@ -57,13 +57,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:lang="hbs">
             <gap reason="irreleant"/>
-            <p xml:id="No.134.PPP.1">Dne <date when="1917-11-09">9. novembra</date> primio je Zbor
-               Sovjeta načela za predlog mira, u kome se proglašuje aneksijom i nasilnim
+            <p xml:id="No.134.PPP.1">Dne <date when="1917-11-09">9. novembra</date> primio je <orgName>Zbor
+               Sovjeta</orgName> načela za predlog mira, u kome se proglašuje aneksijom i nasilnim
                prisvajanjem, ako ma koja država silom zadržava koji narod, ako se priznanje prava
                narodnog glasanja uskraćuje narodu protiv njegove volje izražene bilo štampom, bilo u
                narodnim skupštinama, bilo otporom ili ustankom protiv ugnjetavača, ili ako mu se
@@ -73,7 +78,7 @@
             <p xml:id="No.134.PPP.2">Ta vlada dalje predlaže, da u pregovorima za mir učestvuju
                predstavnici svih narodnosti i naroda, koji su uvučeni u rat ili od njega
                stradavaju.</p>
-            <p xml:id="No.134.PPP.3">Pošto je na telegrafsku okružnicu Sovjeta narodnih povjerenika
+            <p xml:id="No.134.PPP.3">Pošto je na telegrafsku okružnicu <orgName>Sovjeta narodnih povjerenika</orgName>
                   <date when="1917-11-28">28. novembra 1917</date>. austro-ugarska vlada bila
                izjavila, da pristaje na načela ruskog programa za mir bez aneksija i ratnih naknada,
                uz obezbijeđenje prava na narodno samoopredeljenje, svečano su izjavile <date
@@ -94,7 +99,7 @@
                o miru odlučiti o sudbini i o opstanku našeg naroda, smatramo svojom svetom dužnosti,
                da otvoreno izrazimo svoje stajalište u ovom pitanju.</p>
             <p xml:id="No.134.PPP.6">Od šestoga vijeka obitava narod Slovenaca, Hrvata i Srba
-               (zajedničkim imenom Jugoslovena) u predjelima sjeverno i istočno Jadranu. Izmjenično
+               (zajedničkim imenom Jugoslovena) u predjelima sjeverno i istočno <geogName>Jadranu</geogName>. Izmjenično
                podjarmljen od Turaka i Germana, a djelomično i od Romana, proživio je naš narod u
                ropstvu teške muke kroz vijekove. Kadgod su i u koliko su dijelovi ovog naroda sebi
                izvojevali državnu slobodu, procvjetala je kod njih kultura i civilizacija, dok su
@@ -117,7 +122,7 @@
             <p xml:id="No.134.PPP.10">Kad je buknula ruska revolucija te se činilo da puca zora
                slobode za proletare među narodima, osokolio se naš narod i poče otvorenu borbu za
                svoju nezavisnost. Dne <date when="1917-05-30">30. maja</date> pročitao je
-               predsjednik Jugoslovenskog kluba<note place="foot" source="#SourceBornDigital"
+               predsjednik <orgName>Jugoslovenskog kluba</orgName><note place="foot" source="#SourceBornDigital"
                      ><persName>Dr. Anton Korošec</persName>.</note> u bečkoj zastupničkoj kući
                   izjavu,<note place="foot" source="#SourceBornDigital">Glej dok. št. 132.</note> u
                kojoj se traži ujedinjenje svih krajeva monarhije, u kojima su nastanjeni Slovenci,
@@ -131,7 +136,7 @@
             <p xml:id="No.134.PPP.11">Na ovom mjestu moramo svečano protiv toga prosvjedovati, da
                tobože ustavi monarhije, što postoje, pružaju narodima ma kakvu mogućnost slobodnoga
                razvitka. Naprotiv: oni zajamčuju obim privilegovanim narodima sva sredstva državne
-               moći za tlačenje i guljenje proletarskih naroda. Austrijski državni savjet sastoji se
+               moći za tlačenje i guljenje proletarskih naroda. <orgName>Austrijski državni savjet</orgName> sastoji se
                iz dvije ravnopravne kuće. Članove jedne od njih imenuje vlada. Ni jedan zakon ne
                može biti predložen na sankciju, ako ne pristane gospodska kuća. Zastupnička kuća
                bira se doduše prividno na osnovu općega prava glasa, ali su izborni kotari tako
@@ -154,7 +159,7 @@
                većini od dvije trećine, odnosno od tri četvrtine, imadu samo manjinu saborskih
                mandata. A čak i u <placeName>Kranjskoj</placeName>, gdje 98% pripada slovenačkoj
                narodnosti, udešen je taj od grofa <persName>Czernina</persName> tako slavljeni ustav
-               na tako vješt način, da u kranjski sabor, koji i prema Parlamentu ima ograničenu
+               na tako vješt način, da u <orgName>kranjski sabor</orgName>, koji i prema <orgName>Parlamentu</orgName> ima ograničenu
                kompetenciju, pedeset i tri njemačka velika posjednika biraju četvrtinu zastupnika, a
                uz to imadu veto u najvažnijim pitanjima, a naročito u pogledu promjene zemaljskoga
                reda. Što se tvrdi, da ustavi <placeName>Austro-Ugarske</placeName> jamče narodima
@@ -178,7 +183,7 @@
                historijsko-pravnoga stajališta ima potpuno pravo, da zahtijeva pravo
                samoopredjeljenja.</p>
             <p xml:id="No.134.PPP.18">Naš je program, ako ga saberemo, ovaj: </p>
-            <list xml:id="No.134.PPP.19" type="ordered">
+            <list xml:id="No.134.PPP.19" rend="numbered">
                <item n="1.">Odmah opći demokratski mir, potpuno razoružanje, međunarodno
                   obezbjeđenje i zaštita slobodnog razvitka svih naroda, velikih i malih.</item>
                <item n="2.">Priznanje i potpuno osiguranje slobodno provedenoga i potpunoga prava na
@@ -187,8 +192,8 @@
                <item n="3.">Mi ne tražimo za našu državu ništa, što pripada drugom narodu i prema
                   tome nama ne pripada; mi tražimo za našu državu samo ono zemljište, koje je u
                   kompaktnim masama kontinuirano naseljeno od Srba Hrvata i Slovenaca.</item>
-               <item n="4.">More, naročito Jadransko, neka bude slobodno. U koliko bi promet preko
-                  luka na sjeveru Jadranskoga mora, a koje se nalaze u našem kompaktnom
+               <item n="4.">More, naročito <geogName>Jadransko</geogName>, neka bude slobodno. U koliko bi promet preko
+                  luka na sjeveru <geogName>Jadranskoga mora</geogName>, a koje se nalaze u našem kompaktnom
                   narodno-gospodarskom ozemlju, bio osobito koristan za privredni razvitak
                   udaljenijih naroda, pripravni smo s njima sklopiti ugovore, koji im jamče slobodni
                   trgovački promet preko njih.</item>

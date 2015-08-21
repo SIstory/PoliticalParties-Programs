@@ -50,13 +50,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.126.PPP.1">Deželni zbor skleni:</p>
-            <list xml:id="No.126.PPP.2" type="simple">
+            <p xml:id="No.126.PPP.1"><orgName>Deželni zbor</orgName> skleni:</p>
+            <list xml:id="No.126.PPP.2" rend="simple">
                <item>Deželni red in deželni volilni red se imata spremeniti v tem smislu, da se
                   omogoči vsem slojem prebivalstva sodelovanje pri deželni zakonodaji in
                   upravi.</item>

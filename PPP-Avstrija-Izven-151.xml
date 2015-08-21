@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -58,12 +63,12 @@
             <gap reason="irrelevant"/>
             <div>
                <head n="G.">Resolucija o strokovnem študiju.</head>
-               <list xml:id="No.151.PPP" type="ordered">
+               <list xml:id="No.151.PPP" rend="numbered">
                   <item n="I.">Konštatiramo, da se je v prvi vrsti po zaslugi <title>Omladine</title>, ki je
                      opozarjala na ekonomsko izbiro stanu, nesorazmerje med posameznimi strokami
                      naših akademikov od I. našega shoda znatno izboljšalo. – Pozivljamo <title>Omladino</title>
                      in eksekutivo, da delujeta na tem polju še tudi naprej!</item>
-                  <item n="II.">Eksekutiva narodno-radikal. dijaštva naj stopi v zvezo z
+                  <item n="II.">Eksekutiva <orgName>narodno-radikal. dijaštva</orgName> naj stopi v zvezo z
                      <q>Radogojem</q>, kot v to najpoklicanejšim faktorjem, da se končno oživotvori že na
                      tržaškem shodu nasvetovani statistični informačni biró o uradništvu na
                      slovenskem ozemlju.</item>

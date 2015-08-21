@@ -123,33 +123,33 @@
                <dateline><hi rend="italic">V <placeName>Ljubljani</placeName></hi>, dné <date
                      when="1891-01-30">30. januvarja 1891</date>.</dateline>
                <signed>
-                  <list type="simple">
+                  <list rend="simple">
                      <head><hi rend="italic">Za pripravljalni volilni odbor:</hi></head>
-                     <item><hi rend="italic"><placeName>Ivan Murnik</placeName></hi>, načelnik in
+                     <item><hi rend="italic"><persName>Ivan Murnik</persName></hi>, načelnik in
                         deželni odbornik;</item>
-                     <item>Dr. vitez <hi rend="italic"><placeName>Karol Bleiweis</placeName></hi>,
+                     <item>Dr. vitez <hi rend="italic"><persName>Karol Bleiweis</persName></hi>,
                         deželni poslanec;</item>
-                     <item><hi rend="italic"><placeName>Oton Detela</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Oton Detela</persName></hi>, deželni
                         odbornik;</item>
-                     <item><hi rend="italic"><placeName>Peter Grasselli</placeName></hi>, župan in
+                     <item><hi rend="italic"><persName>Peter Grasselli</persName></hi>, župan in
                         deželni poslanec;</item>
-                     <item><hi rend="italic"><placeName>Ivan Hribar</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Ivan Hribar</persName></hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><placeName>Anton Klein</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Anton Klein</persName></hi>, deželni
                         poslanec;</item>
-                     <item>dr. <hi rend="italic"><placeName>Fran Papež</placeName></hi>, deželni
+                     <item>dr. <hi rend="italic"><persName>Fran Papež</persName></hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><placeName>Franc Povše</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Franc Povše</persName></hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><placeName>Luka Svetec</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Luka Svetec</persName></hi>, deželni
                         poslanec; </item>
-                     <item><hi rend="italic"><placeName>Feliks Stegnar</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Feliks Stegnar</persName></hi>, deželni
                         poslanec; </item>
-                     <item>dr. <hi rend="italic"><placeName>Ivan Tavčar</placeName></hi>, deželni
+                     <item>dr. <hi rend="italic"><persName>Ivan Tavčar</persName></hi>, deželni
                         poslanec;</item>
-                     <item>dr. <hi rend="italic"><placeName>Josip Vošnjak</placeName></hi>, deželni
+                     <item>dr. <hi rend="italic"><persName>Josip Vošnjak</persName></hi>, deželni
                         odbornik;</item>
-                     <item><hi rend="italic"><placeName>Ignacij Žitnik</placeName></hi>, deželni
+                     <item><hi rend="italic"><persName>Ignacij Žitnik</persName></hi>, deželni
                         poslanec.</item>
                   </list>
                </signed>

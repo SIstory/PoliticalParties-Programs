@@ -47,6 +47,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -55,7 +60,7 @@
             <gap reason="irrelevant"/>
             <p xml:id="No.110.PPP.1">4. Vseslovenski in istrsko-hrvatski shod v
                   <placeName>Ljubljani</placeName>, <hi rend="italic">priznava</hi>:</p>
-            <list xml:id="No.110.PPP.2" type="simple">
+            <list xml:id="No.110.PPP.2" rend="simple">
                <item>da se Slovencem na <placeName>Goriškem</placeName>, osobito v mestu in okraju
                   goriškem, kratijo v državnih temeljnih zakonih zajamčene državljanske pravice; da
                   se v nasprotju z naravnim pravom ter z državnimi in deželnimi zakoni Slovenci na
@@ -68,14 +73,14 @@
                <item><hi rend="italic">protestuje</hi> najodločneje proti tem odnošajem na
                      <placeName>Goriškem</placeName>, ki so zakrivili, da je v tamošnjem slovenskem
                   ljudstvu izginila vera v temeljno načelo naše države;</item>
-               <item><hi rend="italic">zahteva</hi>: naj visoka c. kr. vlada uvede na
+               <item><hi rend="italic">zahteva</hi>: naj visoka <orgName>c. kr. vlada</orgName> uvede na
                      <placeName>Goriškem</placeName> zakonite razmere v vsakem oziru; naj omogoči
                   goriškim Slovencem uživanje državljanskih pravic in tak kulturni razvoj, kakoršni
                   zahteva naravno pravo ter ga jamčijo obstoječi zakoni; naj tirja od sebi
                   podrejenih uradov in uradnih oseb strogo in dosledno, da postopajo popolno
                   nepristransko, uljudno in zakonito tudi nasproti slovenskemu prebivalstvu na
                      <placeName>Goriškem</placeName> v smislu svoja uradniške prisega; ter</item>
-               <item><hi rend="italic">pričakuje</hi>: da bo visoka c. kr. vlada zahtevala jednako
+               <item><hi rend="italic">pričakuje</hi>: da bo visoka <orgName>c. kr. vlada</orgName> zahtevala jednako
                   postopanje, kakor od svojih uradnikov, nasproti slovenskemu prebivalstvu na
                      <placeName>Goriškem</placeName> tudi od mestnega urada v
                      <placeName>Gorici</placeName> in njegovih organov ter od kupčijske in

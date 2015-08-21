@@ -51,8 +51,8 @@
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list type="ordered">
-               <item n="I.">k narodnostnemu vprašanju:<list xml:id="No.162.PPP" type="simple">
+            <list rend="numbered">
+               <item n="I.">k narodnostnemu vprašanju:<list xml:id="No.162.PPP" rend="simple">
                      <item>Z ozirom na naše narodnostno načelo in tozadevne resolucije z naših
                         shodov pozivljama slovensko dijaštvo, da se prične temeljitejše baviti z
                         vprašanji, ki izvirajo iz cilja <hi rend="italic"><q><placeName>Združena

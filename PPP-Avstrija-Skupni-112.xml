@@ -65,6 +65,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -77,10 +82,10 @@
                   <head>Koroške razmere.</head>
                   <div xml:id="No.112.PPP.1">
                      <head n="I.">Deželna vlada.</head>
-                     <p> Osrednja vlada se pozivlje, da premeni upravni sistem pri c. kr. deželni
-                        vladi na Koroškem in skrbi za to, da bode deželni predsednik brez ozira na
+                     <p>Osrednja vlada se pozivlje, da premeni upravni sistem pri <orgName>c. kr. deželni
+                        vladi na <placeName>Koroškem</placeName></orgName> in skrbi za to, da bode deželni predsednik brez ozira na
                         katerokoli politično stranko pravičen obema narodoma, ki prebivata na
-                        Koroškem, in z jednako ljubeznijo skrbel za duševno in gmotno blagostanje
+                        <placeName>Koroškem</placeName>, in z jednako ljubeznijo skrbel za duševno in gmotno blagostanje
                         nemškega in slovenskega ljudstva v deželi.</p>
                   </div>
                   <div xml:id="No.112.PPP.2">
@@ -143,7 +148,7 @@
                   <div xml:id="No.112.PPP.5">
                      <head n="V.">Volilni red v deželni in državni zbor.</head>
                      <p>Volilne razmere na <placeName>Koroškem</placeName> za deželni in državni
-                        zbor so Slovencem neugodne in krivične. Visoka c. kr. vlada naj skrbi, da se
+                        zbor so Slovencem neugodne in krivične. Visoka <orgName>c. kr. vlada</orgName> naj skrbi, da se
                         dosedanji volilni red v obeh ozirih prenaredi in sicer za drž. zbor po
                         predlogu, ki so ga nasvetovali slovenski poslanci dne <date
                            when="1897-05-24">24. maja t. l.</date> v 17. seji v ravno preteklem

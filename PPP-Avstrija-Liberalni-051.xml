@@ -45,18 +45,23 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.51.PPP">Obe stranki druga drugi jamčita subvencijo slovenskega in nemškega
+            <p xml:id="No.51.PPP">Obe <orgName>stranki</orgName> druga drugi jamčita subvencijo slovenskega in nemškega
                gledališča v dosedanjem obsegu; volitve v vse odseke po številu poslancev – 12
                članski odsek: 5 klerikalcev, 4 veleposestniki, 3 liberalci; ohranitev 600
                goldinarjev za nemški pouk na slovenskih ljudskih šolah <gap reason="irrelevant"/>.
-               Nobenih nacionalnih napadov s strani slovenske liberalne stranke in če bi do njih
+               Nobenih nacionalnih napadov s strani <orgName>slovenske liberalne stranke</orgName> in če bi do njih
                prišlo s tretje strani, predhoden sporazum z nami glede odnosa, ki ga je zavzeti. Mi
-               v plenumu zbornice volimo člana slovenske liberalne stranke, ki ga bo ta imenovala za
+               v plenumu zbornice volimo <orgName>člana slovenske liberalne stranke</orgName>, ki ga bo ta imenovala za
                deželni odbor.</p>
             <gap reason="irrelevant"/>
          </div>

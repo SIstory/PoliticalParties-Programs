@@ -52,6 +52,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -65,7 +70,7 @@
                         ><persName>Schwegel</persName></hi>, dr. <hi rend="italic"
                         ><persName>Tavčar</persName></hi> in sodrugi nujni predlog:</p>
                <quote>
-                  <p>Deželni zbor skleni:</p>
+                  <p><orgName>Deželni zbor</orgName> skleni:</p>
                   <p>Deželni red in deželni volilni red se imata spremeniti v tem smislu, da se
                      omogoči vsem slojem prebivalstva sodelovanje pri deželni zakonodaji in
                      upravi.</p>
@@ -86,7 +91,7 @@
                   tisti moment, ki daje predloženi reformi odločilno vrednost in ki jo sam po sebi
                   opravičuje in utemeljuje.</p>
                <p>Glavne točke predlagane reforme, v razmerju proti sedaj veljavnim zakonom, so:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="1.">Ustanovitev splošnega volilskega razreda z 11 mandati.</item>
                   <item n="2.">Pomnožitev deželnega odbora z enim prisednikom, ki ga volijo poslanci
                      splošnega volilskega razreda.</item>
@@ -113,7 +118,7 @@
                   državnozborsko volilno pravico – gotovo najpravilnejša rešitev tega vprašanja.</p>
                <p>Kar se tiče razdelitve okrajev v splošni skupini, je odsek sprejel pravilno načelo
                   teritorijalne razdelitve na 11 okrajev, kojih vsak voli jednega poslanca. Prvega
-                  teh okrajev tvori (kakor za državni zbor) glavno mesto
+                  teh okrajev tvori (kakor za <orgName>državni zbor</orgName>) glavno mesto
                      <placeName>Ljubljana</placeName> – drugih 10 okrajev pa se tudi krije z
                   državnozborskimi volilnimi okraji, razun onih sprememb, koje provzroča okolnost,
                   da se ni vstvaril, kakor za državni zbor, poseben nemško-naroden kočevski
@@ -145,8 +150,8 @@
                   poslanca v volilskem razredu mest in trgov.</p>
                <p>V to svrho se razdeli <placeName>Ljubljana</placeName> v severno in južno polovico
                   po idealni črti od mestne hiše do Švicarije.<note place="foot"
-                     source="#SourceBornDigital">Stavba v parku Tivoli, pribl. 40 m nad Tivolskim
-                     gradom.</note></p>
+                     source="#SourceBornDigital">Stavba v parku <geogName>Tivoli</geogName>, pribl. 40 m nad <geogName>Tivolskim
+                     gradom</geogName>.</note></p>
                <p>Južno polovico tvorijo II. (Št. Jakobski) III. (Dvorski) in V. okraj (Predkraji)
                      se<note place="foot" source="#SourceBornDigital">Se – s.</note> skupaj <hi
                      rend="italic">17.910</hi> civilnimi prebivalci; severno polovico pa tvorijo I.
@@ -170,7 +175,7 @@
                <p>Po tej ločitvi se <placeName>Ribnica</placeName> naravno ni mogla priklopiti
                   drugam, nego slovenskim dolenjskim mestom.</p>
                <milestone unit="section" n="____________"/>
-               <p>Posebe omenjati je konečno še prehodne določbe, glasom katerih se deželni zbor, ko
+               <p>Posebe omenjati je konečno še prehodne določbe, glasom katerih se <orgName>deželni zbor</orgName>, ko
                   predlagana reforma postane zakon, ne razpusti, temuč le <hi rend="italic"
                      >spopolni</hi> s tem, da se izvolijo poslanci splošnega volilskega razreda in
                   pa nova dva ljubljanska poslanca v voliskem razredu mest in trgov. Istotako se
@@ -184,16 +189,16 @@
                   prava že sodelujejo pri nadaljni obsežni ureditvi deželne ustave. To so razlogi,
                   ki so vodili ustavni odsek, da se je odločil predlagati provizorij v obliki
                   označenih prehodnih določb.</p>
-               <p>Stvar spopolnjenega deželnega zbora bode, da še v tekoči zakonodavni dobi izvrši
+               <p>Stvar spopolnjenega <orgName>deželnega zbora</orgName> bode, da še v tekoči zakonodavni dobi izvrši
                   obsežno in temeljito revizijo deželne ustave.</p>
                <p>S predloženima zakonskima načrtoma pa se brez dvoma ustreže uvodom navedenemu
                   nujnemu predlogu: <hi rend="italic">da se omogoči vsem slojem prebivalstva
                      sodelovanje pri deželni zakonodaji in upravi</hi>.</p>
                <p>Ustavni odsek po <hi rend="italic">soglasnem</hi> sklepu predlaga:</p>
                <p><hi rend="italic">Visoki deželni zbor skleni:</hi></p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="I.">Priloženima zakonskima načrtoma o spremembi deželnega reda in
-                     volilnega reda za deželni zbor se pritrdi.</item>
+                     volilnega reda za <orgName>deželni zbor</orgName> se pritrdi.</item>
                   <item n="II.">Deželni odbor se pozivlje, da čim preje izposluje Najvišje
                      potrjenje.</item>
                </list>

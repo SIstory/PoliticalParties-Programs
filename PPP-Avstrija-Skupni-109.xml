@@ -71,6 +71,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -83,8 +88,8 @@
                   <head>Istrske in tržaške razmere.</head>
                   <p xml:id="No.109.PPP.1">Zbrani na vseslovenskem i istersko-hrvatskem shodu
                      pozivajo svoje poslance v državnem zboru, da skupaj s svojimi zavezniki
-                     zahtevajo s vso odločnostjo od c. kr. vlade, kot pogoj za podpiranje iste:</p>
-                  <list xml:id="No.109.PPP.2" type="ordered">
+                     zahtevajo s vso odločnostjo od <orgName>c. kr. vlade</orgName>, kot pogoj za podpiranje iste:</p>
+                  <list xml:id="No.109.PPP.2" rend="numbered">
                      <item n="I.">da se že dolgo trajajoči sistem v pokrajinah
                            <placeName>Trstu</placeName> z okolico i <placeName>Istri</placeName>,
                         kakor i v celem <placeName>Primorju</placeName>, idoči naravnost na
@@ -95,21 +100,21 @@
                         preneha njih neznosno stanje in da se z njimi postopa po zakonih, kot
                         ravnopravnimi državljani i ljudmi;</item>
                      <item n="II.">posebej glede <placeName>Trsta</placeName> z okolico:<list
-                           type="ordered">
+                           rend="numbered">
                            <item n="1.">da se urede v mestu <placeName>Trstu</placeName> i okolici
                               ljudske šole tako, da se slovenski otroci podučujejo v svojem
                               materinem slovenskem jeziku;</item>
                            <item n="2.">da se za tržaško okolico – vseh šest okrajev – ustanovi
                               posebno c. kr. okrajno glavarstvo za prenešeni delokrog povse
-                              neodvisno od tržaškega magistrata, a odvisno naravnost od c. kr.
-                              namestništva v <placeName>Trstu</placeName>;</item>
+                              neodvisno od <orgName>tržaškega magistrata</orgName>, a odvisno naravnost od <orgName>c. kr.
+                              namestništva v <placeName>Trstu</placeName></orgName>;</item>
                            <item n="3.">da se, oziroma na volitve v državni zbor, izloči okolica od
                               mesta ter da okolica sama svojega poslanca voli.</item>
                         </list>
                      </item>
                      <item n="III.">posebej glede na pokrajino <placeName>Istro</placeName>:<list
-                           type="ordered">
-                           <item n="1.">da se, pod uplivom organov c. kr. vlade i tudi z novci
+                        rend="numbered">
+                           <item n="1.">da se, pod uplivom organov <orgName>c. kr. vlade</orgName> i tudi z novci
                               hrvatskih vernikov, ne odgajajo duhovniki, skoro izključno sinovi
                               talijanskih voditeljev, v talijanskem jeziku i duhu, ter ne
                               nastavljajo med hrvatske vernike duhovniki talijanske narodnosti in

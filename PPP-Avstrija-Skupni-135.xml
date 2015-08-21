@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -61,7 +66,7 @@
                prisegli. Uresničenje te zahteve nam daje edino možnost, da rešimo vsaj golo narodno
                življenje, ko smo že vse drugo dali. Naš narod ne bo izvršil samomora. Zato se
                naslanjamo na narodno pravo, ki ga nihče ne more prekršiti brez kazni, in trdno
-               ostajamo pri svoji zahtevi ter pozivamo Narodni svet, naj organizira odpor vseh
+               ostajamo pri svoji zahtevi ter pozivamo <orgName>Narodni svet</orgName>, naj organizira odpor vseh
                poštenih elementov našega naroda proti naznanjenemu preganjanju Jugoslovanov.</p>
             <gap reason="irrelevant"/>
          </div>

@@ -47,15 +47,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>"Slovenskega društva" III. javni društveni shod</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.48.PPP">Občni zbor Slovenskega društva izreka se zato, da se stranka,
-               stoječa za društvom, imenuje v prihodnje <hi rend="italic"
-                  ><q>narodno-napredna</q></hi> stranka.</p>
+            <p xml:id="No.48.PPP">Občni zbor <orgName>Slovenskega društva</orgName> izreka se zato, da se stranka,
+               stoječa za društvom, imenuje v prihodnje <orgName><hi rend="italic"
+                  ><q>narodno-napredna</q></hi> stranka</orgName>.</p>
             <gap reason="irrelevant"/>
          </div>
       </body>

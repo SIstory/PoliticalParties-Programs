@@ -47,14 +47,19 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Slovenska Ljudska Stranka na Goriškem.</head>
             <gap reason="irrelevant"/>
-            <list type="ordered" xml:id="No.34.PPP">
-               <item n="1.)">Zbor zaupnikov <q>S. L. S.</q> na <placeName>Goriškem</placeName> se
+            <list rend="numbered" xml:id="No.34.PPP">
+               <item n="1.)">Zbor zaupnikov <q><orgName>S. L. S.</orgName></q> na <placeName>Goriškem</placeName> se
                   čuti solidarnim z delavci v nabrežinskih kamnolomih. Delavci so sedaj odpuščeni,
                   brez dela ter izpostavljeni največjemu pomanjkanju. – Zbor zaupnikov se obrača po
                   svojih poslancih na vlado, da takoj priskoči brezposelnim delavcem na pomoč z

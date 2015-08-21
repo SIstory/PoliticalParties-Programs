@@ -48,13 +48,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.16.PPP">
-            <head>Zaupniki, somišljeniki S. L. S.!</head>
+            <head>Zaupniki, somišljeniki <orgName>S. L. S.</orgName>!</head>
             <p>Iz vseh slovenskih pokrajin Vas kličemo v nedeljo <date when="1909-10-17">17. t.
-                  m.</date> v slovensko središče. Po sijajnih zmagah S. L. S. vstane pred nami mlada
+                  m.</date> v slovensko središče. Po sijajnih zmagah <orgName>S. L. S.</orgName> vstane pred nami mlada
                Združena Slovenija. Ideali naših prvih narodnih klicarjev se približujejo
                uresničenju. Zaupniki, somišljeniki – <date when="1909-10-17">17. t. m.</date> vsi na
                noge, da v bratskem objemu s slovanskimi brati pokažemo svetu, da je prišel narodu

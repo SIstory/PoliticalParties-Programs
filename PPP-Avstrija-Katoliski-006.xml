@@ -47,27 +47,32 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.6.PPP">
             <head><hi rend="italic">Rojaki!</hi></head>
-            <p>Državni zbor je razpuščen, nove volitve so razpisane. Presvetli naš vladar kliče nas
+            <p><orgName>Državni zbor</orgName> je razpuščen, nove volitve so razpisane. Presvetli naš vladar kliče nas
                vnovič na volišče za svete naše verske in narodne pravice. Odzivajmo se katoliški
                Slovenci polnoštevilno njegovemu klicu, podajmo se polnoštevilno na volišče in
                oddajmo svoje glasove za take možé, kakor si jih more želeti vsak pošten slovenski
                rodoljub; <hi rend="italic">možé udane cesarju</hi>, kot od Boga poklicanemu
                zastopniku najvišje državne oblasti kot vrhovnemu čuvatelju ustave in s tem
                zaščitniku naših verskih in narodnih pravic: <hi rend="italic">možé, udane naši sveti
-                  katoliški veri možé</hi>, zveste sinove naše skupne matere sv. katoliške cerkve;
+                  katoliški veri možé</hi>, zveste sinove naše skupne matere sv. <orgName>katoliške cerkve</orgName>;
                   <hi rend="italic">možé, zvesto udane svojemu narodu slovenskemu</hi>, ki ne bodo
                nikdar pozabili, da jih je rodila slovenska mati!</p>
             <p>V <hi rend="italic">verskem, narodnem</hi> in <hi rend="italic">gospodarskem</hi>
-               oziru čaka naših poslancev velevažna naloga v prihodnje državnem zboru.</p>
+               oziru čaka naših poslancev velevažna naloga v prihodnje <orgName>državnem zboru</orgName>.</p>
             <p>1. Zaman so se katoliški poslanci v zadnjem državnem zboru trudili za izpolnitev
                najiskrenejše želje vseh katoliških Avstrijcev, osobito pa katoliških Slovencev, za
                   <hi rend="italic">versko šolo!</hi> Premalo je bilo katoliških poslancev v
-               državnem zboru, da bi se bila mogla naša želja uresničiti!</p>
+               <orgName>državnem zboru</orgName>, da bi se bila mogla naša želja uresničiti!</p>
             <p>Torej bodi naša skrb, da sedaj izvolimo take možé, ki bodo brez vsakih pridržkov
                postavili se pri tem vprašanju v verskem oziru na isto stališče, na katero so se
                postavili <hi rend="italic">avstrijski škofje</hi> v svojej znani izjavi lanskega
@@ -75,7 +80,7 @@
             <p>A ne le v šoli, sploh mora, kakor v zasebnem, tako v javnem življenji vladati <hi
                   rend="italic">krščanski duh</hi>.</p>
             <p>Od svojih prihodnjih državnih poslancev moramo zahtevati, da odločno, jasno, brez
-               pridržkov delujejo v državnem zboru na to, <hi rend="italic">da vse zakonodajstvo
+               pridržkov delujejo v <orgName>državnem zboru</orgName> na to, <hi rend="italic">da vse zakonodajstvo
                   preveva krščanski duh</hi>.</p>
             <p>Skratka: <hi rend="italic">Mi želimo krščansko državo!</hi></p>
             <p>2. V <hi rend="italic">narodnem oziru</hi> čaka naših poslancev velikansko delo.</p>
@@ -118,7 +123,7 @@
                   znižati</hi> tako, da bode najširšim slojem prebivalstva mogoče uživati plodove te
                blagovite uredbe. Jedno najvažnejših narodno-gospodarskih vprašanj za deželo
                   <placeName>Kranjsko</placeName> in <placeName>mesto ljubljansko</placeName> je
-               osuševanje ljubljanskega barja. Naši poslanci naj skrbé za to, da izposlujejo od
+               osuševanje <geogName>ljubljanskega barja</geogName>. Naši poslanci naj skrbé za to, da izposlujejo od
                visoke vlade ono podporo za osuševanja barja, katero je vlada načeloma že obljubila
                in katero pričakuje deželni zbor kranjski vsled svojih sklepov, storjenih <date
                   when="1889">1889.</date> in <date when="1890">1890 leta</date>.</p>
@@ -154,10 +159,10 @@
                   preskrbé!</hi></p>
             <p>Rojaki! Katoliški Slovenci! V kratkih splošnih potezah smo vam narisali program,
                katerega naj bi se po našem prepričanju držali oni možje, katere hočemo poslati kot
-               zastopnike katoliškega slovenskega naroda v državni zbor.</p>
+               zastopnike katoliškega slovenskega naroda v <orgName>državni zbor</orgName>.</p>
             <p>Rojaki! Ako imate še druge posebne želje, naznanite nam jih in uverjeni bodite, da se
                bodo uvaževale.</p>
-            <p>V naših rokah je, uresničiti ta program s tem, da volimo može v državni zbor, o
+            <p>V naših rokah je, uresničiti ta program s tem, da volimo može v <orgName>državni zbor</orgName>, o
                katerih smo prepričani, da se bodo zvesto držali teh načel.</p>
             <p>V to pa ni zadosti, da kdo le <hi rend="italic">obljubi</hi>, da bode deloval po
                označenem programu, marveč dotični, ki naj se zanaša na naše glasove, mora po vsej

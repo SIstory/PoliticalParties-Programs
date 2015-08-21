@@ -44,24 +44,29 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <list xml:id="No.142.PPP" type="ordered">
+            <list xml:id="No.142.PPP" rend="ordered">
                <item n="I.">
                   <p>Slovensko narodno-radikalno dijaštvo, zbrano na svojem prvem shodu v
                         <placeName>Trstu</placeName> smatra žalostne gmotne razmere za prevažen del
                      slovenskega socijalnega vprašanja.</p>
                   <p>Slovensko posojilništvo je glavni vir, ki naj zagotovi z ustanovitvijo
                      podpornih fondov dijakom večjih podpor.</p>
-                  <p>Narodno-radikalno dijaštvo ostro graja brezvestnost onih, ki ne vračajo po
+                  <p><orgName>Narodno-radikalno dijaštvo</orgName> ostro graja brezvestnost onih, ki ne vračajo po
                      končanih študijah brezobrestnih posojil, ker oškodujejo s tem podporna društva
                      in kratijo zaupanje v dijaštvo.</p>
                   <p>Odklanjamo z zaničevanjem vsako podporo, ki ji je namen vplivati na
                      prepričanje.</p>
-                  <p>Narodno-radikalno dijaštvo zahteva, da se podpore pravično regulirajo in
+                  <p><orgName>Narodno-radikalno dijaštvo zahteva</orgName>, da se podpore pravično regulirajo in
                      predlaga ustanovitev osrednjega biroja, kamor naj javijo podporniki svoje
                      podpore in kjer morejo dobiti informacij.</p>
                   <p>Glede podpornih društev želimo, da se da v njih odborih slovenskemu dijaštvu
@@ -69,7 +74,7 @@
                      gmotne razmere podpiranca ne izpremene; smatramo mesečnih 10 K za podporni
                      minimum.</p>
                </item>
-               <item n="II.">Narodno-radikalno dijaštvo izreka <title>Omladini</title> za nje
+               <item n="II."><orgName>Narodno-radikalno dijaštvo</orgName> izreka <title>Omladini</title> za nje
                   delovanje na dijaško-socijalnem polju priznanje ter jo pozivlja, da nadaljuje isto
                   posebno z zbiranjem statističnih podatkov, dokler se ne oprimejo tega velevažnega
                   dela poklicani faktorji.</item>

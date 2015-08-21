@@ -48,18 +48,23 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Pravila katoliško-političnega in gospodarskega društva za Slovence na
+            <head>Pravila <orgName>katoliško-političnega in gospodarskega društva</orgName> za Slovence na
                   <placeName>Koroškem</placeName>, s sedežem v
                <placeName>Celovcu</placeName>.</head>
             <gap reason="irrelevant"/>
             <div xml:id="No.27.PPP.1">
                <head>§ 2.</head>
                <p><hi rend="italic">Namen</hi> društva je:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">da ohrani med koroškimi Slovenci živo katoliško vero;</item>
                   <item n="b)">da koroške Slovence poučuje v verskih, političnih, národnih in
                      gospodarskih zadevah ter da brani njih národne in državljanske pravice po
@@ -72,7 +77,7 @@
                <head>§ 3.</head>
                <p>Da društvo svoj namen doseže, služijo mu sledeči <hi rend="italic"
                   >pripomočki</hi>:</p>
-               <list type="ordered">
+               <list rend="numbered">
                   <item n="a)">občni zbori;</item>
                   <item n="b)">odborove seje;</item>
                   <item n="c)">društveni shodi po raznih krajih <placeName>koroške
@@ -90,7 +95,7 @@
                      oziraje se na želje in potrebe ljudstva, ktere bo pozvedelo po svojih zaupnih
                      možeh;</item>
                   <item n="h)">društvo bo naznanjalo želje ljudstva v peticijah (prošnjah) do visoke
-                     vlade in do deželnega ter do državnega zbora, ali pa jih v podobi resolucij
+                     vlade in do <orgName>deželnega</orgName> ter do <orgName>državnega zbora</orgName>, ali pa jih v podobi resolucij
                      (sklepov ali izjav) razglašalo po časnikih;</item>
                   <item n="i)">za povzdigo narodnega gospodarstva med koroškimi Slovenci se bo
                      društvo posluževalo vseh postavno dovoljenih pripomočkov, posebno pa bo

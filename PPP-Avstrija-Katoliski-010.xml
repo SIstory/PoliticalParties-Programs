@@ -52,13 +52,18 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.10.PPP.1">Visoki deželni zbor skleni:</p>
-            <list type="ordered" xml:id="No.10.PPP.2">
+            <p xml:id="No.10.PPP.1">Visoki <orgName>deželni zbor</orgName> skleni:</p>
+            <list rend="numbered" xml:id="No.10.PPP.2">
                <item n="1.">Deželni red in deželnega zbora volilni red za vojvodino
                      <placeName>Kranjsko</placeName> se ima spremeniti v zmislu pomnožitve kmetskih
                   mandatov in razširjenja volilne pravice na vse sloje prebivalstva.</item>

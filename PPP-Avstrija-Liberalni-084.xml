@@ -54,6 +54,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -66,7 +71,7 @@
                nam, če bomo takrat, ko se bo rodila ta država, malenkostni in tako površni, da ne
                bodemo védeli drugega, nego šteti travnate bilke, češ, ta je moja, ta pa tvoja! Bog
                ne daj, da bi se Slovenci v tej monumentalni dobi postavili nekako na tisto stališče,
-               na katerem je stal svojčas del ribniške doline, ko je neprestano gonil svojo pesem,
+               na katerem je stal svojčas del <geogName>ribniške doline</geogName>, ko je neprestano gonil svojo pesem,
                da hoče imeti postajo v <placeName>Žlebiču</placeName>, ker je s to postajo zanj
                dolenjska železnica velikega pomena, brez te postaje pa brez vsakega pomena!</p>
             <p xml:id="No.84.PPP.2">Te postaje se spominjam, ko premišljujem o prijatelja
@@ -78,7 +83,7 @@
                   when="1918-10-15">15. t. m.</date></p>
             <p xml:id="No.84.PPP.3"><persName>Šuklje</persName> piše: <q>Tako tedaj si predstavljam
                   upravo slovenske skupine naše jugoslovanske samostojnosti. Namenoma ne segam
-                  dalje, ne grem preko Sotle in Kolpe! Naj si bratje Hrvati in Srbi uredijo svojo
+                  dalje, ne grem preko <geogName>Sotle</geogName> in <geogName>Kolpe</geogName>! Naj si bratje Hrvati in Srbi uredijo svojo
                   upravo po svojih lastnih potrebah, željah in tradicijah, dobro bomo shajali,
                   nemoteni eden od drugega.</q> – <persName>Hribar</persName> pa se objema teh-le
                stavkov: <q>Ta omejenost avstrijske državne modrosti je naša sreča, kajti del

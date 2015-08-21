@@ -48,6 +48,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -73,11 +78,11 @@
             <p xml:id="No.56.PPP.3">Shod izreka, da uživaj katoliška cerkev, kakor vsaka druga in
                kakor vsaka organizacija in vsaka individualnost najpopolnejšo svobodo. Odločno pa
                protestira shod proti klerikalnemu zavijanju, ki zlorablja ime svobode, hoteč doseči
-               nadvlado cerkve nad državo, protestira proti zlorabljanju cerkve v
-               politično-agitatorične namene, protestira proti privilegijem cerkve in proti
-               favoriziranju duhovništva napram drugim stanovom. Svoboda cerkve in svoboda države je
+               nadvlado <orgName>cerkve</orgName> nad državo, protestira proti zlorabljanju <orgName>cerkve</orgName> v
+               politično-agitatorične namene, protestira proti privilegijem <orgName>cerkve</orgName> in proti
+               favoriziranju duhovništva napram drugim stanovom. Svoboda <orgName>cerkve</orgName> in svoboda države je
                mogoča le tedaj, ako je druga od druge popolnoma neodvisna; dosledno zahteva shod
-               ločitev cerkve in države tako, da ima vsaka svoj delokrog in sicer ima cerkev skrbeti
+               ločitev <orgName>cerkve</orgName> in države tako, da ima vsaka svoj delokrog in sicer ima cerkev skrbeti
                izključno za verstvo v svojem lastnem področju.</p>
             <p xml:id="No.56.PPP.4">Shod protestira proti neresnični trditvi, da glavar katoliške
                cerkve ne uživa potrebne svobode, kajti nihče mu ne krati osebne svobode, nihče ga ne
@@ -88,9 +93,9 @@
                mu je, spraviti najvišjo svetovno moč v roke klerikalne organizacije ter podjarmiti
                ne le religiozno, temveč vse politično, socialno in kulturno življenje narodov
                zaželjeni papeževi avtokraciji.</p>
-            <p xml:id="No.56.PPP.5">Shod protestira proti vmešavanju cerkve v najintimnejše razmere
+            <p xml:id="No.56.PPP.5">Shod protestira proti vmešavanju <orgName>cerkve</orgName> v najintimnejše razmere
                posameznika, v zakonsko življenje tistih, ki si ga žele urediti svobodno in neodvisno
-               od katoliške cerkve. Pač ima cerkev v svojem delokrogu pravico, po svojih nazorih
+               od <orgName>katoliške cerkve</orgName>. Pač ima <orgName>cerkev</orgName> v svojem delokrogu pravico, po svojih nazorih
                ustanoviti določbe tudi za zakonske zveze za tiste, ki se hočejo sami pokoravati
                njenim predpisom. Država pa ni poklicana, služiti zahtevam posamezne cerkve, temveč
                je dolžna zadovoljevati potrebe svojih članov, državljanov in ščititi njih svobodo.
@@ -103,7 +108,7 @@
                klerikalizma v človeški družbi. Shod naglaša, da so šolske naloge povsem različne od
                cerkvenih; šola ima posredovati mladini objektivno znanje in vzgajati jo ima, brez
                obzira na cerkveno pripadnost tako, da doseže čim večjo sposobnost za realno,
-               predsmrtno življenje. Vsled tega nima cerkev nobene etične ali kakršnekoli pravice do
+               predsmrtno življenje. Vsled tega nima <orgName>cerkev</orgName> nobene etične ali kakršnekoli pravice do
                vpliva v šoli in je dosledno treba strogo ločiti oba področja. Shod zahteva torej z
                vso odločnostjo reformo šolskega zakona v smislu popolne, vsako dvomljivo
                komentiranje izključujoče osvoboditve šole od cerkve, ki pa ima pravico posredovati
@@ -114,7 +119,7 @@
             <p xml:id="No.56.PPP.7">Takozvane socialne zahteve klerikalizma označuje shod za ceneno
                vabo, ki naj bi se nanjo ujeli gospodarsko odvisni sloji v nesocialni namen, da
                izgube svojo lastno moč v socialnih bojih ter se izroče na milost in nemilost
-               klerikalizmu. Organizacija kat. cerkve je tako tesno združena s sedanjim
+               klerikalizmu. Organizacija <orgName>kat. cerkve</orgName> je tako tesno združena s sedanjim
                kapitalističnim družabnim redom, hierarhija je sama tako kapitalističnega značaja, da
                je prisiljena varovati forme, ki omogočajo izkoriščanje in je vsled tega za resno
                socialno delo sploh nesposobna. Delavstvo, ki se bojuje za svoje pravice, odklanja

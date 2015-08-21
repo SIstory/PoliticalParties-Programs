@@ -48,15 +48,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName 
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Resolucije mariborskega shoda zaupnikov štajerske Narodne stranke.</head>
+            <head>Resolucije mariborskega shoda zaupnikov <orgName>štajerske Narodne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.77.PPP">Uvažujoč, da naš jugoslovanski narod v teh usodnih trenotkih
-               neobhodno potrebuje enotno priznano predstaviteljstvo, pozivlja shod zaupnikov Nar.
-               stranke izvrševalne odbore naprednih strank, da se takoj začnejo z V. L. S. in z
+               neobhodno potrebuje enotno priznano predstaviteljstvo, pozivlja shod zaupnikov <orgName>Nar.
+               stranke</orgName> izvrševalne odbore naprednih strank, da se takoj začnejo z <orgName>V. L. S.</orgName> in z
                vsemi strankami, ki stoje na stališču edinstvenosti S. H. S. in ki v ideji
                samoodločbe vidijo pot v enotno narodno državo, pogajanja v svrho, da se osnuje
                jugoslovanski narodni odbor, kot reprezentant naroda na zunaj, voditelj borbe za

@@ -48,6 +48,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -55,20 +60,20 @@
             <head>Shod zaupnikov Narodno-napredne stranke.</head>
             <gap reason="irrelevant"/>
             <div>
-               <head>Jugoslovanska demokratska stranka</head>
-               <p xml:id="No.66.PPP.1">Shod zaupnikov Narodno napredne stranke pozivlja vse rojake
+               <head><orgName>Jugoslovanska demokratska stranka</orgName></head>
+               <p xml:id="No.66.PPP.1">Shod zaupnikov <orgName>Narodno napredne stranke</orgName> pozivlja vse rojake
                   naprednega mišljenja, kot predstavitelje ideje narodnega ujedinjenja že od nekdaj,
                   da se združijo v enotno napredno demokratično politično organizacijo, ki naj
                   uveljavi v borbi za veliko jugoslovansko idejo mnogoštevilne in izdatne napredne
                   sile.</p>
-               <p xml:id="No.66.PPP.2">Ustanovi se naj velika ednotna Jugoslovanska demokratska
-                  stranka, v kateri naj sodelujejo oni pripadniki vseh slojev, ki sprejemajo program
+               <p xml:id="No.66.PPP.2">Ustanovi se naj velika ednotna <orgName>Jugoslovanska demokratska
+                  stranka</orgName>, v kateri naj sodelujejo oni pripadniki vseh slojev, ki sprejemajo program
                   S. H. S. kot enotnega jugoslovanskega naroda, organiziranega v samostalno narodno
                   državo, vsi oni, ki hočejo uveljaviti načelo doslednega demokratizma v vsem
                   ustroju javne uprave, ki se priznavajo k napredn. svetovnemu naziranju in ki
                   hočejo, odklanjajoč enostransko razredno stališče, na vseh poljih delati za
                   socijalizacijo gospodarstva.</p>
-               <p xml:id="No.66.PPP.3">Shod zaupnikov naroča dosedanjemu N. N. S. izvrševalnemu
+               <p xml:id="No.66.PPP.3">Shod zaupnikov naroča dosedanjemu <orgName>N. N. S.</orgName> izvrševalnemu
                   odboru, naj stopi v dogovor z izvrševalnimi odbori drugih naprednih strank, da se
                   pripravi program nove stranke.</p>
             </div>

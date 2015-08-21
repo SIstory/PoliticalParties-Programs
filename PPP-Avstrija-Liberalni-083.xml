@@ -56,6 +56,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani geogName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -98,7 +103,7 @@
                zato, ker bi se mogli nanje sklicevati, češ, da nam je dedščina preteklosti, temveč
                zato, ker smo o pravem času čuli njen klic in ga razumeli.</p>
             <p xml:id="No.83.PPP.5">Gospod dvorni svétnik se – naj mi te pripomnje ne zameri – ne
-               more iznebiii ideologije, v kateri se gibljejo malodane vsi državniki in birokratje
+               more iznebiti ideologije, v kateri se gibljejo malodane vsi državniki in birokratje
                   <placeName>Avstrije</placeName>. Ne glede uprave same. Njo zametava tudi on. Po
                vsej pravici. Saj ni bila drugega, ko sredstvo za poniževanje in podjarmljevanje
                narodov. Poleg nepraktičnosti in neprimerne draginje, kateri gospod dvorni svétnik
@@ -125,9 +130,9 @@
                na bivšo delitev po deželah. Zato se tudi naša bodoča okrožja ne smejo po gospoda
                dvornega svétnika a tout prix utesnjevati v dosedanje deželne meje, temveč
                prilagodovati le praktičnim zahtevam in potrebam. Tako n. pr. našemu osrednjemu
-               okrožju nikakor ne bode kazalo več prideljevati vipavske doline in senožeškega ter
+               okrožju nikakor ne bode kazalo več prideljevati <geogName>vipavske doline</geogName> in senožeškega ter
                enega dela ilirskobistriškega okraja, ker lega ozemlja in njega prometne razmere
-               glasno kličejo po združitvi z južnim okrožjem. Nasprotno pa vso savinjsko dolino
+               glasno kličejo po združitvi z južnim okrožjem. Nasprotno pa vso <geogName>savinjsko dolino</geogName>
                vežejo življenjski pogoji in praktični oziri veliko bolje na osrednje, kot na severno
                okrožje.</p>
             <p xml:id="No.83.PPP.7">Iz teh pripomenj sledi, da se tudi jaz strinjam z mislijo

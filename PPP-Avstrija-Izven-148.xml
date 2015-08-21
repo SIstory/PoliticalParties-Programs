@@ -50,6 +50,11 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -60,12 +65,12 @@
                <head n="D.">Resolucije o jugoslovanskem vprašanju.</head>
                <p xml:id="No.148.PPP.1"><hi rend="italic">II. shod narodno-radikalnega
                      dijaštva:</hi></p>
-               <list xml:id="No.148.PPP.2" type="ordered">
+               <list xml:id="No.148.PPP.2" rend="numbered">
                   <item n="I.">smatra kulturno edinstvo jugoslovanskih narodov za potrebno.
                      Slovensko dijaštvo naj se uči jugoslovanskih jezikov in naj se seznani z
                      razmerami pri posameznih jugoslovansih narodih. Naše dijaštvo naj stopi v ožjo
                      zvezo s srbo-hrvaškim in bolgarskim dijaštvom;</item>
-                  <item n="II.">sklene, da se na III. shodu narodno-radikalnega dijaštva, ki naj ima
+                  <item n="II.">sklene, da se na III. shodu <orgName>narodno-radikalnega dijaštva</orgName>, ki naj ima
                      značaj jugoslovanskega dijaškega shoda, temeljito razpravlja o tem
                      vprašanju.</item>
                </list>

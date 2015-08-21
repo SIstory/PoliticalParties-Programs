@@ -48,15 +48,20 @@
          </sourceDesc>
       </fileDesc>
       <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <revisionDesc>
+         <change>
+            <name>Neja Blaj Hribar</name>: dodani orgName
+         </change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>Ustanovni shod <q>Slovenske kmečke zveze</q> v <placeName>Mariboru</placeName> dne
+            <head>Ustanovni shod <q><orgName>Slovenske kmečke zveze</orgName></q> v <placeName>Mariboru</placeName> dne
                   <date when="1907-01-21">21. t. m.</date></head>
             <gap reason="irrelevant"/>
             <p>Glavne točke programa <q>S. k. z.</q> pa so:</p>
-            <list type="ordered" xml:id="No.31.PPP">
+            <list rend="numbered" xml:id="No.31.PPP">
                <item n="1.">Razdolženje kmetskih posestev.</item>
                <item n="2.">Omejitev razkosavanja zemljišč in zabranitev predragih prepodaj od očeta
                   na sina.</item>
