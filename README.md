@@ -15,7 +15,7 @@ The corpus is encoded in the XML format in line with the TEI P5 (Text Encoding I
 
 Each named entity is annotated together with other named entities possibly included in it. For instance:
 
-<orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>
+`<orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>`
 
 * * *
 
@@ -33,4 +33,4 @@ Korpus je kodiran v XML po priporočilih za zapis besedil [TEI P5](http://www.te
 
 Vsaka imenska entiteta je po možnosti označena skupaj z ostalimi imenskimi entitetami, ki jih vsebuje. Na primer:
 
-<orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>
+`<orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>`
