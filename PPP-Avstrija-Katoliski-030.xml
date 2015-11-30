@@ -24,8 +24,8 @@
             <date>2014</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="7"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="7"/>
+               <tagUsage gi="hi" occurs="3"/>
+               <tagUsage gi="item" occurs="17"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="4"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -55,19 +84,28 @@
             <head>Pravila Slovenske kmečke zveze za Štajersko</head>
             <gap reason="irrelevant"/>
             <div xml:id="No.30.PPP.1">
-               <head><hi rend="italic">Ime in sedež društva.</hi></head>
+               <head>
+                  <hi rend="italic">Ime in sedež društva.</hi>
+               </head>
                <div>
                   <head>§ 1.</head>
-                  <p>Društvo se imenuje <q><orgName>Slovenska kmečka zveza</orgName></q> za
+                  <p>Društvo se imenuje <q>
+                        <orgName>Slovenska kmečka zveza</orgName>
+                     </q> za
                         <placeName>Štajersko</placeName>, je politično društvo in ima svoj sedež v
                         <placeName>Mariboru</placeName>.</p>
                </div>
             </div>
             <div xml:id="No.30.PPP.2">
-               <head><hi rend="italic">Društveni namen.</hi></head>
+               <head>
+                  <hi rend="italic">Društveni namen.</hi>
+               </head>
                <div>
                   <head>§ 2.</head>
-                  <p><q><orgName>Slovenska kmečka zveza</orgName></q> za <placeName>Štajersko</placeName> ima
+                  <p>
+                     <q>
+                        <orgName>Slovenska kmečka zveza</orgName>
+                     </q> za <placeName>Štajersko</placeName> ima
                      namen:</p>
                   <list rend="numbered">
                      <item n="1.">Voditi ustavni boj za politične pravice, za gospodarsko
@@ -90,7 +128,9 @@
                </div>
             </div>
             <div xml:id="No.30.PPP.3">
-               <head><hi rend="italic">Sredstva.</hi></head>
+               <head>
+                  <hi rend="italic">Sredstva.</hi>
+               </head>
                <div>
                   <head>§ 3.</head>
                   <p>V dosego svojega namena uporablja društvo vsa primerna, zakonito dovoljena

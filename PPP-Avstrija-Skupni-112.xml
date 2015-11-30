@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="bibl.Slovenec.1897-09-15">
@@ -46,7 +46,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14" corresp="#bibl.Slovenec.1897-09-15">
+         <sourceDesc xml:id="bibl.Slovenski_narod.1897-09-14"
+                     corresp="#bibl.Slovenec.1897-09-15">
             <biblStruct>
                <analytic>
                   <title>Vseslovenski shod</title>
@@ -64,7 +65,33 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="3"/>
+               <tagUsage gi="div" occurs="8"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="8"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="11"/>
+               <tagUsage gi="placeName" occurs="12"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -83,7 +110,8 @@
                   <div xml:id="No.112.PPP.1">
                      <head n="I.">Deželna vlada.</head>
                      <p>Osrednja vlada se pozivlje, da premeni upravni sistem pri <orgName>c. kr. deželni
-                        vladi na <placeName>Koroškem</placeName></orgName> in skrbi za to, da bode deželni predsednik brez ozira na
+                        vladi na <placeName>Koroškem</placeName>
+                        </orgName> in skrbi za to, da bode deželni predsednik brez ozira na
                         katerokoli politično stranko pravičen obema narodoma, ki prebivata na
                         <placeName>Koroškem</placeName>, in z jednako ljubeznijo skrbel za duševno in gmotno blagostanje
                         nemškega in slovenskega ljudstva v deželi.</p>
@@ -150,8 +178,7 @@
                      <p>Volilne razmere na <placeName>Koroškem</placeName> za deželni in državni
                         zbor so Slovencem neugodne in krivične. Visoka <orgName>c. kr. vlada</orgName> naj skrbi, da se
                         dosedanji volilni red v obeh ozirih prenaredi in sicer za drž. zbor po
-                        predlogu, ki so ga nasvetovali slovenski poslanci dne <date
-                           when="1897-05-24">24. maja t. l.</date> v 17. seji v ravno preteklem
+                        predlogu, ki so ga nasvetovali slovenski poslanci dne <date when="1897-05-24">24. maja t. l.</date> v 17. seji v ravno preteklem
                         zasedanju drž. zbora.</p>
                   </div>
                </div>

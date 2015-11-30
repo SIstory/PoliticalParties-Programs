@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -58,19 +58,50 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="bibl" occurs="2"/>
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="6"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="10"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="persName" occurs="7"/>
+               <tagUsage gi="placeName" occurs="10"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div>
            <gap reason="irrelevant"/>
             <p xml:id="No.175.PPP">Proti predlogu<note place="foot" source="#SourceBornDigital">Nujni predlog
-                     <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName> z dne
+                     <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+                  </orgName> z dne
                      <date when="1918-11-16">16. 11. 1918</date>, je <orgName>Narodni vladi
-                        <placeName>SHS</placeName></orgName> v <placeName>Ljubljani</placeName>
+                        <placeName>SHS</placeName>
+                  </orgName> v <placeName>Ljubljani</placeName>
                   <date when="1918-11-19">19. 11. 1918</date> iz <placeName>Zagreba</placeName>
                   posredoval poverjenik za <placeName>Slovenijo</placeName> v predsedstvu
-                     <orgName>Narodnega Vijeća <placeName>SHS</placeName></orgName> dr.
+                     <orgName>Narodnega Vijeća <placeName>SHS</placeName>
+                  </orgName> dr.
                      <persName>Albert Kramer</persName>. <persName>Kramer</persName> je zahteval,
                   naj <orgName>Narodna vlada</orgName> nanj odgovori še <date when="1918-11-19">isti
                      večer</date> ali najkasneje <date when="1918-11-20">prihodnji dan</date>.
@@ -79,11 +110,13 @@
                   seznanila, vendar o njem ni razpravljala, saj je menila, da se morajo pred tako
                   važno odločitvijo njeni člani najprej posvetovati s svojimi strankami. Odločitev o
                   tej zadevi so preložili na sejo vlade <date when="1918-11-21">21. 11. 1918</date>.
-                  Predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName>
+                  Predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+                  </orgName>
                   je zagovarjal stališče, naj se bodoča <placeName>jugoslovanska država</placeName>
                   do končne odločitve ustavodajne skupščine začasno oblikuje kot monarhija pod
                   srbsko dinastijo <persName>Karađorđevićev</persName>. Po predlogu
-                        <orgName><placeName>dalmatinske</placeName> pokrajinske vlade</orgName> bi
+                        <orgName>
+                     <placeName>dalmatinske</placeName> pokrajinske vlade</orgName> bi
                   notranja ureditev bodoče države predstavljala kompromis med centralističnim
                   ustrojem s skupnimi organi oblasti za celo državo in ohranitvijo pokrajinskih
                   avtonomij za zgodovinsko razvite jugoslovanske državnopravne enote. – Podrobneje o
@@ -94,7 +127,8 @@
                      Zagreb : Matica Hrvatska, 1920, str. 268–269</bibl>. </note> sta izražala v
                obširnem govoru poverjenika dr. <persName>Brejc</persName>
                <note place="foot" source="#SourceBornDigital">Poleg <persName>Antona Kristana</persName> je
-                  predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName>
+                  predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+                  </orgName>
                   kritično obravnaval tudi predstavnik <orgName>Vseslovenske ljudske
                      stranke</orgName> dr. <persName>Janko Brejc</persName> (glej dok. št. 191).
                </note> in <persName>Kristan</persName> tehtne pomisleke: s tem se ustvari diktatura

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,25 +48,55 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="4"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="2"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>Odgovori na <title>Vedino</title> anketo o jugoslovanskem vprašanju</head>
             <gap reason="irrelevant"/>
-            <opener>Dr. <persName>Anton Dermota</persName>, <placeName>Gorica</placeName>.<lb/><date
-                  when="1913-04-23">23. aprila 1913</date></opener>
+            <opener>Dr. <persName>Anton Dermota</persName>, <placeName>Gorica</placeName>.<lb/>
+               <date when="1913-04-23">23. aprila 1913</date>
+            </opener>
             <gap reason="irrelevant"/>
-            <p xml:id="No.90.PPP.1">Govorim zgolj v svojem imenu; vendar pa opozarjam, da je bila <date from="1909-11-21"
-                  to="1909-11-22">21. in 22. nov. 1909.</date> v <placeName>Ljubljani</placeName>
+            <p xml:id="No.90.PPP.1">Govorim zgolj v svojem imenu; vendar pa opozarjam, da je bila <date from="1909-11-21" to="1909-11-22">21. in 22. nov. 1909.</date> v <placeName>Ljubljani</placeName>
                prva konferenca delegatov jugoslovanskih socialno demokratičnih strank, ki je naš
                problem precej globoko načela. Ta konferenca je načrtala nekakšen program, – vendar
                pa ni rečeno nikjer, da pristaš stranke ne bi smel imeti v posameznostih tudi malce
                drugačnega naziranja.</p>
             <p xml:id="No.90.PPP.2">Jugoslovani smo baje enoten narod; Slovenci, Srbi, Hrvati in Bolgari smo njegovi
-               deli. Ali se s to konštatacijo nismo morda prenagnili? Enega <hi rend="italic"
-                  >rodu</hi> smo, – toda <hi rend="italic">enoten narod?</hi> Samo radi tega? Oh,
+               deli. Ali se s to konštatacijo nismo morda prenagnili? Enega <hi rend="italic">rodu</hi> smo, – toda <hi rend="italic">enoten narod?</hi> Samo radi tega? Oh,
                koliko nam do te enotnosti, do enotne narodnosti še manjka! Ali mislite, da bi nam
                enotni jezik že vtisnil neizbrisno znamenje enotnega naroda? Četudi bi bila zgodovina
                in preteklost posameznih jugoslovanskih rodov, ki naj bi tvorili ta narod, različna,

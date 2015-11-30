@@ -26,8 +26,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -51,7 +51,42 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="geogName" occurs="2"/>
+               <tagUsage gi="hi" occurs="24"/>
+               <tagUsage gi="item" occurs="6"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="milestone" occurs="1"/>
+               <tagUsage gi="note" occurs="5"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="32"/>
+               <tagUsage gi="persName" occurs="3"/>
+               <tagUsage gi="placeName" occurs="10"/>
+               <tagUsage gi="quote" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -63,14 +98,21 @@
          <div>
             <gap reason="irrelevant"/>
             <div xml:id="No.127.PPP">
-               <opener><hi rend="italic">Visoki deželni zbor!</hi></opener>
-               <p>V seji dne <date when="1908-03-27">27. marca 1908</date><note place="foot"
-                     source="#SourceBornDigital">Glej dok. št. 126.</note> stavili so poslanci dr.
-                     <hi rend="italic"><persName>Šusteršič</persName></hi>, baron <hi rend="italic"
-                        ><persName>Schwegel</persName></hi>, dr. <hi rend="italic"
-                        ><persName>Tavčar</persName></hi> in sodrugi nujni predlog:</p>
+               <opener>
+                  <hi rend="italic">Visoki deželni zbor!</hi>
+               </opener>
+               <p>V seji dne <date when="1908-03-27">27. marca 1908</date>
+                  <note place="foot" source="#SourceBornDigital">Glej dok. št. 126.</note> stavili so poslanci dr.
+                     <hi rend="italic">
+                     <persName>Šusteršič</persName>
+                  </hi>, baron <hi rend="italic">
+                     <persName>Schwegel</persName>
+                  </hi>, dr. <hi rend="italic">
+                     <persName>Tavčar</persName>
+                  </hi> in sodrugi nujni predlog:</p>
                <quote>
-                  <p><orgName>Deželni zbor</orgName> skleni:</p>
+                  <p>
+                     <orgName>Deželni zbor</orgName> skleni:</p>
                   <p>Deželni red in deželni volilni red se imata spremeniti v tem smislu, da se
                      omogoči vsem slojem prebivalstva sodelovanje pri deželni zakonodaji in
                      upravi.</p>
@@ -78,8 +120,7 @@
                <p>Zbornica je predlogu priznala nujnost in ga odkazala ustavnemu odseku v
                   predposvetovanje.</p>
                <p>V odseku, ki je bil se <corr>z</corr> zakonom z dné <date when="1908-04-23">23.
-                     aprila 1908</date> dež. zak. štev. 10. proglašen <hi rend="italic"
-                     >permanentnim</hi>, doseglo se je v stvari <hi rend="italic">popolno
+                     aprila 1908</date> dež. zak. štev. 10. proglašen <hi rend="italic">permanentnim</hi>, doseglo se je v stvari <hi rend="italic">popolno
                      sporazumljenje</hi> vseh strank. Sad tega sporazumljenja sta priložena zakonska
                   načrta o spremembi deželnega reda in deželnozborskega volilnega reda.</p>
                <p>Reforma, ki je izražena v teh dveh načrtih, se ne sme presojati toli iz načelnega,
@@ -102,12 +143,11 @@
                      k volilnemu okraju slovenskih dolenjskih mest v volilskem razredu mest in
                      trgov.</item>
                </list>
-               <p>Iz sprememb ad 1. in 2. sledi, da bode deželni zbor v bodoče štel <hi
-                     rend="italic">50</hi> članov (doslej 37).</p>
+               <p>Iz sprememb ad 1. in 2. sledi, da bode deželni zbor v bodoče štel <hi rend="italic">50</hi> članov (doslej 37).</p>
                <p>K posameznim točkam se še pripomni:</p>
-               <p><hi rend="italic">Ad 1.</hi> V tej točki leži težišče cele reforme.</p>
-               <p>Po splošnem volilnem razredu pride v volilnem zistemu našega deželnega zbora <hi
-                     rend="italic">vsaj deloma</hi> moderno načelo <hi rend="italic">splošne in
+               <p>
+                  <hi rend="italic">Ad 1.</hi> V tej točki leži težišče cele reforme.</p>
+               <p>Po splošnem volilnem razredu pride v volilnem zistemu našega deželnega zbora <hi rend="italic">vsaj deloma</hi> moderno načelo <hi rend="italic">splošne in
                      enake volilne pravice</hi> do veljave.</p>
                <p>Dosegel se je v tem pogledu maksimum, ki je v današnjih razmerah sploh dosegljiv.
                   To kaže tudi primera sé<note place="foot" source="#SourceBornDigital">Sé –
@@ -126,11 +166,13 @@
                <gap reason="irrelevant"/>
                <note place="foot" source="#SourceBornDigital">Izpuščena je tabela na str. 872, ki
                   kaže velikost posameznih volilnih okrajev po prebivalstvu in številu volilcev. </note>
-               <p><hi rend="italic">Ad 2.</hi> Dotiranje splošnega volilskega razreda s posebnim
+               <p>
+                  <hi rend="italic">Ad 2.</hi> Dotiranje splošnega volilskega razreda s posebnim
                   mandatom v deželnem odboru pomenja konsekventno uveljavljenje demokratičnega
                   načela v deželni samoupravi – v kolikor je to v denašnjih razmerah sploh
                   mogoče.</p>
-               <p><hi rend="italic">Ad 3.</hi> Od 11 okrajev splošne skupine ima le prvi, obstoječ
+               <p>
+                  <hi rend="italic">Ad 3.</hi> Od 11 okrajev splošne skupine ima le prvi, obstoječ
                   iz ljubljanske občine, mesten značaj. Ostalih 10 volilnih okrajev je pretežno
                   kmetskega značaja, tako da bode v bodoče kmetsko prebivalstvo samo za-se
                   odločevalo o večini v deželnem zboru: K 16 poslancem kmečkih občin se pridruži 10
@@ -149,14 +191,12 @@
                      <placeName>Ljubljano</placeName> v dva volilna okraja, kojih vsak voli po dva
                   poslanca v volilskem razredu mest in trgov.</p>
                <p>V to svrho se razdeli <placeName>Ljubljana</placeName> v severno in južno polovico
-                  po idealni črti od mestne hiše do Švicarije.<note place="foot"
-                     source="#SourceBornDigital">Stavba v parku <geogName>Tivoli</geogName>, pribl. 40 m nad <geogName>Tivolskim
-                     gradom</geogName>.</note></p>
+                  po idealni črti od mestne hiše do Švicarije.<note place="foot" source="#SourceBornDigital">Stavba v parku <geogName>Tivoli</geogName>, pribl. 40 m nad <geogName>Tivolskim
+                     gradom</geogName>.</note>
+               </p>
                <p>Južno polovico tvorijo II. (Št. Jakobski) III. (Dvorski) in V. okraj (Predkraji)
-                     se<note place="foot" source="#SourceBornDigital">Se – s.</note> skupaj <hi
-                     rend="italic">17.910</hi> civilnimi prebivalci; severno polovico pa tvorijo I.
-                  (šolski), IV. (kolodvorski) in VI. okraj (Vodmat) se skupaj <hi rend="italic"
-                     >16.045</hi> civilnimi stanovniki.</p>
+                     se<note place="foot" source="#SourceBornDigital">Se – s.</note> skupaj <hi rend="italic">17.910</hi> civilnimi prebivalci; severno polovico pa tvorijo I.
+                  (šolski), IV. (kolodvorski) in VI. okraj (Vodmat) se skupaj <hi rend="italic">16.045</hi> civilnimi stanovniki.</p>
                <p>Pri tej razdelitvi je upoštevano število prebivalstva in pa davčna moč.</p>
                <p>Kar se tiče števila prebivalstva, je južna polovica le za približno 2000 ljudij
                   močnejša od severne, razlika, ki gotovo ni velika. Pri tem je treba še pomisliti,
@@ -170,14 +210,14 @@
                   prebivalcev, peti pa le 1639; pomisliti je pa treba, da je med 3075 stanovniki
                   šestega okraja okroglo 600 bolnikov civilne bolnice, ki pri volitvi ne pridejo v
                   poštev.</p>
-               <p><hi rend="italic">Ad 4.</hi> Ločitev <placeName>Ribnice</placeName> od
+               <p>
+                  <hi rend="italic">Ad 4.</hi> Ločitev <placeName>Ribnice</placeName> od
                      <placeName>Kočevja</placeName> se je izvršila vsled obojestranske želje.</p>
                <p>Po tej ločitvi se <placeName>Ribnica</placeName> naravno ni mogla priklopiti
                   drugam, nego slovenskim dolenjskim mestom.</p>
                <milestone unit="section" n="____________"/>
                <p>Posebe omenjati je konečno še prehodne določbe, glasom katerih se <orgName>deželni zbor</orgName>, ko
-                  predlagana reforma postane zakon, ne razpusti, temuč le <hi rend="italic"
-                     >spopolni</hi> s tem, da se izvolijo poslanci splošnega volilskega razreda in
+                  predlagana reforma postane zakon, ne razpusti, temuč le <hi rend="italic">spopolni</hi> s tem, da se izvolijo poslanci splošnega volilskega razreda in
                   pa nova dva ljubljanska poslanca v voliskem razredu mest in trgov. Istotako se
                   spopolni tudi deželni odbor z izvolitvijo petega prisednika iz splošnega
                   volilskega razreda.</p>
@@ -195,7 +235,9 @@
                   nujnemu predlogu: <hi rend="italic">da se omogoči vsem slojem prebivalstva
                      sodelovanje pri deželni zakonodaji in upravi</hi>.</p>
                <p>Ustavni odsek po <hi rend="italic">soglasnem</hi> sklepu predlaga:</p>
-               <p><hi rend="italic">Visoki deželni zbor skleni:</hi></p>
+               <p>
+                  <hi rend="italic">Visoki deželni zbor skleni:</hi>
+               </p>
                <list rend="numbered">
                   <item n="I.">Priloženima zakonskima načrtoma o spremembi deželnega reda in
                      volilnega reda za <orgName>deželni zbor</orgName> se pritrdi.</item>

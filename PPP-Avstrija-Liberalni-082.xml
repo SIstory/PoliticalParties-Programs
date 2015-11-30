@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,35 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="2"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="4"/>
+               <tagUsage gi="p" occurs="6"/>
+               <tagUsage gi="persName" occurs="7"/>
+               <tagUsage gi="q" occurs="4"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName 
@@ -57,7 +85,8 @@
    <text>
       <body>
          <div>
-            <opener>Dež. posl. dr. <persName>Ivan Tavčar</persName></opener>
+            <opener>Dež. posl. dr. <persName>Ivan Tavčar</persName>
+            </opener>
             <head>Nekoliko pripomb h gospodarskemu programu <orgName>JDS</orgName>.</head>
             <gap xml:id="No.82.PPP.1" reason="irrelevant"/>
             <p xml:id="No.82.PPP.2">Pred vsem zavrnemo tiste, katerim se zdi, da smo na ustanovnem
@@ -88,7 +117,8 @@
                tudi vsako kolesce odkazano svojo posebno nalogo, tako da stroj obstane, če vzameš iz
                njega kolo ali pa tudi najmanjše kolesce. <hi rend="italic">Ta harmonija v političnem
                   in gospodarskem življenju mora biti prvi ideal, pa tudi prvi cilj naše
-                  <orgName>Jugoslovanske demokrat. stranke</orgName></hi>. </p>
+                  <orgName>Jugoslovanske demokrat. stranke</orgName>
+               </hi>. </p>
             <gap xml:id="No.82.PPP.5" reason="irrelevant"/>
             <p xml:id="No.82.PPP.6">Naj končno spregovorimo še o stvari, ki je nekatere somišljenike
                vznemirila, ker se je v debati od ene strani stavil predlog, ki izgleda na prvi hip

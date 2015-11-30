@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,7 +52,36 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="8"/>
+               <tagUsage gi="item" occurs="15"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="27"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="persName" occurs="2"/>
+               <tagUsage gi="placeName" occurs="7"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -62,18 +91,20 @@
    <text>
       <body>
          <div>
-            <head>Iz eksekutivnega odbora <orgName>narodno-napredne stranke</orgName></head>
+            <head>Iz eksekutivnega odbora <orgName>narodno-napredne stranke</orgName>
+            </head>
             <p xml:id="No.57.PPP.1">Eksekutivni odbor <orgName>narodno-napredne stranke</orgName> je sklenil predložiti
                shodu zaupnih mož sledeči program:</p>
             <list xml:id="No.57.PPP.2" rend="numbered">
-               <item n="1."><orgName>Narodno-napredna stranka</orgName> hoče politično organizovati slovenski narod na
+               <item n="1.">
+                  <orgName>Narodno-napredna stranka</orgName> hoče politično organizovati slovenski narod na
                   temelju <hi rend="italic">nacionalizma</hi>, <hi rend="italic">demokratizma in
                      svobodomiselnosti</hi>. Končni smoter stranke je, da pribori narodu svobodno
                   nacionalno življenje in kulturno blagostanje na podlagi povzdige duševne
                   izobrazbe, gospodarsko osamosvojitev in socialno pravičnost na podlagi
                   enakopravnosti vseh stanov.</item>
-               <item n="2."><orgName>Stranka</orgName> zahteva vsled tega kot temeljni postulat <hi rend="italic"
-                     >slovenskega naroda narodno avtonomijo</hi>, katere končni cilj bodi zedinjena
+               <item n="2.">
+                  <orgName>Stranka</orgName> zahteva vsled tega kot temeljni postulat <hi rend="italic">slovenskega naroda narodno avtonomijo</hi>, katere končni cilj bodi zedinjena
                      <placeName>Slovenija</placeName> in združitev s
                   <placeName>Hrvatsko</placeName>.</item>
                <item n="3.">Od države zahteva <orgName>stranka</orgName> predvsem glede slovenskih pokrajin priznanje
@@ -84,15 +115,18 @@
                   in samostojno organizacijo vsega slovenskega šolstva na podlagi slovenskega učnega
                   jezika, ustanovitev slovenske univerze v <placeName>Ljubljani</placeName> in vseh
                   potrebnih slovenskih strokovnih šol.</item>
-               <item n="4."><orgName>Stranka</orgName> se bo slej ko prej z vsemi sredstvi borila zoper neznosno
+               <item n="4.">
+                  <orgName>Stranka</orgName> se bo slej ko prej z vsemi sredstvi borila zoper neznosno
                   zlorabo <orgName>cerkve</orgName> in duhovnih oblasti v politične in posvetne svrhe, ter v ta namen
                   zahteva tudi strogo ločitev <orgName>cerkve</orgName> od države. Zlasti <orgName>stranka</orgName> ne pripoznava <orgName>cerkvi</orgName>
                   nikake pravice do šole ter zahteva od cerkve popolnoma svobodno šolo.</item>
                <item n="5.">Za vse zakonodajne zastope priznava <orgName>stranka</orgName> načelo splošne, enake,
                   direktne in tajne volilne pravice na podlagi proporcionalnega volilnega sistema:
                   Načelo splošne volilne pravice naj se uveljavi tudi v avtonomne zastope.</item>
-               <item n="6."><orgName>Stranka</orgName> je za razširjenje avtonomije mest in občin sploh.</item>
-               <item n="7."><orgName>Stranka</orgName> je pripravljena pospeševati strokovno organizacijo vsakega
+               <item n="6.">
+                  <orgName>Stranka</orgName> je za razširjenje avtonomije mest in občin sploh.</item>
+               <item n="7.">
+                  <orgName>Stranka</orgName> je pripravljena pospeševati strokovno organizacijo vsakega
                   posameznega stanu.</item>
                <item n="8.">Kmetijski stan hoče <orgName>stranka</orgName> braniti predvsem zoper nevarnost
                   industrializovanja po tujem kapitalu ter zahteva v to svrho izdatnih legislativnih
@@ -114,8 +148,10 @@
                         <persName>Jenkov</persName> predlog, naj si stranka prizadeva za starostno
                      in onemoglostno zavarovanje kmečkih delavcev. (<hi rend="italic">Slovenski
                         narod</hi>, leto XXXIX, št. 264, 17. 11. 1906, Shod zaupnikov
-                     narodno-napredne stranke).</note></item>
-               <item n="9."><orgName>Stranka</orgName> polaga veliko važnost na to, da zadobi slovenski narod krepko in
+                     narodno-napredne stranke).</note>
+               </item>
+               <item n="9.">
+                  <orgName>Stranka</orgName> polaga veliko važnost na to, da zadobi slovenski narod krepko in
                   svobodno trgovino ter lastno industrijo. Obsoja trgovskemu stanu sovražno
                   strankarsko, na obe strani pogubno združevanje kmeta-konsumenta. <orgName>Stranka</orgName> smatra
                   trgovstvu za potrebno večjo splošno in strokovno izobrazbo, v kar naj služijo
@@ -147,7 +183,8 @@
                   tega položaja za eno najvažnejših kulturnih dolžnosti vsake ljudske stranke. Roko
                   v roki s tem izboljšanjem pa se hoče boriti <orgName>stranka</orgName> tudi za povišanje znanstvene
                   izobrazbe ljudskega učiteljstva.</item>
-               <item n="13."><orgName>Stranka</orgName> popolnoma uvideva težavni položaj vsega delavskega stanu,
+               <item n="13.">
+                  <orgName>Stranka</orgName> popolnoma uvideva težavni položaj vsega delavskega stanu,
                   zlasti onega, stoječega v službi veleindustrije in velikih prometnih podjetij ter
                   z iskrenimi simpatijami pozdravlja samostalno socialno organizacijo tega važnega
                   in enakopravnega stanu, želeč le, da si ohrani ta organizacija narodno podlago.

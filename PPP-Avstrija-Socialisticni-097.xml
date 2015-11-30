@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -51,7 +51,41 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="abbr" occurs="2"/>
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="3"/>
+               <tagUsage gi="corr" occurs="2"/>
+               <tagUsage gi="date" occurs="3"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="expan" occurs="2"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="4"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="7"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="persName" occurs="15"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -62,7 +96,9 @@
       <body>
          <div>
             <gap reason="irrelevant"/>
-            <p xml:id="No.97.PPP.1">Danes <corr><date when="1918-10-06">6. oktobra 1918</date></corr> se je vršila tukaj
+            <p xml:id="No.97.PPP.1">Danes <corr>
+                  <date when="1918-10-06">6. oktobra 1918</date>
+               </corr> se je vršila tukaj
                jugoslovanska socialistična konferenca. Konferenco je otvoril v imenu hrvaških
                sodrugov sodrug <persName>Bugšek</persName>, ki je v pozdravnem govoru želel, naj bi
                bili sklepi konference sad temeljitih razprav in poštenega sporazuma med jugoslov.
@@ -98,12 +134,21 @@
                <p>Konferenca smatra, da je z ozirom na zgodovinsko dobo, v koji se nahajamo, tako v
                   interesu jugoslov. proletarijata kakor tudi v interesu nujne rešitve jugoslov.
                   vprašanja, da stranka sodeluje v <choice>
-                     <abbr><orgName>N. S.</orgName></abbr>
-                     <expan><orgName>Narodnih Svetih</orgName></expan>
+                     <abbr>
+                        <orgName>N. S.</orgName>
+                     </abbr>
+                     <expan>
+                        <orgName>Narodnih Svetih</orgName>
+                     </expan>
                   </choice> oz. v <choice>
-                     <abbr><orgName>N. O.</orgName></abbr>
-                     <expan><orgName>Narodnem Odboru</orgName></expan>
-                  </choice><note place="foot" source="#SourceBornDigital">Mišljeno je <orgName>Narodno Vijeće
+                     <abbr>
+                        <orgName>N. O.</orgName>
+                     </abbr>
+                     <expan>
+                        <orgName>Narodnem Odboru</orgName>
+                     </expan>
+                  </choice>
+                  <note place="foot" source="#SourceBornDigital">Mišljeno je <orgName>Narodno Vijeće
                      Slovencev, Hrvatov in Srbov</orgName>, ustanovljeno na sestanku odposlancev Slovencev,
                      Hrvatov in Srbov iz <placeName>habsburške monarhije</placeName>
                      <date from="1918-10-05" to="1918-10-06">5. in 6. 10. 1918</date> v

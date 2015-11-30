@@ -25,8 +25,8 @@
             <date>2014</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,7 +48,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="27"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="orgName" occurs="6"/>
+               <tagUsage gi="p" occurs="18"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -63,16 +90,19 @@
             <p>V kratkem bode tedaj ljudstvo imelo določiti svojo lastno usodo za prihodnjih šest
                let!</p>
             <p>Voliti bode imelo ljudstvo mej <hi rend="italic">katoliško-narodnimi možmi in
-                  narodno-liberalno stranko, mej katoliškimi in liberalnimi načeli.</hi></p>
+                  narodno-liberalno stranko, mej katoliškimi in liberalnimi načeli.</hi>
+            </p>
             <p xml:id="No.7.PPP.5">Zvestoba Bogu in domu je od pravekov dičila slovenski rod. Dovolj
                je imel poguma, da jo je branil proti zunanjim sovražnikom; zato se pa po pravici
                nadejamo, da jo bo z ravno tako možato značajnostjo branil proti domačim nasprotnikom
                in njihovim zapeljancem.</p>
             <p xml:id="No.7.PPP.6">Razsodnemu, vernemu Slovencu ni treba dolgo razmišljati, kje je
                zanj pravo mesto. Javno življenje se snuje pred njegovimi očmi in stranke,ki
-               nastopajo, so po svojih <hi rend="italic">načelih</hi> in po svojem <hi rend="italic"
-                  >delovanju</hi> očite vsakomer.</p>
-            <p xml:id="No.7.PPP.7"><hi rend="italic"><orgName>Katoliško-narodna stranka</orgName></hi> povdarja v
+               nastopajo, so po svojih <hi rend="italic">načelih</hi> in po svojem <hi rend="italic">delovanju</hi> očite vsakomer.</p>
+            <p xml:id="No.7.PPP.7">
+               <hi rend="italic">
+                  <orgName>Katoliško-narodna stranka</orgName>
+               </hi> povdarja v
                svojih načelih, da je živa, dejanjska <hi rend="italic">katoliška vera temelj</hi>
                vsemu zasebnemu in družabnemu življenju, jedina trdna opora nravnemu in gmotnemu
                zdravju posamnih ljudij, pa tudi družin, občin, dežel, narodov in držav. – Zato
@@ -81,11 +111,11 @@
                zavladati v zakonodavstvu in upravi in da se mora dati <hi rend="italic">vsakemu
                   svoje</hi>. Vzlasti zahteva pravic za priprosto ljudstvo, <hi rend="italic">kmete,
                   obrtnike in delavce</hi>. – Za svoje delo rabi in bo rabila samo poštena sredstva.
-               Od mož, ki se pod njenim praporom bojujejo, zahteva pred vsem <hi rend="italic"
-                  >vestnega izpolnjevanja vseh dolžnostij</hi>, ki jih naklada služba v javnih
+               Od mož, ki se pod njenim praporom bojujejo, zahteva pred vsem <hi rend="italic">vestnega izpolnjevanja vseh dolžnostij</hi>, ki jih naklada služba v javnih
                zastopih <hi rend="italic">in neustrašeno, nesebično, požrtvovalno, vestno skrb za
                   javni blagor</hi>.</p>
-            <p><orgName>Liberalna stranka</orgName> govori o veri samo kot o <hi rend="italic">verskem čutu</hi> in se
+            <p>
+               <orgName>Liberalna stranka</orgName> govori o veri samo kot o <hi rend="italic">verskem čutu</hi> in se
                brani verskemu vplivu v javnosti. Od Boga postavljeno oblast, vzlasti duhovsko,
                pobija in blati. Najgrje napada sv. Očeta, škofe in duhovnike, zaničuje pa tudi vse
                priprosto ljudstvo, očitajoč mu nerazsodnost in neumnost, kar se je vzlasti pokazalo
@@ -98,8 +128,7 @@
                zato zagovarja kmečkemu stanu tako škodljivi lovski zakon; zato brez ozira na splošni
                blagor gospodari z javnim imetjem, kakor priča novo gledališče, nova bolnišnica in
                nespametna zahteva »višje dekliške šole« itd.</p>
-            <p>Liberalne stranke so si v tem povsod jednake, in sad njihovega delovanja je vedno <hi
-                  rend="italic">narodova škoda</hi>. <orgName>Naša liberalna stranka</orgName> je vredna sestrica
+            <p>Liberalne stranke so si v tem povsod jednake, in sad njihovega delovanja je vedno <hi rend="italic">narodova škoda</hi>. <orgName>Naša liberalna stranka</orgName> je vredna sestrica
                nemških liberalcev. Posamnih njenih članov ne presojamo in ne govorimo o njihovem
                zasebnem življenju, toda to pa trdimo: V javnem delovanju so merodajna strankina
                načela, ne pa posamnikovo mnenje; klubov terorizem nadvladuje pri vseh liberalnih
@@ -113,11 +142,13 @@
                narekava nobena sebična strankarska strast, marveč le ljubezen do naroda in skrb za
                njegov duševni in gmotni obstoj. Le, ko premaga tudi naše ljudstvo liberalizem, bo
                mogoče izvršiti vse to, kar nameravajo katoliško-narodni možje.</p>
-            <p><hi rend="italic">V parlamentarnem življenju zmaguje večina; pošteno, za splošni
+            <p>
+               <hi rend="italic">V parlamentarnem življenju zmaguje večina; pošteno, za splošni
                   blagor vneto večino si mora izvojevati tudi slovensko ljudstvo na
                      <placeName>Kranjskem</placeName> v svoj deželni zbor; potem bo mogoče izvršiti
                   vse točke našega programa, mogoče bo vspešno braniti pogoje narodovega blagostanja
-                  in doseči politično in gospodarsko celoto ljudstva.</hi></p>
+                  in doseči politično in gospodarsko celoto ljudstva.</hi>
+            </p>
             <p>Želeč, da se to zgodi, pričenjamo pod katoliško-narodnim praporom volilno borbo.
                Posebej, povdarjamo, da je naš namen skrbeti za zdravo, splošno ljudsko omiko,
                truditi se za naše narodne pravice, braniti domačo zemljo proti špekulaciji
@@ -126,8 +157,7 @@
                živinorejo in delati na to, da se kmetu vrnejo njegove stare pašne pravice, vzlasti
                da so v starih mapah kot pašniki vpisane parcele v novem katastru zopet vpišejo za
                pašnike.</p>
-            <p>Volilna pravica se mora razširiti na vse stanove, ki so sedaj izključeni od nje; <hi
-                  rend="italic">vzlasti pa se morajo izdatno pomnožiti zastopniki kmečkega
+            <p>Volilna pravica se mora razširiti na vse stanove, ki so sedaj izključeni od nje; <hi rend="italic">vzlasti pa se morajo izdatno pomnožiti zastopniki kmečkega
                   stanu</hi>.</p>
             <p>Podpirati hočemo težnje, da se ustanové kmečki domovi in gospodarske zadruge, da se
                uravnajo hudourniki, v suhih pokrajinah napravijo vodovodi in da se povzdigne
@@ -136,26 +166,32 @@
                   notarijat podržavi</hi>, vsaj pa preje ko mogoče <hi rend="italic">omeji prisilna
                   legalizacija</hi>; delovati na to, da <hi rend="italic">se zavarovanje proti
                   ognju</hi> in drugim elementarnim nezgodam in <hi rend="italic">zavarovanje</hi>
-               živine <hi rend="italic">podeželi</hi>; prizadevati se, da se sklene tak <hi
-                  rend="italic">lovski zakon, ki bode varoval koristi kmeta</hi>; pospeševati <hi
-                  rend="italic">gradbo novih železnic na <placeName>Kranjskem</placeName></hi>;
+               živine <hi rend="italic">podeželi</hi>; prizadevati se, da se sklene tak <hi rend="italic">lovski zakon, ki bode varoval koristi kmeta</hi>; pospeševati <hi rend="italic">gradbo novih železnic na <placeName>Kranjskem</placeName>
+               </hi>;
                prizadevati se, da se povodom nove pravosodne organizacije osnuje zadostno število
                kolegijalnih sodišč po raznih krajih naše dežele in v obče novi sodnijski okraji
                razdelijo tako, da bo ugajalo potrebam ljudstva; podpirati težnje da se uvedó mirovna
                sodišča; <hi rend="italic">sploh, delovati v vseh strokah za duševni in gmotni blagor
-                  ljudstva!</hi></p>
+                  ljudstva!</hi>
+            </p>
             <p>Da se ta program vresniči, treba je odločnega in vstrajnega delovanja vseh slojev
                ljudstva.</p>
             <p>Slovensko ljudstvo! oddaj pri bodočih volitvah svoje glasove zvestim in značajnim
                katoliško-narodnim možem in položilo bodeš temelj za pogoje svojemu blagostanju.</p>
-            <p>Slovenski narod ne sme zaostati. Tudi on se mora najodločneje oglasiti: <hi
-                  rend="italic">Proč z liberalizmom in proč iz javnega življenja z njegovimi
-                  zastopniki! Rešitev in zmaga je le v večnih idejah krščanstva!</hi></p>
+            <p>Slovenski narod ne sme zaostati. Tudi on se mora najodločneje oglasiti: <hi rend="italic">Proč z liberalizmom in proč iz javnega življenja z njegovimi
+                  zastopniki! Rešitev in zmaga je le v večnih idejah krščanstva!</hi>
+            </p>
             <p>Sleherni stori svojo dolžnost in na volilni dan bode zmagalo staro slovensko
                geslo:</p>
-            <p><hi rend="bold">Vse za vero, dom, cesarja!</hi></p>
-            <closer><hi rend="bold">Osrednji volilni odbor<lb/><orgName>Katoliško-narodne
-               stranke</orgName></hi></closer>
+            <p>
+               <hi rend="bold">Vse za vero, dom, cesarja!</hi>
+            </p>
+            <closer>
+               <hi rend="bold">Osrednji volilni odbor<lb/>
+                  <orgName>Katoliško-narodne
+               stranke</orgName>
+               </hi>
+            </closer>
          </div>
       </body>
    </text>

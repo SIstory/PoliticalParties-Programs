@@ -22,8 +22,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="bibl" occurs="1"/>
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="11"/>
+               <tagUsage gi="p" occurs="3"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -61,7 +88,8 @@
          <div xml:id="No.182.PPP">
             <p>
                <orgName>Dalmatinska nar. vlada</orgName> je predlagala potom <orgName>NV</orgName> v <placeName>Zagrebu</placeName>, naj se z ozirom na težave zunanje, pa tudi notranje političen položaj brez odloga izvede ujedinjenje <placeName>Srbije</placeName>, <placeName>Črne Gore</placeName> in vsega ostalega etnografskega teritorija <placeName>SHS</placeName> v eno državo, oziroma, da se ustvari zajedniška vlada, zajedniški parlament in regentstvo za ves naš nar. teritorij.<note place="foot" source="#SourceBornDigital">
-                  Predno je <orgName>JDS</orgName> podala svoje stališče o nujnem predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName></orgName> so njeni predstavniki na seji izjavili, »da so po svojem mišljenju vsi republikanci in da glasujejo za načrt, ki zahteva prov. monarhijo, samo radi tega, ker mislijo, da ni drugega izhoda iz našega težavnega položaja, v katerem se nahajamo, bodisi z ozirom na zunanje zadeve (invazija Italijanov), bodisi v notranjosti radi pomanjkanja denarja in živil«. – <bibl>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra 1918. Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo 1918–1921: 1. del: od 1. nov. 1918 do 26. feb. 1919 (za objavo pripravil Peter Ribnikar). Ljubljana : Arhiv Republike Slovenije, 1998, str. 124</bibl>.
+                  Predno je <orgName>JDS</orgName> podala svoje stališče o nujnem predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+                  </orgName> so njeni predstavniki na seji izjavili, »da so po svojem mišljenju vsi republikanci in da glasujejo za načrt, ki zahteva prov. monarhijo, samo radi tega, ker mislijo, da ni drugega izhoda iz našega težavnega položaja, v katerem se nahajamo, bodisi z ozirom na zunanje zadeve (invazija Italijanov), bodisi v notranjosti radi pomanjkanja denarja in živil«. – <bibl>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra 1918. Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo 1918–1921: 1. del: od 1. nov. 1918 do 26. feb. 1919 (za objavo pripravil Peter Ribnikar). Ljubljana : Arhiv Republike Slovenije, 1998, str. 124</bibl>.
                </note> 
             </p>
             <p>

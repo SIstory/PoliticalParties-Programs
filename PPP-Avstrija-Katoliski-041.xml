@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="6"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="hi" occurs="5"/>
+               <tagUsage gi="item" occurs="5"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="4"/>
+               <tagUsage gi="orgName" occurs="12"/>
+               <tagUsage gi="p" occurs="4"/>
+               <tagUsage gi="placeName" occurs="14"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -69,11 +99,13 @@
             <gap reason="irrelevant"/>
             <div>
                <head>Resolucije osrednjega vodstva <orgName>Vseslovenske Ljudske Stranke</orgName> in <orgName>Hrvatske Stranke
-                  Prava</orgName></head>
+                  Prava</orgName>
+               </head>
                <p xml:id="No.41.PPP.1">Osrednje vodstvo <orgName>Vseslovenske ljudske stranke</orgName>, ki je
                   zborovalo dne <date when="1912-10-20">20. t. m.</date> dopoldne v
                      <placeName>Ljubljani</placeName>, <hi rend="bold">je soglasno odobrilo
-                     opatijske in dunajske resolucije</hi><note source="#SourceBornDigital">Glej
+                     opatijske in dunajske resolucije</hi>
+                  <note source="#SourceBornDigital">Glej
                      dok. št. 38 in dok. št. 40.</note> zastopnikov <orgName>V. L. S.</orgName> in <orgName>stranke prava</orgName>.
                   Obenem je sklenilo sledečo resolucijo:</p>
                <p xml:id="No.41.PPP.2">Centralno vodstvo <orgName>V. L. S.</orgName> jemlje z ogorčenjem na znanje
@@ -87,8 +119,7 @@
                   na <placeName>Koroškem</placeName> posvečajo svojo najintenzivnejšo skrb in
                   pozornost ter se pri tem eventualno poslužujejo tudi <hi rend="bold">najostrejših
                      parlamentarnih sredstev</hi>.</p>
-               <p xml:id="No.41.PPP.3">Koroškim pritožbam se pridružujejo tudi <hi rend="bold"
-                     >štajerski</hi> zaupniki ter kažejo na vedno silnejši pritisk od Nemcev pod
+               <p xml:id="No.41.PPP.3">Koroškim pritožbam se pridružujejo tudi <hi rend="bold">štajerski</hi> zaupniki ter kažejo na vedno silnejši pritisk od Nemcev pod
                   očividno zaslombo sovražne nam vlade.</p>
                <p xml:id="No.41.PPP.4">V plenarni seji hrvatskih narodnih zastopnikov, ki se je
                   istega dne v <placeName>Ljubljani</placeName> vršila in kateri je prisostvovalo iz
@@ -101,10 +132,9 @@
                      opatijski in dunajski sklepi</hi> in sledeči komunike sklenil:</p>
                <list rend="numbered" xml:id="No.41.PPP.5">
                   <item n="1.">Vrhovna uprava stranke prava je z velikim zadovoljstvom in iskreno
-                     radostjo vzela na znanje poročilo o sklepih, storjenih <date when="1912-09-19"
-                        >19. rujna</date><note source="#SourceBornDigital">Septembra.</note> v
-                        <placeName>Opatiji</placeName> in <date when="1912-10-09">9. listopada<note
-                           source="#SourceBornDigital">Oktobra.</note> 1912</date> na <placeName>Dunaju</placeName> med
+                     radostjo vzela na znanje poročilo o sklepih, storjenih <date when="1912-09-19">19. rujna</date>
+                     <note source="#SourceBornDigital">Septembra.</note> v
+                        <placeName>Opatiji</placeName> in <date when="1912-10-09">9. listopada<note source="#SourceBornDigital">Oktobra.</note> 1912</date> na <placeName>Dunaju</placeName> med
                      delegati stranke prava in <orgName>Vseslovenske ljudske stranke</orgName>, vsled kojih stopa
                      <orgName>Vseslovenska ljudska stranka</orgName> v vrste <orgName>Stranke prava</orgName> in v celoti sprejme njen
                      državnopravni program od leta <date when="1894">1894</date>.</item>
@@ -127,8 +157,7 @@
                   <item n="5.">Plenum vseh hrvatskih narodnih zastopnikov, članov <orgName>Stranke prava</orgName> iz
                      vseh zemelj, na svojem sestanku v <placeName>Ljubljani</placeName>
                      <date when="1912-10-20">20. listopada t. l.</date>, soglasno odobrava in
-                     sprejema te izjave svoje vrhovne uprave ter izjavljajo,<note
-                        source="#SourceBornDigital">Izjavlja.</note> da bodo z vso odločnostjo
+                     sprejema te izjave svoje vrhovne uprave ter izjavljajo,<note source="#SourceBornDigital">Izjavlja.</note> da bodo z vso odločnostjo
                      nadaljevali borbo in delo v duhu programa <orgName>stranke prava</orgName>.</item>
                </list>
                <gap reason="irrelevant"/>

@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,41 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="byline" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="foreign" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="geogName" occurs="3"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="hi" occurs="5"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="p" occurs="4"/>
+               <tagUsage gi="persName" occurs="2"/>
+               <tagUsage gi="placeName" occurs="22"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="soCalled" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName
@@ -69,18 +103,18 @@
                <head>Izolirana <placeName>Jugoslavija</placeName> ali Zedinjene države</head>
                <p xml:id="No.171.PPP.1">Govori in piše se o <hi rend="italic">samostojni</hi>
                   <placeName>Jugoslaviji</placeName> v smislu popolne ločitve od dosedanje državne
-                  zveze pa tudi od dinastije. To je v gotovi meri istovetno z <hi rend="italic"
-                     >izoliranjem</hi>
+                  zveze pa tudi od dinastije. To je v gotovi meri istovetno z <hi rend="italic">izoliranjem</hi>
                   <placeName>Jugoslavije</placeName>. Izolacija ima svoje solnčnate in senčnate
-                  strani. <foreign>Splendid isolation</foreign><note place="foot"
-                     source="#SourceBornDigital">Vzvišena osamljenost.</note>
+                  strani. <foreign>Splendid isolation</foreign>
+                  <note place="foot" source="#SourceBornDigital">Vzvišena osamljenost.</note>
                   <placeName>ameriških Zedinjenih držav</placeName> – prosta roka na vse strani –
                   obhaja v sedanjih časih zmagoslavje, kakršnega svet doslej ni videl. Toda
                      <placeName>ameriške Zedinjene države</placeName> so narod 120 milijonov,
                   razpolagajo z neizmernim naravnim bogastvom, z malo da neizčrpnimi državnimi
                   denarnimi viri, z mogočno veleindustrijo in trgovino, z visoko kulturo. Poleg
-                  vsega pa uživajo <placeName>Zedinjene države</placeName> tudi še <hi rend="italic"
-                     >izolirano lego</hi>. <soCalled><geogName>Velika luža</geogName></soCalled> jih loči od vseh ostalih
+                  vsega pa uživajo <placeName>Zedinjene države</placeName> tudi še <hi rend="italic">izolirano lego</hi>. <soCalled>
+                     <geogName>Velika luža</geogName>
+                  </soCalled> jih loči od vseh ostalih
                   velesil sveta. Vsakemu je jasno, da je situacija bodoče
                      <placeName>Jugoslavije</placeName> bistveno drugačna v kratkomalo vseh ozirih,
                   v katerih je <placeName>Amerika</placeName> močnejša, ali vsaj tako močna, kot
@@ -93,14 +127,17 @@
                   jutri, ker bo <placeName>Italija</placeName> dosti močna, da je trajno obdrži.
                   Roko v roki s tem bo šlo industrijelno prvenstvo v naših deželah.</p>
                <p xml:id="No.171.PPP.2">Nerazmerno ugodnejša je pozicija jugoslovanske države kot
-                  ena <hi rend="italic"><placeName>Podunavskih Zedinjenih Držav</placeName></hi>. K
+                  ena <hi rend="italic">
+                     <placeName>Podunavskih Zedinjenih Držav</placeName>
+                  </hi>. K
                   tem <placeName>Podunavskim Zedinjenim Državam</placeName> štejemo vse tiste
                   narodne države, ki se izcimijo iz sedanje <placeName>habsburške
                      monarhije</placeName>. Ni dvoma, da so te države ekonomsko močno navezane ena
                   na drugo. Večstoletno skupno življenje je ustvarilo vezi, ki ostanejo tudi potem,
                   ko izgine sedanji državni ustroj z vsem svojim neslanim birokratskim aparatom,
                   sploh ko izgine vse, kar je narode sistematično odtujevalo državi.</p>
-               <p xml:id="No.171.PPP.3"><placeName>Jugoslavija</placeName> je v glavni stvari morska <choice>
+               <p xml:id="No.171.PPP.3">
+                  <placeName>Jugoslavija</placeName> je v glavni stvari morska <choice>
                      <sic>[a]</sic>
                      <corr>obala</corr>
                   </choice> te podunavske skupine. Ostalo je zaledje. Neka organična državnopravna
@@ -109,8 +146,7 @@
                   skupini. Lahko se reče, da bi v doglednem času <placeName>Jugoslavija</placeName>
                   zamogla doseči uprav prominentno vlogo v teh <placeName>Zedinjenih
                      državah</placeName>. Jasno pa je, da bi bil ta razvoj le mogoč, če bi bila
-                  država <placeName>Jugoslovanov</placeName> popolnoma neodvisna in suverena. <hi
-                     rend="italic">Prvo</hi> je tedaj brez vsakega dvoma, da se ustvari ta
+                  država <placeName>Jugoslovanov</placeName> popolnoma neodvisna in suverena. <hi rend="italic">Prvo</hi> je tedaj brez vsakega dvoma, da se ustvari ta
                   suverenost in neodvisnost v polni meri in da potem jugoslovanski narod svobodno
                   sklepa o svojih stalnih dotičajih do sosednih narodnih držav, zrastlih na tleh
                   današnje <placeName>avstroogrske monarhije</placeName>.</p>

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="item" occurs="4"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="6"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="q" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -66,10 +93,10 @@
          <div>
             <gap reason="irrelevant"/>
             <list xml:id="No.125.PPP" rend="numbered">
-               <item n="1."><orgName>C. kr. osrednja vlada</orgName> se glede na sklepe <orgName>deželnega zbora kranjskega</orgName> v
+               <item n="1.">
+                  <orgName>C. kr. osrednja vlada</orgName> se glede na sklepe <orgName>deželnega zbora kranjskega</orgName> v
                   sejah dne 28. februarija<note place="foot" source="#SourceBornDigital">Glej dok.
-                     št. 118. </note> in 28. decembra 1898<note place="foot"
-                     source="#SourceBornDigital">Glej dok. št. 119.</note> nujno pozivlja, da
+                     št. 118. </note> in 28. decembra 1898<note place="foot" source="#SourceBornDigital">Glej dok. št. 119.</note> nujno pozivlja, da
                   pospeši vse predpriprave za ustanovitev vseučilišča z bogoslovno, pravoslovno in
                   modroslovno fakulteto v <placeName>Ljubljani</placeName> in da kar najpreje mogoče
                   pri državnem zboru izposluje ustanovitev tacega vseučilišča.</item>
@@ -79,8 +106,14 @@
                   ustanovitev vseučilišča v <placeName>Ljubljani</placeName>.</item>
                <item n="3.">Izvolijo naj se iz deželnega zbora trije člani v ta namen, da stopijo v
                   stalen vseučiliški odbor, v katerem naj bodo z enakim številom odposlancev
-                  zastopani: <orgName>občinski svet ljubljanski</orgName>, <q><orgName>Matica Slovenska</orgName></q>, društvo
-                     <q><orgName>Pravnik</orgName></q>, <q><orgName>Leonova družba</orgName></q> in profesorski zbor knezoškofijskega
+                  zastopani: <orgName>občinski svet ljubljanski</orgName>, <q>
+                     <orgName>Matica Slovenska</orgName>
+                  </q>, društvo
+                     <q>
+                     <orgName>Pravnik</orgName>
+                  </q>, <q>
+                     <orgName>Leonova družba</orgName>
+                  </q> in profesorski zbor knezoškofijskega
                   semenišča v <placeName>Ljubljani</placeName>. Ta odbor naj stopi na primeren način
                   v dotiko tudi z zastopniki slovenske akademične mladine na dunajskem, graškem in
                   praškem vseučilišču.</item>

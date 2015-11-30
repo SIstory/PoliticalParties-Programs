@@ -22,8 +22,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -44,7 +44,33 @@
             </biblStruct>
          </sourceDesc>
         </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="item" occurs="3"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="placeName" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -52,9 +78,11 @@
             <head>Poročilo s seje načelstva JDS.</head>
             <p>Načelstvo JDS je v svoji redni tedenski seji, dne 18. novembra t. l. razpravljal o tekočih zadevah, o najbolj perečih vprašanjih se je zavzelo sledeče stališče:</p>
             <list rend="numbered" xml:id="No.180.PPP">
-            <item n="1."><orgName>Načelstvo JDS</orgName> vidi politično, kulturno in gospodarsko bodočnost jugoslovanskega naroda zajamčeno edino le v popolnoma enotni <placeName>državi SHS</placeName> z osrednjo vlado. Državna oblika naj sloni na ustavi, ki je demokratska in ki omogoča državljanom svobodo ter socijalno pravično življenje. – Vprašanje državne oblike ne sme motiti in onemogočati enotnosti in edinstvenosti <placeName>države SHS</placeName>.</item>
-            <item n="2."><orgName>Načelstvo JDS</orgName>. poziva <orgName>Narodno vlado</orgName>, da takoj odpravi cenzuro in dovoli prosto kolportažo časopisja ter popolno svobodo zborovanj. Vse tri zahteve so jako nujne in naj jih <orgName>Narodna vlada</orgName> čimpreje ugodno reši.</item>
-            <item n="3.">V razgovoru o <orgName>Narodni vladi</orgName> se je poudarjalo, da bodi ta vlada popolnoma nepristranska in naj čimpreje odpravi stari avstrijski sistem in njega nositelje.</item>
+               <item n="1.">
+                  <orgName>Načelstvo JDS</orgName> vidi politično, kulturno in gospodarsko bodočnost jugoslovanskega naroda zajamčeno edino le v popolnoma enotni <placeName>državi SHS</placeName> z osrednjo vlado. Državna oblika naj sloni na ustavi, ki je demokratska in ki omogoča državljanom svobodo ter socijalno pravično življenje. – Vprašanje državne oblike ne sme motiti in onemogočati enotnosti in edinstvenosti <placeName>države SHS</placeName>.</item>
+               <item n="2.">
+                  <orgName>Načelstvo JDS</orgName>. poziva <orgName>Narodno vlado</orgName>, da takoj odpravi cenzuro in dovoli prosto kolportažo časopisja ter popolno svobodo zborovanj. Vse tri zahteve so jako nujne in naj jih <orgName>Narodna vlada</orgName> čimpreje ugodno reši.</item>
+               <item n="3.">V razgovoru o <orgName>Narodni vladi</orgName> se je poudarjalo, da bodi ta vlada popolnoma nepristranska in naj čimpreje odpravi stari avstrijski sistem in njega nositelje.</item>
             </list>
          </div>
         </body>

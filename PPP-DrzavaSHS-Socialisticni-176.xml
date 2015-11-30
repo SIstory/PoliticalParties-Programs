@@ -23,8 +23,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -48,25 +48,52 @@
             </biblStruct>
          </sourceDesc>
        </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="hi" occurs="6"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="placeName" occurs="4"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
      <body>
         <div>
-          <gap reason="irrelevant"/>
+            <gap reason="irrelevant"/>
            <p xml:id="No.176.PPP">Vsled političnega položaja v naši novo nastali državi sami in zaradi uravnavanja našega razmerja napram <placeName>Italiji</placeName> ter drugim na novo nastalim narodnim državam, je nujno, da se čimpreje osnuje začasna <hi rend="italic">enotna državna oblast na celem jugoslovanskem ozemlju, ki naj z enakomernim poudarkom zastopa interese Slovencev, Hrvatov in Srbov na zunaj ter v najkrajšem času skliče konstituanto, najkasneje en mesec po sklepu miru. Ta začasna državna oblast naj se sestavi iz </hi>
               <orgName>Narodnega Veča</orgName>,
               <hi rend="italic"> ki ga je reformirati po dejanskem razmerju organiziranih političnih sil na jugoslovanskem ozemlju 
                  <placeName rend="italic">bivše avstro-ogrske monarhije</placeName>,</hi>
               <hi rend="italic"> 
-                 <orgName rend="italic">srbske in črnogorske narodne skupščine</orgName></hi>
+                 <orgName rend="italic">srbske in črnogorske narodne skupščine</orgName>
+               </hi>
               <hi rend="italic"> in zastopnikov </hi>
               <orgName rend="italic">Jugoslovanskega odbora v <placeName>Londonu</placeName>.</orgName>
               <hi rend="italic"> Ta začasna oblast naj izvoli iz svoje srede začasno skupno vlado in njenega predsednika. Konstituanta, ki naj določi obliko vladavine, njeno ustavo in upravo, se naj izvoli po splošni, enaki, tajni in proporčni volivni pravici vseh državljanov obojega spola, starih nad 21 let. Število mandatov za konstituanto naj se razdeli tako, da odpade na vsakih 25.000 duš najmanj po en poslanec, volivni okraji pa naj obsegajo zaenkrat področja dosedanjih narodnih vlad. 
-                 <placeName>Jugoslovanska država</placeName></hi>
+                 <placeName>Jugoslovanska država</placeName>
+               </hi>
               <hi rend="italic"> bodi socialna republika z najširšo samoupravo ljudstva</hi>.</p>
            <p/>
-          <gap reason="irrelevant"/>
+            <gap reason="irrelevant"/>
         </div>
      </body>
    </text>

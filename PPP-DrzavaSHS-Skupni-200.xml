@@ -22,8 +22,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -47,13 +47,39 @@
             </biblStruct>
          </sourceDesc>
        </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="3"/>
+               <tagUsage gi="persName" occurs="28"/>
+               <tagUsage gi="placeName" occurs="12"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
           <div xml:id="No.200.PPP">
                  <p>
-                    <orgName>Narodno Vijeće <placeName>SHS</placeName></orgName> u skladu sa svojim dosadašnjim zaključcima i prema izjavi vlade <placeName>kraljevine Srbije</placeName>, proglašuje ujedinjenje <placeName>države Slovenaca, Hrvata i Srba</placeName>, obrazovane na cijelom neprekinutom jugoslovenskom području bivše <placeName>austro-ugarske monarhije</placeName>, s <placeName>kraljevinom Srbijom i Crnom Gorom</placeName> u jedinstvenu <placeName>državu Srba, Hrvata i Slovenaca</placeName> i izabire odbor od 28 lica s punom vlašću, da u sporazumu s <orgName>vladom kraljevine <placeName>Srbije</placeName></orgName> i predstavnicima sviju stranaka u <placeName>Srbiji</placeName> i <placeName>Crnoj Gori</placeName> bezodvlačno provede organizaciju jedinstvene države prema priloženim naputcima, a dotične zaključke ratificirat će na svom prvom sastanku <orgName>Državno Vijeće</orgName>, kome će pripadati uz predstavnike <placeName>kraljevine Srbije</placeName> i <placeName>Crne Gore</placeName> svi članovi današnjeg <orgName>Narodnoga Vijeća</orgName> u <placeName>Zagrebu</placeName>, pojačani sa predstavništvom <orgName>Jugoslovenskoga odbora</orgName>.</p>
+                    <orgName>Narodno Vijeće <placeName>SHS</placeName>
+               </orgName> u skladu sa svojim dosadašnjim zaključcima i prema izjavi vlade <placeName>kraljevine Srbije</placeName>, proglašuje ujedinjenje <placeName>države Slovenaca, Hrvata i Srba</placeName>, obrazovane na cijelom neprekinutom jugoslovenskom području bivše <placeName>austro-ugarske monarhije</placeName>, s <placeName>kraljevinom Srbijom i Crnom Gorom</placeName> u jedinstvenu <placeName>državu Srba, Hrvata i Slovenaca</placeName> i izabire odbor od 28 lica s punom vlašću, da u sporazumu s <orgName>vladom kraljevine <placeName>Srbije</placeName>
+               </orgName> i predstavnicima sviju stranaka u <placeName>Srbiji</placeName> i <placeName>Crnoj Gori</placeName> bezodvlačno provede organizaciju jedinstvene države prema priloženim naputcima, a dotične zaključke ratificirat će na svom prvom sastanku <orgName>Državno Vijeće</orgName>, kome će pripadati uz predstavnike <placeName>kraljevine Srbije</placeName> i <placeName>Crne Gore</placeName> svi članovi današnjeg <orgName>Narodnoga Vijeća</orgName> u <placeName>Zagrebu</placeName>, pojačani sa predstavništvom <orgName>Jugoslovenskoga odbora</orgName>.</p>
                 <p>U odbor, koji će izvršiti gornje naloge biraju se: Dr. <persName>Barac Fran</persName>, Dr. <persName>Cankar Izidor</persName>, Dr. <persName>Čabrajić Luka</persName>, Dr. <persName>Drinković Mate</persName>, <persName>Grđić Sćepan</persName>, Dr. <persName>Hrasnica Halid</persName>, <persName>Korać Vitomir</persName>, Dr. <persName>Korošec Anton</persName>, Dr. <persName>Kramer Albert</persName>, <persName>Kristan Anton</persName>,	Dr. <persName>Laginja Matko</persName>, Dr. <persName>Lorković Ivan</persName>, Dr. <persName>Lukinić Edo</persName>, Dr. <persName>Ljubibratić Savo</persName>, Dr. <persName>Paleček Ivan</persName>, Dr. <persName>Pavelić Ante</persName>, Dr. <persName>Petričić Živko</persName>, Dr. <persName>Popović Dušan</persName>, <persName>Pribićević Svetozar</persName>, <persName>Radić Stjepan</persName>, Dr. <persName>Smodlaka Jozo</persName>, <persName>Stajić Vaso</persName>, Dr. <persName>Sunarić Jozo</persName>, <persName>Svrzo Hamid</persName>, Dr. <persName>Šimrak Janko</persName>, <persName>Šola Vojislav</persName>, Dr. <persName>Tresić Pavičić Ante</persName>, Dr. <persName>Trumbić Ante</persName>.</p>
                 <p>Članovi odbora, ako su zapriječeni, ovlašteni su imenovati sebi zamjenika pismenom punomoći.</p>
           </div>

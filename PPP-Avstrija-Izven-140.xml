@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -45,7 +45,31 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="6"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -58,7 +82,8 @@
                domačem kraju; ki bi se posvetil izključno probuji našega naroda in ki bi mu bila
                resna skrb za njegove koristi in njegov napredek, o taki potrebi, ljubi Slovenci,
                presojajte sami. Saj so vam znane domače razmere.</p>
-            <p><title>Naš List</title> ni bil ustanovljen, da bi netil sovraštvo med lastnimi
+            <p>
+               <title>Naš List</title> ni bil ustanovljen, da bi netil sovraštvo med lastnimi
                slovenskimi brati, pa tudi ni bil ustanovljen radi tega, da bi boj, ki se bije po
                   <placeName>Slovenskem</placeName>, skušal blažiti. Ne, – tak boj je potreben, tako
                trdita obe nasproti si stoječi stranki; tako pravimo tudi mi, kajti zmaga bo le tedaj
@@ -67,7 +92,8 @@
                za brezplodne medsebojne napade, trpi celokupni slovenski narod, in da od tega
                razpora gotovo nimajo koristi obmejni Slovenci, posebno oni na
                   <placeName>Koroškem</placeName>, tega pa tudi nihče ne more tajiti. </p>
-            <p><title>Naš List</title> se torej ne bo vmešaval v domači prepir, svoj program
+            <p>
+               <title>Naš List</title> se torej ne bo vmešaval v domači prepir, svoj program
                izvrševati hoče s tem, da bo širil prosveto kar najpoljudnejše v najširše sloje
                slovenskega ljudstva, da se bo posvečal temu, kar more biti v korist našemu narodu,
                to je odločnemu delu za njegov napredek. Osobito se hoče pečati z gospodarskimi
@@ -76,7 +102,8 @@
                obračati kmetskemu in obrtniškemu stanu, ki žalibog hirata in propadata čim dalje
                bolj. Nič manj pozoren ne bo na delavsko vprašanje, kajti ravno delavstvo je važen
                faktor za naš mali slovenski narod.</p>
-            <p><title>Naš List</title> se bo potegoval odločno za ustanovitev vsakovrstnih
+            <p>
+               <title>Naš List</title> se bo potegoval odločno za ustanovitev vsakovrstnih
                slovenskih, zlasti obrtnih, trgovskih in drugih višjih šol, saj imamo na celem
                   <placeName>Slovenskem</placeName> le prav malo srednjih šol in od vseh ni niti
                jedna popolnoma slovenska.</p>

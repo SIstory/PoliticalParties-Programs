@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -55,7 +55,39 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="6"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="12"/>
+               <tagUsage gi="persName" occurs="5"/>
+               <tagUsage gi="placeName" occurs="19"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName
@@ -67,7 +99,8 @@
          <div>
             <head>Uprava <placeName>Jugoslavije</placeName>.</head>
             <p xml:id="No.83.PPP.1">Dvorni svétnik <persName>Šuklje</persName> začel je pod naslovom
-                  <q>V zaželjeni deželi</q><note source="#SourceBornDigital">Glej dok. št.
+                  <q>V zaželjeni deželi</q>
+               <note source="#SourceBornDigital">Glej dok. št.
                   44.</note> glede uprave <placeName>Jugoslavije</placeName> priobčevati serijo
                člankov, katerih prvi trije leže pred mano. Hvalevredno je, da se za to važno
                vprašanje zanima naša javnost in rad priznavam, da je gospod dvorni svétnik takorekoč
@@ -98,8 +131,7 @@
                ni jim bilo mogoče uveljavljati, ker so vladali močnejši nad njimi. Zato si pa
                zgodovinsko pravo pišejo v naših dneh sami, s svojo iz slavne svoje zgodovine zajeto
                zavednostjo in iz nje izvirajočimi čini. <hi rend="italic">Še celo nam ubogim
-                  Slovencem</hi>, katerih usoda je bilo stoletno hlapčevstvo in robstvo, <hi
-                  rend="italic">piše zgodovina z jeklenim črtalom zgodovinsko pravo</hi>. Pa ne
+                  Slovencem</hi>, katerih usoda je bilo stoletno hlapčevstvo in robstvo, <hi rend="italic">piše zgodovina z jeklenim črtalom zgodovinsko pravo</hi>. Pa ne
                zato, ker bi se mogli nanje sklicevati, češ, da nam je dedščina preteklosti, temveč
                zato, ker smo o pravem času čuli njen klic in ga razumeli.</p>
             <p xml:id="No.83.PPP.5">Gospod dvorni svétnik se – naj mi te pripomnje ne zameri – ne
@@ -120,8 +152,7 @@
                povdarjali, da so nedotakljive. Zlasti nasproti nam, kadar smo zahtevali zedinjeno
                Slovenijo. Bili bi se zadovoljili z njo v skromnejših mejah ko dandanes in brez
                suverenosti. Avstrijski državniki imeli so premalo pameti, da bi bili razumeli duha
-               časa in premalo bistrovidnosti, da bi bili spoznali bližajoče se dogodke. <hi
-                  rend="italic">Ta omejenost avstrijske državne modrosti je naša sreča, kajti del
+               časa in premalo bistrovidnosti, da bi bili spoznali bližajoče se dogodke. <hi rend="italic">Ta omejenost avstrijske državne modrosti je naša sreča, kajti del
                   svobodne, samostojne in neodvisne jugoslovanske države bode zedinjena Slovenija v
                   takej popolnosti, v kakršni si je pred nekaj leti najsmelejši med nami še
                   predstavljati ni upal</hi>. Deželne meje bodo padle. Med nami ne bode več
@@ -164,8 +195,7 @@
                drugi razlogi, razen ako namerava na ta način <placeName>Sloveniji</placeName> zagotoviti nekaj obsežnejše
                morsko obrežje. To bi bil nek razlog, a le dozdevne veljave, ker bode plovstvo
                spadalo v skupne zadeve <placeName>Jugoslavije</placeName> in bode vsak njen državljan do vsega morskega
-               obrežja imel enake pravice, A naj bi ta razlog bil tudi tehten: <hi rend="italic"
-                  >kedar govori etnografija svojo veljavno besedo, morajo se umakniti vsi drugi
+               obrežja imel enake pravice, A naj bi ta razlog bil tudi tehten: <hi rend="italic">kedar govori etnografija svojo veljavno besedo, morajo se umakniti vsi drugi
                   razlogi.</hi> Tedaj morate obmolkniti tudi ortografija in hidrografija. Ker torej
                po narodnosti spada del Istranov k Hrvatom, bode tudi ozemlje, na katerem stanujejo,
                moralo priti k hrvatski upravni skupini. Etnografsko načelo je, katero nas vodi k
@@ -179,8 +209,10 @@
                državno življenje. Demokratska načela morajo torej prevevati vso javno upravo. Njim
                mora biti zato prilagodena tudi nje uredba. Ne plašimo se potemtakem tudi misli na
                volitev javnih funkcijonarjev za vse važnejše upravne službe!</p>
-            <closer><dateline>V <placeName>Cerkljah</placeName>, dne <date when="1918-10-11">11.
-                     oktobra 1918</date></dateline>
+            <closer>
+               <dateline>V <placeName>Cerkljah</placeName>, dne <date when="1918-10-11">11.
+                     oktobra 1918</date>
+               </dateline>
                <lb/>
                <persName>Ivan Hribar</persName>.</closer>
          </div>

@@ -23,8 +23,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,7 +52,38 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="bibl" occurs="1"/>
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="1"/>
+               <tagUsage gi="item" occurs="4"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="4"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="19"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -60,15 +91,15 @@
             <head>Protest proti italijanski okupaciji slovenskega ozemlja : posvetovanje Vseslovenske Ljudske Stranke</head>
             <gap reason="irrelevant"/>               
             <list xml:id="No.187.PPP" rend="numbered">
-            <item n="1.">Neomajna volja in zahteva slovenskega dela troimenega naroda Slovencev, Hrvatov in Srbov je, da se združijo v mejah svobodne <placeName>Jugoslavije</placeName> vsi deli slovenskega naroda, ki prebivajo na jugoslovanskem ozemlju kompaktno in nepretrgano. Zato pripadaj <placeName>državi SHS</placeName>. mesto <placeName>Trst</placeName> s svojo trgovsko luko in mesto <placeName>Gorica</placeName>, ki ležita na slovenskem teritoriju ter sta nerazdružno zvezana z narodno in gospodarsko usodo celega slovenskega naroda.</item>
+               <item n="1.">Neomajna volja in zahteva slovenskega dela troimenega naroda Slovencev, Hrvatov in Srbov je, da se združijo v mejah svobodne <placeName>Jugoslavije</placeName> vsi deli slovenskega naroda, ki prebivajo na jugoslovanskem ozemlju kompaktno in nepretrgano. Zato pripadaj <placeName>državi SHS</placeName>. mesto <placeName>Trst</placeName> s svojo trgovsko luko in mesto <placeName>Gorica</placeName>, ki ležita na slovenskem teritoriju ter sta nerazdružno zvezana z narodno in gospodarsko usodo celega slovenskega naroda.</item>
                <item n="2.">Zato najslovesneje ugovarjamo, da je <placeName>Italija</placeName> – prekoračivši celó demarkacijsko črto, določeno v premirju med <orgName>entento</orgName> in bivšo <placeName>Avstro-Ogrsko</placeName>, ki pa je nikakor ne moremo priznati, ker krši suverenost naše svobodne <placeName>države SHS</placeName>. – dala s svojimi četami vsestransko zasesti te in druge najvažnejše dele slovenskega ozemlja, kjer s terorizmom in nasiljem pritiska na naše prebivalstvo, uvaja čisto italijansko upravo, kakor da bi to bile že čisto italijanske province, izdaja postave in izreka sodbe v imenu italijanskega kralja, internira slovensko moško prebivalstvo, rekvirira živila ter tako izmozgano prebivalstvo žene v obup. V imenu človečanstva protestiramo proti nasilju, ki se tu godi našim krvnim bratom.</item>
-            <item n="3.">Protestiramo najodločneje proti nasilju, ki ga izvršuje na <placeName>Koroškem</placeName> uzurpatorska koroška nemška vlada ter reklamiramo za <placeName>Jugoslavijo</placeName> vse še sedaj slovenske dele <placeName>koroške</placeName> in <placeName>štajerske dežele</placeName> ter <placeName>Prekmurja</placeName> in vse one dele teh dežel, ki so bili umetno in s silo potujčeni.<hi rend="superscript">
-               <note place="foot" source="#SourceBornDigital">
+               <item n="3.">Protestiramo najodločneje proti nasilju, ki ga izvršuje na <placeName>Koroškem</placeName> uzurpatorska koroška nemška vlada ter reklamiramo za <placeName>Jugoslavijo</placeName> vse še sedaj slovenske dele <placeName>koroške</placeName> in <placeName>štajerske dežele</placeName> ter <placeName>Prekmurja</placeName> in vse one dele teh dežel, ki so bili umetno in s silo potujčeni.<hi rend="superscript">
+                     <note place="foot" source="#SourceBornDigital">
                   Pri tej točki resolucije je bila kasneje opravljena majhna stilistična sprememba, ki pa je <title>Slovenec </title>ni objavil. Glej <bibl>Slovenec : političen list za slovenski narod, leto XLVI, št. 269, Ljubljana, 22. 11. 1918, Slovensko ljudstvo s Srbi in Hrvati v skupni državi</bibl>.
                </note>
-            </hi>
-            </item>
-            <item n="4.">Sklicujoč se na načela pravičnosti, ki naj poslej vladajo med narodi, in ki so po <persName>Wilsonu</persName> zmagovito prodrla po celem svetu, pozivljamo <orgName>Narodno veče</orgName> v <placeName>Zagrebu</placeName>, da nemudoma stori pri <orgName>državah entente</orgName> – s katero se <placeName>Jugoslavija</placeName> smatra za zavezniško državo – vse korake, da nasilje po naših deželah preneha ter da naše zemlje zasedejo mešane <orgName>ententine čete</orgName> brez Italijanov do končne ureditve na mirovni konferenci. To veljaj za slovensko ozemlje na <placeName>Primorskem</placeName>, <placeName>Goriškem</placeName>, <placeName>Koroškem</placeName>, <placeName>Štajerskem</placeName> in v <placeName>Prekmurju</placeName>.</item>
+                  </hi>
+               </item>
+               <item n="4.">Sklicujoč se na načela pravičnosti, ki naj poslej vladajo med narodi, in ki so po <persName>Wilsonu</persName> zmagovito prodrla po celem svetu, pozivljamo <orgName>Narodno veče</orgName> v <placeName>Zagrebu</placeName>, da nemudoma stori pri <orgName>državah entente</orgName> – s katero se <placeName>Jugoslavija</placeName> smatra za zavezniško državo – vse korake, da nasilje po naših deželah preneha ter da naše zemlje zasedejo mešane <orgName>ententine čete</orgName> brez Italijanov do končne ureditve na mirovni konferenci. To veljaj za slovensko ozemlje na <placeName>Primorskem</placeName>, <placeName>Goriškem</placeName>, <placeName>Koroškem</placeName>, <placeName>Štajerskem</placeName> in v <placeName>Prekmurju</placeName>.</item>
             </list>
             <gap reason="irrelevant"/>
          </div>

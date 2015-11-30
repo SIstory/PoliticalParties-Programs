@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,36 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="8"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="9"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -66,43 +95,61 @@
          <div>
             <head>Sijajna manifestacija <orgName>S. L. S.</orgName> za svetovni mir in jugoslovensko edinstvo.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.17.PPP.1"><hi rend="bold"><orgName>S. L. S.</orgName> pozdravlja z globoko hvaležnostjo noto
+            <p xml:id="No.17.PPP.1">
+               <hi rend="bold">
+                  <orgName>S. L. S.</orgName> pozdravlja z globoko hvaležnostjo noto
                      <persName>sv. Očeta Benedikta XV.</persName> z dne <date when="1917-08-01">1.
-                     avgusta t. l.</date> za svetovni mir.</hi></p>
-            <p xml:id="No.17.PPP.2"><hi rend="bold">Iskreno in brez vsakega pridržka si osvaja <orgName>S. L.
+                     avgusta t. l.</date> za svetovni mir.</hi>
+            </p>
+            <p xml:id="No.17.PPP.2">
+               <hi rend="bold">Iskreno in brez vsakega pridržka si osvaja <orgName>S. L.
                   S.</orgName> bistvene točke mirovnega predloga sv. očeta, ki so narekovane po visokem duhu
                   popolne nepristranosti in nespodbojne pravičnosti ter označujejo edino pravo pot
                   iz labirinta spornih vprašanj, v katera so zapletene vojskujoče se
-               države.</hi></p>
-            <p xml:id="No.17.PPP.3"><hi rend="bold">Namestitev orožne sile po naravni sili pravice,
+               države.</hi>
+            </p>
+            <p xml:id="No.17.PPP.3">
+               <hi rend="bold">Namestitev orožne sile po naravni sili pravice,
                   sodobno in vzajemno razoroženje vseh držav, obvezno razsodišče za države, čigar
                   avtoriteta je zasidrana v solidarnosti vseh narodov sveta, resnična svoboda za vse
                   narode in svoboda morja – tvorijo pravo podlago za pravičen in trajen svetovni
                   mir, zajamčujoč zdravo reorganizacijo narodov ter ožjo in tesnejšo zvezo vseobče
                   ljudske družine v osrečujočem znamenju prave svobode in visoke
-               pravičnosti.</hi></p>
-            <p xml:id="No.17.PPP.4"><hi rend="bold">Svesta si pritrjevanja celokupnega katoliškega
+               pravičnosti.</hi>
+            </p>
+            <p xml:id="No.17.PPP.4">
+               <hi rend="bold">Svesta si pritrjevanja celokupnega katoliškega
                   slovenskega ljudstva, daje <orgName>S. L. S.</orgName> svoje skromne moči v dosego visokega smotra
                   sv. očetu na razpolago in združuje svoje iskrene molitve z verniki celega sveta,
                   da bi Vsegamogočni blagoslovil korak, ki ga je v najresnejši uri započel Njegov
-                  namestnik na zemlji.</hi></p>
-            <p xml:id="No.17.PPP.5"><hi rend="bold">Naj bi prav kmalu napočil dan, ko se združijo
+                  namestnik na zemlji.</hi>
+            </p>
+            <p xml:id="No.17.PPP.5">
+               <hi rend="bold">Naj bi prav kmalu napočil dan, ko se združijo
                   vsi narodi sveta okoli vznesene zastave miru, ki jo je dvignil namestnik Kristusov
-                  na zemlji.</hi></p>
+                  na zemlji.</hi>
+            </p>
             <p xml:id="No.17.PPP.6">Načelniku stranke se naroča, da ta sklep priobči na primeren
                način sv. stolici.</p>
-            <p xml:id="No.17.PPP.7"><hi rend="bold"><orgName>S. L. S.</orgName> odobrava in si osvaja državnopravno
-                  deklaracijo jugoslovanskih poslancev v <orgName>avstrijskem državnem zboru</orgName> z dne <date
-                     when="1917-05-30">30. maja t. l.</date></hi><note source="#SourceBornDigital"
-                  >Glej dok. št. 130.</note><hi rend="bold"> in hoče slejkoprej zastaviti svoje moči
+            <p xml:id="No.17.PPP.7">
+               <hi rend="bold">
+                  <orgName>S. L. S.</orgName> odobrava in si osvaja državnopravno
+                  deklaracijo jugoslovanskih poslancev v <orgName>avstrijskem državnem zboru</orgName> z dne <date when="1917-05-30">30. maja t. l.</date>
+               </hi>
+               <note source="#SourceBornDigital">Glej dok. št. 130.</note>
+               <hi rend="bold"> in hoče slejkoprej zastaviti svoje moči
                   za uresničenje jugoslovanskega edinstva pod žezlom habsburško-lorenske
-                  dinastije.</hi></p>
+                  dinastije.</hi>
+            </p>
             <gap xml:id="No.17.PPP.8" reason="irrelevant"/>
-            <p xml:id="No.17.PPP.9"><hi rend="bold"><orgName>S. L. S.</orgName> vzame z zadovoljstvom na znanje, da se
+            <p xml:id="No.17.PPP.9">
+               <hi rend="bold">
+                  <orgName>S. L. S.</orgName> vzame z zadovoljstvom na znanje, da se
                   je ustanovila v <placeName>Curihu</placeName> mednarodna katoliška unija. Poročilo
                   načelnika stranke o čedalje uspešnejšem delovanju <orgName>Katoliške unije</orgName> se odobri. <orgName>S. L.
                   S.</orgName> hoče z vsemi močmi sodelovati, da se dosežejo vzvišeni smotri te velepomembne
-                  katoliške organizacije.</hi></p>
+                  katoliške organizacije.</hi>
+            </p>
             <gap reason="irrelevant"/>
          </div>
       </body>

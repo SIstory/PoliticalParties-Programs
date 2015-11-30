@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,35 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="placeName" occurs="2"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -65,12 +93,15 @@
          <div>
             <head>Šesti shod katol. polit. društva.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.5.PPP"><orgName>Katoliško politično društvo</orgName>, zbrano na VI. društvenem shodu v
+            <p xml:id="No.5.PPP">
+               <orgName>Katoliško politično društvo</orgName>, zbrano na VI. društvenem shodu v
                   <placeName>Ljubljani</placeName>, izreka svoje soglasje z resolucijami,
                sklenjenimi dné <date when="1890-10-02">2. oktobra t. l.</date> na shodu slovenskih
                poslancev v <placeName>Ljubljani</placeName>,<note source="#SourceBornDigital">Glej dok. št. 98.</note> in
                izjavlja svojo radost, da so tudi slovenski poslanci s svojimi resolucijami priznali
-               načela, ki vodijo <q><orgName>Katoliško politično društvo</orgName></q>, kot prava in slovenskemu narodu
+               načela, ki vodijo <q>
+                  <orgName>Katoliško politično društvo</orgName>
+               </q>, kot prava in slovenskemu narodu
                koristna, ter izraža željo, da bi gospodje poslanci prej ko mogoče uresničili te
                resolucije, in zagotavlja, da bodo pri tem poslu radovoljno podpiralo delovanje
                slovenskih poslancev. </p>

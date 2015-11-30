@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,7 +48,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="hi" occurs="3"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="6"/>
+               <tagUsage gi="p" occurs="13"/>
+               <tagUsage gi="placeName" occurs="6"/>
+               <tagUsage gi="q" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -61,7 +90,9 @@
             <head>Prvi shod katol. polit. društva.</head>
             <head>(Dalje.)</head>
             <gap reason="irrelevant"/>
-            <opener xml:id="No.2.PPP.1"><orgName>Visoka gosposka zbornica!</orgName></opener>
+            <opener xml:id="No.2.PPP.1">
+               <orgName>Visoka gosposka zbornica!</orgName>
+            </opener>
             <p xml:id="No.2.PPP.2">1. Ko je bil sedaj veljavni zakon za državne ljudske šole
                sklenen, obetali so si od zakona najboljših vspehov za splošno ljudsko omiko. A kar
                so upali in pričakovali, ni se izpolnilo in se tudi ni moglo izpolniti.</p>
@@ -82,8 +113,7 @@
                življenje, ima le v veri stalno poroštvo in trdno podlago, na kateri stoječ se človek
                vzdrži v vsakem viharju strastij in pohlepnosti.</p>
             <p xml:id="No.2.PPP.7">Ni pa dovolj, vzbujati in pospeševati to nravno čutilo v človeku
-               le s tem, da se v ljudski šoli poučuje veronauk, marveč treba, da se ta <hi
-                  rend="italic">nauk ne loči od drugega pouka</hi>, ker ljudska šolanima samo
+               le s tem, da se v ljudski šoli poučuje veronauk, marveč treba, da se ta <hi rend="italic">nauk ne loči od drugega pouka</hi>, ker ljudska šolanima samo
                naloge, človeka seznanjati s koristnimi vednostmi, marveč prav posebno tudi ljudi
                vzgojevati. Da, skušnja vseh stoletij dokazuje, da je v letih, ko se človek razvija,
                najvažnejša <hi rend="italic">vzgoja</hi>, ki mora prešinjati ves pouk, ker vzgoja
@@ -123,8 +153,11 @@
                šol. To samovoljno in zlorabno vporabo zakona je v mnogem pospeševal omenjeni
                paragraf veljavnega državnega zakona za ljudske šole, ker se ne izrazi o tem dovolj
                natančno. Treba torej tudi vtem oziru nujne premembe.</p>
-            <p xml:id="No.2.PPP.11">Dostojno podpisano <q><orgName>katol. politično društvo v
-               <placeName>Ljubljani</placeName></orgName></q> misli, da je nepotrebno in celó razžaljivo za
+            <p xml:id="No.2.PPP.11">Dostojno podpisano <q>
+                  <orgName>katol. politično društvo v
+               <placeName>Ljubljani</placeName>
+                  </orgName>
+               </q> misli, da je nepotrebno in celó razžaljivo za
                razumnost in modrost odličnih članov <orgName>gosposke zbornice</orgName>, da bi hotelo še le dokazovati
                vsestransko in od vseh pedagogov priznano načelo: da je le tedaj pričakovati v
                ljudski šoli vspešnega in sadonosnega poduka, ako se isti vrši na podlagi vsem
@@ -138,11 +171,14 @@
                jezik.</p>
             <p xml:id="No.2.PPP.13">Ker se pa predloga izročena visoki gosposki zbornici ne ozira ne
                na potrebe verstva in ne materinega jezika kot učni jezik, zato stavi vdano podpisano
-               <q><orgName>katol. politično društvo v <placeName>Ljubljani</placeName></orgName></q>, ki si je
+               <q>
+                  <orgName>katol. politično društvo v <placeName>Ljubljani</placeName>
+                  </orgName>
+               </q>, ki si je
                stavilo nalogo pospeševati slovenskega naroda duševni in gmotni napredek v verskem,
-               narodnem in državnem oziru, zbrano na društvenem shodu v <placeName>Ljubljani</placeName> dné <date
-                  when="1890-03-09">9. marca 1890</date>, skromno prošnjo:</p>
-            <p xml:id="No.2.PPP.14"><orgName>Visoka gosposka zbornica</orgName> izvôli predloženi postavni načrt vis.
+               narodnem in državnem oziru, zbrano na društvenem shodu v <placeName>Ljubljani</placeName> dné <date when="1890-03-09">9. marca 1890</date>, skromno prošnjo:</p>
+            <p xml:id="No.2.PPP.14">
+               <orgName>Visoka gosposka zbornica</orgName> izvôli predloženi postavni načrt vis.
                <orgName>c. kr. vlade</orgName> gledé nekaterih prememb državnega zakona za ljudske šole odkloniti in
                skleniti tako ljudsko-šolsko postavo, ki bo popolno vstrezala veri učencev in
                določevala jasno materin jezik kot učni jezik v šoli.</p>

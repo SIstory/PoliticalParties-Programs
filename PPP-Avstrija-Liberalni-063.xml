@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="10"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="7"/>
+               <tagUsage gi="persName" occurs="2"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -82,17 +109,16 @@
                razlike med naprednjaki in klerikalci, med radikalci in konservativci; upravičeno
                smatramo tudi, da je navzlic umetničenju oficijalnega vodstva socijalne demokracije
                tudi ogromna večina našega socijalistično organiziranega delavstva v taboru majniške
-               deklaracije. V delu za uresničenje deklaracije je torej popolna <hi rend="italic"
-                  >enotnost postopanja</hi> vseh dosedanjih skupin našega naroda ne le mogoča,
-               temveč tudi potrebna. Nastaja pa vprašanje, ali je vsled tega tudi potrebna <hi
-                  rend="italic">popolna enotnost politične organizacije</hi>, in, denimo da je, ali
+               deklaracije. V delu za uresničenje deklaracije je torej popolna <hi rend="italic">enotnost postopanja</hi> vseh dosedanjih skupin našega naroda ne le mogoča,
+               temveč tudi potrebna. Nastaja pa vprašanje, ali je vsled tega tudi potrebna <hi rend="italic">popolna enotnost politične organizacije</hi>, in, denimo da je, ali
                je tudi <hi rend="italic">mogoča</hi>? Ali je izvršijivo, da se narod takorekoč
                konstituira kot stranka?</p>
             <p xml:id="No.63.PPP.3">Z uresničenjem majniške deklaracije delo za renesanso našega
                naroda ni končano, temveč se <hi rend="italic">šele</hi> prične. Ako verujemo, da si
                bodemo izvojevali svobodo in ujedinjenje, (in ta vera je temelj našega
                deklaracijskega boja), potem moramo tudi že misliti in pripravljati, kako si bodemo
-               to našo <placeName>Jugoslavijo</placeName> <hi rend="italic">uredili</hi>. Lastna država bo nalagala naši
+               to našo <placeName>Jugoslavijo</placeName> 
+               <hi rend="italic">uredili</hi>. Lastna država bo nalagala naši
                gospodarski, kulturni, socijalni politiki povsem nove, velike in težavne naloge,
                stavila nas bo pred nove probleme in bo v vsakem oziru zahtevala najresnejšega
                tekmovanja narodnih duševnih sil. V volji in zahtevi po lastni državi smo si vsi
@@ -100,8 +126,7 @@
                si nismo in si ne moremo biti. Tu nas ločijo zopet one večne idejne razlike, ki
                delijo človeštvo, pripadnike vsakega na višji razvojni stopinji se nahajajočega
                naroda v razne tabore, skupine in stranke. Ta ločitev duhov je nekaj danega,
-               neizogibnega in nobena še tako velika skupna naloga ne more <hi rend="italic"
-                  >trajno</hi> strniti konservativne, napredne, socijalistične vrste v eno enotno
+               neizogibnega in nobena še tako velika skupna naloga ne more <hi rend="italic">trajno</hi> strniti konservativne, napredne, socijalistične vrste v eno enotno
                organizacijo. Časi enotne narodne stranke spadajo v primitivno narodno dobo in se ne
                vračajo. Tudi če poskusimo ustanoviti tako enotno stranko, takoj od začetka bi v njej
                obstojale razne skupine in kmalu bi se pokazalo, da je enotnost le videz. Nastala bi
@@ -135,16 +160,14 @@
             <p xml:id="No.63.PPP.5">Odgovor na ta banalna vprašanja je tudi odgovor na vprašanje o
                praktični izpeljivosti in resnični koristnosti enotne politične organizacije celega
                naroda.</p>
-            <p xml:id="No.63.PPP.6">Poskus, trajno izločiti medsebojni politični boj, se torej <hi
-                  rend="italic">mora</hi> izjaloviti. Nekaj drugega pa je seveda zahteva, da moramo
+            <p xml:id="No.63.PPP.6">Poskus, trajno izločiti medsebojni politični boj, se torej <hi rend="italic">mora</hi> izjaloviti. Nekaj drugega pa je seveda zahteva, da moramo
                zaenkrat zapostaviti vse, kar nas loči ter z združenimi močmi stremeti za prvim
                svojim ciljem, za uresničenjem deklaracije. Edini moramo biti v tem, da smo brez
                razlike trdna opora našemu <orgName>Jugoslovanskemu klubu</orgName>.</p>
             <p xml:id="No.63.PPP.7">Prepričani smo, da se da ta enotnost najbolje doseči, ako na eni
                strani pošteno izpovemo, kaj nas sicer loči, na drugi strani pa ravnotako pošteno in
                v medsebojnem spoštovanju iščemo oblike, ki nam omogoči smotreno, trajno skupno
-               delovanje za veliko idejo. Nositeljice te potrebne enotnosti morajo biti <hi
-                  rend="italic">stranke</hi>. Konsolidacija našega življenja je predpogoj enotnosti
+               delovanje za veliko idejo. Nositeljice te potrebne enotnosti morajo biti <hi rend="italic">stranke</hi>. Konsolidacija našega življenja je predpogoj enotnosti
                naše narodne politike. Danes smo ne toliko programatično kakor organizatorično
                razcepljeni, provincijalizirani. V času boja za narodno edinstvo imamo zlasti
                naprednjaki še vedno pokrajinske stranke. Socijalna demokracija je že od vsega

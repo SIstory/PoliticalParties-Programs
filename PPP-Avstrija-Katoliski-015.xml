@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="KrekJanezE.Narodni_politiski_program">
@@ -69,7 +69,31 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="4"/>
+               <tagUsage gi="head" occurs="4"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -85,9 +109,10 @@
                državnopravnim ciljem. Demokratiška bodi naša realna politika; njen cilj pa
                ostani v avstrijski državi upravno zedinjen slovanski jug.</p>
          </div>
-         <gap reason="irrelevant"  xml:id="No.15.PPP.2"/>
+         <gap reason="irrelevant" xml:id="No.15.PPP.2"/>
          <div decls="#KrekJanezE.K_poglavju_Narodna_avtonomija">
-            <head>K poglavju <q>Narodna avtonomija</q></head>
+            <head>K poglavju <q>Narodna avtonomija</q>
+            </head>
             <head>Državni poslanec prof. Jan. Ev. Krek</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.15.PPP.3">tudi nam velja geslo narodne avtonomije. Eno je po moji sodbi gotovo:

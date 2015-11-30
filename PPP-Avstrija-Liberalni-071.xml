@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -41,7 +41,39 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="geogName" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="160"/>
+               <tagUsage gi="milestone" occurs="5"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="69"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="55"/>
+               <tagUsage gi="q" occurs="5"/>
+               <tagUsage gi="quote" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
      <revisionDesc>
         <change>
            <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -65,8 +97,7 @@
                najodločnejši boj za politične in jezikovne pravice slovenskega naroda, boj za
                prosvitljenje naroda z vsestransko izobrazbo, boj za osamosvojo slovenskega
                gospodarstva od stanovskega jerobstva in tujega kapitala.</p>
-            <p xml:id="No.71.PPP.3">Obenem ide na Vas poziv, da si ustanovite <hi rend="italic"
-                  >samostojno ljudsko glasilo</hi>, časopis, pisan za ljudstvo, ki bi zastopal
+            <p xml:id="No.71.PPP.3">Obenem ide na Vas poziv, da si ustanovite <hi rend="italic">samostojno ljudsko glasilo</hi>, časopis, pisan za ljudstvo, ki bi zastopal
                neodvisno na vse strani koristi vsega slovenskega ljudstva in ne le posameznih
                njegovih stanov.</p>
             <p xml:id="No.71.PPP.4">Da slovensko ljudstvo izve, kakšni so naši cilji, kaj hočemo z
@@ -76,7 +107,8 @@
                prečitajo, ki tvorijo veliko večino našega naroda, z željo, da jo prečitajo pazno
                posebno slovenski kmetje, slovenski delavci ter naš srednji stan.</p>
             <milestone xml:id="No.71.PPP.5" unit="section" n="*"/>
-            <p xml:id="No.71.PPP.6"><hi rend="italic">Narodnost je naše najvišje načelo</hi>. Kjer
+            <p xml:id="No.71.PPP.6">
+               <hi rend="italic">Narodnost je naše najvišje načelo</hi>. Kjer
                zahteva narodna korist, se ima ukloniti vse drugo.</p>
             <p xml:id="No.71.PPP.7">Naša prva skrb mora biti, da se ohranimo kot samostalen narod,
                da si ohranimo svojo samobitnost, svoj jezik, svoje šege in običaje, svoje narodne
@@ -128,13 +160,16 @@
             <p xml:id="No.71.PPP.10">S posebnim ozirom na naša sodišča zahtevamo ravno tam
                najstrožje izvedenje načela enakopravnosti, in da se more to storiti najuspešneje, bo
                naša neumorna in odločna zahteva: <hi rend="italic">ustanovitev samostojnega
-                  nadsodišča za vse slovenske pokrajine v <placeName>Ljubljani</placeName></hi>.
+                  nadsodišča za vse slovenske pokrajine v <placeName>Ljubljani</placeName>
+               </hi>.
                Nadsodišče v <placeName>Gradcu</placeName>, pod katero spadamo, je najhujši tlačitelj
                državnih zakonov, je najhujši sovražnik slovenskega jezika, je najtrdovratnejši
                podpornik ponemčevanja slovenskih duš, zato nočemo o njem ničesar več čuti in je baš
                tukaj v prvo naš klic:</p>
-            <quote xml:id="No.71.PPP.11"><hi rend="italic">proč od
-                  <placeName>Gradca</placeName>!</hi></quote>
+            <quote xml:id="No.71.PPP.11">
+               <hi rend="italic">proč od
+                  <placeName>Gradca</placeName>!</hi>
+            </quote>
             <p xml:id="No.71.PPP.12">Za pravice slovenskega jezika v vseh navedenih slučajih hočemo
                kot stranka stati trdno in neomajno in naša glavna naloga bo, rušiti vladni sistem,
                ki daje predpravice nemškemu na škodo našega jezika. – <hi rend="italic">Neizprosen
@@ -194,9 +229,12 @@
                predlagati kak načrt za narodno delo. Dandanes se ta pravica ne spoštuje, nasprotno,
                vsakogar, ki si upa v posameznih vprašanjih politične taktike imeti lastno mnenje in
                isto tudi zastopa, se je od zgoraj ubilo.</p>
-            <p xml:id="No.71.PPP.17"><hi rend="italic">Gre se nam za stvar, da se dosledno proizvede
+            <p xml:id="No.71.PPP.17">
+               <hi rend="italic">Gre se nam za stvar, da se dosledno proizvede
                   načelo ljudske politike, in če morajo pri boju za to stvar pasti posamezne osebe,
-                  ki zastopajo </hi><hi rend="bold">ljudski</hi><hi rend="italic"> politiki sovražna
+                  ki zastopajo </hi>
+               <hi rend="bold">ljudski</hi>
+               <hi rend="italic"> politiki sovražna
                   načela, je to le nujna posledica razvoja razmer</hi>. Načelo ljudske politike pa
                je, da odločujejo v vseh narodnih, osobito pa bistvenih, važnih narodnih vprašanjih
                vsi sloji naroda. Sklicati se imajo vsakokrat ljudski shodi, ali vsaj zaupni shodi, h
@@ -213,18 +251,15 @@
                   <placeName>slovenske Štajerske</placeName> v en kraj; godi se to lahko tudi po
                okrajih in izid glasovanja v posameznih okrajih mora biti merodajen za odločujoče
                činitelje. <hi rend="italic">Ljudstvo ni izvrševalec volje narodnih voditeljev, ampak
-                  narodni voditelji morajo biti izvrševalci narodne, ljudske volje</hi>. To je <hi
-                  rend="italic">poštena</hi> narodna, <hi rend="italic">poštena</hi> ljudska
+                  narodni voditelji morajo biti izvrševalci narodne, ljudske volje</hi>. To je <hi rend="italic">poštena</hi> narodna, <hi rend="italic">poštena</hi> ljudska
                politika, in to poštenost v našem javnem življenju zahtevamo z vso odločnostjo. Ne
                posamezne osebe, ne posamezni stanovi, ampak vsi sloji, vsi stanovi celega naroda
                imajo odločevati v narodnih vprašanjih.</p>
             <p xml:id="No.71.PPP.19">Z vso pravico se bo zato naša stranka imenovala ljudska
                stranka, ker bo izvajala to načelo prave demokratske, to je v resnici ljudske
-               politike. Smo proti nadvladi kateregakoli stanu v politiki, ampak <hi rend="italic"
-                  >za skupno delo vseh stanov</hi>, za <hi rend="italic">pošteno</hi> skupno delo
+               politike. Smo proti nadvladi kateregakoli stanu v politiki, ampak <hi rend="italic">za skupno delo vseh stanov</hi>, za <hi rend="italic">pošteno</hi> skupno delo
                brez vse sebičnosti in brez vsega koristolovja. Najhujši boj pa napovedujemo onim, ki
-               jim je narodno delo molzna krava za njihove žepe. Skupno, <hi rend="italic"
-                  >pošteno</hi> skupno delo pa izvira iz globokega in ne slepega prepričanja o dobri
+               jim je narodno delo molzna krava za njihove žepe. Skupno, <hi rend="italic">pošteno</hi> skupno delo pa izvira iz globokega in ne slepega prepričanja o dobri
                stvari.</p>
             <p xml:id="No.71.PPP.20">Baš s tega stališča ne odrekamo tudi svečenikom pravice, da se
                udeležujejo javnega življenja, da se poslužujejo pravic, ki jih imajo kot državljani.
@@ -235,10 +270,8 @@
                   proti ljudem, v zraslim iz istega naroda, ki imajo drugačno prepričanje</hi>. Smo
                odločni nasprotniki tega, če svečenik izrablja kot tak svoje dostojanstvo v
                političnem boju. Načelom Kristusovih naukov nasprotuje vsekakor, če se seje sovraštvo
-               nasproti drugače mislečim Slovencem, če se torej spušča duhovnik v politični <hi
-                  rend="italic">boj proti svojim rojakom</hi>. Uživanja in uporabljanja
-               državljanskih pravic, kakor rečeno, duhovskemu stanu ne odrekamo nikdar, <hi
-                  rend="italic">dokler jih uživa in rabi svečenik brez postranskih namenov in brez
+               nasproti drugače mislečim Slovencem, če se torej spušča duhovnik v politični <hi rend="italic">boj proti svojim rojakom</hi>. Uživanja in uporabljanja
+               državljanskih pravic, kakor rečeno, duhovskemu stanu ne odrekamo nikdar, <hi rend="italic">dokler jih uživa in rabi svečenik brez postranskih namenov in brez
                   strasti</hi>. Toda nikdar ne bomo pripustili, da bi se vtikalo versko vprašanje v
                javno življenje. Nismo in ne bomo nikdar proti vzvišenim naukom Kristusovim, nismo in
                ne bomo nikdar proti veri, temu dragemu zakladu našega ljudstva. Želimo le, da bi se
@@ -255,10 +288,12 @@
                   Kristusov nauk</hi>. V tej naši zahtevi nas podpira sedanji rimski papež
                   <persName>Pij X.</persName> sam, ki je izdal nedavno encikliko (poslanico) na
                italijanske duhovnike, koja poslanica pa velja ravno tako tudi za naše razmere. V tej
-               poslanici pravi papež med drugim, <hi rend="italic"><q>naj se posvečuje posebna
+               poslanici pravi papež med drugim, <hi rend="italic">
+                  <q>naj se posvečuje posebna
                      pozornost pridigam. S prižnice se mora čuti samo evangelj, a v nobenem slučaju
                      drugih reči, ki spadajo bolj v časnike in pa v vseučiliščne učilnice, kakor pa
-                     na sveto mesto</q></hi>.</p>
+                     na sveto mesto</q>
+               </hi>.</p>
             <p xml:id="No.71.PPP.21">Tako je torej papež sam naročil svojini svečenikom, da imajo
                razlagati s prižnic čisti evangelj. Tudi Kristus sam je pognal iz templja Žide, ki so
                se tamkaj bavili s posvetnimi stvarmi in tako <hi rend="italic">oskrunili
@@ -269,8 +304,7 @@
                pobožnost, pravi verski čut, smo proti vsakemu nasilju proti temu. Baš ker spoštujemo
                versko prepričanje poedinca, zahtevamo <hi rend="italic">svobodo prepričanja</hi> za
                vsakogar, bodisi te ali one vere, zahtevamo, da se nikogar zaradi verskega
-               prepričanja ne preganja in ne zaničuje ter ne smeši pred drugačemislečimi. <hi
-                  rend="italic">Mar so naši prekmurski bratje Slovenci, katerih velik del je še
+               prepričanja ne preganja in ne zaničuje ter ne smeši pred drugačemislečimi. <hi rend="italic">Mar so naši prekmurski bratje Slovenci, katerih velik del je še
                   danes kalvinske vere, zato manj vredni nego mi Slovenci katoliške vere? Ne, nikdar
                   ne! Spoštujemo verski čut, spoštujemo versko prepričanje, hočemo svobodo
                   prepričanja, in baš zato smo in bomo odločni protivniki vsakega izrabljanja
@@ -291,8 +325,7 @@
                za kmečki stan storila tako malo, da kmečko ljudstvo izgubiva vedno bolj zaupanje do
                tega vodstva. Javno obtožujemo naše dosedanje vodstvo, da ni imelo smisla za velike
                naloge narodnogospodarske politike.</p>
-            <p xml:id="No.71.PPP.24">Nihče ne sme biti tako slep, da bi tajil resnico, da <hi
-                  rend="italic">kmečki stan</hi> propada. Krivda je v gospodarski politiki naših
+            <p xml:id="No.71.PPP.24">Nihče ne sme biti tako slep, da bi tajil resnico, da <hi rend="italic">kmečki stan</hi> propada. Krivda je v gospodarski politiki naših
                modrih vlad iz prejšnjih desetletij, ki se za kmeta ni brigala ter ga s proglasitvijo
                vsestranske svobode prepustila njegovi usodi. Ta svoboda – ki je bila laži-svoboda –
                ni prinesla kmečkemu stanu nobenih koristi, nasprotno je učinila, da je začel kmet
@@ -311,8 +344,7 @@
                narodu. Še zaupamo v sile našega ljudstva, še zaupamo v duševne zmožnosti našega
                kmetskega stanu, zmožnosti, ki ga bodo, ki ga morajo usposobiti za uspešen boj za
                obstanek.</p>
-            <p xml:id="No.71.PPP.26">Naša sveta naloga bo, buditi v prvi vrsti <hi rend="italic"
-                  >stanovsko samozavest</hi> slovenskega kmečkega ljudstva, dalje pa, pripomoči mu
+            <p xml:id="No.71.PPP.26">Naša sveta naloga bo, buditi v prvi vrsti <hi rend="italic">stanovsko samozavest</hi> slovenskega kmečkega ljudstva, dalje pa, pripomoči mu
                do vseh virov strokovne in splošne izobrazbe, izomike, ki ga bo usposobila za
                življenski boj. Stanovska samozavest je eden glavnih pogojev obstoja in napredka
                kmečkega stanu. Slovenski kmet se zavedaj, <hi rend="italic">da je Slovenec</hi>, a
@@ -323,8 +355,7 @@
                prepričanju naj dela! Slovenski <hi rend="italic">kmet stoj na tisti strani, kjer
                   vidi pravo ljubezen in pravo spoštovanje do svojega stanu</hi>, slovenski kmet
                pristopi k tisti stranki, ki hoče z njegovim sodelovanjem pošteno in odkrito delati
-               za napredek kmečkega ljudstva. Slovenski kmet se zavedaj, da leži v <hi rend="italic"
-                  >samopomoči</hi> glavni pogoj rešitve in obrambe. Zato je potrebno, da se združi
+               za napredek kmečkega ljudstva. Slovenski kmet se zavedaj, da leži v <hi rend="italic">samopomoči</hi> glavni pogoj rešitve in obrambe. Zato je potrebno, da se združi
                slovensko kmečko ljudstvo na <placeName>Štajerskem</placeName> v čvrsto armado,
                potrebno, da se združujejo kmetje v kmetijskih podružnicah in da spoznajo veliko
                važnost kmetijskih zadrug, osobito zadrug, ki pospešujejo posredovanje prodaje
@@ -344,8 +375,7 @@
                potegujejo za kmečke koristi. Koliko hvaležnega polja imajo tukaj. Naj se spomnijo
                samo, kako hudo breme je za kmeta triletna vojaška služba; kako težko pogreša
                slovenski kmet skozi tri leta svojega sina. Zahtevamo, da se čimprej ustvari zakon
-                  <hi rend="italic">o dveletni vojaški službi</hi>, da se uredi <hi rend="italic"
-                  >vprašanje vojaških vaj v zmislu kmečkih zahtev</hi>. Zahtevamo nadalje, da se
+                  <hi rend="italic">o dveletni vojaški službi</hi>, da se uredi <hi rend="italic">vprašanje vojaških vaj v zmislu kmečkih zahtev</hi>. Zahtevamo nadalje, da se
                čimprej ustvari zakon o <hi rend="italic">stalnih kmečkih domovih</hi>, da se tako
                stori konec še nadaljnjemu usodepolnemu razkosavanju naših kmetij; ti stalni kmečki
                domovi naj bodo <hi rend="italic">nedeljivi in nezadolžljivi</hi> in tudi dedinsko
@@ -354,18 +384,16 @@
                uvede progresivni davek, to se pravi, če plačam jaz od premoženja 100 K 5 K davka,
                ima plačati oni, ki ima stokrat s oliko, stokrat toliko davka, in ne, kakor je to
                edino v korist bogatašem urejeno sedaj. Pri davkih <hi rend="italic">naj se bolj
-                  ozira na dohodke od imetka nego na dohodke od dela</hi>. Zahtevamo ureditev <hi
-                  rend="italic">zavarovanja</hi> kmečkega stanu proti nesrečam od strani države, ter
+                  ozira na dohodke od imetka nego na dohodke od dela</hi>. Zahtevamo ureditev <hi rend="italic">zavarovanja</hi> kmečkega stanu proti nesrečam od strani države, ter
                tudi ureditev zavarovanja za slučaj smrti v korist vdovam in sirotam. Zahtevamo
                osamosvojo kmečkega stanu od denarnega izsesavanja, ureditev osebnega in hipotečnega
                kredita pri vseh naših denarnih zavodih tako, da ima kmet, ki je primoran vzeti
                posojilo, upanje, da z odplačevanjem obresti obenem odplačuje tudi kapital, ker to
                dviga njegovo voljo in njegov ponos.</p>
-            <p xml:id="No.71.PPP.28">V svrho gospodarskega napredka kmečkega stanu je potrebna <hi
-                  rend="italic">strokovna poleg splošne izobrazbe</hi>. Le z izobrazbo je mogoč
-               uspešen boj ter tekmovanje z drugimi narodi. V svrho strokovne izobrazbe <hi
-                  rend="italic">zahtevamo takojšnjo ustanovitev že obljubljene slovenske kmetijske
-                  šole za <placeName>slovensko Štajersko</placeName></hi>, na kateri se bodo naši
+            <p xml:id="No.71.PPP.28">V svrho gospodarskega napredka kmečkega stanu je potrebna <hi rend="italic">strokovna poleg splošne izobrazbe</hi>. Le z izobrazbo je mogoč
+               uspešen boj ter tekmovanje z drugimi narodi. V svrho strokovne izobrazbe <hi rend="italic">zahtevamo takojšnjo ustanovitev že obljubljene slovenske kmetijske
+                  šole za <placeName>slovensko Štajersko</placeName>
+               </hi>, na kateri se bodo naši
                kmečki sinovi pod ugodnimi pogoji priučili praktičnemu gospodarstvu. Zahtevamo, da
                vlada uredi na <placeName>Spodnjem Štajerskem</placeName> krajevnim razmeram primerno
                   <hi rend="italic">vzorne kmetije</hi>, katere si bodo naši kmetje lahko večkrat
@@ -375,13 +403,14 @@
                katero vprašanje dandanes tako hudo zadeva naše občine. Zahtevamo tudi, da se
                revidira in uredi <hi rend="italic">vprašanje domovinske pravice</hi>, ki našim
                občinam v gospodarskem oziru toliko škoduje.</p>
-            <p xml:id="No.71.PPP.30"><hi rend="italic">Slovensko delavstvo</hi> je važen činitelj v
+            <p xml:id="No.71.PPP.30">
+               <hi rend="italic">Slovensko delavstvo</hi> je važen činitelj v
                našem narodnem življenju. Obsojamo našo dosedanjo politiko, ki je – skoraj bi rekli –
-               odvračala ta stan od sebe. Kakor za kmečki stan, hočemo tudi delavskemu povzdigo <hi
-                  rend="italic">stanovske samozavesti</hi>. Želimo in hočemo delati na to, da se
+               odvračala ta stan od sebe. Kakor za kmečki stan, hočemo tudi delavskemu povzdigo <hi rend="italic">stanovske samozavesti</hi>. Želimo in hočemo delati na to, da se
                slovensko delavstvo iz <placeName>Štajerske</placeName> organizira (združi) strokovno
                v <hi rend="italic">splošno slovensko delavsko društvo za
-                     <placeName>Štajersko</placeName></hi>. Želimo tudi politične organizacije
+                     <placeName>Štajersko</placeName>
+               </hi>. Želimo tudi politične organizacije
                delavstva <hi rend="italic">na narodnostni podlagi</hi>, ker želimo, da se vsak naš
                delavec zaveda tega in je ponosen na to, da je <hi rend="italic">slovenski
                   delavec</hi>. Zahtevamo zakonsko obrambo delavstva proti izrabljanju, proti
@@ -395,7 +424,8 @@
                Zahtevamo konečno, da se uredi zakonskim potom <hi rend="italic">zavarovanje
                   delavstva</hi> za slučaj bolezni in smrti in da se ustvari v ministerstvu poseben
                oddelek za delavske zadeve.</p>
-            <p xml:id="No.71.PPP.31"><hi rend="italic">Trgovski in obrtni</hi> – kot srednji stan –
+            <p xml:id="No.71.PPP.31">
+               <hi rend="italic">Trgovski in obrtni</hi> – kot srednji stan –
                je poklican v prvi vrsti, izpodriniti tuji kapital z naših tal, je poklican,
                priboriti slovenskemu narodu mesta in trge po <placeName>Spodnjem
                   Štajerskem</placeName>. Zopet obtožujemo naše dosedanje narodno vodstvo, da je
@@ -409,8 +439,11 @@
                obrtniku in trgovcu, dokler slovenski obrtnik in trgovec ne stojita na stališču
                poštene solidnosti in odkritosrčne konkurence. Želimo krepek razvoj našega trgovstva,
                in baš v to je v prvi vrsti potrebna stanovska samozavest. Z veseljem pozdravljamo s
-               tega stališča <hi rend="italic"><q>Slovensko trgovsko društvo v
-                        <placeName>Celju</placeName></q></hi> ter se sigurno nadjamo, da bo tekom
+               tega stališča <hi rend="italic">
+                  <q>Slovensko trgovsko društvo v
+                        <placeName>Celju</placeName>
+                  </q>
+               </hi> ter se sigurno nadjamo, da bo tekom
                časa vzgojilo na <placeName>slovenskem Štajerskem</placeName> trgovski zarod, ki bo
                uspešno tekmoval z nasprotniki ter tuje pijavke izrinil za vselej iz slovenskih
                krajev. V organizaciji, kakor je ta zasnovana in ki se mora razširiti na široko polje
@@ -421,7 +454,10 @@
                   <hi rend="italic">slovenski trgovec</hi> in <hi rend="italic">slovenski
                   obrtnik</hi>. V obrambo male obrti zahtevamo od zakonodaje, da ji osigura obstanek
                poleg velike obrti, industrije. Strokovna obrtna organizacija, kakor je
-                  <q><orgName>Občeslovensko obrtno društvo v <placeName>Celju</placeName></orgName></q>, o katerem
+                  <q>
+                  <orgName>Občeslovensko obrtno društvo v <placeName>Celju</placeName>
+                  </orgName>
+               </q>, o katerem
                želimo, da začne s pozitivnim uspešnim delom, bo zdatno zvišala odporno silo
                slovenskega obrtništva. V tem oziru z veseljem pozdravljamo odločni napredek
                slovenskega obrtništva v <placeName>Šoštanju</placeName>, ki si je samostojno uredilo
@@ -447,9 +483,9 @@
                obenem velik del <hi rend="italic">narodnostne obrambe</hi> našega srednjega stanu.
                Ker pa stoji graška trgovska in obrtna zbornica na izključno nemško-narodnem stališču
                in se pri napetih razmerah to ne more spremeniti, zahtevamo v obrambo stanovskih in
-               narodnostnih koristi našega spodnještajerskega trgovstva in obrtništva <hi
-                  rend="italic">samostojno trgovsko-obrtno zbornico za <placeName>slovensko
-                     Štajersko</placeName></hi>.</p>
+               narodnostnih koristi našega spodnještajerskega trgovstva in obrtništva <hi rend="italic">samostojno trgovsko-obrtno zbornico za <placeName>slovensko
+                     Štajersko</placeName>
+               </hi>.</p>
             <p xml:id="No.71.PPP.33">Izjavljamo, da bomo obračali posebno pozornost in posebno skrb
                na razvoj naše domače industrije ali velike obrti, ki je danes pri nas še v povojih.
                Delali bomo z vsemi močmi nato, da čimnajveč onemogočimo še nadaljnje vsesavanje
@@ -462,19 +498,21 @@
                naših nasprotnikov, in istotako ne obrti. Zato zahtevamo <hi rend="italic">strokovnih
                   slovenskih trgovskih in obrtnih šol</hi>, v katerih si bodo naši mladeniči, ki
                imajo veselje do teh strok, pridobili <hi rend="italic">na podlagi materinskega
-                  jezika</hi> vse praktične in tudi teoretične znanosti. Zahtevamo začasno <hi
-                  rend="italic">slovensko trgovsko šolo v <placeName>Celju</placeName> ter slovensko
-                  obrtno šolo v <placeName>Šoštanju</placeName></hi>.</p>
+                  jezika</hi> vse praktične in tudi teoretične znanosti. Zahtevamo začasno <hi rend="italic">slovensko trgovsko šolo v <placeName>Celju</placeName> ter slovensko
+                  obrtno šolo v <placeName>Šoštanju</placeName>
+               </hi>.</p>
             <p xml:id="No.71.PPP.35">Delati hočemo na to, da se do časa ustanovitve teh šol upeljejo
                s pomočjo države <hi rend="italic">slovenski trgovski in obrtni tečaji</hi>.</p>
-            <p xml:id="No.71.PPP.36"><hi rend="italic">Slovensko uradništvo</hi> je poleg trgovstva
+            <p xml:id="No.71.PPP.36">
+               <hi rend="italic">Slovensko uradništvo</hi> je poleg trgovstva
                in obrtništva oni stan, s pomočjo katerega si moramo konečno osvojiti mesta in trge
                spodnještajerske. Zato zahtevamo za naše uradništvo, kakor je to pri nemškem, popolno
                svobodo političnega prepričanja in svobodo v posluževanju se državljanskih pravic.
                Zahtevamo, da ostanejo slovenski uradniki na slovenskih tleh, da se jih ne pošilja
                brez potrebe v popolnoma nemške kraje, in se pri nas zato nastavlja zagrizene
                nasprotnike vsega, kar je slovensko.</p>
-            <p xml:id="No.71.PPP.37"><hi rend="italic">Slovensko učiteljstvo</hi> je oni sloj našega
+            <p xml:id="No.71.PPP.37">
+               <hi rend="italic">Slovensko učiteljstvo</hi> je oni sloj našega
                naroda, ki mu daje notranje moči. Našemu učiteljstvu je izročena v mladih letih naša
                mladina in učiteljstvo ima težko in odgovornosti polno nalogo, da nam vzgoji našo
                deco v duhu nravnem, narodnem in družabnem. Težka je naloga, in slovensko učiteljstvo
@@ -500,8 +538,7 @@
             <p xml:id="No.71.PPP.40">Od naših zastopnikov v državnem in deželnem zboru pa zahtevamo,
                da zastopajo splošno-slovenske koristi <hi rend="italic">z vso brezobzirnostjo in
                   nepopustljivostjo</hi>, zahtevamo od njih, da opuste oportunistično politiko, češ,
-               vladi se ne smemo zameriti, zahtevamo od njih, da tudi oni od vlade <hi rend="italic"
-                  >zahtevajo</hi>, a ne prosijo, zahtevamo, naj ne plazijo na kolenih pred mogotci
+               vladi se ne smemo zameriti, zahtevamo od njih, da tudi oni od vlade <hi rend="italic">zahtevajo</hi>, a ne prosijo, zahtevamo, naj ne plazijo na kolenih pred mogotci
                krog vlade, ampak pokažejo naj kot naši zastopniki, da je tudi v našem narodu ponosa
                in volje dovolj, da se otrese krivic, s katerimi ga vlada tlači, in da si pribori
                pravice, ki mu gredo. Posebej zahtevamo od naših poslancev, da z vso odločnostjo
@@ -519,8 +556,7 @@
             <milestone xml:id="No.71.PPP.42" unit="section" n="*"/>
             <p xml:id="No.71.PPP.43">Hočemo vsestransko izobrazbo vsakega poedinca iz našega naroda.
                Izobrazba, sloneča na neovržnih resnicah novodobne vede, sloneča <hi rend="italic">na
-                  trdih temeljih napredka in svobode prepričanja</hi>, izobrazba <hi rend="italic"
-                  >vsestranska</hi>, – to je naša zahteva, to je naš cilj. Pospeševati hočemo z
+                  trdih temeljih napredka in svobode prepričanja</hi>, izobrazba <hi rend="italic">vsestranska</hi>, – to je naša zahteva, to je naš cilj. Pospeševati hočemo z
                neumornim delom, s prirejanjem javnih shodov, predavanj, z razširjanjem poljudnih
                knjižic in naprednih časopisov, pospeševati hočemo z neprestanim poukom ljudstva na
                vseh poljih modernih znanosti to vsestransko izobrazbo naroda, ki je prvi pogoj, da
@@ -532,12 +568,10 @@
                izobrazuj <hi rend="italic">svobodno po svojem prepričanju</hi>, vsakdo čitaj to, kar
                on sam želi citati, a čitaj vselej <hi rend="italic">s pravim in treznim
                   premislekom</hi>, ter presodi vedno resno in razumno, kaj je prav in kaj ni prav.
-               Kadar bo vsak poedinec našega naroda prišel do tega, da bo o vsaki stvari začel <hi
-                  rend="italic">sam razmišljati, sam presojati</hi>, takrat bomo stali na stališču,
+               Kadar bo vsak poedinec našega naroda prišel do tega, da bo o vsaki stvari začel <hi rend="italic">sam razmišljati, sam presojati</hi>, takrat bomo stali na stališču,
                da si ljudstvo ne bo dalo zapovedovati ali se priganjati niti od te niti od one
                strani, ampak bo samostojno in neodvisno ter razumno vse presodilo in po tem svojem
-               razsodku tudi delalo. Na to stališče spraviti naše ljudstvo potom <hi rend="italic"
-                  >vsestranske, svetovne izobrazbe</hi> vsakega poedinca, to je naš cilj, naša
+               razsodku tudi delalo. Na to stališče spraviti naše ljudstvo potom <hi rend="italic">vsestranske, svetovne izobrazbe</hi> vsakega poedinca, to je naš cilj, naša
                naloga.</p>
             <p xml:id="No.71.PPP.44">Prva izobrazba se da vsakemu človeku v ljudski šoli. Zato
                polagamo baš na ljudsko šolo tako veliko važnost in hočemo v ljudstvu vzgojiti
@@ -551,7 +585,9 @@
                ljudskih, ampak vseh, ker je baš telovadba, <hi rend="italic">razumna</hi> telovadba
                pogoj telesne čilosti in svežosti. Tudi ko mladenič in deklica izstopita iz šole, se
                ne sme pustiti telovadba na stran. V tem oziru smo odkriti in odločni prijatelji in
-               zagovorniki <hi rend="italic"><orgName>slovenskega Sokolstva</orgName></hi>, ki ima kot glavno načelo
+               zagovorniki <hi rend="italic">
+                  <orgName>slovenskega Sokolstva</orgName>
+               </hi>, ki ima kot glavno načelo
                   <hi rend="italic">jačenje telesa</hi>, gibčnost telesa, <hi rend="italic">ker to
                   je pogoj zdravega duševnega razvoja</hi>. Z veseljem bomo zasledovali in podpirali
                v term zmislu delovanje <orgName>slovenskega Sokolstva</orgName>, ker nam je baš ono jamstvo, da si
@@ -560,25 +596,20 @@
                umetnost in književnost, gospodarski, politični in socijalni odnošaji. Šolska vzgoja
                je prvi pogoj splošne izobrazbe. Zato polagamo, kakor že povdarjano, baš na ljudsko
                šolo tako veliko važnost, zato želimo, da naše ljudstvo goji globoko spoštovanje do
-               ljudske šole in do učiteljskega stanu. Šola ima vzgajati v prvi vrsti otroško <hi
-                  rend="italic">nrav</hi>, vzgajati ima mladino k človekoljubju. V drugi vrsti ima
+               ljudske šole in do učiteljskega stanu. Šola ima vzgajati v prvi vrsti otroško <hi rend="italic">nrav</hi>, vzgajati ima mladino k človekoljubju. V drugi vrsti ima
                odgajati otroški <hi rend="italic">razum</hi>. Želimo, da se v šoli ne napolnjuje
                samo otroška pamet z dostikrat nepotrebnimi vednostmi, ampak <hi rend="italic">naj se
                   vzgaja razum, naj se razbistri razsodnost</hi>. Ne, da si otrok vtepe v pamet čim
                največ mogoče znanosti, to ni še prava izobrazba, ampak ona je še le takrat prava, če
-               sta v otroku vzgojena <hi rend="italic">razum</hi> in <hi rend="italic"
-                  >razsodnost</hi>, da že kot otrok in tudi v poznejšem življenju o vsaki stvari
+               sta v otroku vzgojena <hi rend="italic">razum</hi> in <hi rend="italic">razsodnost</hi>, da že kot otrok in tudi v poznejšem življenju o vsaki stvari
                pravilno razsodi in po tem razsodku tudi <hi rend="italic">dela</hi>. K delu v
                najširšem pomenu besede, <hi rend="italic">k delu duha in telesa</hi> se ima vzgajati
                mladina. Vsporedno z nravjo in razumom se pa ima vzgajati že v mladih letih tudi
-               trdna, neomahljiva <hi rend="italic">volja</hi> ter se ima <hi rend="italic"
-                  >žlahtniti srce</hi>. Šola ima vzgojiti vsakega poedinca, da bo vedel, da ni rojen
+               trdna, neomahljiva <hi rend="italic">volja</hi> ter se ima <hi rend="italic">žlahtniti srce</hi>. Šola ima vzgojiti vsakega poedinca, da bo vedel, da ni rojen
                samo za sebe, ampak Bogu in bližnjemu, to je za <hi rend="italic">pošteno, nravno
                   življenje</hi>. Osobito verski pouk naj navaja otroka v <hi rend="italic">prvi
-                  vrsti k nravnemu življenju</hi> in naj opusti vtepanje otroku dostikrat<hi
-                  rend="italic"> popolnoma nerazumljivih naukov</hi> v glavo.</p>
-            <p xml:id="No.71.PPP.47">Šola odgovarjaj tudi praktičnim potrebam naroda. <hi
-                  rend="italic">Most med šolo in življenjem se mora premostiti</hi>, šolski predmeti
+                  vrsti k nravnemu življenju</hi> in naj opusti vtepanje otroku dostikrat<hi rend="italic"> popolnoma nerazumljivih naukov</hi> v glavo.</p>
+            <p xml:id="No.71.PPP.47">Šola odgovarjaj tudi praktičnim potrebam naroda. <hi rend="italic">Most med šolo in življenjem se mora premostiti</hi>, šolski predmeti
                naj se čimnajveč prilagodijo življenju, ki obdaja dete. Ljudska šola ne sme biti samo
                priprava za nadaljnji študij, ampak bodi tudi nekak uvod v nadaljnje praktično delo
                vsakega poedinca, kmeta, obrtnika, trgovca itd., – seveda le tako daleč, v kolikor se
@@ -587,8 +618,7 @@
                državljana ter o prvotnih načelih razumnega gospodarstva.</p>
             <p xml:id="No.71.PPP.48">Zahtevamo pa odločno v naših šolah <hi rend="italic">narodno
                   vzgojo</hi>. Ta pa ne tiči v tem, da bi se otrokom govorili politični govori o
-               narodnih nasprotnikih itd. Narodna vzgoja navajaj otroka v prvi vrsti s poukom v <hi
-                  rend="italic">narodni zgodovini</hi>, kateri pouk se mora vršiti s posebno
+               narodnih nasprotnikih itd. Narodna vzgoja navajaj otroka v prvi vrsti s poukom v <hi rend="italic">narodni zgodovini</hi>, kateri pouk se mora vršiti s posebno
                ljubeznijo, k spoštovanju narodne preteklosti, narodovih svetinj, k spoštovanju in k
                   <hi rend="italic">ljubezni</hi> do narodovih šeg in običajev, k ljubezni do rodne
                zemlje, do naroda. Vse to se lahko doseže mirnim, ljubeznivim in v resnici očetovskim
@@ -614,8 +644,7 @@
                šole vsaj vsak mesec enkrat, ljudske šole vsaj vsakega četrt leta enkrat.</p>
             <p xml:id="No.71.PPP.53">Zahtevamo svobodo šolstva z ozirom na vzgojo in pouk. Šolstvo
                ne sme imeti nikakega jerobstva v tem oziru, nanj ne smejo učinkovati nikakšni
-               zunanji uplivi. Glede uprave (administracije) šolstva zahtevamo, naj se izroči <hi
-                  rend="italic">šolnikom</hi>, ki poznajo in razumejo naše posebne narodne potrebe
+               zunanji uplivi. Glede uprave (administracije) šolstva zahtevamo, naj se izroči <hi rend="italic">šolnikom</hi>, ki poznajo in razumejo naše posebne narodne potrebe
                in poznajo ter razumejo vzgojeslovno stališče. Dokler ima upravo v rokah država, naj
                tudi ona prevzame vsa denarna bremena, vsa plačila za šolstvo. Zahtevamo odločno, da
                se glede plačila za šole <hi rend="italic">razbremene</hi> naše občine, da vsa
@@ -629,7 +658,8 @@
                kar smo že na svojem mestu povdarjali. Zahtevamo pa tudi narodnostno osamosvojenje
                teh šol, to se pravi, da si bomo svoje šolstvo sami upravljali, in v to svrho
                zahtevamo lastni <hi rend="italic">šolski svet za <placeName>Spodnje
-                     Štajersko</placeName></hi>.</p>
+                     Štajersko</placeName>
+               </hi>.</p>
             <p xml:id="No.71.PPP.55">Ta šolski svet ima biti prosvetno središče našega narodnega
                življenja, ima biti budni stražnik, da bi naše šolstvo korakalo vedno na poti
                napredka.</p>
@@ -640,8 +670,7 @@
             <p xml:id="No.71.PPP.57">Toda vsa izobrazba, ki jo podaja ljudska šola, izobrazba, ki je
                pogoj pravemu in razumnemu življenju, pogoj napredka v gospodarstvu in s tem pogoj
                napredka v političnem življenju naroda, vsa ta izobrazba mora biti podana človeku
-               tako, da se vzgoji sporedno srce in razum, in to je mogoče edino na podlagi <hi
-                  rend="italic">materinskega jezika</hi>. Nismo nasprotniki nemščine, nasprotno,
+               tako, da se vzgoji sporedno srce in razum, in to je mogoče edino na podlagi <hi rend="italic">materinskega jezika</hi>. Nismo nasprotniki nemščine, nasprotno,
                veseli nas, če naši ljudje znajo čimnajveč jezikov, toda odločni nasprotniki tega
                smo, da bi se mlade duše naših otrok ubijale že prva leta ljudske šole z nemščino, da
                bi se jim podajali že v ljudski šoli razni predmeti v nemškem jeziku. Vsak poedinec
@@ -649,14 +678,12 @@
                stvari izraziti v svojem materinem jeziku. Nemščina se naj, kjer za to morebiti
                govori potreba, v zadnjih letih ljudske šole uči kot postranski predmet, toda drugih
                predmetov se naj ne poučuje – vsaj nikdar izključno – v nemščini. Naše prepričanje
-               je, da nemščina sama ne bo rešila našega gospodarstva, naše prepričanje je, <hi
-                  rend="italic">da slovenskega kmeta ne bo rešilo to, če se zna s kakim mešetarjem
+               je, da nemščina sama ne bo rešila našega gospodarstva, naše prepričanje je, <hi rend="italic">da slovenskega kmeta ne bo rešilo to, če se zna s kakim mešetarjem
                   nemški razgovoriti, ampak naše gospodarstvo, naše kmetije, naše obrtništvo in naše
                   trgovstvo bo rešila čim največja splošna izobrazba v gospodarstvu</hi>. Zato
                polagamo posebno važnost na to in še enkrat povdarjamo, naj se v ljudskih šolah,
                posebej na deželi, ozira <hi rend="italic">na praktične potrebe ljudstva</hi> in naj
-               se oni čas, ki bi se ga zabilo po nepotrebnem s preveč učenjem nemščine, <hi
-                  rend="italic">porabi v pouk v kmetijstvu in gospodarstvu sploh</hi>. Povdarjamo
+               se oni čas, ki bi se ga zabilo po nepotrebnem s preveč učenjem nemščine, <hi rend="italic">porabi v pouk v kmetijstvu in gospodarstvu sploh</hi>. Povdarjamo
                pa, da <hi rend="italic">je prosti lump vsak napreden Slovenec, ki je tako zakrknjen,
                   da pusti svojo deco mučiti že od prvega razreda naprej v nemški šoli, ter tako
                   ubija dušo svojega otroka</hi>. Sam cesar je rekel pred par mesci: nemški otrok
@@ -672,22 +699,19 @@
                prosvetne potrebe in zadeve, zahtevamo baš za te v naučnem ministrstvu poseben
                oddelek. Z ozirom na to, da Slovenci smo prosvitljen narod in da hočemo kot tak biti
                ravnopravni z vsemi drugimi narodi, z ozirom dalje na to, da hočemo naše sinove kot
-               uradnike, profesorje itd. imeti vzgojene v slovenskem duhu, zahtevamo odločno <hi
-                  rend="italic">slovensko vseučilišče v <placeName>Ljubljani</placeName></hi>.</p>
+               uradnike, profesorje itd. imeti vzgojene v slovenskem duhu, zahtevamo odločno <hi rend="italic">slovensko vseučilišče v <placeName>Ljubljani</placeName>
+               </hi>.</p>
             <p xml:id="No.71.PPP.59">Želimo tudi, da se naše ženstvo vzgaja v dobre, nravne žene, v
                razumne gospodinje; zahtevamo zato <hi rend="italic">slovenske gospodinjske šole</hi>
                ter za prvo vsaj gospodinjske tečaje, v katerih se bo naša ženska mladina privadila
-                  <hi rend="italic">razumnemu domačemu gospodarstvu</hi>, privadila obenem <hi
-                  rend="italic">razumni vzgoji otrok</hi> ter vsaj nekoliko pridobila tudi <hi
-                  rend="italic">zdravstvenega znanja</hi> za najnujnejše potrebe v življenju.
+                  <hi rend="italic">razumnemu domačemu gospodarstvu</hi>, privadila obenem <hi rend="italic">razumni vzgoji otrok</hi> ter vsaj nekoliko pridobila tudi <hi rend="italic">zdravstvenega znanja</hi> za najnujnejše potrebe v življenju.
                Smatramo zdrav in čil ženski rod za prvi pogoj zdravega in čilega zaroda in s tem
                naroda, in smo zato odločni <hi rend="italic">zagovorniki ženske telovadbe</hi>, ki
                se – seveda z oziri na nravnost – naj goji že v ljudski šoli.</p>
             <p xml:id="No.71.PPP.60">Samoobsebi umevno ne smatramo izobrazbe, ki si jo pridobi
                poedinec v ljudski šoli, za dovoljno za življenje, ampak jo smatramo za podlago
                nadaljni izobrazbi. Zato smo odkriti prijatelji in bomo tudi z vsemi našimi močmi
-               podpirali ustanavljanje javnih ljudskih knjižnic in čitalnic ali bralnih društev, <hi
-                  rend="italic">zahtevamo pa, da se ista ne postavljajo na enostransko stališče
+               podpirali ustanavljanje javnih ljudskih knjižnic in čitalnic ali bralnih društev, <hi rend="italic">zahtevamo pa, da se ista ne postavljajo na enostransko stališče
                   cerkvenih knjig in naukov</hi>, ampak da se v teh društvih poda poedincu priliko
                si pridobiti <hi rend="italic">potom</hi>
                <hi rend="bold">razumnega</hi>
@@ -701,7 +725,8 @@
                našega ljudstva mora biti poučen o svojih državljanskih pravicah in dolžnostih, o
                svojih pravicah in dolžnostih kot Slovenec, kot Slovan in človek, mora biti poučen o
                ustavnem življenju, o upravi naše države, o naših narodnih zahtevah itd.</p>
-            <p xml:id="No.71.PPP.61"><hi rend="italic">Izobrazba, vsestranska in splošna, je pogoj
+            <p xml:id="No.71.PPP.61">
+               <hi rend="italic">Izobrazba, vsestranska in splošna, je pogoj
                   obstanka in napredka naroda, izobraženi in napredni narodi so pogoj obstanka in
                   napredka države</hi>.</p>
             <milestone xml:id="No.71.PPP.62" unit="section" n="*"/>
@@ -710,17 +735,17 @@
                protivniki sedanjega vladnega sistema, odločni protivniki razkosanja Slovencev na
                posamezne kronovine (<placeName>Štajersko</placeName>,
                   <placeName>Kranjsko</placeName>, <placeName>Koroško</placeName> in
-                  <placeName>Primorsko</placeName> ter celo <placeName>Ogrsko</placeName>) in <hi
-                  rend="italic">zahtevamo združenje vseh Slovencev, tudi naših prekmurskih
+                  <placeName>Primorsko</placeName> ter celo <placeName>Ogrsko</placeName>) in <hi rend="italic">zahtevamo združenje vseh Slovencev, tudi naših prekmurskih
                   bratov</hi>, v eno narodno celoto, v eno skupino, ki si v okviru avstrijske države
-               sama upravlja vse zadeve, ki se tičejo Slovencev. Zahtevamo torej <hi rend="italic"
-                  >narodno samoupravo ali avtonomijo</hi>, z drugimi besedami, zahtevamo</p>
-            <quote xml:id="No.71.PPP.64"><hi rend="italic">zedinjeno Slovenijo,</hi></quote>
+               sama upravlja vse zadeve, ki se tičejo Slovencev. Zahtevamo torej <hi rend="italic">narodno samoupravo ali avtonomijo</hi>, z drugimi besedami, zahtevamo</p>
+            <quote xml:id="No.71.PPP.64">
+               <hi rend="italic">zedinjeno Slovenijo,</hi>
+            </quote>
             <p xml:id="No.71.PPP.65">zahteva, ki so jo naši očetje mogočno dvignili v navdušenih
                časih slovenskih taborov v letih sedemdesetih.</p>
             <p xml:id="No.71.PPP.66">Vsi zedinjeni Slovenci s svojo narodno samoupravo bi odločevali
-               o vseh svojih gospodarskih, prosvetnih in političnih potrebah samostojno s svojim <hi
-                  rend="italic">narodnim, ljudskim zborom ali parlamentom v <placeName>Ljubljani</placeName></hi>.
+               o vseh svojih gospodarskih, prosvetnih in političnih potrebah samostojno s svojim <hi rend="italic">narodnim, ljudskim zborom ali parlamentom v <placeName>Ljubljani</placeName>
+               </hi>.
                Zahtevamo, da se na enaki način zrušijo vse dosedanje kronovine ali dežele in da se
                vsi narodi združijo v narodnostne skupine ali celote ter vsaka taka narodna skupina
                za sebe odločuje o svojih narodnih zadevah. Le o vprašanjih, ki zadevajo celo državo,
@@ -747,9 +772,9 @@
                da se spoštujemo drug drugega, da ljubimo mi Slovenci in spoštujemo svoje slovanske
                brate ter da oni ljubijo in spoštujejo nas. Želimo, da se spoznavamo med seboj, da
                spoznavamo drug drugega jezik, književnost, šege in običaje, sploh prosveto, in
-               želimo, da se duševno in gmotno podpiramo drug drugega proti skupnim sovražnikom. <hi
-                  rend="italic">Bodimo iskreni Slovenci – ter spoštujmo in ljubimo svoje slovanske
-                  brate!</hi></p>
+               želimo, da se duševno in gmotno podpiramo drug drugega proti skupnim sovražnikom. <hi rend="italic">Bodimo iskreni Slovenci – ter spoštujmo in ljubimo svoje slovanske
+                  brate!</hi>
+            </p>
             <p xml:id="No.71.PPP.70">To so v glavnih potezah naša načela. Mnogo in obširno bi se
                dalo še govoriti o posameznostih. A zato se v tej knjižici ne gre, ampak gre se nam
                za to, da štajerski Slovenci spoznajo naše glavne, osnovne misli.</p>
@@ -759,21 +784,18 @@
                prosvete, izomike slovenskega ljudstva, branili bomo narodovo svobodo proti navalu
                tujcev in nasilju države, branili bomo svobodo in <hi rend="italic">edino pravico
                   odločevanja ljudstva</hi> v življenskih narodnih vprašanjih nasproti nadvladi in
-               gospodovalnemu vplivu ter delovanju posameznih oseb in stanov, torej <hi
-                  rend="italic">načelo ljudske, v resnici narodne politike</hi>, branili bomo <hi
-                  rend="italic">svobodo političnega in verskega prepričanja</hi> vsakega
+               gospodovalnemu vplivu ter delovanju posameznih oseb in stanov, torej <hi rend="italic">načelo ljudske, v resnici narodne politike</hi>, branili bomo <hi rend="italic">svobodo političnega in verskega prepričanja</hi> vsakega
                poedinca.</p>
-            <p xml:id="No.71.PPP.72">S svojimi sodeželani hočemo živeti v miru. Toda <hi
-                  rend="italic">neizprosen boj napovedujemo tistim narodnim nasprotnikom, ki
+            <p xml:id="No.71.PPP.72">S svojimi sodeželani hočemo živeti v miru. Toda <hi rend="italic">neizprosen boj napovedujemo tistim narodnim nasprotnikom, ki
                   izsesavajo našo zemljo in naše ljudstvo</hi>. Na slovenski, na svoji zemlji hočemo
                biti mi sami gospodarji! Odkrit in neizprosen boj napovedujemo tudi strupenemu vplivu
                tistih, ki so, rojeni od slovenskih mater, to pozabili, ki so kot navadni lumpje
                prodali svojo narodnost, svoj jezik za ničvredno čast, ki so postali zaničevalci
-               slovenskega imena in slovenskega jezika, gnusni odpadniki od svojega naroda. <hi
-                  rend="italic">Nikdar tega ne stori v resnici izobražen in napreden Slovenec</hi>,
+               slovenskega imena in slovenskega jezika, gnusni odpadniki od svojega naroda. <hi rend="italic">Nikdar tega ne stori v resnici izobražen in napreden Slovenec</hi>,
                in kdor to stori, se ne more in ne sme imenovati zlepim imenom naprednjak, ampak
                častihlepnež in nazadnjak.</p>
-            <p xml:id="No.71.PPP.73"><q>Narodnost je naše najvišje načelo</q>! Te besede smo
+            <p xml:id="No.71.PPP.73">
+               <q>Narodnost je naše najvišje načelo</q>! Te besede smo
                postavili na čelo svojim izvajanjem. In izjavljamo konečno slovesno in sveto: kakor
                nam bo sicer neizprosen boj za naša napredna načela svet in drag, kakor bomo stali
                za-nja neomajno in trdno, tako tudi izjavljamo, da nasproti vladi, kadar se bo šlo za
@@ -794,15 +816,19 @@
                svobodo, ki zastopa načela vsestranske narodne svobode in vsestranske izomike. To pa
                naši odpadniki in naši narodni nasprotniki niso, in zato jih zaničujemo kot
                najostudnejše nazadnjake.</p>
-            <quote xml:id="No.71.PPP.75"><hi rend="italic">Slovenci zelene <placeName>Štajerske</placeName>!</hi></quote>
+            <quote xml:id="No.71.PPP.75">
+               <hi rend="italic">Slovenci zelene <placeName>Štajerske</placeName>!</hi>
+            </quote>
             <p xml:id="No.71.PPP.76">Po teh načelih hočemo delati kot stranka in hočemo pisati naš
                časopis. Ne gre se nam za to, da bi naš narod dobil nove poslance, nove župane itd.,
                   <hi rend="italic">gre se nam za to, da v naši politiki na znotraj in na zunaj
                   zavlada nova smer</hi>.</p>
-            <p xml:id="No.71.PPP.77"><hi rend="bold">Vi vsi, ki spoštujete svobodo narodno, svobodo
+            <p xml:id="No.71.PPP.77">
+               <hi rend="bold">Vi vsi, ki spoštujete svobodo narodno, svobodo
                   prepričanja, ki ste prepojeni z mislijo napredka, stopite v naš krog, postanite
                   sobojevniki prave slovenske ljudske politike, postanite sobojevniki prave napredne
-                  misli!</hi></p>
+                  misli!</hi>
+            </p>
             <gap reason="irrelevant"/>
          </div>
       </body>

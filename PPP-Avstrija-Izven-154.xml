@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,7 +52,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="item" occurs="4"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="placeName" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -60,10 +87,12 @@
             <gap reason="irrelevant"/>
             <p xml:id="No.154.PPP.1">Slovensko narodno-radikalno dijaštvo zbrano na svojem III.
                shodu v <placeName>Ljubljani</placeName> v dnevih <date from="1909-09-16" to="1909-09-20">od 16.–20.
-                  septembra 1909</date><note place="foot">Shod je potekal od 17.–19. 9. 1909.</note>
+                  septembra 1909</date>
+               <note place="foot">Shod je potekal od 17.–19. 9. 1909.</note>
                s svojimi gosti, naprednimi češkimi in jugoslovanskimi dijaki </p>
             <list xml:id="No.154.PPP.2" rend="numbered" n="I.">
-               <item><list rend="numbered">
+               <item>
+                  <list rend="numbered">
                      <item n="1.">vidi v organizaciji slovenskega klerikalnega dijaštva del one
                         mednarodne sile, ki uporabljajoč moderna sredstva služi edino-le interesom
                            <placeName>Rima</placeName> ter zavira s tem prost razvoj slovenskega
@@ -72,7 +101,8 @@
                         in z intenzivnim protiklerikalnim delom paralizira to nevarnost;</item>
                      <item n="3.">priporoča temeljitost študij kulturnih, gospodarskih in političnih
                         ved in delavskega vprašanja.</item>
-                  </list></item>
+                  </list>
+               </item>
             </list>
             <gap reason="irrelevant"/>
          </div>

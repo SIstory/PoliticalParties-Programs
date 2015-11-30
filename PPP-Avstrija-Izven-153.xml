@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="46"/>
+               <tagUsage gi="item" occurs="5"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="3"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="62"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj hribar</name>: dodani geogName
@@ -86,12 +113,15 @@
                   gorskem grebenu čez <placeName>Kammering</placeName> ob <geogName>Dravi</geogName>, po gorskem grebenu čez <geogName>Koberco</geogName>, dalje čez
                   <geogName>Arje</geogName>, po gorskem grebenu čez <placeName>Oberboden</placeName>, po strugi <geogName>Tiebelbachu</geogName> do izliva v <geogName>Glino</geogName>,
                   po strugi <geogName>Gline</geogName> do izliva <geogName>Vimičkega potoka</geogName>, po <geogName>Beli steni</geogName> čez <geogName>Plešivec</geogName>, <placeName>Svinec ob
-                  <geogName>Goršici</geogName></placeName>, po gorskem grebenu čez <geogName>Speikkogel</geogName> dalje do <placeName>Šmarnega v <geogName>Labodski dolini</geogName></placeName>, po
+                  <geogName>Goršici</geogName>
+                  </placeName>, po gorskem grebenu čez <geogName>Speikkogel</geogName> dalje do <placeName>Šmarnega v <geogName>Labodski dolini</geogName>
+                  </placeName>, po
                   gorskem grebenu čez <geogName>Koralpo</geogName> na <placeName>Štajersko</placeName> k virom <geogName>Bela
                   Sulme</geogName>, po strugi <geogName>Sulme</geogName> do izliva v <geogName>Muro</geogName>, po strugi <geogName>Mure</geogName> do izliva <geogName>Perkovega
                   mlinskega potoka</geogName>, čez <placeName>Farovce</placeName> k izlivu <geogName>Pöltenbacha</geogName> v <geogName>Kučenico</geogName>, po strugi <geogName>Kučenice</geogName>
                   čez <geogName>Stergagorje</geogName> v dolino <geogName>Dojberskega potoka</geogName> do izliva v <geogName>Rabo</geogName>, po strugi <geogName>Rabe</geogName> do
-                  izliva <geogName>Lugoškega potoka</geogName> čez <placeName>Ispank</placeName> in <placeName>Ramoezo ob <geogName>Krki</geogName></placeName>, po strugi <geogName>Krke</geogName> do izliva v
+                  izliva <geogName>Lugoškega potoka</geogName> čez <placeName>Ispank</placeName> in <placeName>Ramoezo ob <geogName>Krki</geogName>
+                  </placeName>, po strugi <geogName>Krke</geogName> do izliva v
                   <geogName>Muro</geogName>, po strugi <geogName>Mure</geogName> do izliva v <geogName>Dravo</geogName>, po strugi <geogName>Drave</geogName> do izliva v <geogName>Donavo</geogName>, po
                   strugi <geogName>Donave</geogName> proti toku do <geogName>Frančiškovega prekopa</geogName>, po strugi <geogName>Frančiškovega prekopa</geogName>
                   do <geogName>Tise</geogName>, po strugi <geogName>Tise</geogName> proti toku do izliva <geogName>Moruše</geogName>, po strugi <geogName>Moruše</geogName> proti toku
@@ -104,13 +134,15 @@
                      kraljestva</placeName> bi merilo dobrih 150.000 km² z več nego 8 miljoni
                   prebivalcev. <placeName>Jugoslovansko kraljestvo</placeName> bi bilo torej le del
                      <placeName>habsburške monarhije</placeName>.</item>
-               <item n="2."><placeName>Jugoslovansko kraljestvo</placeName> imej svojega lastnega
+               <item n="2.">
+                  <placeName>Jugoslovansko kraljestvo</placeName> imej svojega lastnega
                   kralja iz <persName>habsburško-lotarinske rodbine</persName>, ki imej kar se tiče
                   armade slične pravice kakršne ima bavarski kralj. Vrhovne pravice
                      <placeName>habsburškega cesarja</placeName>, katere ima v teritoriju, ki ima
                   tvoriti <placeName>jugoslovansko kraljestvo</placeName>, preidejo na kralja južnih
                   Slovanov.</item>
-               <item n="3."><placeName>Jugoslovansko kraljestvo</placeName> imej v ostalih smereh
+               <item n="3.">
+                  <placeName>Jugoslovansko kraljestvo</placeName> imej v ostalih smereh
                   isto samostalnost, kakoršno ima dandanes <placeName>Ogrska</placeName> in imej
                   vrhutega približno takšno pravico svojega diplomatičnega zastopstva pri vseh
                   svojih sosednih državah, kakoršno ima <placeName>bavarsko</placeName> ali
@@ -118,10 +150,10 @@
                <item n="4.">V <placeName>jugoslovanskem kraljestvu</placeName> bodi državni, t. j.
                   uradni, armadni in diplomatični jezik izključno srbo-hrvatski jezik, le v
                   slovenskem ozemlju bodi uradni jezik slovenski. Latinica in cirilica bodita v rabi
-                  enakopravni kakor sta pri Nemcih latinica in fraktura<note place="foot"
-                     >Gotica.</note> ter se naj srbsko-hrvatski in slovenski jezik v vokabularnem
+                  enakopravni kakor sta pri Nemcih latinica in fraktura<note place="foot">Gotica.</note> ter se naj srbsko-hrvatski in slovenski jezik v vokabularnem
                   oziru izenačita, dočim si v formalnem svoje posebnosti ohranita.</item>
-               <item n="5."><placeName>Jugoslovansko kraljestvo</placeName> se razdeli v tri pokrajine, v srbsko, hrvatsko
+               <item n="5.">
+                  <placeName>Jugoslovansko kraljestvo</placeName> se razdeli v tri pokrajine, v srbsko, hrvatsko
                   in slovensko. Takšno pokrajino tvori ozemlje, na katerem eno pleme kompaktno
                   prebiva in katero imej ime v historiji utemeljeno. Slovenska pokrajina bi se
                   imenovala <placeName>kraljestvo Ilirija</placeName>, hrvatska <placeName>trojedina kraljevina</placeName> in srbska <placeName>srbsko

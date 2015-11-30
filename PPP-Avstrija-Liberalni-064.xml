@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -72,8 +99,7 @@
                      1918</date>, izjavljajo: da je za ustanovitev trajnega miru med narodi bistven
                   pogoj vsestransko priznanje pravice samoodločbe narodov: sklicujoč se na pravico
                   samoodločbe narodov, vidijo spas slovenskega naroda v združitvi Hrvatov, Srbov in
-                  Slovencev v eno državno ozemlje v zmislu majniške deklaracije;<note
-                     source="#SourceBornDigital">Glej dok. št. 130.</note> notranja uprava te
+                  Slovencev v eno državno ozemlje v zmislu majniške deklaracije;<note source="#SourceBornDigital">Glej dok. št. 130.</note> notranja uprava te
                   narodne državne skupnosti se mora urediti in izvesti po demokratičnih načelih v
                   najširšem zmislu, pri čemur je sporazumno vpoštevati posebnosti vseh treh delov
                   troimenskega naroda; pozdravljajo z navdušenjem in priznanjem dosedanje korake

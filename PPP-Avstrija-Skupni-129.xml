@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -68,7 +68,38 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="4"/>
+               <tagUsage gi="hi" occurs="20"/>
+               <tagUsage gi="item" occurs="50"/>
+               <tagUsage gi="label" occurs="20"/>
+               <tagUsage gi="list" occurs="7"/>
+               <tagUsage gi="note" occurs="3"/>
+               <tagUsage gi="orgName" occurs="9"/>
+               <tagUsage gi="p" occurs="59"/>
+               <tagUsage gi="placeName" occurs="65"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -83,7 +114,8 @@
                ukazujem tako:</p>
             <div xml:id="No.129.PPP.2">
                <head>Člen I.</head>
-               <p>Spreminjaje in dopolnjevaje volilni red za <orgName>deželni zbor vojvodine <placeName>Kranjske</placeName></orgName>, izdan
+               <p>Spreminjaje in dopolnjevaje volilni red za <orgName>deželni zbor vojvodine <placeName>Kranjske</placeName>
+                  </orgName>, izdan
                   z zakonom z dne <date when="1898-11-05">5. novembra 1898. l.</date>, štev. 40. dež. zak., stopijo na mesto spodaj
                   oznamenjenih paragrafov volilnega reda za <orgName>deželni zbor</orgName>, oziroma kot ustavki k
                   posameznim paragrafom nastopna določila:</p>
@@ -108,20 +140,25 @@
                            </list>
                         </item>
                         <item n="2.)">mesto <placeName>Idrija</placeName> eden volilni okraj,</item>
-                        <item n="3.)"><placeName>Kranj</placeName>,
+                        <item n="3.)">
+                           <placeName>Kranj</placeName>,
                               <placeName>Škofjaloka</placeName> skupaj eden volilni okraj,</item>
-                        <item n="4.)"><placeName>Tržič</placeName>,
+                        <item n="4.)">
+                           <placeName>Tržič</placeName>,
                               <placeName>Radovljica</placeName>, <placeName>Kamnik</placeName>
                            skupaj eden volilni okraj,</item>
-                        <item n="5.)"><placeName>Postojna</placeName>,
+                        <item n="5.)">
+                           <placeName>Postojna</placeName>,
                               <placeName>Vrhnika</placeName>, <placeName>Lož</placeName> skupaj eden
                            volilni okraj,</item>
-                        <item n="6.)"><placeName>Novo mesto</placeName>,
+                        <item n="6.)">
+                           <placeName>Novo mesto</placeName>,
                               <placeName>Višnjagora</placeName>, <placeName>Črnomelj</placeName>,
                               <placeName>Metlika</placeName>, Kostanjevica,
                               <placeName>Krško</placeName>, <placeName>Ribnica</placeName> skupaj
                            eden volilni okraj,</item>
-                        <item n="7.)"><placeName>Kočevje</placeName> eden volilni okraj.</item>
+                        <item n="7.)">
+                           <placeName>Kočevje</placeName> eden volilni okraj.</item>
                      </list>
                   </item>
                   <label>§ 5.</label>
@@ -191,8 +228,7 @@
                         in kateri</p>
                      <list rend="numbered">
                         <item n="a)">v občinah s tremi volilnimi razredi spadajo v prvi in drugi
-                           razred in kateri v tretjem razredu plačujejo najmanj po <hi rend="italic"
-                              >osem kron</hi> cesarskega neposrednega davka na leto;</item>
+                           razred in kateri v tretjem razredu plačujejo najmanj po <hi rend="italic">osem kron</hi> cesarskega neposrednega davka na leto;</item>
                         <item n="b)">v občinah, ki imajo manj ko tri volilne razrede, pa tisti po
                            velikosti letnega cesarskega neposrednega davka razvrščeni občinski
                            volilci, ki plačujejo prve dve tretjini vsega tega davka, in razen teh
@@ -251,7 +287,8 @@
                         <item n="c)">samopraven in če</item>
                         <item n="d)">ima volilno pravico za <orgName>deželni zbor</orgName> v kateremkoli volilskem
                            razredu dežele.</item>
-                     </list><p>Isto velja tudi glede poslancev trgovske in obrtne zbornice.</p>
+                     </list>
+                     <p>Isto velja tudi glede poslancev trgovske in obrtne zbornice.</p>
                   </item>
                   <label>§ 16 <hi rend="italic">a</hi>).</label>
                   <item>
@@ -364,8 +401,7 @@
                         glasov, odloči med njimi žreb, ki ga vzdigne volilni komisar.</p>
                      <p>Ako se ni sešlo za ustanovitev volilne komisije potrebno število volilcev,
                         opravi posle volilne komisije volilni komisar.</p>
-                     <p>Volilnega komisarja za veliko posestvo, za v § 3. pod 1., in v § 7. <hi
-                           rend="italic">a</hi> pod 1., omenjene volilne okraje in za trgovsko in
+                     <p>Volilnega komisarja za veliko posestvo, za v § 3. pod 1., in v § 7. <hi rend="italic">a</hi> pod 1., omenjene volilne okraje in za trgovsko in
                         obrtno zbornico v <placeName>Ljubljani</placeName> imenuje deželni
                         predsednik, za ostale volilne okraje politično oblastvo prve stopinje.</p>
                      <p>Posel volilnega komisarja je, brezkvarno določilom veljavnim za javne
@@ -396,8 +432,7 @@
                   <label>§ 45.</label>
                   <item>
                      <p>Deželni predsednik mora, pregledavši dospele volilne spise, vsakemu
-                        izvoljenemu poslancu, zoper katerega ne obstoji nobeden v § 16. in 16. <hi
-                           rend="italic">a</hi> določenih izključivnih oziroma izjemnih razlogov,
+                        izvoljenemu poslancu, zoper katerega ne obstoji nobeden v § 16. in 16. <hi rend="italic">a</hi> določenih izključivnih oziroma izjemnih razlogov,
                         izgotoviti in dostaviti dati volilno poverilo.</p>
                      <p>To volilno poverilo daje izvoljenemu poslancu pravico vstopiti v <orgName>deželni
                         zbor</orgName> in vstvarja domnevo veljavnosti njegove volitve za toliko časa, dokler
@@ -420,19 +455,17 @@
             <div xml:id="No.129.PPP.3">
                <head>Člen II.</head>
                <p>Ta zakon stopi ob enem z zakonom z dne . . . . . . . . štev. . . . . . dež. zak.,
-                  s katerim se spreminja deželni red za vojvodino Kranjsko, v veljavo.<note
-                     place="foot" source="#SourceBornDigital">Zakona o spremembi volilnega reda za
+                  s katerim se spreminja deželni red za vojvodino Kranjsko, v veljavo.<note place="foot" source="#SourceBornDigital">Zakona o spremembi volilnega reda za
                      deželni zbor vojvodine Kranjske in spremembi deželnega reda za vojvodino
-                     Kranjsko sta bila izdana <date when="1908-08-26">26. 8. 1908</date>. – <hi
-                        rend="italic">15.</hi> Zakon z dné 26. avgusta 1908, <hi rend="italic"
-                        >veljaven za vojvodino Kranjsko, s katerim se spreminja volilni red za
+                     Kranjsko sta bila izdana <date when="1908-08-26">26. 8. 1908</date>. – <hi rend="italic">15.</hi> Zakon z dné 26. avgusta 1908, <hi rend="italic">veljaven za vojvodino Kranjsko, s katerim se spreminja volilni red za
                         deželni zbor vojvodine Kranjske</hi>. Deželni zakonik za vojvodino Kranjsko
                      : leto 1908 : X. kos : izdan in razposlan 12. septembra 1908. Ljubljana :
                      Učiteljska tiskarna, str. 52–60; <hi rend="italic">14.</hi> Zakon z dné 26.
                      avgusta 1908, <hi rend="italic">veljaven za vojvodino Kranjsko, s katerim se
                         spreminja deželni red za vojvodino Kranjsko</hi>. Deželni zakonik za
                      vojvodino Kranjsko : leto 1908 : X. kos : izdan in razposlan 12. septembra
-                     1908. Ljubljana : Učiteljska tiskarna, str. 48–51.</note></p>
+                     1908. Ljubljana : Učiteljska tiskarna, str. 48–51.</note>
+               </p>
             </div>
             <div xml:id="No.129.PPP.4">
                <head>Člen III.</head>

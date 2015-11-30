@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,7 +48,39 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="3"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="4"/>
+               <tagUsage gi="p" occurs="4"/>
+               <tagUsage gi="persName" occurs="14"/>
+               <tagUsage gi="placeName" occurs="16"/>
+               <tagUsage gi="q" occurs="3"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -64,14 +96,18 @@
                   <placeName>Dunaj</placeName>, <date when="1912-10-10">10. oktobra</date>
                </dateline>
             </opener>
-            <p>Včeraj in danes se je novoustanovljena <q><orgName>Hrvaško-slovenska narodna zveza</orgName></q> v
-               prostorih državnozborskega <q><orgName>Hrvaško-slovenskega kluba</orgName></q> posvetovala. Posvetovanja
+            <p>Včeraj in danes se je novoustanovljena <q>
+                  <orgName>Hrvaško-slovenska narodna zveza</orgName>
+               </q> v
+               prostorih državnozborskega <q>
+                  <orgName>Hrvaško-slovenskega kluba</orgName>
+               </q> posvetovala. Posvetovanja
                so se danes popoldne končala. Soglasno se je, kakor poroča <q>Hrvaška
                   korespondenca</q>, sklenil sledeči komunike:</p>
             <p xml:id="No.40.PPP.1">Danes so se končala posvetovanja hrvaško-slovenskega
-               eksekutivnega komiteja, za voditelja stranke sta izvoljena dr. <persName>Mile <hi
-                     rend="italic">Starčević</hi></persName> in dr. <persName>Ivan <hi rend="italic"
-                     >Šusteršič</hi></persName>, za zapisnikarja pa <persName>Cezar
+               eksekutivnega komiteja, za voditelja stranke sta izvoljena dr. <persName>Mile <hi rend="italic">Starčević</hi>
+               </persName> in dr. <persName>Ivan <hi rend="italic">Šusteršič</hi>
+               </persName>, za zapisnikarja pa <persName>Cezar
                   Akačič</persName> in dr. <persName>Janko Brejc</persName>. Sklenilo se je, da
                   <date when="1912-10-20">20. oktobra</date> zborujejo v
                   <placeName>Ljubljani</placeName> vsi državni in deželni poslanci obeh združenih

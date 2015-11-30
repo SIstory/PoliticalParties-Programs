@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="bibl.Slovenec.1890-10-03">
@@ -82,7 +82,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-03" corresp="#bibl.Slovenec.1890-10-03">
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-03"
+                     corresp="#bibl.Slovenec.1890-10-03">
             <biblStruct>
                <analytic>
                   <title>Shod slovenskih poslancev v Ljubljani</title>
@@ -99,7 +100,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-04" corresp="#bibl.Slovenec.1890-10-04">
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-04"
+                     corresp="#bibl.Slovenec.1890-10-04">
             <biblStruct>
                <analytic>
                   <title>Shod slovenskih poslancev v Ljubljani</title>
@@ -116,7 +118,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-06" corresp="#bibl.Slovenec.1890-10-06">
+         <sourceDesc xml:id="bibl.Slovenski_narod.1890-10-06"
+                     corresp="#bibl.Slovenec.1890-10-06">
             <biblStruct>
                <analytic>
                   <title>Shod slovenskih poslancev v Ljubljani</title>
@@ -134,7 +137,38 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="3"/>
+               <tagUsage gi="gap" occurs="5"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="1"/>
+               <tagUsage gi="item" occurs="6"/>
+               <tagUsage gi="list" occurs="4"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="placeName" occurs="24"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -161,8 +195,7 @@
             </list>
             <p xml:id="No.104.PPP.4">Ravno isto se zahteva gledé uradov za hrvatski jezik v
                   <placeName>Istri</placeName>.</p>
-            <p xml:id="No.104.PPP.5">V pospeševanje in olajšanje tega se zahteva, da se napravi <hi
-                  rend="italic">oddelek štajerskega namestništva </hi>za <placeName>Spodnji
+            <p xml:id="No.104.PPP.5">V pospeševanje in olajšanje tega se zahteva, da se napravi <hi rend="italic">oddelek štajerskega namestništva </hi>za <placeName>Spodnji
                   Štajer</placeName> po vzgledu onega za <placeName>južno Tirolsko</placeName>, da
                se ustanovi v <placeName>Ljubljani</placeName> višje deželno sodišče za slovenske in
                isterske pokrajine; da se ustanovi v <placeName>Ljubljani</placeName> pravniška

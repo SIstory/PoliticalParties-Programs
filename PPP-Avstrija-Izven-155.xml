@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -45,7 +45,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="item" occurs="7"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="persName" occurs="2"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -61,13 +88,14 @@
                   gospodarsko osamosvojitev slovenskega naroda. Pozivlja vso slovensko javnost, da
                   posveča temu vprašanju čim največ pozornosti;</item>
                <item n="2.">pozdravlja z veseljem misel ustanovitve gospodarsko obrambnega društva
-                  <q><orgName>Branibor</orgName></q> in želi, da se v doglednem času ustanovi parcelacijska
+                  <q>
+                     <orgName>Branibor</orgName>
+                  </q> in želi, da se v doglednem času ustanovi parcelacijska
                   banka;</item>
                <item n="3.">pozivlja merodajne faktorje, da pokličejo čimprej v življenje slovenski
                   narodni svet;</item>
                <item n="4.">povdarja važnost prihodnjega ljudskega štetja za našo politično in
-                  državnopravno bodočnost in pričakuje od vodilnih krogov, da store:<list
-                     type="ordered">
+                  državnopravno bodočnost in pričakuje od vodilnih krogov, da store:<list type="ordered">
                      <item n="a)">Vse potrebne korake, da se rubrika občevalnega jezika nadomesti z
                         narodnostjo;</item>
                      <item n="b)">da se vpelje kontrolo pri uradnem ljudskem štetju in izvrši

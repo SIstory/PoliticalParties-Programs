@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="bibl.Slovenec.1898-03-18">
@@ -46,7 +46,8 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-         <sourceDesc xml:id="bibl.Slovenski_narod.1898-03-18" corresp="#bibl.Slovenec.1898-03-18">
+         <sourceDesc xml:id="bibl.Slovenski_narod.1898-03-18"
+                     corresp="#bibl.Slovenec.1898-03-18">
             <biblStruct>
                <analytic>
                   <title>Spravna pogodba</title>
@@ -70,7 +71,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="17"/>
+               <tagUsage gi="head" occurs="16"/>
+               <tagUsage gi="hi" occurs="9"/>
+               <tagUsage gi="item" occurs="7"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="note" occurs="9"/>
+               <tagUsage gi="orgName" occurs="15"/>
+               <tagUsage gi="p" occurs="38"/>
+               <tagUsage gi="persName" occurs="4"/>
+               <tagUsage gi="placeName" occurs="4"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -83,13 +114,14 @@
             <p xml:id="No.116.PPP.1">Mej kluboma <orgName>napredne narodne</orgName> in <orgName>katoliško narodne stranke</orgName> v
                deželnem zboru je bila sklenjena in od vodstev obeh strank potrjena naslednja spravna
                   pogodba:<note place="foot"
-                  source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">Ta odstavek je
-                  natisnil le <hi rend="italic">Slovenski narod</hi>.</note></p>
+                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">Ta odstavek je
+                  natisnil le <hi rend="italic">Slovenski narod</hi>.</note>
+            </p>
             <div xml:id="No.116.PPP.2">
                <head>I.</head>
-               <p>Kluba <orgName>katoliško-narodne</orgName> in <orgName>narodne stranke</orgName><note place="foot"
-                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
-                        rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in katoliško
+               <p>Kluba <orgName>katoliško-narodne</orgName> in <orgName>narodne stranke</orgName>
+                  <note place="foot"
+                        source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in katoliško
                      narodne stranke.</note> v deželnem zboru kranjskem skleneta med sabo za tekočo
                   volilno dobo trdno in neločljivo zvezo.</p>
                <p>Oba sprijateljena kluba bodeta delovala za razvoj javnega življenja v kulturnem,
@@ -99,9 +131,8 @@
                <p>Kot svojo posebno nalogo bodeta sprijateljena kluba smatrala:</p>
                <list rend="numbered">
                   <item n="a)">potezati se za pravice in napredek celokupnega slovenstva v zmislu
-                     resolucij vseslovenskega in istersko-hrvatskega shoda z dne <date
-                        when="1897-09-14">14. septembra 1897</date>;<note place="foot"
-                        source="#SourceBornDigital">Glej dok. št. 107–114.</note></item>
+                     resolucij vseslovenskega in istersko-hrvatskega shoda z dne <date when="1897-09-14">14. septembra 1897</date>;<note place="foot" source="#SourceBornDigital">Glej dok. št. 107–114.</note>
+                  </item>
                   <item n="b)">dosledno pripravljati pot za združenje vsega slovenskega ozemlja v
                      jedno upravno skupino s središčem v <placeName>Ljubljani</placeName>;</item>
                   <item n="c)">delovati za socijalne reforme v korist kmetskega, trgovskega,
@@ -113,14 +144,13 @@
             </div>
             <div xml:id="No.116.PPP.3">
                <head>II.</head>
-               <p>Da poslancem <orgName>katoliško-narodne</orgName> in onim <orgName>narodne stranke</orgName><note place="foot"
-                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
-                        rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in onim
+               <p>Da poslancem <orgName>katoliško-narodne</orgName> in onim <orgName>narodne stranke</orgName>
+                  <note place="foot"
+                        source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi rend="italic">Slovenskem narodu</hi> je natisnjeno: narodne in onim
                      katoliško-narodne stranke.</note> ne bode potreba odrekati se – zlasti onim
                   <orgName>katoliško-narodne</orgName> stranke katoliško narodnih, in onim <orgName>narodne stranke</orgName> naprednih –
                      načel,<note place="foot"
-                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
-                        rend="italic">Slovenskem narodu</hi> je natisnjeno: ne bode potreba odrekati
+                        source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi rend="italic">Slovenskem narodu</hi> je natisnjeno: ne bode potreba odrekati
                      se – zlasti onim narodne stranke naprednih – in onim katoliško-narodne stranke
                      katoliško-narodnih načel.</note> ki so jih doslej vodila pri njihovem javnem
                   delovanju, ostanejo tudi poslej še v dosedanjih klubovih zvezah.</p>
@@ -224,8 +254,7 @@
             <div xml:id="No.116.PPP.12">
                <head>XI.</head>
                <p>Da se pospeši zbliževanje obeh strank, katero je nemogoče, dokler bode trajal
-                  gospodarski boj med njunimi pristaši, zavežete<note place="foot"
-                     source="#SourceBornDigital">Zavežeta.</note> se klubovi vodstvi delovati na to,
+                  gospodarski boj med njunimi pristaši, zavežete<note place="foot" source="#SourceBornDigital">Zavežeta.</note> se klubovi vodstvi delovati na to,
                   da se snovanje novih denarnih zavodov v krajih, kjer že kateri posluje – izvzemši
                   deželno stolno mesto <placeName>Ljubljano</placeName> – po mogočnosti ovira. Pač
                   pa bosta oba kluba zavezana podpirati ustanovljanje
@@ -275,15 +304,20 @@
                   sprijateljenih klubov. Od teh izvodov shrani po jednega načelnik vsakega
                   kluba.</p>
                <p>Ta dogovor odobruje[ta]</p>
-               <p><hi rend="italic">Vodstvo <orgName>katoliško-národne stranke</orgName></hi></p>
+               <p>
+                  <hi rend="italic">Vodstvo <orgName>katoliško-národne stranke</orgName>
+                  </hi>
+               </p>
                <p>[in] [<orgName>vodstvo narodne stranke</orgName>.]<note place="foot"
-                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18"><hi rend="italic"
-                        >Slovenski narod</hi>, leto XXXI, št. 63, Ljubljana, 18. 3. 1898, Spravna
-                     pogodba.</note></p>
-               <p><hi rend="italic">V Ljubljani</hi>, dné 24. februvarija 1898.<note place="foot"
-                     source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi
-                        rend="italic">Slovenskem narodu</hi> je spravna pogodba datirana z 23. 2.
-                     1898.</note></p>
+                        source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">
+                     <hi rend="italic">Slovenski narod</hi>, leto XXXI, št. 63, Ljubljana, 18. 3. 1898, Spravna
+                     pogodba.</note>
+               </p>
+               <p>
+                  <hi rend="italic">V Ljubljani</hi>, dné 24. februvarija 1898.<note place="foot"
+                        source="#SourceBornDigital #bibl.Slovenski_narod.1898-03-18">V <hi rend="italic">Slovenskem narodu</hi> je spravna pogodba datirana z 23. 2.
+                     1898.</note>
+               </p>
             </div>
          </div>
       </body>

@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="V_zazeljeni-dezeli-1">
@@ -125,7 +125,41 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="3"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="foreign" occurs="7"/>
+               <tagUsage gi="gap" occurs="4"/>
+               <tagUsage gi="geogName" occurs="10"/>
+               <tagUsage gi="head" occurs="11"/>
+               <tagUsage gi="hi" occurs="83"/>
+               <tagUsage gi="milestone" occurs="3"/>
+               <tagUsage gi="p" occurs="50"/>
+               <tagUsage gi="persName" occurs="7"/>
+               <tagUsage gi="placeName" occurs="66"/>
+               <tagUsage gi="q" occurs="31"/>
+               <tagUsage gi="said" occurs="2"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani goegName
@@ -135,21 +169,25 @@
    <text>
       <body>
          <head>V zaželjeni deželi.</head>
-         <head><persName>Fr. pl. Šuklje</persName></head>
+         <head>
+            <persName>Fr. pl. Šuklje</persName>
+         </head>
          <div xml:id="No.44.PPP.1" decls="#V_zazeljeni-dezeli-1">
             <head>I.</head>
             <p>Prelep, uprav veličasten je dandanes pogled na vzdramujoči se narod slovenski! Kaka
                globoka sprememba od onega zgodovinskega trenotka sem, odkar je nepozabni naš
-               voditelj <persName>Jan. Ev. <hi rend="italic">Krek</hi></persName> o pravem času in z
-               mogočno roko med trpeče naše ljudstvo vrgel odrešilno besedo, <hi rend="italic"
-                  >jugoslovansko deklaracijo!</hi> Uže je ideja pripravljena bila v naših srcih. Ko
+               voditelj <persName>Jan. Ev. <hi rend="italic">Krek</hi>
+               </persName> o pravem času in z
+               mogočno roko med trpeče naše ljudstvo vrgel odrešilno besedo, <hi rend="italic">jugoslovansko deklaracijo!</hi> Uže je ideja pripravljena bila v naših srcih. Ko
                je tedaj stopila na dan, razširjala se z čudovito hitrostjo po celem slovenskem
                ozemlju ter zmagovito prodrla do najoddaljenejše gorske koče. V jednem glasu strnile
                so se vse naše želje in strankarska prizadevanja: <q>Dajte nam
                      <placeName>Jugoslavijo</placeName>!</q> In tako silna je narodna volja, tako
                izrazita njena odločnost, da so v naprej brezuspešni vsi poskusi, ustavljati se
-               mogočnemu ugledu narodne duše. <hi rend="italic"><placeName>Jugoslavijo</placeName>
-                  hočemo in – dobili jo bodemo!</hi></p>
+               mogočnemu ugledu narodne duše. <hi rend="italic">
+                  <placeName>Jugoslavijo</placeName>
+                  hočemo in – dobili jo bodemo!</hi>
+            </p>
             <p>Prekrasno pač bode upravno ozemlje jugoslovansko, blagrovano z vso prirodno lepoto
                ter obdarovano z vsem naravnim bogastvom. Gorski velikani našega planinskega sveta in
                divje razklano kraško gorovje na črnogorski in srbski meji, čar <geogName>gorenjskih in
@@ -171,8 +209,7 @@
                nanj zanašamo! Skozi dolga, mračna stoletja zasužnjen in teptan ohranil je troimenski
                naš narod navzlic robstva in bolečini vendar neupognjeno svojo moč in žilavost. Le
                zavedal se ni svoje sile in potrpežljivo klonil je svoj tilnik pod težki jarm, ki so
-               mu ga nakladali sosedje, prevzetni Madžar in nemški <foreign>Herrenvolk</foreign>. <hi
-                  rend="italic">Danes pa je vstal naš narod</hi>, vzbudil iz zaspanosti ga je bojni
+               mu ga nakladali sosedje, prevzetni Madžar in nemški <foreign>Herrenvolk</foreign>. <hi rend="italic">Danes pa je vstal naš narod</hi>, vzbudil iz zaspanosti ga je bojni
                vihar, kateri sedaj pretresa vesoljni svet, zaveda se sedaj svoje lastne moči in
                nikdar več se ne bode klanjal nepoklicanim jerobom in neopravičenim tlačiteljem. Ves
                narod naš, Slovenci, Hrvatje in Srbi, združeni smo v jedni želji in zahtevi, vočigled
@@ -193,7 +230,8 @@
                   tako državno in upravno obliko, s katero se da shajati – kako jo pa bomo mogli
                   plačati sami, mi sinovi zanemarjenih in sedaj zaostalih dežel, večinoma
                   opustošenih in osiromašenih po grozotah svetovne vojske? Mar ne bo finančni polom
-                  naravna posledica naše samostalnosti?!</q></p>
+                  naravna posledica naše samostalnosti?!</q>
+            </p>
             <p>To so pomisleki in ugovori, katerih ne kaže ošabno in prezirljivo odklanjati <foreign>a
                   limine</foreign>. Iz njih se poraja dolžnost, resno premišljevati o načinu, kako in pod
                katerimi pogoji utegnejo najbolj shajati naše dežele in njih prebivalci pod svojo
@@ -242,7 +280,9 @@
          <div xml:id="No.44.PPP.2" decls="#V_zazeljeni-dezeli-2">
             <gap reason="irrelevant"/>
             <head>II.</head>
-            <head><hi rend="italic">Avtonomija v <placeName>Jugoslaviji</placeName>.</hi></head>
+            <head>
+               <hi rend="italic">Avtonomija v <placeName>Jugoslaviji</placeName>.</hi>
+            </head>
             <p>Ustava kake države, še bolj pa njena uprava mora se prilagoditi naravnim razmeram. Le
                tedaj bode ustregla svojemu namenu, zasigurati prebivalstvu varni obstanek in razvoj.
                In baš radi tega je zelo verjetno, da upravna sistema, docela primerna
@@ -254,11 +294,11 @@
                vseh treh gran, iz katerih je sestavljen troimenski narod jugoslovanski, bode se
                morda najbolj pospešila, ako se vsakemu plemenu omogoči svobodni razvitek na naravni
                podlagi!</p>
-            <p>Stoječ na tem stališču, pridem do zaključka, da bi kazalo, <hi rend="italic"
-                  >jugoslovansko našo skupino deliti na tri upravna ozemlja:
+            <p>Stoječ na tem stališču, pridem do zaključka, da bi kazalo, <hi rend="italic">jugoslovansko našo skupino deliti na tri upravna ozemlja:
                      <placeName>Slovenijo</placeName>, <placeName>Hrvatsko</placeName> v ožjem
                   smislu in <placeName>Bosno-Ercegovino</placeName>, združeno z
-                     <placeName>Dalmacijo</placeName></hi>. Naravno, da slovenski skupini prisvajam
+                     <placeName>Dalmacijo</placeName>
+               </hi>. Naravno, da slovenski skupini prisvajam
                tudi istrske Hrvate, saj smo z njimi itak združeni v bratski ljubezni, obelodanjeni
                in preskušeni v neprestanem boju proti skupnemu tlačitelju. Da se
                   <placeName>Dalmacija</placeName> administrativno zveže s svojim zaledjem
@@ -269,20 +309,26 @@
                opravljati nego ločeno, po skupnih zakonih in skupnih državnih organih. Vse ostalo pa
                naj se mirno prepusti zakonodajstvu in upravi posameznih državnih skupin.</p>
             <p>Oglejmo si sedaj ono zahodno skupino, katero po pretežni večini stanovništva lahko
-               nazivamo <hi rend="italic">slovensko</hi>. V njej bodo združene <hi rend="italic"
-                     ><placeName>Kranjska</placeName>, <placeName>Spodnje Štajerska</placeName></hi>
-               in <hi rend="italic">slovenski del <placeName>Koroške</placeName></hi>, potem <hi
-                  rend="italic"><placeName>Primorska</placeName></hi>. Po zadnjem ljudskem štetju
-               imela bi okroglo 2 milijona prebivalcev s 40.000 km². Na čelu jej stoji <hi
-                  rend="italic">deželni poglavar</hi> kot šef uprave, na njegovi strani <hi
-                  rend="italic">deželni zbor</hi> kot zakonodajni organ. Ali po mojem mnenju je to
+               nazivamo <hi rend="italic">slovensko</hi>. V njej bodo združene <hi rend="italic">
+                  <placeName>Kranjska</placeName>, <placeName>Spodnje Štajerska</placeName>
+               </hi>
+               in <hi rend="italic">slovenski del <placeName>Koroške</placeName>
+               </hi>, potem <hi rend="italic">
+                  <placeName>Primorska</placeName>
+               </hi>. Po zadnjem ljudskem štetju
+               imela bi okroglo 2 milijona prebivalcev s 40.000 km². Na čelu jej stoji <hi rend="italic">deželni poglavar</hi> kot šef uprave, na njegovi strani <hi rend="italic">deželni zbor</hi> kot zakonodajni organ. Ali po mojem mnenju je to
                ozemlje že preveliko in prerazlično, da bi ga uspešno mogel voditi in upravljati en
                sam človek. Radi tega uvedejo se naj <hi rend="italic">okrožja</hi>, broječa po
                6–700.000 duš. Zadostovalo bi v tem pogledu, ako razdelimo slovensko na tri okrožja:
-                  <hi rend="italic"><placeName>Kranjsko</placeName></hi>, potem <hi rend="italic"
-                     ><placeName>Štajersko</placeName></hi> s slovenskim <hi rend="italic"
-                     ><placeName>Korotanom</placeName></hi> in konečno <hi rend="italic"
-                     ><placeName>Primorsko</placeName></hi>. </p>
+                  <hi rend="italic">
+                  <placeName>Kranjsko</placeName>
+               </hi>, potem <hi rend="italic">
+                  <placeName>Štajersko</placeName>
+               </hi> s slovenskim <hi rend="italic">
+                  <placeName>Korotanom</placeName>
+               </hi> in konečno <hi rend="italic">
+                  <placeName>Primorsko</placeName>
+               </hi>. </p>
             <p>Da pri ureditvi tega ozemlja odločno odklanjam takozvano <hi rend="italic">dvojno
                   upravo</hi>, po kratki oceni tega upravnega nestvora, izraženi uže v prvem članku,
                pač ni treba izrečno naglašati. Razsodno upravo naravnost onemogočuje; pri tem stroju
@@ -292,11 +338,11 @@
                posledice lahko nastanejo iz lažnjive <q>deželne avtonomije</q>, ako v roke pride
                brezobzirnemu drzovitemu samosilniku, o tem imamo najžalostnejše dokaze baš dandanes
                v skrajno zavoženi samosvoji upravi na <placeName>Kranjskem</placeName>.</p>
-            <p><q>Če pa odpraviš deželno avtonomno oblastvo, kako bodeš varoval samoupravo proti
+            <p>
+               <q>Če pa odpraviš deželno avtonomno oblastvo, kako bodeš varoval samoupravo proti
                   birokratizmu?</q> – utegnejo me vprašati. S tem, da <hi rend="italic">organično
                   združujem in sicer v vseh instancah uradniški in lajiški živelj</hi>, imenovane
-               funkcijonarje in od ljudstva izvoljene. Že v najvišji deželni instanci! Pač bodi <hi
-                  rend="italic">deželni poglavar</hi> imenovan od državne centralne oblasti, vendar
+               funkcijonarje in od ljudstva izvoljene. Že v najvišji deželni instanci! Pač bodi <hi rend="italic">deželni poglavar</hi> imenovan od državne centralne oblasti, vendar
                nikakor ni treba, da bi moral biti vzet baš iz uradniških krogov. Prevažno to mesto
                se more izročiti celo možu nejuristu brez neposredne uradniške šole, ako le splošna
                izobrazba in darovitost njegova ter narodno zaupanje jamčijo za njegovo zmožnost za
@@ -312,7 +358,8 @@
                deželnih poslancev, za volilno dobo izvoljenih od deželnega zbora ter od istega in iz
                deželnozborskih sredstev plačanih. Torej pod predsedstvom deželnega poglavarja
                naravnost <hi rend="italic">kombinacija sedanje deželne vlade in sedanjega deželnega
-                  odbora!</hi></p>
+                  odbora!</hi>
+            </p>
             <p>Prednosti take sestave so evidentne. Kakor sovražna sila se dandanes narodnemu vzletu
                zoperstavlja preširna birokracija. Naroda ne razume, ljudskih potreb ne pozna! Stopi
                enkrat v stik z birokratskimi našimi upravitelji in ostrmel bodeš, kako malo in kako
@@ -349,8 +396,11 @@
          <div xml:id="No.44.PPP.3" decls="#V_zazeljeni-dezeli-3">
             <gap reason="irrelevant"/>
             <head>III.</head>
-            <head><hi rend="italic">Okrožja, okraji in občine.</hi></head>
-            <p><q>Slovensko</q> skupino razdelil sem uže na tri približno enako obljudena okrožja.
+            <head>
+               <hi rend="italic">Okrožja, okraji in občine.</hi>
+            </head>
+            <p>
+               <q>Slovensko</q> skupino razdelil sem uže na tri približno enako obljudena okrožja.
                Tudi pri njih upravi nasvetujem organično zvezo uradniškega in ljudskega življa.
                Okrožju načeluje <hi rend="italic">okrožni glavar</hi>, njemu stoji na strani od
                ljudstva po splošni, enaki, tajni volilni pravici izvoljeni <hi rend="italic">okrožni
@@ -358,15 +408,13 @@
                združeno v okrožni vladi. Ista se naj sestavi zopet tako, da so v njej spojeni stalni
                uradniki in izvoljeni, perijodično se menjajoči odposlanci iz okrožnega sveta. Svoje
                prejemke naj le-ti dobe iz blagajne okrožnega sveta. Tedaj prav tako kakor v deželi,
-               le z neko znamenito razliko. Okrožnemu svetu namreč bi zelo pristrigel področje, <hi
-                  rend="italic">postavodajne oblasti mu ne bi dovo1i1</hi>, k večjemu bi mu
+               le z neko znamenito razliko. Okrožnemu svetu namreč bi zelo pristrigel področje, <hi rend="italic">postavodajne oblasti mu ne bi dovo1i1</hi>, k večjemu bi mu
                privoščil neko <hi rend="italic">normativno</hi> kompetenco in še to le sporazumno z
                okrožnim glavarjem.</p>
             <p>Okrožje razpada potem v upravne <hi rend="italic">okraje</hi>. Sedanjih okrajnih
                glavarstev ne bi hotel obdržati. Soglasna sodba vseh poznavalcev obstoječe politiške
                uprave jih obsoja, češ, prevelika so in preobsežna, da bi jih mogel spoznati njih
-               predstojnik tako natančno, kakor bi trebalo. Prava upravna enota se i meni vidi <hi
-                  rend="italic">sodni okraj</hi>, broječ približno 10–15.000 duš; z njim naj se
+               predstojnik tako natančno, kakor bi trebalo. Prava upravna enota se i meni vidi <hi rend="italic">sodni okraj</hi>, broječ približno 10–15.000 duš; z njim naj se
                tedaj krije tudi okoliš politiškega okraja. Iz tega sledi, da bi se veliki sodni
                okraji, n. pr. ptujski, celjski, okraj ljubljanske okolice itd. za upravne namene
                morali razdelili na več manjših politiških okrajev.</p>
@@ -390,8 +438,7 @@
                okraja in pohlevno mu služi podložnik njegov, okrajni šolski nadzornik. Tam svojo
                voljo narekava okrajni glavar, v cestnem okraju pa – in ceste so vendar istotako del
                novodobne kulture kakor šole – v tem zastopu pa niti besede nima! Nevzdržljive
-               razmere! Združimo vsa ta <foreign>disjecta membra</foreign>, spojimo vse te funkcije v <hi
-                  rend="italic">okrajnem svetu</hi> ter razpredelimo ga po osnovnem statutu v razne
+               razmere! Združimo vsa ta <foreign>disjecta membra</foreign>, spojimo vse te funkcije v <hi rend="italic">okrajnem svetu</hi> ter razpredelimo ga po osnovnem statutu v razne
                   <hi rend="italic">sekcije</hi> ali oddelke, katerim se naj poverijo dotične
                upravne naloge. Kedar se pa gre za zadeve, tikajoče te uprave celega okraja, potem
                naj se zbere celi okrajni svet ter skupaj z okrajnim glavarjem ukrene naj, česar
@@ -427,9 +474,9 @@
                področje drage volje razširil na zadeve <q>lastnega preudarka</q>, katere se sedaj
                pri avstrijskem upravnem sodišču načeloma izključujejo. Iz take preosnove uprav.
                prestopka bi pa izvirala še ta prednost, da bi <hi rend="italic">deželna vlada</hi>
-               kot najvišja instanca bodoče upravne skupine se stoprav mogla docela <hi
-                  rend="italic">posvetiti svoji naravni ulogi, nadzirati, urejati in nadvladati celo
-                  gibanje upravnega ustroja!</hi></p>
+               kot najvišja instanca bodoče upravne skupine se stoprav mogla docela <hi rend="italic">posvetiti svoji naravni ulogi, nadzirati, urejati in nadvladati celo
+                  gibanje upravnega ustroja!</hi>
+            </p>
             <p>A še za en korak dalje! Mari ne bi mogel po mojem načrtu izdatno zmanjšani politiški
                okraj prevzeti tudi veliko večino <hi rend="italic">občinskih</hi> poslov? V
                takozvanih <q>avtonomnih</q> mestih, na primer v <placeName>Ljubljani</placeName>,
@@ -444,8 +491,9 @@
                samosvojega in izročenega delokroga, brez strokovnih moči, prepogostoma celo brez
                kaznovalne pravice? V tem pogledu velja spominjati se prezanimive debate, katera se
                je pred približno 30 leti vršila v kranjskem deželnem zboru baš o reformi občinskega
-               reda. Nepozabni deželni predsednik baron <hi rend="italic"
-                     ><persName>Winkler</persName></hi>, mož bogatih upravnih praktičnih skušenj ter
+               reda. Nepozabni deželni predsednik baron <hi rend="italic">
+                  <persName>Winkler</persName>
+               </hi>, mož bogatih upravnih praktičnih skušenj ter
                goreč za blagor slovenskega naroda, lotil se je sam pretežavnega dela, zboljšati naš
                občinski red. Svojega skrbno izklesanega operata ni smel predložiti kot vladno
                predlogo, temveč pod tvrdko deželnega odbora spravil ga je v parlamentarno
@@ -457,8 +505,9 @@
                samosvojega delokroga, tako da je kompetenca sedanjih občin, – <q>podobčin</q> po
                   <persName>Winklerjevem</persName> načrtu – v istini skrčil na oskrbo lastnega
                občinskega premoženja! Globoko zasnovan osnutek, tehnično dovršen do mere, katera
-               daleč presega sedanje zakonodajne »umotvore«, toda ne brez – poglavitne hibe! <hi
-                  rend="italic"><persName>Winkler</persName></hi> moral je namreč ob istem času, ko
+               daleč presega sedanje zakonodajne »umotvore«, toda ne brez – poglavitne hibe! <hi rend="italic">
+                  <persName>Winkler</persName>
+               </hi> moral je namreč ob istem času, ko
                je s krepko desnico rušil neprikladno poslopje občinskega organizma, morda proti
                svojemu lastnemu prepričanju popolnoma se vzdržati i najskromnejšega poskusa, da bi
                predrugačil tudi državne politiške urade. In tedaj so se dvignili baš iz krogov
@@ -466,8 +515,9 @@
                   <said>Kaj ima ljudstvo od take zamene? Istina je, da bodo okrajna glavarstva s tako
                   urejenimi občinami laglje izhajala, da bo olajšana državna uprava, a troški bodo
                   zadeli in preobremenjali našega davkoplačevalca!</said> Ugovori niso bili povsem
-               neopravičeni in tudi pripadniki <hi rend="italic"
-                  ><persName>Winklerjevega</persName></hi> načrta, kateri so se bili zanj zavzeli
+               neopravičeni in tudi pripadniki <hi rend="italic">
+                  <persName>Winklerjevega</persName>
+               </hi> načrta, kateri so se bili zanj zavzeli
                radi očividnih prednosti njegovih, jih niso mogli razveljaviti. In tako se je od
                domoljubnega deželnega predsednika izumljeni načrt velikopotezne občinske reforme za
                vselej pokopal v registraturi deželnega odbora!</p>
@@ -484,12 +534,17 @@
          <div xml:id="No.44.PPP.4" decls="#V_zazeljeni-dezeli-4">
             <gap reason="irrelevant"/>
             <head>IV.</head>
-            <head><hi rend="italic">Kako bomo zmagali svoje upravne troške?</hi></head>
-            <p>Že v uvodnem članku zahteval sem poleg moderne, točne uprave tudi <hi rend="italic"
-                     ><q>ceneno</q></hi>. Ali pri upravi je kakor z blagom. Kar je dobrega blaga,
+            <head>
+               <hi rend="italic">Kako bomo zmagali svoje upravne troške?</hi>
+            </head>
+            <p>Že v uvodnem članku zahteval sem poleg moderne, točne uprave tudi <hi rend="italic">
+                  <q>ceneno</q>
+               </hi>. Ali pri upravi je kakor z blagom. Kar je dobrega blaga,
                vsaj običajno ni po ceni. Dobra uprava stane denar, vsaj na videz mora biti draga. In
-               na ves glas zakličem svojim rojakom: <hi rend="italic"><said>Varujte se preslabo
-                     plačanega uradnika!</said></hi> Nič ni nevarnejšega in pogubnejšega za narod, nego
+               na ves glas zakličem svojim rojakom: <hi rend="italic">
+                  <said>Varujte se preslabo
+                     plačanega uradnika!</said>
+               </hi> Nič ni nevarnejšega in pogubnejšega za narod, nego
                stradajoče uradništvo. Jasno to vidimo dandanes, ko so neznosna draginja in totalni
                polom naše valute uradnika strmoglavili iz priznane njegove družabne veljave dasi med
                bedni proletarijat, Ne varajmo se! Kako pač moremo zahtevati od uradnika, kateri je
@@ -568,7 +623,8 @@
                naša uprava ne le primernejša in točnejša, temveč tudi cenejša nego današnja! </p>
             <p>Načelo, po katerem se nam je ravnati, glasi se tukaj: <hi rend="italic">Razmerno malo
                   uradnikov a teh dobro plačanih, zato pa vsak izmed njih v istini delavec ter
-                  obremenjen s svojim deležem odgovornosti nasproti javnosti!</hi></p>
+                  obremenjen s svojim deležem odgovornosti nasproti javnosti!</hi>
+            </p>
             <p>Finančno breme pa, izvirajoče pa iz dostojne dotacije javnih uslužbencev, bi se po
                mojem mnenju dalo zmanjšati, ako uvedemo poseben plačilni način. Kje je zaukazano, da
                morajo vsi prejemki uradniški biti izplačani docela v gotovem denarju? Ne bi bilo
@@ -587,17 +643,18 @@
             <p>Tako tedaj si predstavljam upravo <hi rend="italic">slovenske skupine naše
                   jugoslovanske samostojnosti</hi>. Namenoma ne segam dalje, ne grem preko Sotle in
                Kolpe! Naj si bratje Hrvatje in Srbi uredijo svojo upravo po svojih lastnih potrebah,
-               željah in tradicijah, dobro bomo shajali, nemoteni eden od drugega. <hi rend="italic"
-                  >Celokupna državnost nas bode združila, to pa tem tesneje, čim bolj bode uprava
-                  naša prožeta vekovitih načel ljudske samoodločbe in svobode zlate!</hi></p>
+               željah in tradicijah, dobro bomo shajali, nemoteni eden od drugega. <hi rend="italic">Celokupna državnost nas bode združila, to pa tem tesneje, čim bolj bode uprava
+                  naša prožeta vekovitih načel ljudske samoodločbe in svobode zlate!</hi>
+            </p>
          </div>
          <div xml:id="No.44.PPP.5" decls="#V_zazeljeni-dezeli-5">
             <gap reason="irrelevant"/>
             <head>V.</head>
-            <head><hi rend="italic">Uprava in ustava.</hi></head>
+            <head>
+               <hi rend="italic">Uprava in ustava.</hi>
+            </head>
             <p>Namenoma sem na prvo mesto svoje razprave postavil upravo. Iz dvojnega razloga.
-               Prvič, ker sta me učili zgodovina in praktična politika, da je <hi rend="italic"
-                  >uprava mnogo važnejša od ustave</hi>. Naravnost rečem, navzlic slabi, povsem
+               Prvič, ker sta me učili zgodovina in praktična politika, da je <hi rend="italic">uprava mnogo važnejša od ustave</hi>. Naravnost rečem, navzlic slabi, povsem
                nedostatni ustavi zamore narod in država prav dobro shajati, ako je le uprava dobro
                urejena, dočim celo najpopolnejša ustava kaj malo zaleže, ako je uprava slaba in
                koruptna. Potem pa je drugič pomisliti, da v sedanjem položaju niti mogoče ni,
@@ -613,13 +670,14 @@
                zadostovali istinitim potrebam.</p>
             <p>Z ozirom na dejanske razmere, kakor jih podaja negotova sedanjost, omejiti se hočem
                zgolj na vprašanje ustavne kompetence in sicer s stališča slovenske skupine. V teh
-               mejah glasi se problem: <hi rend="italic"><q>Kaj se pridrži našemu dežel. zboru, kaj
-                     se odstopi v skupno posvetovanje jugoslovanskemu parlamentu?</q></hi> Vodilna
+               mejah glasi se problem: <hi rend="italic">
+                  <q>Kaj se pridrži našemu dežel. zboru, kaj
+                     se odstopi v skupno posvetovanje jugoslovanskemu parlamentu?</q>
+               </hi> Vodilna
                misel mora biti tudi pri tej odmeritvi delokroga, da naj skupno ostane le to, kar
                zadeva celokupnost ter se s skupnim sodelovanjem bolje in uspešnejše da urediti. Vse
                drugo z mirno vestjo lahko prepuščamo posameznim deželam in njih deželnim zborom.</p>
-            <p>Tako gre brezdvomno in izključno slovenskemu deželnemu zboru vsa <hi rend="italic"
-                  >zemljiška kultura</hi> v celem svojem obsegu. Dotičnih svojih potreb najbolj
+            <p>Tako gre brezdvomno in izključno slovenskemu deželnemu zboru vsa <hi rend="italic">zemljiška kultura</hi> v celem svojem obsegu. Dotičnih svojih potreb najbolj
                poznamo sami in najbolj bomo sami skrbeli zanje. Nadejam se, da se v tem pogledu ne
                bodemo ustrašili niti tako velikopoteznih akcij, kakor jih zahteva vodna preskrba v
                   <placeName>Istri</placeName>, <placeName>Suhi-</placeName> in
@@ -649,8 +707,7 @@
                zasnovi! </p>
             <p>Isto velja tudi glede visokih šol. In tu si pri tej priliki dovoljujem odkrito
                besedo, katera slove: <hi rend="italic">Odnehajmo Slovenci vsaj začasno od svoje
-                  slovenske univerze!</hi> V trenutku, ko se zavedamo, da smo <hi rend="italic"
-                  >en</hi> narod s svojimi hrvatskimi in srbskimi brati, smejo za nas merodajni biti
+                  slovenske univerze!</hi> V trenutku, ko se zavedamo, da smo <hi rend="italic">en</hi> narod s svojimi hrvatskimi in srbskimi brati, smejo za nas merodajni biti
                zgolj strokovni razlogi in oziri. Naše vseučilišče bodi vsaj za sedaj v
                   <placeName>Zagrebu</placeName>, kjer naj bodi prosto slovenskim docentom, ako jim
                drago, predavati v slovenskem jeziku. Glejmo predvsem, da se jugoslovanska univerza v
@@ -664,14 +721,16 @@
             <p>Niti radi tega ne bi pretakal solza, če se prva jugoslovanska tehnika prav kje drugod
                ustanovi in ne na Slovenskem, toda z vso odločnostjo bi vztrajal pri zahtevi, naj se
                bogato opremi ter na vse stroke raztegne <hi rend="italic">slovenska državna obrtna
-                  šola v <placeName>Ljubljani</placeName></hi>. Po mojem mnenju bodi ona zavod, kateri naj preskrbi
+                  šola v <placeName>Ljubljani</placeName>
+               </hi>. Po mojem mnenju bodi ona zavod, kateri naj preskrbi
                razvijajočo se jugoslovansko industrijo s <hi rend="italic">praktičnimi
                   inženirji</hi>. Sem naj prihajajo učenci z vseh krajev širne
                   <placeName>Jugoslavije</placeName>, da se izuče v vseh panogah obrtnega pouka. </p>
             <p>Tudi postavodaja o <hi rend="italic">trgovskem šolstvu</hi> osredotočena bodi v
                osrednjem jugoslovanskem parlamentu. Pri tem je pa gledati na to, da se doseže
-               jugoslovanska trgovska visoka šola in sicer v <hi rend="italic"
-                     ><placeName>Trstu</placeName></hi>, kjer je naravni njen sedež. Morda bi
+               jugoslovanska trgovska visoka šola in sicer v <hi rend="italic">
+                  <placeName>Trstu</placeName>
+               </hi>, kjer je naravni njen sedež. Morda bi
                kazalo, združiti jo z internatom, da se na ta način mladina obvaruje skušnjav in
                nevarnosti, pretečih njeni neizkušenosti v lahkoživem pomorskem mestu.</p>
             <p>Skupno mora se dalje obravnavati in urejati vsa <hi rend="italic">sodna</hi>
@@ -693,13 +752,11 @@
                posebnimi samostojnimi dohodki. Samo po sebi se razume, da finančno- in
                davčnotehnični zakoni o državnih dohodkih sklenejo se v osrednjem jugoslovanskem
                parlamentu. </p>
-            <p>Prerano bi bilo danes, ako bi hotel dotakniti se kompetence glede določitve <hi
-                  rend="italic">vnanje politike in glede vojaštva</hi>. O teh prevažnih predmetih <choice>
+            <p>Prerano bi bilo danes, ako bi hotel dotakniti se kompetence glede določitve <hi rend="italic">vnanje politike in glede vojaštva</hi>. O teh prevažnih predmetih <choice>
                   <sic>dobo</sic>
                   <corr>dobro je</corr>
                </choice> govorili stoprav tedaj, če se svetovna vojska končno odloči ter se napravi
-               docela jasen položaj. Pač pa moram odgovarjati na vprašanje, komu poverim <hi
-                  rend="italic">ureditev verskih zadev in stvaritev verskih zakonov?</hi> In v tem
+               docela jasen položaj. Pač pa moram odgovarjati na vprašanje, komu poverim <hi rend="italic">ureditev verskih zadev in stvaritev verskih zakonov?</hi> In v tem
                pogledu se mi vsiljuje po resnem preudarku prepričanje, da bi kazalo tudi to
                znamenito gradivo prepuščati legislativi deželnih zborov. Dobro znam, da se dado
                navajati tehtni razlogi tudi za pristojnost centralnega parlamenta. Ali baš v verskem
@@ -707,15 +764,17 @@
                imamo v slovenski skupini kompaktno celoto vernega katoliškega prebivalstva skoraj
                brez drugoverske primesi. Uverjen sem, da bomo mi Slovenci, izučeni po bridkih
                skušnjah dolgotrajnega bratomornega boja, zlehka si med seboj uredili zakonite
-               razmere katoliškega bogočastja, zlasti če se držimo gesla: <hi rend="italic"
-                     ><q>Prosta cerkev v prosti državi!</q></hi> Manj gotovo je pa to v celokupni
+               razmere katoliškega bogočastja, zlasti če se držimo gesla: <hi rend="italic">
+                  <q>Prosta cerkev v prosti državi!</q>
+               </hi> Manj gotovo je pa to v celokupni
                   <q>Jugoslaviji</q>, tako mešoviti v verskem oziru, in mlada, komaj porojena država
                potrebuje notranji mir, kojega ne kaže ogrožati po verskih sporih. Vzemimo na primer
                le prevažno vprašanje, komu naj poverimo vodstvo matrik in videli bomo, da spadajo
                tudi bogočastne zadeve med one, katere najbolje rešimo na avtonomni podlagi.</p>
             <milestone unit="section" n="____________"/>
             <p>
-               <hi rend="italic">Mi hočemo <placeName>Jugoslavijo</placeName></hi>. Skušal sem,
+               <hi rend="italic">Mi hočemo <placeName>Jugoslavijo</placeName>
+               </hi>. Skušal sem,
                predstavljati si, kako bi v jugoslovanski samostojni državi Slovenci in pa istranski
                Hrvatje zamogli osnovati svojo upravo. Pri tej priliki sem nekako boječe pogledal
                tudi pod oni zastor, kateri nam dandanes še zakriva bodočnost jugoslovanske ustave.
@@ -729,9 +788,9 @@
                gibanje našega javnega organizma z različnih stališč. Kot mnogoletni državni in
                deželni poslanec, kot državni uradnik in predstojnik samostojnega urada ter naposled
                kot deželni glavar in vrhovni šef deželne avtonomne uprave. Usedlino svojih študij in
-               skušenj podajam v teh člankih, zadovoljen bodem z uspehom, ako z njimi zbudim <hi
-                  rend="italic">vsestransko razpravo o globokih problemih naše uprave in pa ustave!
-               </hi></p>
+               skušenj podajam v teh člankih, zadovoljen bodem z uspehom, ako z njimi zbudim <hi rend="italic">vsestransko razpravo o globokih problemih naše uprave in pa ustave!
+               </hi>
+            </p>
          </div>
       </body>
    </text>

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="3"/>
+               <tagUsage gi="item" occurs="12"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="12"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -59,9 +88,12 @@
             <head>Načrt programa <q>narodno-napredne stranke</q> na Goriškem</head>
             <gap reason="irrelevant"/>
             <list xml:id="No.70.PPP" rend="numbered">
-               <item n="1."><orgName>Narodno-napredna stranka na <placeName>Goriškem</placeName></orgName> je narodna,
+               <item n="1.">
+                  <orgName>Narodno-napredna stranka na <placeName>Goriškem</placeName>
+                  </orgName> je narodna,
                   ljudska in svobodomiselna.</item>
-               <item n="2."><orgName>Stranka</orgName> stoji na stališču narodne samouprave, katere konečni smoter bodi
+               <item n="2.">
+                  <orgName>Stranka</orgName> stoji na stališču narodne samouprave, katere konečni smoter bodi
                   zjedinjena <placeName>Slovenija</placeName> in združitev s
                      <placeName>Hrvatsko</placeName>.</item>
                <item n="3.">Zahtevamo popolno enakopravnost slovenske narodnosti in jezika v vseh
@@ -69,24 +101,28 @@
                   življenju.</item>
                <item n="4.">Vsem stanovom se priznavajo enake pravice in enake dolžnosti; zato se
                   izključuje nadvladje kateregakoli stanu. – </item>
-               <item n="5."><orgName>Stranka</orgName> se protivi zlorabi vere in <orgName>cerkve</orgName> v politične in posvetne
+               <item n="5.">
+                  <orgName>Stranka</orgName> se protivi zlorabi vere in <orgName>cerkve</orgName> v politične in posvetne
                   namene.</item>
                <item n="6.">Zahteva svobodno šolo in svobodno učiteljstvo s stanu primerno gmotno
                   podlago, da more skrbeti za potrebni ugled in vsestransko dalnje
                   izobraževanje.</item>
-               <item n="7."><orgName>Stranka</orgName> se hoče zavzeti z vsemi silami za gospodarski napredek našega
+               <item n="7.">
+                  <orgName>Stranka</orgName> se hoče zavzeti z vsemi silami za gospodarski napredek našega
                   posestnika <hi rend="italic">in povzdigo kmetijstva sploh</hi>; zato nujno
                   zahteva, <hi rend="italic">da se zboljša in razširi kmetijski poduk</hi>, da se
                   pospešuje <hi rend="italic">posebno</hi> živinoreja in mlekarstvo, vinarstvo in
                   sadjarstvo; hoče delovati na intenzivnejše gospodarstvo, odpreti domačim pridelkom
                   stalen in ugodnejši trg; podpira produkcijsko zadružništvo, izključuje pa zadruge,
                   ki služijo politiškim strankarskim svrham.</item>
-               <item n="8."><orgName>Stranka</orgName> polaga veliko važnost to, da zadobi slovenski narod krepko in
+               <item n="8.">
+                  <orgName>Stranka</orgName> polaga veliko važnost to, da zadobi slovenski narod krepko in
                   svobodno trgovino, obrt in lastno industrijo; v to svrho bo pospeševala
                   združevanje domačega kapitala in izkoriščanje prirodnih sil v uporabo v deželi;
                   dobavo cenega kredita; spopolnitev obrtnega zadružništva. Skrbeti je za potrebno
                   splošno in strokovno izobrazbo.</item>
-               <item n="9."><orgName>Stranka</orgName> bo podpirala delavstvo v njegovih težnjah, hoče pa, da si ohrani
+               <item n="9.">
+                  <orgName>Stranka</orgName> bo podpirala delavstvo v njegovih težnjah, hoče pa, da si ohrani
                   narodno podlago; zlasti se bo zavzemala za ureditev bolniških blagajn, za
                   starostno in invaliditetno preskrbo delavstva ter delovala na to, da se pravično
                   uredi razmerje mej delodajalcem in delavcem.</item>
@@ -94,18 +130,22 @@
                   <p>Za <orgName>državni</orgName> in <orgName>deželni zbor</orgName> in za avtonomne zastope zahteva stranka splošno,
                      enako in tajno volilno pravico, izreka se pa za proporcijonalni volilni
                      sistem.</p>
-                  <p><orgName>Stranka</orgName> naglaša, da nova volilna reforma za državni zbor ne zadošča pravicam
+                  <p>
+                     <orgName>Stranka</orgName> naglaša, da nova volilna reforma za državni zbor ne zadošča pravicam
                      Slovencev, in goriških Slovencev posebej; zahteva, da se brez odlašanja izvede
                      na podlagi načela splošne, enake in tajne volilne pravice volilna reforma za
                      deželni zbor tako, da bo primerno zastopana slovenska 2/3-ska večina. Dosledno
                      naj se za trgovsko in obrtno zbornico razširi volilna pravica na vse trgovce in
                      obrtnike.</p>
                </item>
-               <item n="11."><orgName>Stranka</orgName> zahteva, da državna in deželna uprava posvetita veliko več
+               <item n="11.">
+                  <orgName>Stranka</orgName> zahteva, da državna in deželna uprava posvetita veliko več
                   pozornosti naši deželi, skrbita za potrebne ceste in železnice, za uravnavo rek in
                   hudournikov, za ureditev zdravstvenih razmer in v obče za moralno in materijalno
                   povzdigo prebivalstva.</item>
-               <item n="12."><orgName>Narodno-napredna stranka na <placeName>Goriškem</placeName></orgName> bo iskala
+               <item n="12.">
+                  <orgName>Narodno-napredna stranka na <placeName>Goriškem</placeName>
+                  </orgName> bo iskala
                   dotiko z narodnimi strankami na <placeName>Slovenskem</placeName>, imajoča vedno
                   pred očmi splošne slovenske koristi in vzajemnost z vsemi slovanskimi
                   narodi.</item>

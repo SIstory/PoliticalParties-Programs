@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="orgName" occurs="11"/>
+               <tagUsage gi="p" occurs="9"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="8"/>
+               <tagUsage gi="said" occurs="4"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -69,7 +96,8 @@
                   <said>Mi bomo postali združen narod Jugoslovanov, dobili bomo svojo neodvisno
                   državo in rešeni bomo nemške in mažarske in laške nadvlade.</said> – Poglejmo,
                kako stoji ta stvar.</p>
-            <p xml:id="No.169.PPP.3"><said>Mi bomo dosegli ujedinjenje troimenega naroda Slovencev,
+            <p xml:id="No.169.PPP.3">
+               <said>Mi bomo dosegli ujedinjenje troimenega naroda Slovencev,
                   Hrvatov in Srbov</said> – kaj se to pravi? To se pravi, da naj izginejo vsi
                razločki med Slovenci, Hrvati in Srbi. Ali bodo res izginili? Ne verjamemo. Srbi so
                močan in samozavesten narod in tem tudi danes, ko vse vpije za <placeName>Jugoslavijo</placeName> kakor
@@ -121,7 +149,7 @@
             <p xml:id="No.169.PPP.9">Tretja struja je pošteno avstrijska in slovenska, brez vsakih
                pridržkov, brez hlimbe in hinavstva in skrivanja. Ta stoji na stališču poštene,
                patrijotiške majniške deklaracije in vidi edino rešitev za Slovenstvo v
-                  <placeName>habsburški monarhiji</persName>, katere notranje uredbe ne odobrava čez
+                  <placeName>habsburški monarhiji</placeName>, katere notranje uredbe ne odobrava čez
                drn in strn, a tudi ne obupava nad njo; ampak je uverjena in prepričana, da bo mogoče
                v soglasju z ustanovnimi faktorji pribojevati tudi Slovencem tisto stališče v državi,
                katero jim gre. Ta struja je mnenja, da nas silijo tudi gospodarski vzroki, da hočemo

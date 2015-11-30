@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="46"/>
+               <tagUsage gi="orgName" occurs="7"/>
+               <tagUsage gi="p" occurs="47"/>
+               <tagUsage gi="placeName" occurs="9"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -56,8 +85,11 @@
    <text>
       <body>
          <div xml:id="No.6.PPP">
-            <head><hi rend="italic">Rojaki!</hi></head>
-            <p><orgName>Državni zbor</orgName> je razpuščen, nove volitve so razpisane. Presvetli naš vladar kliče nas
+            <head>
+               <hi rend="italic">Rojaki!</hi>
+            </head>
+            <p>
+               <orgName>Državni zbor</orgName> je razpuščen, nove volitve so razpisane. Presvetli naš vladar kliče nas
                vnovič na volišče za svete naše verske in narodne pravice. Odzivajmo se katoliški
                Slovenci polnoštevilno njegovemu klicu, podajmo se polnoštevilno na volišče in
                oddajmo svoje glasove za take možé, kakor si jih more želeti vsak pošten slovenski
@@ -77,12 +109,12 @@
                postavili se pri tem vprašanju v verskem oziru na isto stališče, na katero so se
                postavili <hi rend="italic">avstrijski škofje</hi> v svojej znani izjavi lanskega
                leta.</p>
-            <p>A ne le v šoli, sploh mora, kakor v zasebnem, tako v javnem življenji vladati <hi
-                  rend="italic">krščanski duh</hi>.</p>
+            <p>A ne le v šoli, sploh mora, kakor v zasebnem, tako v javnem življenji vladati <hi rend="italic">krščanski duh</hi>.</p>
             <p>Od svojih prihodnjih državnih poslancev moramo zahtevati, da odločno, jasno, brez
                pridržkov delujejo v <orgName>državnem zboru</orgName> na to, <hi rend="italic">da vse zakonodajstvo
                   preveva krščanski duh</hi>.</p>
-            <p>Skratka: <hi rend="italic">Mi želimo krščansko državo!</hi></p>
+            <p>Skratka: <hi rend="italic">Mi želimo krščansko državo!</hi>
+            </p>
             <p>2. V <hi rend="italic">narodnem oziru</hi> čaka naših poslancev velikansko delo.</p>
             <p>Tu jim bode treba družiti gorečo ljubezen do domovine svoje, do svojega rodú, z
                jasnim pogledom za potrebe države.</p>
@@ -96,8 +128,7 @@
                   uradih</hi> v naših slovenskih pokrajinah še vedno vlada nemški duh in da se
                pogostoma, posebno v političnih uradih, nameščajo uradniki, slovenščine nezmožni.</p>
             <p>To v prihodnje zabraniti, bodi naloga naših poslancev.</p>
-            <p>Nasprotje narodnih in državnih koristi rodilo je lanskega leta poskuse za <hi
-                  rend="italic">češko-nemško spravo</hi>.</p>
+            <p>Nasprotje narodnih in državnih koristi rodilo je lanskega leta poskuse za <hi rend="italic">češko-nemško spravo</hi>.</p>
             <p>Mi katoliški Slovenci želimo spravo za vse narode avstrijske na podlagi
                jednakopravnosti. Tako spravo nam veleva krščanska ljubezen do bližnjega. V bratski
                ljubezni hočemo živeti z vsemi drugimi narodi avstrijskimi, želeč vsakemu svoje, a
@@ -106,16 +137,20 @@
                   katoliško mislečimi poslanci</hi>.</p>
             <p>3. V <hi rend="italic">narodno-gospodarskem</hi> oziru je doslej država za našo
                domovino jako malo storila.</p>
-            <p><hi rend="italic">Za dolenjsko železnico morala je naša revna dežela prevzeti
+            <p>
+               <hi rend="italic">Za dolenjsko železnico morala je naša revna dežela prevzeti
                   velikanske žrtve</hi>.</p>
             <p>Vendar z dolenjsko železnico še dolgo ni ustreženo zahtevam prometa v naši
                domovini.</p>
             <p>Potrebna je <hi rend="italic">bližja proga <placeName>Gorenjske</placeName> s
-                     <placeName>Trstom</placeName></hi>.</p>
+                     <placeName>Trstom</placeName>
+               </hi>.</p>
             <p>Potrebna je <hi rend="italic">bližnja <placeName>Ljubljane</placeName> s
-                     <placeName>Celovcem</placeName></hi>. </p>
+                     <placeName>Celovcem</placeName>
+               </hi>. </p>
             <p>Potrebna je <hi rend="italic">bližnja zveza <placeName>Kranjske</placeName> z
-                     <placeName>Gorico</placeName></hi>.</p>
+                     <placeName>Gorico</placeName>
+               </hi>.</p>
             <p>Naši poslanci naj delujejo na to, <hi rend="italic">da država vse te potrebne
                   železnične zveze izvede na svoje troške</hi>.</p>
             <p>V obče naj naši poslanci delujejo v prospeh načela, da morajo <hi rend="italic">one
@@ -125,14 +160,12 @@
                   <placeName>Kranjsko</placeName> in <placeName>mesto ljubljansko</placeName> je
                osuševanje <geogName>ljubljanskega barja</geogName>. Naši poslanci naj skrbé za to, da izposlujejo od
                visoke vlade ono podporo za osuševanja barja, katero je vlada načeloma že obljubila
-               in katero pričakuje deželni zbor kranjski vsled svojih sklepov, storjenih <date
-                  when="1889">1889.</date> in <date when="1890">1890 leta</date>.</p>
+               in katero pričakuje deželni zbor kranjski vsled svojih sklepov, storjenih <date when="1889">1889.</date> in <date when="1890">1890 leta</date>.</p>
             <p>Posebno pozornost naj obračajo naši poslanci tudi na <hi rend="italic">zboljšanje
                   žalostnega položaja kmetskega in rokodelskega stanú</hi>.</p>
             <p>Da, kmetski stan je v sedanjih okoliščinah skoraj nemogoč.</p>
             <p>Naši poslanci naj si torej prizadevajo, <hi rend="italic">da se zemeljski davek od
-                  malih kmetskih posestev</hi> zniža v kolikor mogoče. Isto tako <hi rend="italic"
-                  >hišni davek</hi>, in sicer če mogoče po načelu, da se kmetske hiše, ki služijo le
+                  malih kmetskih posestev</hi> zniža v kolikor mogoče. Isto tako <hi rend="italic">hišni davek</hi>, in sicer če mogoče po načelu, da se kmetske hiše, ki služijo le
                za stanovanje posestniku in njegovi družini, oprosté popolnoma hišnorazrednega
                davka.</p>
             <p>Temu nasproti naj se uvede visoki <hi rend="italic">nagizdni davek</hi>, ki bode
@@ -153,10 +186,11 @@
             <p>Jedna važnejših točk, s katerimi se bode bavil novi državni zbor, naj bode osnovanje
                   <hi rend="italic">delavskih zbornic</hi>, o katerih se je posvetoval – žal, da
                brez vspeha – že minoli državni zbor.</p>
-            <p>Naši poslanci naj se sploh z vso gorečnostjo poprimejo rešitve <hi rend="italic"
-                  >socijalnega vprašanja na krščanski podlagi</hi>.</p>
-            <p><hi rend="italic">Narodi vpijejo za kruh. Dolžnost njihovih zastopnikov je, da mu ga
-                  preskrbé!</hi></p>
+            <p>Naši poslanci naj se sploh z vso gorečnostjo poprimejo rešitve <hi rend="italic">socijalnega vprašanja na krščanski podlagi</hi>.</p>
+            <p>
+               <hi rend="italic">Narodi vpijejo za kruh. Dolžnost njihovih zastopnikov je, da mu ga
+                  preskrbé!</hi>
+            </p>
             <p>Rojaki! Katoliški Slovenci! V kratkih splošnih potezah smo vam narisali program,
                katerega naj bi se po našem prepričanju držali oni možje, katere hočemo poslati kot
                zastopnike katoliškega slovenskega naroda v <orgName>državni zbor</orgName>.</p>
@@ -169,28 +203,33 @@
                svoji preteklosti, po svojem dosedanjem delovanji, po svojem značaju biti mož, o
                katerem ni dvomiti, da bode <hi rend="italic">prostovoljno, radostno, navdušeno</hi>
                izvajal naš program.</p>
-            <p>Slovenci! V zadnjih letih jel se je tudi pri nas širiti oni strupeni židovski <hi
-                  rend="italic">liberalizem</hi>, ki je še vsaki narod onesrečil, kateri se ga je
+            <p>Slovenci! V zadnjih letih jel se je tudi pri nas širiti oni strupeni židovski <hi rend="italic">liberalizem</hi>, ki je še vsaki narod onesrečil, kateri se ga je
                oprijel. Zato se ga je treba varovati v vseh okoliščinah, tudi tedaj, ako se vsiljuje
-               pod krinko <hi rend="italic"><q>absolutne narodnosti</q></hi>.</p>
-            <p><hi rend="italic">Ne zaupajmo torej praznim besedam</hi>, praznim obljubam, zaupajmo
+               pod krinko <hi rend="italic">
+                  <q>absolutne narodnosti</q>
+               </hi>.</p>
+            <p>
+               <hi rend="italic">Ne zaupajmo torej praznim besedam</hi>, praznim obljubam, zaupajmo
                le možem, ki so v večletnem delovanju med nami jasno pokazali, da so isto tako
                katoliki, kakor Slovenci, da gojé enako ljubezen do svete katoliške vere, kakor do
                mile slovenske domovine!</p>
-            <p>Rojaki! Do mnogih izmed vas obrača se <hi rend="italic"><q>Pripravljalni volilni odbor</q>
-                  v <placeName>Ljubljani</placeName></hi>, da mu naznanite svoje želje gledé na kandidature. Vaša narodna
+            <p>Rojaki! Do mnogih izmed vas obrača se <hi rend="italic">
+                  <q>Pripravljalni volilni odbor</q>
+                  v <placeName>Ljubljani</placeName>
+               </hi>, da mu naznanite svoje želje gledé na kandidature. Vaša narodna
                dolžnost bode, odzivati se temu pozivu. Predno pa to storite, dogovorite se z vsemi
                enako mislečimi možmi celega volilnega okraja, zjedinite se ž njimi na jedno
                zanesljivo osebo kot kandidata in naznanite prej ko mogoče podpisanemu odboru, ki je
                o razmerah popolnoma poučen in kateri vam je sploh v vseh volilnih zadevah s svojim
                svètom radostno na razpolago.</p>
-            <p>Tako upamo, da bodemo dosegli svoj smoter, po katerem hrepenimo. <hi rend="italic"
-                  >Ako bodemo vsi storili svojo dolžnost, potem bode tudi Bog naše delo
+            <p>Tako upamo, da bodemo dosegli svoj smoter, po katerem hrepenimo. <hi rend="italic">Ako bodemo vsi storili svojo dolžnost, potem bode tudi Bog naše delo
                   blagoslovil</hi> in z njegovo mogočno pomočjo bode <hi rend="italic">katoliški
                   slovenski narod</hi> poslal v državni zbor le <hi rend="italic">katoliške
                   slovenske poslance</hi>, ki se bodo pri vsem svojem delovanji zvesto in
                nevstrašeno držali našega gesla, ki naj bode v volilni borbi naš bojni klic:</p>
-            <closer><hi rend="italic">Vse za vero, dom, cesarja!</hi></closer>
+            <closer>
+               <hi rend="italic">Vse za vero, dom, cesarja!</hi>
+            </closer>
          </div>
       </body>
    </text>

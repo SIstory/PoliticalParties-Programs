@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,35 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="4"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -63,12 +91,17 @@
    <text>
       <body>
          <div>
-            <head><orgName>Shod zaupnikov narodno napredne stranke</orgName>.</head>
+            <head>
+               <orgName>Shod zaupnikov narodno napredne stranke</orgName>.</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.61.PPP"><hi rend="italic"><orgName>Narod.-napredna stranka</orgName></hi> je po <date
-                  when="1908-09-20">20. septembru 1908</date> mnogo žrtvovala in zapostavila, da
+            <p xml:id="No.61.PPP">
+               <hi rend="italic">
+                  <orgName>Narod.-napredna stranka</orgName>
+               </hi> je po <date when="1908-09-20">20. septembru 1908</date> mnogo žrtvovala in zapostavila, da
                omogoči skupen boj slovenskih strank, da pade vladni sistem in se vzame nemštvu
-               njegovo nenaravno moč. Obžaluje pa, da mora danes konstatirati, da v <q><orgName>S. L. S.</orgName></q>
+               njegovo nenaravno moč. Obžaluje pa, da mora danes konstatirati, da v <q>
+                  <orgName>S. L. S.</orgName>
+               </q>
                ta smer ni našla poštenega odziva, dasi je ta stranka na zunaj to zatrjevala, v
                resnici pa položaj le v svoje strankarske svrhe izrabljala. <orgName>Narodno-napredna stranka</orgName>
                hoče vztrajati v najradikalnejšem odporu proti vladi in nemštvu brez ozira na levo in

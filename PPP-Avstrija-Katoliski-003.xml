@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="date" occurs="3"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="12"/>
+               <tagUsage gi="p" occurs="13"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -60,9 +89,12 @@
             <head>Katoliško politično društvo</head>
             <head>(Konec.)</head>
             <gap reason="irrelevant"/>
-            <opener xml:id="No.3.PPP.1"><orgName>Visoka državna zbornica</orgName>!</opener>
-            <p xml:id="No.3.PPP.2"><orgName>Katol. politično društvo v
-                  <placeName>Ljubljani</placeName></orgName> ima med drugim tudi namen, pospeševati
+            <opener xml:id="No.3.PPP.1">
+               <orgName>Visoka državna zbornica</orgName>!</opener>
+            <p xml:id="No.3.PPP.2">
+               <orgName>Katol. politično društvo v
+                  <placeName>Ljubljani</placeName>
+               </orgName> ima med drugim tudi namen, pospeševati
                slovenskega naroda gmotni napredek v gospodarskih in socijalnih zadevah, skrbeti mu
                je prav posebno za gospodarsko izobraženost.</p>
             <p xml:id="No.3.PPP.3">Zato z veseljem pozdravlja in z zadovoljnostjo priznava, da je
@@ -78,7 +110,8 @@
                sklenila novela za stavbeni obrtni red, katero je vlada v § 23., alin 2, novele za
                obrtni red z dné <date when="1883-03-15">15 marca 1883</date>, obljubila. Izrekla se
                je namreč gledé stavbeno-obrtne novele v imenovanem paragrafu kakor sledi:</p>
-            <p xml:id="No.3.PPP.5"><corr>»</corr>Gledé stavbene obrti določijo se pozneje s posebnim
+            <p xml:id="No.3.PPP.5">
+               <corr>»</corr>Gledé stavbene obrti določijo se pozneje s posebnim
                zakonom splošna načela, katerih se je držati, kadar treba odobriti dokaze posebne
                sposobnosti za nastop v § 15., točka 6. naštetih stavbenih obrtij, in kadar treba
                določiti, kako na široko se raztezajo pravice posameznih kategorij stavbene obrti.« </p>
@@ -93,7 +126,9 @@
                   <date when="1890-02-03">3. februvarja 1890</date> na poznejše čase,</p>
             <p xml:id="No.3.PPP.8">z ozirom na to, da so določila novega obrtnega reda za stavbene
                obrtnike popolno brez pomena, dokler se ne izvrši tudi stavbeno obrtna novela,</p>
-            <p xml:id="No.3.PPP.9">prosi najdostojneje podpisano <q><orgName>katol. politično društvo</orgName></q> visoko
+            <p xml:id="No.3.PPP.9">prosi najdostojneje podpisano <q>
+                  <orgName>katol. politično društvo</orgName>
+               </q> visoko
                državno zbornico, da izvôli načrt obrtno-stavbene novele prej ko mogoče postaviti na
                dnevni red, vsekako pa gotovo še v tem zasedanju.</p>
             <p xml:id="No.3.PPP.10">2. Ker se pa imajo postave, vrejujoče razmere podložnih držati
@@ -108,7 +143,8 @@
                tisoč družin vsled neugodnih, ker postavno ne dovolj določenih razmer težko in željno
                pričakájejo ugodne rešitve novele stavbeno-obrtnega načrta</p>
             <p xml:id="No.3.PPP.13">prosi najdostojneje vdano <orgName>katol. politično društvo v
-               <placeName>Ljubljani</placeName></orgName>, da izvôli <orgName>vis. zbornica</orgName> vsprejeti vladine predloge stavbeno-obrtne novele
+               <placeName>Ljubljani</placeName>
+               </orgName>, da izvôli <orgName>vis. zbornica</orgName> vsprejeti vladine predloge stavbeno-obrtne novele
                in sicer § 2. po nasvetu manjšine obrtnega odseka <orgName>visoke državne zbornice</orgName>, ki se
                glasi:</p>
             <p xml:id="No.3.PPP.14">Stavbeni podjetnik je opravičen voditi in izvrševati velike in

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -43,7 +43,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="item" occurs="2"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="6"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -61,12 +88,14 @@
                      slovenskega socijalnega vprašanja.</p>
                   <p>Slovensko posojilništvo je glavni vir, ki naj zagotovi z ustanovitvijo
                      podpornih fondov dijakom večjih podpor.</p>
-                  <p><orgName>Narodno-radikalno dijaštvo</orgName> ostro graja brezvestnost onih, ki ne vračajo po
+                  <p>
+                     <orgName>Narodno-radikalno dijaštvo</orgName> ostro graja brezvestnost onih, ki ne vračajo po
                      končanih študijah brezobrestnih posojil, ker oškodujejo s tem podporna društva
                      in kratijo zaupanje v dijaštvo.</p>
                   <p>Odklanjamo z zaničevanjem vsako podporo, ki ji je namen vplivati na
                      prepričanje.</p>
-                  <p><orgName>Narodno-radikalno dijaštvo zahteva</orgName>, da se podpore pravično regulirajo in
+                  <p>
+                     <orgName>Narodno-radikalno dijaštvo zahteva</orgName>, da se podpore pravično regulirajo in
                      predlaga ustanovitev osrednjega biroja, kamor naj javijo podporniki svoje
                      podpore in kjer morejo dobiti informacij.</p>
                   <p>Glede podpornih društev želimo, da se da v njih odborih slovenskemu dijaštvu
@@ -74,7 +103,8 @@
                      gmotne razmere podpiranca ne izpremene; smatramo mesečnih 10 K za podporni
                      minimum.</p>
                </item>
-               <item n="II."><orgName>Narodno-radikalno dijaštvo</orgName> izreka <title>Omladini</title> za nje
+               <item n="II.">
+                  <orgName>Narodno-radikalno dijaštvo</orgName> izreka <title>Omladini</title> za nje
                   delovanje na dijaško-socijalnem polju priznanje ter jo pozivlja, da nadaljuje isto
                   posebno z zbiranjem statističnih podatkov, dokler se ne oprimejo tega velevažnega
                   dela poklicani faktorji.</item>

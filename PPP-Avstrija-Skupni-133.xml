@@ -26,8 +26,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -49,7 +49,39 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="4"/>
+               <tagUsage gi="item" occurs="11"/>
+               <tagUsage gi="lb" occurs="4"/>
+               <tagUsage gi="list" occurs="5"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="persName" occurs="10"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="roleName" occurs="4"/>
+               <tagUsage gi="signed" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -89,28 +121,50 @@
                </closer>
                <signed>
                   <list rend="simple">
-                     <item><persName>Dr. Anton Bonaventura Jeglič, l. r.<lb/>
-                           <roleName>knezoškof ljubljanski</roleName></persName></item>
-                     <item><persName>Prelat Andrej Kalan, l. r.<lb/>
-                           <roleName>stolni kanonik</roleName></persName></item>
-                     <item><persName>Dr. Josip Gruden, l.r.<lb/>
-                           <roleName>stolni kanonik</roleName></persName></item>
+                     <item>
+                        <persName>Dr. Anton Bonaventura Jeglič, l. r.<lb/>
+                           <roleName>knezoškof ljubljanski</roleName>
+                        </persName>
+                     </item>
+                     <item>
+                        <persName>Prelat Andrej Kalan, l. r.<lb/>
+                           <roleName>stolni kanonik</roleName>
+                        </persName>
+                     </item>
+                     <item>
+                        <persName>Dr. Josip Gruden, l.r.<lb/>
+                           <roleName>stolni kanonik</roleName>
+                        </persName>
+                     </item>
                   </list>
                   <list rend="simple">
                      <head>Za slovensko ljudsko stranko:</head>
-                     <item><persName>Dr. Ivan Šusteršič, l. r.<lb/>
-                           <roleName>t. č. načelnik stranke</roleName></persName></item>
+                     <item>
+                        <persName>Dr. Ivan Šusteršič, l. r.<lb/>
+                           <roleName>t. č. načelnik stranke</roleName>
+                        </persName>
+                     </item>
                   </list>
                   <list rend="simple">
                      <head>Za Narodno napredno stranko:</head>
-                     <item><persName>Dr. Ivan Tavčar, l. r.</persName></item>
-                     <item><persName>Dr. Karel Triller, l. r.</persName></item>
+                     <item>
+                        <persName>Dr. Ivan Tavčar, l. r.</persName>
+                     </item>
+                     <item>
+                        <persName>Dr. Karel Triller, l. r.</persName>
+                     </item>
                   </list>
                   <list rend="simple">
                      <head>Za Slov. kat. delavsko demokracijo</head>
-                     <item><persName>Mihael Moškerc, l. r.</persName></item>
-                     <item><persName>Franc Vidic, l. r.</persName></item>
-                     <item><persName>Anton Žnidaršič, l. r.</persName></item>
+                     <item>
+                        <persName>Mihael Moškerc, l. r.</persName>
+                     </item>
+                     <item>
+                        <persName>Franc Vidic, l. r.</persName>
+                     </item>
+                     <item>
+                        <persName>Anton Žnidaršič, l. r.</persName>
+                     </item>
                   </list>
                </signed>
             </list>

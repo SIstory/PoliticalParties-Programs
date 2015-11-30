@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -49,7 +49,43 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="cell" occurs="18"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="figure" occurs="1"/>
+               <tagUsage gi="geogName" occurs="33"/>
+               <tagUsage gi="graphic" occurs="1"/>
+               <tagUsage gi="head" occurs="5"/>
+               <tagUsage gi="hi" occurs="14"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="13"/>
+               <tagUsage gi="p" occurs="60"/>
+               <tagUsage gi="persName" occurs="4"/>
+               <tagUsage gi="placeName" occurs="123"/>
+               <tagUsage gi="row" occurs="9"/>
+               <tagUsage gi="soCalled" occurs="1"/>
+               <tagUsage gi="table" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -60,8 +96,7 @@
                <p>S trenotkom, ko bodo deležni narodi monarhije vseh pravic samostojnosti in lastne
                   državnosti, ko bo zajamčena samostojnost kot neovrgljivo pravo vsakega naroda, bo
                   prišla doba, ko bodo morali spoznati ti narodi, da jim ni <hi rend="italic">le
-                     pravica do svobode</hi> in samostojnosti življenska potreba, nego tudi <hi
-                     rend="italic">čut in dolžnost medsebojne solidarnosti</hi>. Tako nekako je
+                     pravica do svobode</hi> in samostojnosti življenska potreba, nego tudi <hi rend="italic">čut in dolžnost medsebojne solidarnosti</hi>. Tako nekako je
                   govoril sodrug dr. <persName>V. Adler</persName> v <orgName>avstrijskem
                      parlamentu</orgName> ob priliki mirovne debate; koristno bi bilo, posebno za
                   češke in jugoslovanske ljudske zastopnike, da se oklenejo besed tega najresnejšega
@@ -347,7 +382,8 @@
                   </row>
                   <row>
                      <cell>
-                        <orgName>Kranjska hranilnica v <placeName>Ljubljani</placeName></orgName>
+                        <orgName>Kranjska hranilnica v <placeName>Ljubljani</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 67,400.000ֹ –</cell>
                   </row>
@@ -359,31 +395,36 @@
                   </row>
                   <row>
                      <cell>
-                        <orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName></orgName>
+                        <orgName>Ljudska posojilnica v <placeName>Ljubljani</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 31,900.000ֹ –</cell>
                   </row>
                   <row>
                      <cell>
-                        <orgName>Mestna hranilnica v <placeName>Kranju</placeName></orgName>
+                        <orgName>Mestna hranilnica v <placeName>Kranju</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 8,700.000ֹ –</cell>
                   </row>
                   <row>
                      <cell>
-                        <orgName>Mestna hranilnica <placeName>Kočevju</placeName></orgName>
+                        <orgName>Mestna hranilnica <placeName>Kočevju</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 8,400.000ֹ –</cell>
                   </row>
                   <row>
                      <cell>
-                        <orgName>Mestna hranilnica <placeName>Novem mestu</placeName></orgName>
+                        <orgName>Mestna hranilnica <placeName>Novem mestu</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 6,000.000ֹ –</cell>
                   </row>
                   <row>
                      <cell>
-                        <orgName>Mestna hranilnica <placeName>Kamniku</placeName></orgName>
+                        <orgName>Mestna hranilnica <placeName>Kamniku</placeName>
+                        </orgName>
                      </cell>
                      <cell>K 3,700.000ֹ –</cell>
                   </row>
@@ -423,9 +464,9 @@
                   bremen, ideali bodo potisnjeni v kot in stala bo pred nami le gola resnica –
                   silnejše obremenjenje našega gospodarstva. </p>
                <p>Življenski interes vsega naroda zahteva torej, da se najde rešitev, ki bo narodno
-                  premoženje varovala prekrutega poloma. Ta rešitev leži po mojem mnenju v <hi
-                     rend="italic">ohranitvi gospodarske skupnosti z drugimi narodi </hi>
-                  <hi rend="italic">bivše <placeName>monarhije</placeName></hi>.</p>
+                  premoženje varovala prekrutega poloma. Ta rešitev leži po mojem mnenju v <hi rend="italic">ohranitvi gospodarske skupnosti z drugimi narodi </hi>
+                  <hi rend="italic">bivše <placeName>monarhije</placeName>
+                  </hi>.</p>
                <p>Tudi naši sosedje, Nemci, imajo danes enake skrbi glede preureditve državnega
                   ustroja kakor mi, ker jih ta razcepitev v posamezne narodne države še občutnejše
                   zadene, in sicer zato, ker bi bil odvzet nemški industriji važen trg. Nemški
@@ -454,14 +495,12 @@
                <p>Rešitev jugoslovanskega problema <hi rend="italic">mora hoditi le popolnoma lastno
                      pot naroda</hi>, ne oziraje se na rešitev češkega in poljskega problema. V tem
                   boju moramo stopati popolnoma samostojno in se otresti dosedanjega vsakršnega
-                  vpliva, ker glede gospodarskega boja ne smemo poznati posebne sorodščine. <hi
-                     rend="bold">Jugoslovanski problem je in ostane le jugoslovanski</hi>
+                  vpliva, ker glede gospodarskega boja ne smemo poznati posebne sorodščine. <hi rend="bold">Jugoslovanski problem je in ostane le jugoslovanski</hi>
                   <hi rend="italic">in ne sme in ne more biti kak privesek češkega problema</hi>.
                   Ako je v češkem gospodarskem interesu, pretrgati vse zveze z monarhijo, ni rečeno,
                   da je ta interes obenem tudi naš gospodarski interes. Otresti se moramo torej
                   predvsem češkega vpliva, ki predstavlja spone, a ne svobode.</p>
-               <p>Razdirati je lažje kakor graditi, to verujem. A naši narodni zastopniki imajo <hi
-                     rend="italic">danes edino nalogo, da grade</hi> in le tedaj, ako zahteva nova
+               <p>Razdirati je lažje kakor graditi, to verujem. A naši narodni zastopniki imajo <hi rend="italic">danes edino nalogo, da grade</hi> in le tedaj, ako zahteva nova
                   zgradba iz ekonomskih, a ne iz ideoloških razlogov popolen prelom z
                   bivšo <placeName>monarhijo</placeName>, naj store ta odločilni korak. Le oni
                   narod bo v težkem boju bodočnosti mogel vztrajati, ki bo računal brez pretiravanja
@@ -549,12 +588,14 @@
                   eksistenco posameznika, kakor za eksistenco države. Naši energetični viri so dokaj
                   bogati, čakajo le, da jih dvignemo in izrabimo.</p>
                <p>*</p>
-               <closer><note>Glede izvajanj avtorjevih o združitvi jugoslovanskega ozemlja s <placeName>srbsko
+               <closer>
+                  <note>Glede izvajanj avtorjevih o združitvi jugoslovanskega ozemlja s <placeName>srbsko
                      kraljevino</placeName> se uredništvo ne strinja. Ker pa smo že v prvi številki
                   »Demokracije« poudarjali, da bodi naša revija svobodna tribuna, zato smo priobčili
                   gorenji članek. Poudarjamo še enkrat, da spoštujemo vsako mnenje, zato rade volje
                   sprejmemo tudi članke, ki so po našem mnenju nasprotni splošno razširjenemu
-                  naziranju. – Uredništvo.</note></closer>
+                  naziranju. – Uredništvo.</note>
+               </closer>
              
             </div>
          </div>

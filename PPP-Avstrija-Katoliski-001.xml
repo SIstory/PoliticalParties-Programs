@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,7 +48,35 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="15"/>
+               <tagUsage gi="head" occurs="15"/>
+               <tagUsage gi="hi" occurs="1"/>
+               <tagUsage gi="item" occurs="15"/>
+               <tagUsage gi="list" occurs="4"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="16"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="q" occurs="5"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -61,17 +89,20 @@
             <head>Pravila <q>katoliškega političnega društva</q> v Ljubljani.</head>
             <div>
                <head>§ 1.</head>
-               <p><orgName>Katoliško politično društvo</orgName> ima svoj sedež v
+               <p>
+                  <orgName>Katoliško politično društvo</orgName> ima svoj sedež v
                      <placeName>Ljubljani</placeName>.</p>
             </div>
             <div xml:id="No.1.PPP.2">
                <head>§ 2.</head>
-               <p><orgName>Društvu</orgName> je namen: Pospeševati slovenskega naroda duševni in gmotni napredek v
+               <p>
+                  <orgName>Društvu</orgName> je namen: Pospeševati slovenskega naroda duševni in gmotni napredek v
                   verskih, državnih, občinskih, šolskih, gospodarskih in socijalnih zadevah;
                   razširjati med Slovenci versko, narodno in gospodarsko izobraženost; braniti
                   verske, narodne in državne pravice slovenskega naroda in pospeševati ustavni
                   razvoj avstrijske države po geslu: <hi rend="italic">Vse za vero, dom, cesarja!
-                  </hi></p>
+                  </hi>
+               </p>
             </div>
             <div xml:id="No.1.PPP.3">
                <head>§ 3.</head>
@@ -84,7 +115,8 @@
             </div>
             <div>
                <head>§ 4.</head>
-               <p><orgName>Društvo</orgName> je ustanovljeno, kader pristopi vsaj 20 udov in kader se izvoli odbor. Ud
+               <p>
+                  <orgName>Društvo</orgName> je ustanovljeno, kader pristopi vsaj 20 udov in kader se izvoli odbor. Ud
                   sme biti vsak polnoletni avstrijski državljan moškega spola, ako se zglasi pri
                   društvenem vodstvu, ako ga odbor sprejme in ako mu postava ne brani pristopiti k
                   političnemu društvu. Ako komu odbor odreče sprejem, ni odboru treba naznanjati
@@ -185,7 +217,9 @@
                   <item n="b)">če je razpusti politično oblastvo.</item>
                </list>
                <p>V prvem slučaju odloči o premoženju občni zbor, v drugem pa se izroči:
-                  <q><orgName>Katoliškemu tiskovnemu društvu</orgName> v <placeName>Ljubljani</placeName></q>.</p>
+                  <q>
+                     <orgName>Katoliškemu tiskovnemu društvu</orgName> v <placeName>Ljubljani</placeName>
+                  </q>.</p>
             </div>
          </div>
       </body>

@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -50,7 +50,60 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="back" occurs="1"/>
+               <tagUsage gi="bibl" occurs="12"/>
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="byline" occurs="1"/>
+               <tagUsage gi="choice" occurs="2"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="corr" occurs="2"/>
+               <tagUsage gi="date" occurs="33"/>
+               <tagUsage gi="div" occurs="16"/>
+               <tagUsage gi="docAuthor" occurs="2"/>
+               <tagUsage gi="docDate" occurs="2"/>
+               <tagUsage gi="docImprint" occurs="1"/>
+               <tagUsage gi="docTitle" occurs="1"/>
+               <tagUsage gi="foreign" occurs="19"/>
+               <tagUsage gi="front" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="17"/>
+               <tagUsage gi="hi" occurs="158"/>
+               <tagUsage gi="item" occurs="3"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="15"/>
+               <tagUsage gi="orgName" occurs="10"/>
+               <tagUsage gi="p" occurs="153"/>
+               <tagUsage gi="persName" occurs="94"/>
+               <tagUsage gi="placeName" occurs="23"/>
+               <tagUsage gi="publisher" occurs="1"/>
+               <tagUsage gi="q" occurs="10"/>
+               <tagUsage gi="quote" occurs="6"/>
+               <tagUsage gi="said" occurs="14"/>
+               <tagUsage gi="sic" occurs="3"/>
+               <tagUsage gi="soCalled" occurs="2"/>
+               <tagUsage gi="term" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="22"/>
+               <tagUsage gi="titlePart" occurs="2"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change when="2015-07-27">
             <name>Neja Blaj Hribar</name>: dodani geogName in orgName
@@ -92,8 +145,7 @@
                   mnogih, ki se ga iz raznih uzrokov niso mogli udeležiti, na posameznike iz našega
                   kroga prihajala razna vprašanja, bodisi glede shoda samega, bodisi glede tega, kaj
                   se je na njem razpravljalo. Večini poprašujočih nismo mogli tako obširno
-                  odgovoriti, kakor bi bili radi. Zato smo sklicali na dan <date when="1901-01-01"
-                     >1. januarja 1901</date>. l. še en, tudi informativen, prijateljski shod, kjer
+                  odgovoriti, kakor bi bili radi. Zato smo sklicali na dan <date when="1901-01-01">1. januarja 1901</date>. l. še en, tudi informativen, prijateljski shod, kjer
                   smo v glavnem podali isto, kar na prvem.</p>
                <p>Pa uvideli smo, da se tem pôtem ne moremo razodeti vsem, ki si tega žele, pa tudi
                   vsem tistim ne, katerim bi se radi mi. Sklenili smo torej izdati knjižico, kjer na
@@ -117,9 +169,9 @@
                   kakor si mi pred vsem želimo.</p>
                <p>Ne podajemo bogvé kaj novega. Prav za prav nič: saj drugod se o tem že davno
                   razpravlja. Tega si želimo tudi pri nas, zato priporočamo to knjižico vsakomur,
-                  kdor ima dobro voljo in čist namen: <q>Čitaj, pa tudi premišljuj o tem!</q></p>
-               <closer>V <placeName>Ljubljani</placeName>, <date notBefore="1901-03-20"
-                     notAfter="1901-05-01">na začetku pomladi 1901. leta</date>.</closer>
+                  kdor ima dobro voljo in čist namen: <q>Čitaj, pa tudi premišljuj o tem!</q>
+               </p>
+               <closer>V <placeName>Ljubljani</placeName>, <date notBefore="1901-03-20" notAfter="1901-05-01">na začetku pomladi 1901. leta</date>.</closer>
                <byline>Sklicevatelji I. in II. shoda.</byline>
             </div>
             <div xml:id="No.138.PPP.2">
@@ -133,8 +185,7 @@
                <p>To je naše stališče, s katerim je že tudi dan namen našemu stremljenju. Gre nam za
                   to, da podamo smer, po kateri mislimo, da more naša mladina uspešneje izpolnjevati
                   svojo nalogo nego doslej. In kaj je naša naloga? <hi rend="italic">Umsko in nravno
-                     izpolnjevanje</hi>. Sredstvo k temu je <hi rend="italic"
-                  >samoizobrazba</hi>.</p>
+                     izpolnjevanje</hi>. Sredstvo k temu je <hi rend="italic">samoizobrazba</hi>.</p>
                <p>Enotna naobrazba, ki jo naš čas zahteva, skrbi, da umeva vse kulturno življenje,
                   javljajoče se v raznih oblikah. In taka oblika, del vsega kulturnega življenja je
                   tudi <hi rend="italic">filozofija</hi> in <hi rend="italic">religija</hi>. Želimo
@@ -147,8 +198,7 @@
                <p>Dijaštvo naj se peča s <hi rend="italic">politiko</hi>. Bilo bi nezmisel
                   prepovedovati dijaku, da bi se zanimal za javna vprašanja, ko stopi sam po
                   nekoliko letih v javnost. Od kod naj vzame potrebno znanje? Vsaka praksa temelji
-                  na znanju, politična delavnost bi pa ne? In tu smo pri besedi. <hi rend="italic"
-                     >Politika nam je delo</hi>, ne radikalno govorjenje, ki samo razburja in vzbuja
+                  na znanju, politična delavnost bi pa ne? In tu smo pri besedi. <hi rend="italic">Politika nam je delo</hi>, ne radikalno govorjenje, ki samo razburja in vzbuja
                   čustva, kakršnih ravno govornik potrebuje. <hi rend="italic">Politika je
                      znanost</hi>. Zato nam je treba politične naobrazbe. Dnevni listi nam v svojem
                   strankarstvu podajajo kaj malo globlje politične izobrazbe. Proučavati nam je
@@ -170,15 +220,17 @@
                      narodnega gospodarja, da umevanje socialne vede izhaja bolj iz srca nego iz
                      razuma; sedaj, dokler kruta borba za obstanek še ni skrhala vaše velikodušnosti
                      in vašega sočutja in se še niste pomirili z ljudsko bedo!</quote> kliče
-                     <persName>Edmondo de Amicis</persName> laškemu dijaštvu, a tudi nam.<note
-                     place="foot"><bibl><title>Student a otázka sociálni</title>, str. 6 (češki
-                        prevod, <date>1897</date>)</bibl>.</note></p>
+                     <persName>Edmondo de Amicis</persName> laškemu dijaštvu, a tudi nam.<note place="foot">
+                     <bibl>
+                        <title>Student a otázka sociálni</title>, str. 6 (češki
+                        prevod, <date>1897</date>)</bibl>.</note>
+               </p>
                <p>Socialno vprašanje je etično vprašanje. Gre za to, ali je mogoče prešiniti
-                  človeštvo s socialnim duhom, t. j. napraviti ga etičnega. Pri tem <hi
-                     rend="italic">more</hi> vsakdo pomagati, začne naj najprej pri samem sebi.
+                  človeštvo s socialnim duhom, t. j. napraviti ga etičnega. Pri tem <hi rend="italic">more</hi> vsakdo pomagati, začne naj najprej pri samem sebi.
                   Vsakdo je pa tudi <hi rend="italic">dolžan</hi> pomagati, kajti ravno zato, ker
                   gre za <sic>za</sic> vse, gre tudi za vsakega posameznika.</p>
-               <p><said>Človek se ne rodi samemu sebi, ampak Bogu in bližnjemu, t. j. družbi
+               <p>
+                  <said>Človek se ne rodi samemu sebi, ampak Bogu in bližnjemu, t. j. družbi
                      ljudskega pokoljenja.</said> Te besede <persName>Komenskega</persName>
                   pomenjajo, da si mora človek prizadevati delovati za blaginjo celote in pri tem,
                   ako je treba, odreči se delom lastne sreče. To je etično, obenem je pa to tudi
@@ -207,15 +259,15 @@
                   kaže tudi <hi rend="italic">narodnost in narodno delo</hi> v vse drugi luči nego
                   je navadno naziranje o tem.</p>
                <p>Narodnost je naravni element človeka, naravni delokrog za socialno delovanje.
-                  Narodnost <hi rend="italic">poleg</hi> narodnosti a ne narodnost <hi rend="italic"
-                     >proti</hi> narodnosti. </p>
+                  Narodnost <hi rend="italic">poleg</hi> narodnosti a ne narodnost <hi rend="italic">proti</hi> narodnosti. </p>
                <p>Narodnost nam ni nikak malik, imamo še druge, obsežnejše ideje, in da jih
-                  dosežemo, treba mednarodne vzajemnosti. Zato postaja <hi rend="italic"
-                     >mednarodnost</hi> bolj in bolj naravni fakt kakor narodnost, <hi rend="italic"
-                     >ne kot negacija narodnosti, ampak kot solidarnost in narodnostna strpnost, kot
+                  dosežemo, treba mednarodne vzajemnosti. Zato postaja <hi rend="italic">mednarodnost</hi> bolj in bolj naravni fakt kakor narodnost, <hi rend="italic">ne kot negacija narodnosti, ampak kot solidarnost in narodnostna strpnost, kot
                      sredstvo v dosego skupnih kulturnih interesov</hi>.</p>
                <p>Narodno delo si mislimo s tega stališča čisto konkretno. Kratko in jedrnato
-                  označuje <persName>Masaryk</persName><note place="foot"><bibl><title>Naše nynější
+                  označuje <persName>Masaryk</persName>
+                  <note place="foot">
+                     <bibl>
+                        <title>Naše nynější
                            krise</title> (<placeName>Praga</placeName>
                         <date>1895</date>), str. 132</bibl>.</note> narodno delo, ko trdi, da
                   preprosto staro pravilo <q>ne laži!</q> poučuje tisoč in tisočkrat bolj nego vsi
@@ -244,8 +296,7 @@
                   svetovne omike, kar mu zagotovi obstanek. Seveda moramo ideje poprej imeti, teh pa
                   ne dobimo s samimi deklamacijami o bratski ljubezni in stomilijonskem narodu!</p>
                <p>Zahtevamo zase in od drugih <hi rend="italic">kritičnosti, odkritosti in svobode
-                     besede v vseh življenskih vprašanjih</hi>. Kakor za <hi rend="italic"
-                     >znanost</hi> velja to tudi <hi rend="italic">za umetnost
+                     besede v vseh življenskih vprašanjih</hi>. Kakor za <hi rend="italic">znanost</hi> velja to tudi <hi rend="italic">za umetnost
                   (leposlovje)</hi>.</p>
                <p>Želimo si, da izgine vse slabo in nepravično ne le na drugih straneh, ampak da
                   izvajamo to reformo predvsem v svojih vrstah z največjo brezobzirnostjo, pri tem
@@ -259,12 +310,14 @@
                <head>II.</head>
                <head>Naše filozofično stališče nasproti liberalizmu, klerikalizmu in socialni
                   demokraciji.</head>
-               <docAuthor>Poročal <hi rend="italic"><persName>Dragotin
-                  Lončar</persName></hi></docAuthor>
-               <docDate> na zaupnem shodu v <placeName>Ljubljani</placeName><lb/> dne <date
-                     when="1900-09-12">12. septembra 1900</date>.</docDate>
-               <p>Za nami je večstoleten razvoj. V srednjem veku vlada <hi rend="italic"
-                     >univerzalizem</hi>, to je, da velja le celota; poedinec, individuum kot tak
+               <docAuthor>Poročal <hi rend="italic">
+                     <persName>Dragotin
+                  Lončar</persName>
+                  </hi>
+               </docAuthor>
+               <docDate> na zaupnem shodu v <placeName>Ljubljani</placeName>
+                  <lb/> dne <date when="1900-09-12">12. septembra 1900</date>.</docDate>
+               <p>Za nami je večstoleten razvoj. V srednjem veku vlada <hi rend="italic">univerzalizem</hi>, to je, da velja le celota; poedinec, individuum kot tak
                   nima pravic. Posameznik je vezan na cerkev kot tedanji vsemogočni organizem, vazal
                   na svojega fevdnika, rokodelec je zavisen od ceha, znanost od dogme, pesnik mora
                   pesniti tako, kakor mu določajo predpisi, takozvana tabulatura.</p>
@@ -278,17 +331,17 @@
                   Novejša filozofija stavi lastni <term>jaz</term> kot središče in izhodišče vsemu
                   umovanju. Srednjeveško idejo o univerzalni monarhiji izpodrinejo samostojne
                   narodne (nacionalne) države z individualističnim despotizmom, a v francoski
-                  revoluciji se uresničuje suvereniteta individuov, ki tvorijo državo.<note
-                     place="foot">Prim. <bibl><persName>Ziegler</persName>
+                  revoluciji se uresničuje suvereniteta individuov, ki tvorijo državo.<note place="foot">Prim. <bibl>
+                        <persName>Ziegler</persName>
                         <title>Die soziale Frage eine sittliche Frage</title>
                            (<placeName>Štutgart</placeName>
-                        <date when="1891">1891</date>)</bibl>.</note></p>
+                        <date when="1891">1891</date>)</bibl>.</note>
+               </p>
                <p>To je v kratkem zgodovina, kako se je razvijal človeški duh od srednjeveškega
                   univerzalizma pa do te stopinje zmagoslavnega individualizma, na kateri smo
                   sedaj.</p>
                <p>Boj proti cerkvenemu in državnemu univerzalizmu za svobodo in pravice posameznika,
-                  individua kot takega, da se reši institucij, ki so omejevale njegov razvoj – <hi
-                     rend="italic">individualizem</hi>, izhaja iz premis t. zv. prirodnega prava, po
+                  individua kot takega, da se reši institucij, ki so omejevale njegov razvoj – <hi rend="italic">individualizem</hi>, izhaja iz premis t. zv. prirodnega prava, po
                   katerem ima vsak posameznik po svoji naravi pravico do svobodnega razvoja. Svobodo
                   individua omejuje le svoboda drugega individua. Družba je vsota individuov, ki so
                   le delci, atomi, drug drugemu bistveno enaki z enakimi pravicami, sicer pa med
@@ -300,10 +353,12 @@
                   družba, država so le sredstva, služeča temu individuu. Blaginja individua je v
                   individuu samem.</p>
                <p>Do tega svetovnega naziranja je privel zlasti napredek filozofije <date>XVII. in
-                     XVIII. stoletja</date>. Bili so to glavno angleški filozofi <persName><choice>
+                     XVIII. stoletja</date>. Bili so to glavno angleški filozofi <persName>
+                     <choice>
                         <sic>Baco</sic>
                         <corr>Bacon</corr>
-                     </choice></persName>, <persName>Hobbes</persName>, <persName>Locke</persName>
+                     </choice>
+                  </persName>, <persName>Hobbes</persName>, <persName>Locke</persName>
                   in <persName>Hume</persName>. Odtod so prišli ti nazori v <date>XVIII.
                      stoletju</date> na <placeName>Francosko</placeName>, kjer so našli rodovitna
                   tla pri enciklopedistih, ki so jih dalje predelavali.</p>
@@ -337,10 +392,12 @@
                   razuma. Ta razvoj je dosegel svoj vrhunec v <date>XVIII. stoletju</date>, v dobi
                   t. zv. razsvetljenega absolutizma. Splošno je pričakovalo človeštvo, da ga spasi
                   razum (ratio). Nadejalo se je, da ga privede razum, izobrazba razuma do največje
-                  sreče. Prvi misleci tega časa (<persName>Descartes</persName>, <persName><choice>
+                  sreče. Prvi misleci tega časa (<persName>Descartes</persName>, <persName>
+                     <choice>
                         <sic>Baco</sic>
                         <corr>Bacon</corr>
-                     </choice></persName>, <persName>Leibniz</persName>) se udajajo krasnim sanjam,
+                     </choice>
+                  </persName>, <persName>Leibniz</persName>) se udajajo krasnim sanjam,
                   kako zavlada človeški razum nad naravo in nje silami, kako jo ima popolnoma v
                   svoji oblasti in kako si človek zopet pridobiva na zemlji izgubljeni raj. Ljudstvo
                   se klanja razumu, francoska revolucija postavlja na božji sedež – boginjo razuma.
@@ -351,9 +408,11 @@
                <p>To gibanje, ta racionalizem je aristokratično, neljudsko gibanje, nenarodno v
                   širšem pomenu besede. Ljudstvu se mečejo le drobtinice prosvete in pravic, šele
                   polagoma prihaja ono do večje veljave.<note place="foot">Prim.
-                           <bibl><persName>Drtina</persName>
+                           <bibl>
+                        <persName>Drtina</persName>
                         <title>Ideály výchovy</title> (<placeName>Praga</placeName>
-                        <date>1900</date>)</bibl>.</note></p>
+                        <date>1900</date>)</bibl>.</note>
+               </p>
                <p>Nadeje racionalizma so se izjalovile. Pokazalo se je, da razum sam, izobrazba
                   samega razuma ne pripelje do zaželene sreče in blaginje, ampak da je razum samo
                   del naše osebnosti. Poleg razuma imamo še čut in voljo kot enakopravna činitelja
@@ -373,14 +432,16 @@
                      <persName>Voltairu</persName>, ki je bil nasprotnik doslednih mislecev.</p>
                <p>Klasična priča tega vulgarnega liberalizma je n. pr.
                      <persName>Jungmann</persName>,<note place="foot">Glej
-                           <bibl><persName>Masaryk</persName>
+                           <bibl>
+                        <persName>Masaryk</persName>
                         <title>Češká otázka</title> (<placeName>Praga</placeName>
                         <date when="1895">1895</date>), str. 122</bibl>.</note> zaslužni češki
                   pisatelj, s svojim izrekom iz <persName>Voltaira</persName>: <said>Jaz ne verujem
                      v hudiča, toda vesel sem, da veruje vanj moj krojač, me vsaj ne okrade</said>.
                   Posledica te indiferentnosti je naraščanje klerikalizma, ki ima v religiji močno
                   oporo proti liberalizmu.</p>
-               <p><hi rend="italic">Klerikalizem je glavni naš filozofični nasprotnik</hi>. To je
+               <p>
+                  <hi rend="italic">Klerikalizem je glavni naš filozofični nasprotnik</hi>. To je
                   socialno-politično izrabljanje religije v osebne namene, skrb za cerkev, ki duši
                   pravo in resnično pobožnost.</p>
                <p>Razločujemo med religijo in klerikalizmom. Nasproti indiferentnemu liberalizmu in
@@ -394,7 +455,9 @@
                   življenju in naravi, do katerih smo prišli sami, ali pa smo jih vzprejeli z
                   odgojo; skupino čustev, ki jih vzbuja v nas pogled na svet, in skupino teženj in
                   dolžnosti, s katerimi mislimo zadoščati svoji nalogi na svetu – vse te misli,
-                  čustva in težnje v enotnem sistemu.<note place="foot"><bibl><persName>F. V.
+                  čustva in težnje v enotnem sistemu.<note place="foot">
+                     <bibl>
+                        <persName>F. V.
                            Krejčí</persName>
                         <title>Jak vznikal moderní názor světový</title>«, stran 1</bibl>.</note>
                   Takega enotnega svetovnega nazora, kakor je bil n. pr. srednjeveški, doslej še
@@ -407,8 +470,7 @@
                <p>Slišim, kako me povprašujete, kaj pa med tem časom, dokler nimamo tega enotnega
                   modernega svetovnega naziranja? Ali naj človeštvo mirno čaka, držé križem
                   roke?</p>
-               <p>Na to odgovarjam: Razvoj sam nam kaže pot, po kateri speje<note place="foot"
-                     source="#SourceBornDigital">Vodi.</note> človeštvo k svojemu verskemu in
+               <p>Na to odgovarjam: Razvoj sam nam kaže pot, po kateri speje<note place="foot" source="#SourceBornDigital">Vodi.</note> človeštvo k svojemu verskemu in
                   nravnemu preporodu. Ljudstvo spoznava omejenost svojega razuma, opušča
                   racionalizem in začenja ocenjevati pomen religije. Vračamo se iznova h krščanstvu
                   in njegovim vzvišenim idealom.</p>
@@ -422,8 +484,8 @@
                   živeti, da bo dobro, da bo manj hudega na svetu a več dobrega. In ta zmisel
                   življenja vidi moderni človek v <persName>Kristovi</persName> morali, ki naj
                   preide iz knjig in propovednic naravnost v življenje, da beseda postane telo,
-                  meso, kakor pravi lepo prof. <persName>Drtina</persName>.<note place="foot"
-                        ><bibl>I. c. str. 29</bibl>.</note>
+                  meso, kakor pravi lepo prof. <persName>Drtina</persName>.<note place="foot">
+                     <bibl>I. c. str. 29</bibl>.</note>
                   <persName>Tolstoj</persName> vidi v tem pravo bogoslužbo in pravo religijo.</p>
                <p>Tu imamo smer, v kateri se sedaj rešuje versko vprašanje. In to vprašanje moramo
                   rešiti narodi kakor tudi vsak omikani posameznik. Verski problem še davno ni
@@ -447,7 +509,8 @@
                <p>Uspešno se moremo bojevati proti klerikalizmu le, ako smo si ustvarili svoje
                   pozitivno versko in etično naziranje o življenju.</p>
                <p>Preostaja mi še, da povem naše mnenje o socializmu in socialni demokraciji.</p>
-               <p><hi rend="italic">Socializem je nasprotna smer individualizmu</hi>. Nasproti
+               <p>
+                  <hi rend="italic">Socializem je nasprotna smer individualizmu</hi>. Nasproti
                   individualizmu poudarja socializem celoto in vidi le v nji blaginjo. Individuum
                   podreja celoti, individuu pripušča toliko svobode, kolikor se strinja s svobodo
                   celote. V socializmu se omejuje svoboda posameznika na korist celoti. Socializem
@@ -460,21 +523,22 @@
                      odpraviti</hi>.</p>
                <p>Danes je vprašanje socializma socialno vprašanje, to je: socialno vprašanje se
                   rešuje zlasti v obliki socializma. Socializem je pa glavno marksizem, to so nauki
-                     <persName>Marxa</persName>, na katerih sloni socialna demokracija. <hi
-                     rend="italic">Socializem je v našem času marksizem</hi>.</p>
+                     <persName>Marxa</persName>, na katerih sloni socialna demokracija. <hi rend="italic">Socializem je v našem času marksizem</hi>.</p>
                <p>Socializem in zlasti marksizem je filozofičen sistem. Marksizem ni samo vprašanje
                   želodca, ni samo narodnogospodarsko vprašanje, dasi se obravnava predvsem
                   narodnogospodarski. Socializem je novo svetovno naziranje, ki nas sili s svojo
                   prakso in teorijo, da pregledamo svojo filozofijo in svoje življenje. Rodi se tu
                   nekaj novega, ki hoče izpodriniti staro. Menda pač zasluži, da si ta novum bliže
                   ogledamo.</p>
-               <p><hi rend="italic">Filozofični temelj, na katerem sloni socialna demokracija, je
+               <p>
+                  <hi rend="italic">Filozofični temelj, na katerem sloni socialna demokracija, je
                      materializem, t. zv. historični materializem, ki uči</hi>, da so gospodarske,
                   proizvajalne (produkcijske) razmere najvažnejše, da one stvarjajo zgodovino in da
                   se filozofični, verski, pravniški itd. nazori zidajo le na gospodarskem temelju.
                   Ideje ne dajejo nobene smeri, ker vplivajo vselej gospodarske razmere na postanek
                   idej.</p>
-               <p><hi rend="italic">Materializma ne vzprejemamo</hi> in nismo mnenja, da bi
+               <p>
+                  <hi rend="italic">Materializma ne vzprejemamo</hi> in nismo mnenja, da bi
                   izključno gospodarske razmere odločevale, dasi moramo <persName>Marxu</persName>
                   priznati zaslugo, da nam je pokazal, kako moramo pravilnejše in popolnejše umevati
                   razvoj človeštva, ker gospodarski faktor se je doslej zanemarjal pri razlaganju
@@ -487,12 +551,14 @@
                   materializma niso nič boljši ljudje, dostikrat še veliko slabši, ako gledamo na
                   dejanja in življenje, in ne samo na vero in besede. Ko bi mi protimaterialisti
                   živeli v resnici nematerialistično, bi se delavstvo in socialna demokracija ne
-                  oklepala materializma.<note place="foot"><bibl><title>Češká otázka</title>, str.
-                        227</bibl>.</note></p>
+                  oklepala materializma.<note place="foot">
+                     <bibl>
+                        <title>Češká otázka</title>, str.
+                        227</bibl>.</note>
+               </p>
                <p>To so odkrite in resnične besede.</p>
                <p>S tega stališča nimamo prav nobenega povoda, da bi nasprotovali zahtevam
-                  pravičnosti, in naj to zahteva kdorkoli in v imenu kakršnihkoli načel. <hi
-                     rend="italic">In večina političnih in socialnih zahtev socialne demokracije je
+                  pravičnosti, in naj to zahteva kdorkoli in v imenu kakršnihkoli načel. <hi rend="italic">In večina političnih in socialnih zahtev socialne demokracije je
                      pravična, zato čutimo naravnost moralno dolžnost, da jih po svojih močeh
                      podpiramo, kolikor seveda dijak more storiti, glavno s tem, da širimo zanimanje
                      za ta vprašanja in njih umevanje</hi>. Tu priznavamo, da se je klerikalizem v
@@ -501,13 +567,18 @@
                   je nenarodna in breznarodna. <hi rend="italic">Socialna demokracija je mednarodna,
                      to je res, ker mednarodno je organizovan kapital, in boj proti mednarodnemu
                      kapitalu mora biti mednaroden</hi>.</p>
-               <p><persName>Laveleye</persName><note place="foot"><bibl><title>Der Sozialismus der
+               <p>
+                  <persName>Laveleye</persName>
+                  <note place="foot">
+                     <bibl>
+                        <title>Der Sozialismus der
                            Gegenwart</title> (nemški prevod), str. 168</bibl>.</note> pravi:
                      <quote>Ali ni dandanes vse mednarodno? Ali nimamo mednarodnih razstav,
                      mednarodnih kreditnih bank, mednarodnih poštnih, telegrafičnih, železničnih
                      tarifov? Ali nimamo mednarodnih pogodeb glede predaje zločincev, o trgovskem
                      pravu, o posebnih navadah ob vojni, o valuti? Ali ni brezštevilno mednarodnih
-                     finančnih družeb?</quote></p>
+                     finančnih družeb?</quote>
+               </p>
                <p>Vsi drugi stanovi se smejo mednarodno združevati v varstvo svojih interesov,
                   delavci bi se pa ne smeli? Mednarodnost pomenja odstranitev narodnih ovir, ki
                   zabranjujejo polni razvoj. Priznavamo v socialistični mednarodnosti ugodni
@@ -534,8 +605,10 @@
                   avstrijske socialne demokracije v <placeName>Brnu</placeName>
                   <date when="1899">1899</date>. l., kjer so določno formulirali svoj narodnostni
                   program.</p>
-               <p><hi rend="italic">Danes vlada v marksizmu kriza</hi>.<note place="foot">O tem
-                     zlasti <bibl><persName>Masaryk</persName>
+               <p>
+                  <hi rend="italic">Danes vlada v marksizmu kriza</hi>.<note place="foot">O tem
+                     zlasti <bibl>
+                        <persName>Masaryk</persName>
                         <title>Otázka sociálni</title> (<placeName>Praga</placeName>
                         <date when="1898">1898</date>)</bibl>.</note> Majejo se filozofični temelji
                   socialne demokracije. To priznavajo socialni demokratje sami. Opuščajo historični
@@ -570,9 +643,13 @@
                <head>III.</head>
                <head>Ideali vzgoje.</head>
                <docAuthor>Napisal <hi rend="italic">prof. dr. <persName>Fr.
-                  Drtina</persName></hi>.</docAuthor>
-               <p>Z dovoljenjem pisateljevim prevel <hi rend="italic"><placeName>Dragotin
-                        Lončar</placeName></hi>.<note place="foot"><hi rend="italic">Opomba
+                  Drtina</persName>
+                  </hi>.</docAuthor>
+               <p>Z dovoljenjem pisateljevim prevel <hi rend="italic">
+                     <placeName>Dragotin
+                        Lončar</placeName>
+                  </hi>.<note place="foot">
+                     <hi rend="italic">Opomba
                         prelagateljeva</hi>. Dr. <persName>Fr. Drtina</persName> je profesor
                      filozofije in pedagogike na <orgName>češki univerzi</orgName> v <placeName>Pragi</placeName>.
                      Podrobneje je proučaval francosko šolstvo, v filozofiji pa je zlasti znan kot
@@ -580,7 +657,8 @@
                      je sourednik filozofičnega lista <title>Češká Mysl</title>. Spis <title>Ideali
                         vzgoje</title> je priobčeval v <title>Času</title> dnevniku čeških
                      realistov, in ga izdal tudi v posebni knjižici. Slovenski prevod se tesno
-                     oklepa izvirnika, nič ni dodanega, pa tudi nič izpuščenega.</note></p>
+                     oklepa izvirnika, nič ni dodanega, pa tudi nič izpuščenega.</note>
+               </p>
                <p>Vzgoja mladine zagotavlja in določuje prihodnjost naroda. Zato se mora previdna
                   politika posebno skrbno pečati z vzgojevalnimi in šolskimi vprašanji. Izobrazba
                   izumirajočega pokoljenja se po vzgoji izroča mlajšemu pokoljenju in se mu daje s
@@ -614,8 +692,7 @@
                            (<foreign>agathon</foreign>), da bi bile i njegove duševne lastnosti
                         vsestransko razvite in bi bil on zmožen vrlo izpolnjevati svojo nalogo v
                         družini, občini in državi. V soglasju s tem idealom sta bila dva temeljna
-                        dela grške vzgoje, <hi rend="italic">gimnastično</hi> (telesno) in <hi
-                           rend="italic">muzično</hi> (duševno) vzgojevanje. Jako važna posebnost
+                        dela grške vzgoje, <hi rend="italic">gimnastično</hi> (telesno) in <hi rend="italic">muzično</hi> (duševno) vzgojevanje. Jako važna posebnost
                         grške vzgoje, kakor se nam zlasti kaže v <placeName>Atenah</placeName> in
                            <placeName>Sparti</placeName>, pozneje pa v <placeName>Rimu</placeName>,
                         je ta, da je vzgoja izključno v rokah <hi rend="italic">države</hi>. V tem
@@ -629,8 +706,7 @@
                         vsemogočnost grške države se javlja zlasti v <placeName>Sparti</placeName>,
                         dasi tudi v <placeName>Atenah</placeName>. Ta znak, da je vzgoja državna
                         stvar, in da se mora mladina izobraževati z ozirom na potrebe države,
-                        določuje smer grški pedagogiki in je zelo soroden modernim podagogičnim<note
-                           place="foot" source="#SourceBornDigital">Pedagogičnim.</note>
+                        določuje smer grški pedagogiki in je zelo soroden modernim podagogičnim<note place="foot" source="#SourceBornDigital">Pedagogičnim.</note>
                         idealom.</p>
                      <p>Ozreti pa se moramo na dvoje različnih znakov staroveške vzgoje, ki sta v
                         nasprotju z modernimi razmerami. Staroveška vzgoja se je tikala v prvi vrsti
@@ -639,19 +715,19 @@
                         tudi v družini; bila je pod oblastjo moža in omejena v svoji delavnosti na
                         domača dela, stanovala je v prostorih zanjo odkazanih
                            (<foreign>gynaikeion</foreign>), podobno kakor so doslej zaprte
-                           moslemske<note place="foot" source="#SourceBornDigital"
-                           >Muslimanske.</note> žene v haremih.</p>
-                     <p>Poleg tega se je ozirala staroveška vzgoja le na <hi rend="italic"
-                           >polnopravne državljane</hi>, dočim so velike množice rokodelskega in
+                           moslemske<note place="foot" source="#SourceBornDigital">Muslimanske.</note> žene v haremih.</p>
+                     <p>Poleg tega se je ozirala staroveška vzgoja le na <hi rend="italic">polnopravne državljane</hi>, dočim so velike množice rokodelskega in
                         poljedelskega ljudstva ječale v suženjstvu brez pričakovanja, da bi se mogle
                         vsaj količkaj izobraziti. Suženj je bil popolnoma ločen od duševnega dela,
                         podjarmljen za grudo in navezan na žuljevo delo svojih rok. Gospodar ga je
                         imel le za poduševnjeno imetje.</p>
-                     <p><persName>Aristoteles</persName>, ki dokazuje upravičenost suženjstva iz
+                     <p>
+                        <persName>Aristoteles</persName>, ki dokazuje upravičenost suženjstva iz
                         ljudske prirojenosti, naravnost zahteva, da bi otroci državljanov ne
                         občevali mnogo s sužnji, – da ne bi posuroveli. Tako je pri največjem
                         razvoju grškega demokratizma grška vzgoja vedno – aristokratična.</p>
-                     <p><hi rend="italic">Krščanstvo</hi> je, kakor se je dovršilo v srednjeveški
+                     <p>
+                        <hi rend="italic">Krščanstvo</hi> je, kakor se je dovršilo v srednjeveški
                         kulturi, glede vzgoje v popolnem nasprotju s staroveško kulturo, zlasti
                         grško. Ako je bila ta naturalistična, je celi krščanski svetovni in
                         življenski nazor <hi rend="italic">supranaturalističen</hi>. Krščanstvo je
@@ -661,11 +737,9 @@
                         morimo. Ideal krščanskega zemeljskega življenja je, preroditi se v duhu in
                         resnici, izpremeniti se v novega človeka, čisto duševnega, višjega, ki je v
                         popolnem nasprotju s prirodnim, telesnim človekom.</p>
-                     <p>Nasproti staroveškemu življenskemu in vzgojevalnemu idealu <hi rend="italic"
-                           >popolnosti</hi>, ki spaja prirodno krasno z dobrim, stavi krščanstvo
+                     <p>Nasproti staroveškemu življenskemu in vzgojevalnemu idealu <hi rend="italic">popolnosti</hi>, ki spaja prirodno krasno z dobrim, stavi krščanstvo
                         ideal <hi rend="italic">svetega</hi> življenja kot pripravo za smrt in pravo
-                        nadnaravno življenje. Ideal srednjeveškega krščanstva je <hi rend="italic"
-                           >svetost</hi>, pot k temu idealu je <hi rend="italic">pobožno
+                        nadnaravno življenje. Ideal srednjeveškega krščanstva je <hi rend="italic">svetost</hi>, pot k temu idealu je <hi rend="italic">pobožno
                            življenje</hi>.</p>
                      <p>To nasprotje temeljnega nazora se kaže i v daljšem: Grki so vzgajali svojo
                         mladino v prirodi, v gimnazijih in palestrah, obklopljenih z zelenjem in
@@ -692,11 +766,15 @@
                         vek. Pod pokroviteljstvom <orgName>cerkve</orgName> so nastale <hi rend="italic">samostanske in
                            katedralne</hi> (pri škofovskih stolicah) šole, obojih namen pa je bil v
                         prvi vrsti, vzgajati popolne duhovnike, v drugi vrsti šele zunanje
-                        posvetnjake. Zato je bil važen razloček med <hi rend="italic"
-                              ><foreign>schola interior</foreign></hi> za duhovnike in <hi
-                           rend="italic"><foreign>schola exterior</foreign></hi> za posvetnjake,
+                        posvetnjake. Zato je bil važen razloček med <hi rend="italic">
+                           <foreign>schola interior</foreign>
+                        </hi> za duhovnike in <hi rend="italic">
+                           <foreign>schola exterior</foreign>
+                        </hi> za posvetnjake,
                         hrepeneče po izobrazbi. Ideal vzgoje srednjeveškega krščanstva je označil
-                           <hi rend="italic"><persName>Rabanus Maurus</persName></hi> v <date>9.
+                           <hi rend="italic">
+                           <persName>Rabanus Maurus</persName>
+                        </hi> v <date>9.
                            stol.</date> kot polnost bogoslovskega znanja (<foreign>scientiae
                            plenitudo</foreign>), pravo življenje (<foreign>vitae
                         rectitudo</foreign>) in izobrazbo v posvetnih znanostih
@@ -707,19 +785,19 @@
                   <div>
                      <head>II.</head>
                      <p>Krščanstvo pri vzgojevanju ni delovalo samo negativno s svojim
-                        supranaturalizmom, ampak tudi pozitivno s zapovedjo dejanske <hi
-                           rend="italic">ljubezni k bližnjemu</hi>. Zavest enakosti in bratovstva
+                        supranaturalizmom, ampak tudi pozitivno s zapovedjo dejanske <hi rend="italic">ljubezni k bližnjemu</hi>. Zavest enakosti in bratovstva
                         vseh ljudi, odkupljenih s krvjo Kristovo je začela prodirati med evropsko
                         ljudstvo in si prizadevala, čeprav jako polagoma in nepopolno, da poravna
                         nenaravna družabna nasprotstva in nesoglasje. Ideal krščanske popolnosti je
                         bil vedno zelo oddaljen od pravih razmer, v katerih je srednjeveško ljudstvo
                         živelo. Zato tudi v srednjem veku nista bili odstranjeni oni dve omenjeni
                         hibi grške vzgoje.</p>
-                     <p><hi rend="italic">Suženjstvo</hi> se je zlajšalo – toda v izpremenjeni
-                        obliki je trajalo dalje, in cerkvena vzgoja se je tikala vedno le <hi
-                           rend="italic">neznatnega dela ljudstva</hi> – brezštevilne množice
-                        podjarmljenega človeštva je niso bile deležne. <hi rend="italic"
-                              ><persName>Karol Veliki</persName></hi> je sicer mislil na enotno
+                     <p>
+                        <hi rend="italic">Suženjstvo</hi> se je zlajšalo – toda v izpremenjeni
+                        obliki je trajalo dalje, in cerkvena vzgoja se je tikala vedno le <hi rend="italic">neznatnega dela ljudstva</hi> – brezštevilne množice
+                        podjarmljenega človeštva je niso bile deležne. <hi rend="italic">
+                           <persName>Karol Veliki</persName>
+                        </hi> je sicer mislil na enotno
                         narodno šolstvo, ki bi bilo seveda pod cerkvenim nadzorstvom in širilo
                         elementarno izobrazbo v vse sloje – toda <orgName>cerkev</orgName> ni porabila njegove misli.
                         Krščanstvo je povzdignilo <hi rend="italic">položaj žene</hi> v družinskem
@@ -732,8 +810,7 @@
                         ženah omejevala le na one plemenitega rodu, izmed katerih so se mnoge v
                         samostanskih šolah v tedanjem pomenu znanstveno izobrazile, da, naučile so
                         se i latinske verze delati.</p>
-                     <p>Petnajsto in šestnajsto stoletje nam je prineslo nov vzgojevalni ideal. <hi
-                           rend="italic">Renesanca in reformacija</hi>, oboje gibanje izprva
+                     <p>Petnajsto in šestnajsto stoletje nam je prineslo nov vzgojevalni ideal. <hi rend="italic">Renesanca in reformacija</hi>, oboje gibanje izprva
                         namerjeno drugo proti drugemu, nasprotno si po svojem postanku in razvoju,
                         vendar na konec enakomerno in složno izdelujeta nov kulturni tip in s tem
                         znatno vplivata tudi na nazore, kako se naj vzgaja.</p>
@@ -745,8 +822,7 @@
                         ustvarja ideja <hi rend="italic">modernega človeka</hi>, ki si na temelju
                         spojenega starega veka in krščanstva ureja svoje nazore in svoje
                         življenje.</p>
-                     <p>Moderni človek se vrača zopet k staroveškemu <hi rend="italic"
-                           >naturalizmu</hi>, katerega zvišuje s tem, da poudarja izključno
+                     <p>Moderni človek se vrača zopet k staroveškemu <hi rend="italic">naturalizmu</hi>, katerega zvišuje s tem, da poudarja izključno
                         poedinca, toda skuša s tem naturalizmom združiti v enotno, organično celoto
                            <hi rend="italic">pozitivno stran krščanstva</hi> – dejansko ljubezen do
                         bližnjega. Moderni človek ne živi za nebesa, ampak za ta svet in na tem
@@ -756,27 +832,30 @@
                      <p>Renesanca in zlasti humanizem povzročita, da se evropsko ljudstvo sicer
                         obrača k idealu staroveškega človeka, toda zadovoljuje se le z formalno
                         stranjo in proglaša za vzgojevalni cilj nastajajoče nove dobe nesamostojno
-                        posnemanje latinske besedne izvežbanosti <hi rend="italic"
-                              >(<foreign>eloquentia</foreign>)</hi> poleg stvarne izobrazbe <hi
-                           rend="italic">(<foreign>sapientia</foreign>)</hi>, kolikor se je da
+                        posnemanje latinske besedne izvežbanosti <hi rend="italic">(<foreign>eloquentia</foreign>)</hi> poleg stvarne izobrazbe <hi rend="italic">(<foreign>sapientia</foreign>)</hi>, kolikor se je da
                         pridobiti pri staroveških pisateljih. V istem času pa skuša reformacija
                         uveljavljati krščanski ideal (<foreign>pietas</foreign>), in tako se oboje
                         sodobno gibanje ujema v enotnem vzgojevalnem idealu, ki naj velja za prvi
                         svit nove dobe in katerega je označil <persName>Sturm</persName> z besedami
-                           <hi rend="italic"><foreign>sapiens atque eloquens pietas</foreign></hi>
+                           <hi rend="italic">
+                           <foreign>sapiens atque eloquens pietas</foreign>
+                        </hi>
                         (modra in zgovorna pobožnost).</p>
                      <p>Krščanski živelj, ki prodira v reformaciji, pa si obenem prizadeva, da bi se
                         odstranili nedostatki staroveškega vzgojevalnega ideala, to je, da bi bila
                         predvsem izobrazba pristopna najširšim vrstam. Prvi širitelj misli o
-                        narodnem šolstvu v novi dobi je <hi rend="italic"
-                              ><persName>Luther</persName></hi>, ki v svoji znani poslanici županom
+                        narodnem šolstvu v novi dobi je <hi rend="italic">
+                           <persName>Luther</persName>
+                        </hi>, ki v svoji znani poslanici županom
                         in svetovalcem nemških mest zahteva šol za vse sloje ljudstva obojega spola
                         (torej ne le za izobrazbo duhovščine), on hoče, da bi se pri teh šolah
                         ustanavljale knjižnice, glavno pa to, da bi posvetna gosposka skrbela za te
                         šole, ki bi potem ne bile pod cerkvenim nadzorstvom.</p>
                      <p>O tem, kako se je začelo priznavati, da je treba nujno enakomerno vzgajati
-                        deklice, imamo jasen dokaz v teh besedah našega <hi rend="italic"
-                              ><persName>Komenskega</persName></hi> (<bibl><title>Didaktika</title>,
+                        deklice, imamo jasen dokaz v teh besedah našega <hi rend="italic">
+                           <persName>Komenskega</persName>
+                        </hi> (<bibl>
+                           <title>Didaktika</title>,
                            češka IX.</bibl>): <quote>Tudi ni nobenega vzroka, zakaj bi se moral
                            ženski spol … ločiti od umetnosti jezikov in od modrosti. Kajti one so
                            enaki ljudje, božji obraz, kakor mi, enako udeležnice milosti in
@@ -787,7 +866,8 @@
                            in knezom posebne svete, istotako k zdravniški umetnosti in v odpomoč
                            ljudem, da še več, tudi k proroški službi, k temu, da se po njih
                            poučujejo in kaznujejo duhovniki in škofje itd.). Zakaj naj bi se učile
-                           le abecede, a dalje potem naj bi jih podili od knjig?</quote></p>
+                           le abecede, a dalje potem naj bi jih podili od knjig?</quote>
+                     </p>
                      <p>Sedaj nastaja jako veselo gibanje. Višje, učene šole se ustanavljajo in
                         urejajo v zmislu humanitnega ideala kakor v protestantovskih deželah
                            (<persName>Melanchton</persName>, <persName>Sturm</persName>), tako v
@@ -806,11 +886,9 @@
                         določbe, da se mora pri učenju postopati od prostega k sestavljenemu, od
                         prejšnjega k naslednjemu, od vzrokov k posledicam, od stvari k pravilom.
                         Zlasti pri jezikoslovnem pouku pomenjajo ta pravila znaten napredek. Obenem
-                        pa zahteva z naraščajočo zavestjo modernih narodov <hi rend="italic"
-                           >materinski</hi> jezik pravico, da bi bil središče vse šolske izobrazbe
+                        pa zahteva z naraščajočo zavestjo modernih narodov <hi rend="italic">materinski</hi> jezik pravico, da bi bil središče vse šolske izobrazbe
                         in naravno sredstvo za učenje kakršnihkoli tujih jezikov.</p>
-                     <p>Tako se nam že sedaj kaže <hi rend="italic">realizem</hi> in <hi
-                           rend="italic">nacionalizem</hi> kot znak modernega vzgojeval-nega
+                     <p>Tako se nam že sedaj kaže <hi rend="italic">realizem</hi> in <hi rend="italic">nacionalizem</hi> kot znak modernega vzgojeval-nega
                         ideala.</p>
                      <p>Poseben značaj svoje vrste ima vzgojevalni ideal v<date> 18. in 19.
                            stoletju</date>.</p>
@@ -830,8 +908,7 @@
                         zopet na zemlji zadostni cilj življenskega prizadevanja in se vrača k
                         staroveškemu idealu, le da je ta ideal poplemenitila in povzdignila
                         krščanska ljubezen.</p>
-                     <p>Namesto <orgName>cerkve</orgName> kot vzgojevalnega organa nastopa polagoma <hi rend="italic"
-                           >država</hi>. Ta ustanavlja in vzdržuje šole raznih stopinj ter določuje
+                     <p>Namesto <orgName>cerkve</orgName> kot vzgojevalnega organa nastopa polagoma <hi rend="italic">država</hi>. Ta ustanavlja in vzdržuje šole raznih stopinj ter določuje
                         učne predmete in smer učenja.</p>
                      <p>Naturalistično naziranje sveta in človeškega življenja prihaja zopet na
                         površje. S to izpremembo je v zvezi tudi to, da polagoma izginja nezaupanje
@@ -870,8 +947,7 @@
                         in znanstveno delo sta imela vedno izključno teoretični značaj; namen, ki
                         sta mu služila, je bil bolj estetičen, polnopravni državljan je s tem
                         plemenito in prijetno izpolnjeval prosti čas svojega življenja –
-                        razsvetljenost nove dobe pa ima nasproti temu od začetka <hi rend="italic"
-                           >praktični</hi> značaj in cilj. Prevladati naravo, popolnoma uporabiti
+                        razsvetljenost nove dobe pa ima nasproti temu od začetka <hi rend="italic">praktični</hi> značaj in cilj. Prevladati naravo, popolnoma uporabiti
                         vse sile, ki jih ona človeku podaja, s tehničnimi iznajdbami in odkritji
                         lajšati in slajšati pozemeljsko bivanje, to je zadnji namen moderne vede. In
                         minoli vek se je udajal sladkim sanjam, da ta namen ljudstvo gotovo doseže,
@@ -880,24 +956,33 @@
                      <p>Prvi misleci te nove dobe so navdušeni proroki baje krasnejše prihodnosti,
                         in njih glasovi naravno določujejo smer novo stvarjajočemu se vzgojevalnemu
                         idealu, ki je v soglasju s celim kulturnim značajem.</p>
-                     <p><hi rend="italic"><persName>Descartes</persName></hi> podaje na konci svoje
+                     <p>
+                        <hi rend="italic">
+                           <persName>Descartes</persName>
+                        </hi> podaje na konci svoje
                         razprave o metodi nekako kulturno sliko takega človeka bodočnosti, človeka,
                         ki vlada neomejeno nad vsemi življi in nad celo naravo, ki je s svojo
                         popolno zdravniško umetnostjo neomejen gospodar svojega zdravja, ki si s
                         krepostjo in moralno popolnostjo pridobiva popolno blaženost v pozemeljskem
                         življenju, ki ne umira v bolečinah, ampak mirno zaspi v visoki starosti.</p>
-                     <p><hi rend="italic"><persName>Bacon</persName></hi> se zlasti v svoji krasni
-                        utopiji <hi rend="italic"><title>Nova Atlantis</title></hi> udaja
+                     <p>
+                        <hi rend="italic">
+                           <persName>Bacon</persName>
+                        </hi> se zlasti v svoji krasni
+                        utopiji <hi rend="italic">
+                           <title>Nova Atlantis</title>
+                        </hi> udaja
                         najvabljivejšim nadejam o rajski blaženosti, ki jo more pridobiti človeku
                         razum. Tam podaja pozornosti vredno sliko o tem, kakšen bo položaj
                         človeštva, ko nas razum pripelje do vsevednosti in vsemogočnosti, in nam
                         kaže načrt vzgojevalnega sestava, kakršen bi se nekako ujemal z idealom
                         razsvetljenosti.</p>
-                     <p><persName>Bacon</persName> slika srečno ljudstvo, pri katerem cvete
+                     <p>
+                        <persName>Bacon</persName> slika srečno ljudstvo, pri katerem cvete
                         znanstveno delo. Ono živi na blaženem otoku daleč na zapadu, na novi
                            <placeName>Atlantidi</placeName>. Sredi tega otoka je prekrasen
-                        znanstveni in vzgojevalni zavod, <hi rend="italic"
-                              ><persName>Salomonova</persName> palača</hi>, kjer se ob enem
+                        znanstveni in vzgojevalni zavod, <hi rend="italic">
+                           <persName>Salomonova</persName> palača</hi>, kjer se ob enem
                         znanstveni poznatki aplikujejo na praktično življenje, kakor smo
                         omenjali.</p>
                      <p>Navajati morem le nekatere podrobnosti: v ogromnih pozemeljskih prostorih so
@@ -912,8 +997,9 @@
                         neskončno daljavo jasno videti in prenašati glasove na veliko oddaljenost;
                         posebna rajska voda vzdržuje svežost in zdravje prebivalcev in poljubno
                         podaljšuje človeško življenje.</p>
-                     <p>In ravnotako je bil prvi nemški mislec v tej dobi, <hi rend="italic"
-                              ><persName>Leibniz</persName></hi> navdušen proslavljalec razuma.
+                     <p>In ravnotako je bil prvi nemški mislec v tej dobi, <hi rend="italic">
+                           <persName>Leibniz</persName>
+                        </hi> navdušen proslavljalec razuma.
                         Prizadeval si je za enotno organizacijo znanstvenega dela v trdnem
                         prepričanju, da je razvoj časovnih dogodkov in napredek omike v zvezi z
                         razvojem znanstvenega spoznavanja. Po njegovih mislih je kulturni preporod
@@ -931,8 +1017,7 @@
                         jezik izobražencev raznih narodov izgublja ta monopol, je hotel izumiti
                         nekak skupni jezik z znaki (pasigrafia), kjer bi se določeni znanstveni
                         pojmi označevali z enakimi pismenimi znaki (kakor v algebri).</p>
-                     <p>Ni treba navajati daljših dokazov o značaju <hi rend="italic"
-                           >razsvetljenosti</hi>, kakor je dospela na vrhunec v <date>18.
+                     <p>Ni treba navajati daljših dokazov o značaju <hi rend="italic">razsvetljenosti</hi>, kakor je dospela na vrhunec v <date>18.
                            stoletju</date>.</p>
                      <p>Dejstvo je, da je moderni človek, prerojen po renesanci in reformaciji,
                         veroval v silno moč svojega razuma, videl naprej, kaj razum še iznajde, in
@@ -964,8 +1049,7 @@
                   </div>
                   <div>
                      <head>IV.</head>
-                     <p>Zanimivo je v <date>18. stoletju</date> razmerje sodobne kulture <hi
-                           rend="italic">h krščanski religiji</hi>. Krščanstvo je poleg antike (ki
+                     <p>Zanimivo je v <date>18. stoletju</date> razmerje sodobne kulture <hi rend="italic">h krščanski religiji</hi>. Krščanstvo je poleg antike (ki
                         jo je obnovila renesanca) drugi temeljni del vse moderne izobrazbe. Naravno
                         je bilo, da se je primerjalo krščanstvo s staroveškim svetovnim nazorom. Tu
                         se je pa videlo, da so se mnoge krščanske ideje že v grškem starem veku
@@ -979,21 +1063,22 @@
                         religiji baje obesila človeška neumnost, zvita preračunljivost duhovnikov in
                         vladeželjnost vladarjev, v soglasju z zahtevami razuma, da bo to religija,
                         ki se bo docela strinjala z razsvetljenim značajem cele dobe. Množe se
-                        spisi, ki dokazujejo <hi rend="italic"><soCalled>razumnost</soCalled>
+                        spisi, ki dokazujejo <hi rend="italic">
+                           <soCalled>razumnost</soCalled>
                            krščanstva</hi> in podajajo načrt te prirodne religije. To pravo, čisto
                         krščanstvo, prosto čudežev in skrivnosti, je bilo v dolgem cerkvenem razvoju
                         spojeno z interesi, ki so mu tuji, in je bilo pokvarjeno, šele
                         razsvetljenost – tako so si domišljali – je obnovila krščanstvo v prvotnem
                         njegovem jedru in določila preprosto, najvišjo njegovo zapoved: <q>Veruj v
-                           Boga in izpolnuj svojo dolžnost.</q></p>
+                           Boga in izpolnuj svojo dolžnost.</q>
+                     </p>
                      <p>Ravnotako se mora na umskem temelju zidati tudi <hi rend="italic">moderna
                            država</hi>, država razuma: ona naj nadomešča dosedanje historične
                         oblike, ki so že zastarele in preživele.</p>
                      <p>Dosedanja država je nastala slučajno, njena uredba ni bila premišljena, ni
                         se opirala o trdna umska načela.</p>
                      <p>Namen dobe je, da se odstranijo ravno ti nedostatki, ki se protivijo
-                        prirodnemu razumu. In država razuma se mora opirati o <hi rend="italic"
-                           >prirodno pravo</hi> človeka, ki postaja v zvezi z načeli francoske
+                        prirodnemu razumu. In država razuma se mora opirati o <hi rend="italic">prirodno pravo</hi> človeka, ki postaja v zvezi z načeli francoske
                         revolucije, z enakostjo in svobodo vseh posameznikov, temeljna dogma moderne
                         državne ustave. Razglasitev človeških prirodnih pravic z leta
                            <date when="1789">1789</date>. je najvažnejša izjava minolega stoletja, ki si
@@ -1008,8 +1093,12 @@
                         <date when="1791">1791</date>., nova era – prirodne vlade obožavanega razuma, ki prinese
                         človeštvu zaželeni raj.</p>
                      <p>Glavno dva moža sta se poprijela dela, da bi uresničila vzgojevalni ideal
-                        razsvetljene dobe, <hi rend="italic"><persName>Basedow</persName></hi> in
-                           <hi rend="italic"><persName>Pestalozzi</persName></hi>.
+                        razsvetljene dobe, <hi rend="italic">
+                           <persName>Basedow</persName>
+                        </hi> in
+                           <hi rend="italic">
+                           <persName>Pestalozzi</persName>
+                        </hi>.
                            <persName>Basedow</persName> kaže v svojem življenskem prizadevanju
                         predvsem enciklopediški značaj svojega časa. S tem hočem reči to:
                            <date>Osemnajsto stoletje</date> odstranja latinščino kot sporazumevalni
@@ -1021,25 +1110,30 @@
                            <persName>Komenskega</persName>, kakor nekak <foreign>orbis
                            pictus</foreign> sestavljen v abecedni obliki, oni so uresničenje
                         pansofiških prizadevanj. Tudi <persName>Basedowa</persName>
-                        <hi rend="italic"><q><foreign>Elementarwerk</foreign></q></hi> ima
+                        <hi rend="italic">
+                           <q>
+                              <foreign>Elementarwerk</foreign>
+                           </q>
+                        </hi> ima
                         enciklopediški značaj, ker je zbirka najrazličnejših vednosti. Praktično je
                         pa skušal <persName>Basedow</persName> uresničiti vzgojevalne ideje
                            <persName>Komenskega</persName> in <persName>Rousseaua</persName> v
                         razsvetljenem duhu v svojem <hi rend="italic">dessavskem
-                              <title>Filanthropinu</title></hi>. V <title>Filanthropinu</title> se
+                              <title>Filanthropinu</title>
+                        </hi>. V <title>Filanthropinu</title> se
                         naj navaja k pravi človečnosti. <quote>Namen vzgoje mora biti izobrazba
                            Evropejca, čegar življenje bi bilo tako neškodljivo, tako splošno
                            koristno, tako zadovoljno, kakor ga more ravno vzgoja
-                        pripraviti.</quote></p>
-                     <p>Mnogo bolj resno, temeljito in plodonosno je pa deloval <hi rend="italic"
-                              ><persName>Pestalozzi</persName></hi>. Sam je bil duh nenavadne
+                        pripraviti.</quote>
+                     </p>
+                     <p>Mnogo bolj resno, temeljito in plodonosno je pa deloval <hi rend="italic">
+                           <persName>Pestalozzi</persName>
+                        </hi>. Sam je bil duh nenavadne
                         ljubezni in neizmerne pridnosti, s svojo dobo vred je bil navdušen za
                         važnost in pomen popolne vzgoje, ta mu že ni bila samo enostransko
-                        poučevanje in razsvetljenje razuma, ampak v enaki meri <hi rend="italic"
-                           >plemenitev čuta in utrjevanje gojenčeve volje</hi>.</p>
+                        poučevanje in razsvetljenje razuma, ampak v enaki meri <hi rend="italic">plemenitev čuta in utrjevanje gojenčeve volje</hi>.</p>
                      <p>Tako se vzbujajo nove misli, ki dajejo smer primerni vzgoji mladine. Toda
-                           <date>18. stoletje</date> se začenja že tudi ozirati na <hi rend="italic"
-                           >vzgojo odraslih</hi>. Časopisje te dobe se v prvem početku z gorečo
+                           <date>18. stoletje</date> se začenja že tudi ozirati na <hi rend="italic">vzgojo odraslih</hi>. Časopisje te dobe se v prvem početku z gorečo
                         unemo oprijemlje vzgojevalne in izobraževalne naloge, hoče odstranjati
                         predsodke, rušiti praznoverstva, širiti med narod
                            <soCalled>razumne</soCalled> misli. Tu opažamo često nenavadno istinitost
@@ -1067,16 +1161,18 @@
                            prirodnimi pravi kakor mi, enake pravice kakor mi, lastniki zemlje, ali
                            ni za te državljane, kateri vsako breme socialnega združenja sedmernato
                            prenašajo, nobenega mesta v naši sredi, ki bi zadovoljevalo njih
-                           prirojenost?</said></p>
-                     <p><persName>Pestalozzi</persName> stavi važno zahtevo <hi rend="italic"
-                           >socialne vzgoje</hi>, ki je pravi vzgojevalni ideal našega veka. Gola
+                           prirojenost?</said>
+                     </p>
+                     <p>
+                        <persName>Pestalozzi</persName> stavi važno zahtevo <hi rend="italic">socialne vzgoje</hi>, ki je pravi vzgojevalni ideal našega veka. Gola
                         skrb družbe za revne in bolne ne zadošča temu idealu, zahteva se vsestranska
                         pomoč, nravni pripomoček. Slučajna dobrodelnost, trenotna, nesistematična se
                         mu dozdeva, kakor pravi nekoliko trdo, <said>akopavanje pravice v gnojišče
                            milosti.</said>
                         <said>Toda tu gre,</said> kakor pravi drugod, <said>v resnici bolj za načela
                            nego za miloščino, bolj za pravni čut nego za bolnišnice, bolj za
-                           samostojnost nego za milost.</said></p>
+                           samostojnost nego za milost.</said>
+                     </p>
                   </div>
                   <div>
                      <head>V.</head>
@@ -1098,8 +1194,7 @@
                         umika pesimističnemu naziranju. <persName>Byron</persName> in
                            <persName>Leopardi</persName>, <persName>Schopenhauer</persName> in
                            <persName>Nietzsche</persName> označujejo jako bistveno značaj idej naše
-                        dobe. Takoj v začetku stoletja nastopa nasproti racionalizmu <hi
-                           rend="italic">romantizem</hi>, ki nadomešča suhi, preudarni razum s čutom
+                        dobe. Takoj v začetku stoletja nastopa nasproti racionalizmu <hi rend="italic">romantizem</hi>, ki nadomešča suhi, preudarni razum s čutom
                         in domišljijo. Ne pričakujeta se od prihodnosti raj in blaginja, tudi v
                         preteklosti vidi zopet mnogo krasnega, pozornosti vrednega. Romantizem
                         povzročuje ravno preporod <hi rend="italic">historičnih študij</hi>. Zlasti
@@ -1117,8 +1212,7 @@
                         izpopolnimo, zboljšamo. Pesimizem je prehodni val, pojav bolehnosti, cesto
                         znak mode, pomenjajoče naveličanje, dolgčas, ki pohajata ravno od prebitka
                         in blagostanja. Nasproti obema nasprotnima si smerima optimizma in pesimizma
-                        se širi in pridobiva veljavo v naši dobi <hi rend="italic"
-                           >melioristično</hi> zaupanje, namreč naziranje, da se da z vzgojo in
+                        se širi in pridobiva veljavo v naši dobi <hi rend="italic">melioristično</hi> zaupanje, namreč naziranje, da se da z vzgojo in
                         delom vse izpopolniti, dobro uresničiti. Splošno pa prodira to spoznanje, da
                         se zaželeni napredek in zboljšanje vseh človeških razmer ne dasta uresničiti
                         le z izpopolnjevanjem človeškega razuma. Razum je le del človeškega bitja, v
@@ -1131,8 +1225,7 @@
                         dobe ne veruje, da prineseta človeštvu blaginjo samo razum in umsko
                         razsvetljenje.</p>
                      <p>Enostransko racionalistično navdušenje pa se je streznilo i dalje. Izgubili
-                        smo vero v možnost človeške vednosti, nasproti sili vednosti prodira <hi
-                           rend="italic">skepsa</hi> (dvomljivost), vedno bolj čutimo, da je vkljub
+                        smo vero v možnost človeške vednosti, nasproti sili vednosti prodira <hi rend="italic">skepsa</hi> (dvomljivost), vedno bolj čutimo, da je vkljub
                         vsemu napredku človeškega spoznanja in vkljub vsem nepričakovanim uspehom
                         znanstvenega dela vendar človeško znanje le relativno in necelotno, da nam
                         kar najpopolneje izšolani razum ne more odgovoriti na temeljna in »poslednja
@@ -1150,8 +1243,9 @@
                         kamenčke in bliščeče školjke – toda pozablja pri igri, da se razprostira
                         pred njim široko morje tajne in nepresežne resnice.</p>
                      <p>Jako primerno je opomnil evropsko ljudstvo na meje vsega umskega
-                        prizadevanja francoski pozitivist <hi rend="italic"
-                              ><persName>Littré</persName></hi>. Ne strinja se z optimističnimi
+                        prizadevanja francoski pozitivist <hi rend="italic">
+                           <persName>Littré</persName>
+                        </hi>. Ne strinja se z optimističnimi
                         sanjami <persName>Baconovimi</persName>, ampak pripoveduje o sebi, kako je
                         prešel celi kontinent pozitivnega znanja v poedinih vedah shranjenega in
                         prišel na daljnem obrežju tega kontinenta k najbolj zapadnemu predgorju. In
@@ -1159,38 +1253,45 @@
                         vesel, ne busole, da bi jih preiskal. Vendar postaja, se klanja pred tem
                         Neznanim in v posebnem čutnem stanju kliče na pomoč in se obrača z zaupanjem
                         k Njemu, <q>ki obnovi silo njegove misli in dodeli, da se naseli mir v
-                           njegovem srcu.</q></p>
+                           njegovem srcu.</q>
+                     </p>
                   </div>
                   <div>
                      <head>VI.</head>
                      <p>Slutnja Neskončnega, od katerega človek čuti, da je odvisen, je nov
                         karakteristični znak našega dovršujočega se stoletja. Začenjamo ocenjevati
                         pomen <hi rend="italic">religije</hi> za ljudsko blaginjo in njen
-                        vzgojevalni učinek. In pogledi našega ljudstva se obračajo iznova h <hi
-                           rend="italic">krščanstvu</hi> in njegovim vzvišenim idealom: v trdnem
+                        vzgojevalni učinek. In pogledi našega ljudstva se obračajo iznova h <hi rend="italic">krščanstvu</hi> in njegovim vzvišenim idealom: v trdnem
                         upanju, da je napredek mogoč, nahajamo v morali pravi cvet verskega
-                        življenja, in vedno bolj naraščajo glasovi, ki si prizadevajo, <hi
-                           rend="italic">da bi ljubezen k bližnjemu prešla iz knjig in propovednic
+                        življenja, in vedno bolj naraščajo glasovi, ki si prizadevajo, <hi rend="italic">da bi ljubezen k bližnjemu prešla iz knjig in propovednic
                            naravnost v življenje, da beseda postane telo</hi>. Moderni človek je
                         sicer nehal imeti zaupanje v krščanski supranaturalizem, ne obrača svojih
                         oči proti nebu – tem bolj pa se je oprijel pozitivne strani krščanstva in v
                         dejanski ljubezni k bližnjemu vidi možnost spasenja. Gre nam za verski in
                         nravni življenski preporod. Ne mislim naštevati vseh pojavov, ki spadajo
-                        sem: edina pomenljiva postava <hi rend="italic"><persName>L. N. Tolstega</persName></hi> nam pove
+                        sem: edina pomenljiva postava <hi rend="italic">
+                           <persName>L. N. Tolstega</persName>
+                        </hi> nam pove
                         mnogo. Ta častivredni mislec je podoben proroku, ki kaže vsemu človeštvu pot
                         v obljubljeno deželo.</p>
-                     <p><hi rend="italic">Verska strpnost</hi>, tako drago priborjena, je šele
+                     <p>
+                        <hi rend="italic">Verska strpnost</hi>, tako drago priborjena, je šele
                         omogočila razvoj verskega življenja v vsi njegovi posebnosti. Stojimo v
                         začetku tega, kar bi imenoval verski in nravni preporod, vendar toliko
                         morebiti moremo reči, da je resničen verski napredek in razvoj mogoč le
                         tedaj, ako se zastareli nauki prilagodijo novim nazorom, ako se zmanjšata
                         anthropomorfičnost in enostranska dogmatičnost verskega naziranja. Mnogo se
                         ne more vzdržati v ti anthropomorfični obliki, kakor se doslej uči. Švedski
-                        mislec <hi rend="italic"><persName>Troels-Lund</persName></hi> opozarja
-                        zlasti na dvoje:<note place="foot"><bibl><title>Himmelsbild und
+                        mislec <hi rend="italic">
+                           <persName>Troels-Lund</persName>
+                        </hi> opozarja
+                        zlasti na dvoje:<note place="foot">
+                           <bibl>
+                              <title>Himmelsbild und
                                  Weltanschauung im Wandel der Zeiten</title>
                                  (<placeName>Lipsko</placeName>
-                              <date when="1900">1900</date>), str. 261</bibl>.</note></p>
+                              <date when="1900">1900</date>), str. 261</bibl>.</note>
+                     </p>
                      <p>Sam nauk o božjem Sinu kot spasitelju <hi rend="italic">sveta</hi> se ne da
                         vzdržati v tem dobesednem pomenu, kakor hitro moderni človek resno o njem
                         razmišlja. Namreč kaj je <term>svet</term>? To vendar ni ta mala zemeljska
@@ -1207,7 +1308,8 @@
                         otroke za njih upornost kaznovati z <hi rend="italic">večnimi</hi>
                         peklenskimi kaznimi? Vsak nekoliko razvit moderni človek, ki je tudi vsaj v
                         najmanjšem občutil, kaj je ljubezen, more na take predstave o nebeškem očetu
-                        odgovoriti edino le: <q>Sramuj se!</q></p>
+                        odgovoriti edino le: <q>Sramuj se!</q>
+                     </p>
                      <p>Pač moremo reči: Miti in anthropomorfizmi niso bistvo religije. Oni so
                         naravno nujni del v prvem razvoju – ni treba obširno dokazovati, da niti
                         veda ni brez mitov – polagoma pa se simbolizujejo in naposled docela
@@ -1248,9 +1350,11 @@
                         tega, kar so mu drugi vcepili, in cela njegova vzgoja ni organičen razvoj
                         njegove lastne duševnosti. Bistriti čute, razvijati zmožnost opazovanja in
                         vzbujati v učencu njegove lastne misli: k temu se mora obračati v prvi vrsti
-                        vsa vzgojevalna delavnost. Namen te umske izobrazbe je že dobro naznačil <hi
-                           rend="italic"><persName>Locke</persName></hi> v svojih <hi rend="italic"
-                              ><title>Mislih o vzgojevanju</title></hi> z besedami: <quote>Glavni
+                        vsa vzgojevalna delavnost. Namen te umske izobrazbe je že dobro naznačil <hi rend="italic">
+                           <persName>Locke</persName>
+                        </hi> v svojih <hi rend="italic">
+                           <title>Mislih o vzgojevanju</title>
+                        </hi> z besedami: <quote>Glavni
                            namen vzgojevateljev ni ta, da bi podal gojencu obsežno snov vednosti,
                            ampak ta, da bi ga vzpodbujal k lastnemu duševnemu delu, da bi vzbujal v
                            njem ljubezen in spoštovanje k vedam in ga navajal k temu, da bi
@@ -1259,14 +1363,14 @@
                            Vednosti je treba iskati, toda le v drugi vrsti kot sredstva k važnejšim
                            opravilom. Učitelj imej vedno to pred očmi, da ni njegova naloga podajati
                            množino vednosti, ampak le kazati <hi rend="italic">pot k
-                           vednostim</hi>.</quote></p>
+                           vednostim</hi>.</quote>
+                     </p>
                      <p>Na to se je treba skrbno ozirati pri izbiranju učne snovi bodisi iz
                         prirodoslovne bodisi dušeslovne stroke in pri uredbi izpraševalnih sistemov.
                         Tu moremo glavno uspešno delovati proti nerazumnemu obteževanju dijakov,
                         proti enostranskemu gojenju posameznosti in nevažnih podrobnosti, proti
                         vsemu mehaničnemu in šablonskemu šolskemu delu od ure do ure.</p>
-                     <p>Vsa novodobna vednost pa ima od <persName>Bacona</persName> dalje <hi
-                           rend="italic">praktičen</hi> značaj. Veda je moč, in njene pridobitve
+                     <p>Vsa novodobna vednost pa ima od <persName>Bacona</persName> dalje <hi rend="italic">praktičen</hi> značaj. Veda je moč, in njene pridobitve
                         značijo, da si je moderni človek z novimi iznajdbami in odkritji olajšal in
                         oslajšal pozemeljsko življenje. Šola mora navajati k porazumevanju teh
                         stvari, mora podajati dijaštvu znanje <hi rend="italic">tehničnih</hi>
@@ -1277,8 +1381,9 @@
                         stavbenih delih nima niti pojma. Enostranski historizem naše šolske vzgoje
                         se mora zmanjšati. Resnica je, da je zgodovina učiteljica življenja; i
                         lastno dobo umeva človek le kot posledico zloženega razvoja preteklosti.
-                        Tudi danes so resnične besede <hi rend="italic"
-                              ><persName>Goetheove</persName></hi>, da mora mladina vselej iznova
+                        Tudi danes so resnične besede <hi rend="italic">
+                           <persName>Goetheove</persName>
+                        </hi>, da mora mladina vselej iznova
                         začeti in kot individuum preiti dobe svetovne kulture. Toda enako naj se
                         ozira človek i v prihodnjost in se zaveda cilja, h kateremu speje sodobni
                         razvoj, da bo lastna njegova delavnost premišljena, da živi življenje v
@@ -1296,7 +1401,8 @@
                         doslej neznano, posebno obliko. Bilo bi zopet nerazumno in lahkomiselno, ako
                         bi vse to zanemarjali, ko določujemo vzgojevalne ideale naše dobe. Že
                            <persName>Locke</persName> je vzklikal: <said>Živeti ne znamo, toda
-                           latinsko razgovarjati se učimo.</said></p>
+                           latinsko razgovarjati se učimo.</said>
+                     </p>
                      <p>Sistematično vzgojevalno delo v družini, šoli in družbi nas mora
                         pripravljati na življenje v njegovi polnosti, v vseh različnih ozirih in
                         straneh. Šolstvo se demokratizuje in postaja enotno, umetni kastovni
@@ -1304,15 +1410,13 @@
                         neprestopnost, izobrazba postaja vsakdanji kruh. Živimo v dobi vseučiliških
                         ekstenz (kurzov za ljudstvo): veda ne sme biti monopol privilegiranih vrst,
                         ampak mora biti z življenjem v neposredni zvezi in postati potreba cele
-                        družbe. Izobrazba in vzgoja se skratka <hi rend="italic"
-                        >socializujeta</hi>.</p>
+                        družbe. Izobrazba in vzgoja se skratka <hi rend="italic">socializujeta</hi>.</p>
                   </div>
                   <div>
                      <head>VIII.</head>
                      <p>Ravno socialno vprašanje, v čegar znamenju vstopamo v novo stoletje, nam
                         določuje s svojimi težkimi življenskimi problemi nove ideale. Vzgoja v
-                        najširšem zmislu se obrača k novim ciljem, ona postaja <hi rend="italic"
-                           >socia1na vzgoja</hi>. Splošno se priznava dandanes resnica proroških
+                        najširšem zmislu se obrača k novim ciljem, ona postaja <hi rend="italic">socia1na vzgoja</hi>. Splošno se priznava dandanes resnica proroških
                         besed <persName>Komenskega</persName>, naj bi se že nežnemu otroku vcepljalo
                         prepričanje, <said>da se ne rodi človek samemu sebi, ampak Bogu in bližnjemu
                            t. j. <hi rend="italic">družbi ljudskega pokoljenja</hi>, da si
@@ -1320,11 +1424,15 @@
                            ljudem.</said>
                         <hi rend="italic">Plemenita človečnost</hi> mora biti konečni cilj vse
                         vzgoje (šola bodi, kakor pravi <persName>Komenský</persName>, kraj, kjer se
-                        delajo popolni ljudje, <q><foreign>perfecta hominum officina</foreign></q>).
+                        delajo popolni ljudje, <q>
+                           <foreign>perfecta hominum officina</foreign>
+                        </q>).
                            <hi rend="italic">Poedinec se vzgajaj od družbe in izobražuj za rednega
                            člana družbe</hi>. Ako vzgoja dela iz človeka človeka, kakor trdi
-                           <persName>Kant</persName>, dobro dodaja <hi rend="italic"><persName>P.
-                              Natorp</persName></hi>, da se človek edino le v človeški družbi
+                           <persName>Kant</persName>, dobro dodaja <hi rend="italic">
+                           <persName>P.
+                              Natorp</persName>
+                        </hi>, da se človek edino le v človeški družbi
                         povzdigne do prave človečnosti. <said>Vzgoja individua ima v bistvenem smeru
                            svoj pogoj v socialnosti, kakor je na drugi strani človeška uredba
                            socialnega življenja v svojem temelju odvisna od primerne vzgoje
@@ -1342,8 +1450,9 @@
                         politika zlasti brigati za uredbo šolstva. Z vzgojo naroda, t. j. z vzgojo
                         vseh njegovih posameznikov brez razločka je mogoče zagotoviti njegovo
                         notranjo silo, ki edina more biti izdaten pogoj vsaki zunanji politični
-                        akciji. To resnico je dobro označil <hi rend="italic"
-                              ><persName>Havliček</persName></hi>, ko je pisal:</p>
+                        akciji. To resnico je dobro označil <hi rend="italic">
+                           <persName>Havliček</persName>
+                        </hi>, ko je pisal:</p>
                      <quote>Kdor pozna le nekoliko zgodovino in tok tega sveta, ta gotovo ve, da si
                         nobena politična stranka, noben narod ne more drugače pridobiti konečne
                         zmage, nego s svojo lastno notranjo silo, s to veljavo, ki si jo je poprej
@@ -1362,7 +1471,8 @@
                         enakomernost, vsled tega tiči mehanično v ohranjenih tradicijah. Šolstvo se
                         more uspešno razvijati v zmislu kulturnega napredka le na temelju svobode,
                         samostojnosti, samouprave. Naloga današnje dobe je, osvoboditi šolstvo ne le
-                           <hi rend="italic">od <orgName>cerkve</orgName></hi>, ampak po notranji strani (t. j. po
+                           <hi rend="italic">od <orgName>cerkve</orgName>
+                        </hi>, ampak po notranji strani (t. j. po
                         vzgojevalni in poučevalni strani) tudi <hi rend="italic">od države</hi> in
                         mu pridobiti tako samostojnost in neodvisnost kot lastni kulturni in
                         prosvetni instanci podobno, kakor se priznava samostojnost sodništvu.</p>
@@ -1379,8 +1489,7 @@
                         nadzorovanje šolstva loči od vzgojevalnega in učnega nadzorovanja:
                         administrativno naj obdrže državni organi, skrb za poučevanje in vzgojo a
                         zlasti odločevanje glede izprememb in reform učenja samega, t. j. učnih
-                        predmetov in metod naj se izroči najbolj poklicanemu činitelju – <hi
-                           rend="italic">učiteljstvu samemu</hi>. Ono naj si izvoli v vsakem narodu
+                        predmetov in metod naj se izroči najbolj poklicanemu činitelju – <hi rend="italic">učiteljstvu samemu</hi>. Ono naj si izvoli v vsakem narodu
                         izmed sebe najvišji organ, primerno raznim kategorijam in stopinjam učnih
                         zavodov od ljudske pa do visoke šole, <hi rend="italic">najvišji šolski
                            svet, ki bi postal lastno kulturno in prosvetno središče narodnega

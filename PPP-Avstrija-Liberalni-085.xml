@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,42 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="2"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="5"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="14"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="7"/>
+               <tagUsage gi="persName" occurs="20"/>
+               <tagUsage gi="placeName" occurs="21"/>
+               <tagUsage gi="q" occurs="18"/>
+               <tagUsage gi="quote" occurs="1"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName in orgName
@@ -63,7 +98,8 @@
    <text>
       <body>
          <div>
-            <opener>Dr. <persName>Karel Triller</persName></opener>
+            <opener>Dr. <persName>Karel Triller</persName>
+            </opener>
             <head>Ponesrečen načrt.</head>
             <quote>Jʼappelle un chat un chat (Geslo <persName>Šukljejeve</persName> rudeče
                brošure.)</quote>
@@ -71,16 +107,13 @@
                nihče ne dvomi, kdor količkaj pozna zgodovino njegovega dolgoletnega in v mnogem
                velezaslužnega javnega delovanja. Toda končno ima vsaka človeška mnogostranost tudi
                svoje meje in tako je naletel g. pl. <persName>Šuklje</persName> sedaj na snov, ki mu
-               absolutno ne <q>leži</q>; čim se je namreč lotil razmišljevanja o <hi rend="italic"
-                  >demokratični</hi> upravi naše bodoče <hi rend="italic">ujedinjene</hi>
+               absolutno ne <q>leži</q>; čim se je namreč lotil razmišljevanja o <hi rend="italic">demokratični</hi> upravi naše bodoče <hi rend="italic">ujedinjene</hi>
                <placeName>Jugoslavije</placeName>.<note source="#SourceBornDigital">Glej dok. št.
                   44.</note> – Kar v treh slovenskih dnevnikih je priobčil serijo člankov <q>V
                   zaželjeni deželi</q>, v kateri nam podaja načrt o upravi države S. H. S., ki naj
                bi njegovi želji služil za podlago podrobni diskusiji o stvari. Po mojem mnenju načrt
                po večini v to ni prikladen, ker preočitno greši zoper vodilni načeli
-                  <placeName>Jugoslavije</placeName>, to je zoper <hi rend="italic"
-                  >jedinstvenost</hi> našega troimenskega naroda in zoper <hi rend="italic"
-                  >demokratski</hi> značaj bodoče države. Prav zaradi tega je
+                  <placeName>Jugoslavije</placeName>, to je zoper <hi rend="italic">jedinstvenost</hi> našega troimenskega naroda in zoper <hi rend="italic">demokratski</hi> značaj bodoče države. Prav zaradi tega je
                   <persName>Šukljejeva</persName> razprava vzbudila pred vsem v hrvatski javnosti,
                potem pa tudi v ožji slovenski domovini brez vsake potrebe, toda po vsej pravici
                precej razdraženja in nikakor nisem osamljen, ko trdim, da bi bil že iz taktičnih
@@ -93,19 +126,26 @@
                   <persName>Šuklje</persName> uvodoma v res lepih besedah pestro in bogato lepoto
                jugoslovanske zemlje; toda to kar objema z enim ljubečim pogledom njegovo slovansko
                oko, to mora takoj razcepiti njegov avstrijski razum, ponižavajoč ga s skalnatih
-               strmin triglavskih na ponižno ljubljansko <geogName>Šmarno goro</geogName>. <hi rend="italic"><q>Upravna
+               strmin triglavskih na ponižno ljubljansko <geogName>Šmarno goro</geogName>. <hi rend="italic">
+                  <q>Upravna
                      sistema, docela primerna <placeName>Ercegovini</placeName> ali
                         <placeName>Sremu</placeName>, ne bi povsem nespremenjena brez očitne škode
-                     mogla vpeljati se ob <geogName>Soči</geogName> ali <geogName>Krki</geogName></q></hi> – tako modruje naš zaslužni bivši
-               deželni glavar, ergo – <hi rend="italic"><q>pridem do zaključka, da bi kazalo
+                     mogla vpeljati se ob <geogName>Soči</geogName> ali <geogName>Krki</geogName>
+                  </q>
+               </hi> – tako modruje naš zaslužni bivši
+               deželni glavar, ergo – <hi rend="italic">
+                  <q>pridem do zaključka, da bi kazalo
                      jugoslovansko našo skupino deliti na tri upravna ozemlja:
                         <placeName>Slovenijo</placeName>, <placeName>Hrvatsko</placeName> v ožjem
                      smislu in <placeName>Bosno-Ercegovino</placeName> združeno z
-                        <placeName>Dalmacijo</placeName></q></hi>. Opozarjam mimogrede na mogočno
+                        <placeName>Dalmacijo</placeName>
+                  </q>
+               </hi>. Opozarjam mimogrede na mogočno
                gesto, s katero rešuje tu g. pl. <persName>Šuklje</persName> državnopravno vprašanje
                dalmatinsko, za kar je žel v zagrebški javnosti že zasluženo zahvalo. Ampak načelo
                samo! Breton in Gaskonjec v demokratični
-                  <placeName>Franciji</placeName><corr>,</corr> Lombard in Sicilijanec v
+                  <placeName>Franciji</placeName>
+               <corr>,</corr> Lombard in Sicilijanec v
                   <placeName>Italiji</placeName> sta deležna brez ugovora in odpora, brez škode iste
                   <q>upravne sisteme</q>, uprav sta si v vsakem pogledu veliko bolj tuja, nego Srb
                iz <placeName>Srema</placeName> ali ercegovski moslim in naš bohinjski kmet; ampak
@@ -127,7 +167,8 @@
                gratia: Celo na enotnih načelih zgrajenega <hi rend="italic">ljudskega</hi> šolstva
                g. dvorni svetnik ne pozna v jedinstveni državi S. H. S, celo le-to naj se drugače
                razvija <q>pri nas v poljedelski <placeName>Sloveniji</placeName>, nego na primer v
-                     <placeName>Boki Kotorski</placeName></q>. In drugi vzgled: Niti vrhovno upravno
+                     <placeName>Boki Kotorski</placeName>
+               </q>. In drugi vzgled: Niti vrhovno upravno
                sodstvo ne sme biti pri nas centralizirano, kakor je tudi v največjih kulturnih
                državah. Kar troje vrhovnih upravnih sodišč zahteva <persName>Šukljejev</persName>
                načrt za tri različne <q>dežele</q> naše <placeName>Jugoslavije</placeName>. Seveda s
@@ -139,16 +180,19 @@
                zoper načelo narodne jedinstvenosti.</p>
             <p xml:id="No.85.PPP.4">In sedaj si oglejmo <persName>Šukljejevo</persName>
                <hi rend="italic">demokratsko</hi> upravo v njegovi
-                     <q><placeName>Sloveniji</placeName></q>. Na čelo naj jej stopi deželni glavar
+                     <q>
+                  <placeName>Sloveniji</placeName>
+               </q>. Na čelo naj jej stopi deželni glavar
                kot šef uprave, na njegovi strani deželni zbor kot zakonodajni organ, pod
                predsedstvom deželnega poglavarja pa <q>naravnost kot kombinacija sedanje deželne
-                  vlade in sedanjega deželnega odbora</q> (mari bi ne bilo boljše, da vržemo <hi
-                  rend="italic">oboje</hi> čez most?), deželna vlada, obstoječa po polovici iz
+                  vlade in sedanjega deželnega odbora</q> (mari bi ne bilo boljše, da vržemo <hi rend="italic">oboje</hi> čez most?), deželna vlada, obstoječa po polovici iz
                imenovanih državnih in izvoljenih deželnih svetnikov. Jaz si sicer složno delovanje
                te <q>kombinacije</q> dveh ponesrečenih avstrijskih sistemov le težko predstavljam in
                dvomim, je-li ta načrt pomeni v resnici <hi rend="italic">odpravo</hi> naše nesrečne
                in drage dvojne uprave in demokratizacijo javne uprave sploh – pa bodi! Svojo
-                     <q><placeName>Slovenijo</placeName></q> razdeljuje potem gosp. pl.
+                     <q>
+                  <placeName>Slovenijo</placeName>
+               </q> razdeljuje potem gosp. pl.
                   <persName>Šuklje</persName> v tri okrožja, seveda točno v okviru sedanjih
                provincijalnih mej ne glede na geografično in gospodarsko gravitacijo posameznih
                pokrajin. Samo da ostanemo Kranjci, Štajerci in Primorci, kakor se spodobi. Bog ne
@@ -172,13 +216,13 @@
                hkrati krčmar. Po vsej krivici se sklicuje gosp. dvorni svetnik v obrambo svojega
                   <q>okraja</q> na svojedobni <persName>Winklerjev</persName> načrt, ki je slonel
                pač na načelu: mala sodišča, velike občine z istim teritorijalnim obsegom, ki pa
-               danes, ko gre za vprašanje uprave moderne, vseskozi <hi rend="italic"
-                  >demokratske</hi> države in za samovlado ljudstva, osvobojeno vsakega državnega
+               danes, ko gre za vprašanje uprave moderne, vseskozi <hi rend="italic">demokratske</hi> države in za samovlado ljudstva, osvobojeno vsakega državnega
                birokratskega jerobstva, sploh ne more biti več aktualen. – In to je ravno rak-rana
                   <persName>Šukljejevega</persName> načrta, <hi rend="italic">da s
                      <q>kombinacijami</q> sedanjega birokratičnega sistema in resničnega
                   demokratizma skuša rešiti prvemu, kar se pač rešiti da. Toda voda se ne da spojiti
-                  z ognjem!</hi></p>
+                  z ognjem!</hi>
+            </p>
             <p xml:id="No.85.PPP.5">S tem sem se dotaknil temeljnih točk študije gosp. pl.
                   <persName>Šukljeja</persName>, v kolikor ta greši zoper vodilni ideji svobodne
                   <placeName>Jugoslavije</placeName>, zoper jedinstvenost in demokratizem. In sicer
@@ -205,8 +249,7 @@
                sprejele in tudi objavile resolucije, obsegajoče vodilna načela, ki nikakor ne
                soglašajo z načrtom g. dvornega svetnika. Dotično poročilo izide v najkrajšem času v
                tisku in potem bo prilika, izpregovoriti o stvari kaj več. Na to bi se usojal
-               opozarjati zlasti tudi gospoda člankarja v <q>Slovencu</q> z dne <date
-                  when="1918-10-15">15. oktobra</date>, ki je na načela, sprejeta v <orgName>JDS.</orgName>, vezan.</p>
+               opozarjati zlasti tudi gospoda člankarja v <q>Slovencu</q> z dne <date when="1918-10-15">15. oktobra</date>, ki je na načela, sprejeta v <orgName>JDS.</orgName>, vezan.</p>
          </div>
       </body>
    </text>

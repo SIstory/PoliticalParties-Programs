@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><q>Chicaška</q> izjava, oblikovana 29. junija 1917 in sprejeta na ustanovnem
+            <title>
+               <q>Chicaška</q> izjava, oblikovana 29. junija 1917 in sprejeta na ustanovnem
                občnem zboru Slovenskega republičanskega združenja 11. in 12. avgusta 1917 v
                Chicagu</title>
             <respStmt>
@@ -25,8 +26,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +47,38 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="hi" occurs="10"/>
+               <tagUsage gi="item" occurs="10"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="p" occurs="17"/>
+               <tagUsage gi="persName" occurs="14"/>
+               <tagUsage gi="placeName" occurs="16"/>
+               <tagUsage gi="soCalled" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -109,7 +141,8 @@
                jugoslovanskega vprašanja v politični združitvi vseh jugoslovanskih delov, ki pa
                prepušča avtonomijo vsakemu delu v vseh rečeh, katere niso po svoji naturi vsem
                skupne.</p>
-            <p><hi rend="italic">Realizacija te ideje je mogoča v politični obliki jugoslovanske
+            <p>
+               <hi rend="italic">Realizacija te ideje je mogoča v politični obliki jugoslovanske
                   federativne republike, ki jo s tem označujemo za svoj cilj.</hi>
             </p>
             <p>Zedinjenje Jugoslovanov se ne more uspešno izvršiti v nobeni sedaj obstoječih držav,
@@ -126,16 +159,32 @@
                in ki prepušča bodoče tesnejše združenje naravnemu svobodnemu razvoju, zahtevamo v
                jugoslovanski republiki vse garancije ustavnega demokratičnega življenja, zlasti:</p>
             <list rend="numbered">
-               <item n="1."><hi rend="italic">Splošno, enako, tajno in proporčno volilno pravico
-                     brez ozira na spol za vse politične in administrativne zastope;</hi></item>
-               <item n="2."><hi rend="italic">Narodni referendum in inicijativo;</hi></item>
-               <item n="3."><hi rend="italic">Odgovornost vseh javnih funkcionarjev;</hi></item>
-               <item n="4."><hi rend="italic">Javno izvrševanje zunanje politike;</hi></item>
-               <item n="5."><hi rend="italic">Popolno enakopravnost vseh državljanov;</hi></item>
-               <item n="6."><hi rend="italic">Popolno svobodo besede in tiska;</hi></item>
-               <item n="7."><hi rend="italic">Popolno svobodo pouka in vesti;</hi></item>
-               <item n="8."><hi rend="italic">Nevtralnost vseh oblasti v razrednih
-                  bojih.</hi></item>
+               <item n="1.">
+                  <hi rend="italic">Splošno, enako, tajno in proporčno volilno pravico
+                     brez ozira na spol za vse politične in administrativne zastope;</hi>
+               </item>
+               <item n="2.">
+                  <hi rend="italic">Narodni referendum in inicijativo;</hi>
+               </item>
+               <item n="3.">
+                  <hi rend="italic">Odgovornost vseh javnih funkcionarjev;</hi>
+               </item>
+               <item n="4.">
+                  <hi rend="italic">Javno izvrševanje zunanje politike;</hi>
+               </item>
+               <item n="5.">
+                  <hi rend="italic">Popolno enakopravnost vseh državljanov;</hi>
+               </item>
+               <item n="6.">
+                  <hi rend="italic">Popolno svobodo besede in tiska;</hi>
+               </item>
+               <item n="7.">
+                  <hi rend="italic">Popolno svobodo pouka in vesti;</hi>
+               </item>
+               <item n="8.">
+                  <hi rend="italic">Nevtralnost vseh oblasti v razrednih
+                  bojih.</hi>
+               </item>
             </list>
             <p>Izjavljamo, da smo pripravljeni za tako rešitev jugoslovanskega vprašanja delati po
                svojih najboljših močeh in pozivamo vse Slovence v <placeName>Ameriki</placeName>, ki
@@ -152,16 +201,17 @@
                <item n="2.">Organizacije in slovenski listi izven <placeName>Chicaga</placeName>,
                   imenujejo svoje zastopnike.</item>
             </list>
-            <closer>To izjavo in program so soglasno sprejeli podpisani dne <date when="1917-06-29"
-                  >29. junija 1917</date>. v <placeName>Chicagu</placeName>, III.<lb/>
-               <hi rend="italic"><persName>John Verderbar</persName>, <persName>Frank
+            <closer>To izjavo in program so soglasno sprejeli podpisani dne <date when="1917-06-29">29. junija 1917</date>. v <placeName>Chicagu</placeName>, III.<lb/>
+               <hi rend="italic">
+                  <persName>John Verderbar</persName>, <persName>Frank
                      Kerže</persName>, <persName>Ivan Molek</persName>, <persName>Jože Zavertnik
                      st.</persName>, <persName>Etbin Kristan</persName>, <persName>Louis F.
                      Trugger</persName>, <persName>Martin V. Konda</persName>, <persName>Frank
                      Petrich</persName>, <persName>Albin H. Skobic</persName>, <persName>Rudolf
                      Skala</persName>, <persName>John Pokelšek</persName>, <persName>Josip
                      Blisk</persName>, <persName>Filip Godina</persName> in <persName>Frank
-                     Šavs</persName></hi>.</closer>
+                     Šavs</persName>
+               </hi>.</closer>
          </div>
       </body>
    </text>

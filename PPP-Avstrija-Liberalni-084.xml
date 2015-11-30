@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="8"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="persName" occurs="10"/>
+               <tagUsage gi="placeName" occurs="11"/>
+               <tagUsage gi="q" occurs="7"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName
@@ -75,13 +105,14 @@
                da hoče imeti postajo v <placeName>Žlebiču</placeName>, ker je s to postajo zanj
                dolenjska železnica velikega pomena, brez te postaje pa brez vsakega pomena!</p>
             <p xml:id="No.84.PPP.2">Te postaje se spominjam, ko premišljujem o prijatelja
-                  <persName>Šukljeja</persName> člankih <q>V zaželjeni deželi</q>,<note
-                  source="#SourceBornDigital">Glej dok. št. 44.</note> a na
+                  <persName>Šukljeja</persName> člankih <q>V zaželjeni deželi</q>,<note source="#SourceBornDigital">Glej dok. št. 44.</note> a na
                   <placeName>Žlebič</placeName> sem mislil tudi takrat, ko sem prečital prijatelja
                   <persName>Hribarja</persName> protičlanek <q>Uprava
-                     <placeName>Jugoslavije</placeName></q> v <q>Slovencu</q> z dne <date
-                  when="1918-10-15">15. t. m.</date></p>
-            <p xml:id="No.84.PPP.3"><persName>Šuklje</persName> piše: <q>Tako tedaj si predstavljam
+                     <placeName>Jugoslavije</placeName>
+               </q> v <q>Slovencu</q> z dne <date when="1918-10-15">15. t. m.</date>
+            </p>
+            <p xml:id="No.84.PPP.3">
+               <persName>Šuklje</persName> piše: <q>Tako tedaj si predstavljam
                   upravo slovenske skupine naše jugoslovanske samostojnosti. Namenoma ne segam
                   dalje, ne grem preko <geogName>Sotle</geogName> in <geogName>Kolpe</geogName>! Naj si bratje Hrvati in Srbi uredijo svojo
                   upravo po svojih lastnih potrebah, željah in tradicijah, dobro bomo shajali,
@@ -91,7 +122,8 @@
                      <placeName>Slovenija</placeName> v taki popolnosti, v kakršni si je pred nekaj
                   leti najsmelejši med nami še predstavljati ni upal. Deželne meje bodo padle. Med
                   nami ne bode več Kranjcev. Štajercev, Korošcev, Goričanov, Tržačanov, Istranov.
-                  Vsi bodemo samo Slovenci.</q></p>
+                  Vsi bodemo samo Slovenci.</q>
+            </p>
             <p xml:id="No.84.PPP.4">Niti na misel mi ne prihaja, da bi <persName>Šukljeju</persName>
                in <persName>Hribarju</persName> podtikal kake slabe namene. Kar sta zapisala,
                zapisala sta v pošteni in dobri veri. Vzlic temu pa se mi vidi, da plešeta oba na eni
@@ -102,8 +134,7 @@
                predstavljati, da bi v njej nastala posebna slovenska, posebna hrvatska in posebna
                srbska skupina. Istotako si ne morem predstavljati, da bi ta država obsegala
                zedinjeno <placeName>Slovenijo</placeName>, samo zase in ločeno od zedinjene
-                  <placeName>Hrvatske</placeName> ali zedinjene <placeName>Srbije</placeName>. <hi
-                  rend="italic">Pri ljubem Bogu! Ali naj se ustanovitev in ureditev jugoslovanske
+                  <placeName>Hrvatske</placeName> ali zedinjene <placeName>Srbije</placeName>. <hi rend="italic">Pri ljubem Bogu! Ali naj se ustanovitev in ureditev jugoslovanske
                   države izroči trem krojačem, katerih vsak bo skušal izstriči iz državice, ki bo
                   takoj hirala na angleški bolezni, svojo krpo?</hi> Pri vprašanju, kako daleč naj
                sega slovenska krpa ali pa srbska in hrvatska krpa, bodemo, kakor kaže
@@ -115,11 +146,9 @@
                naenkrat štiri kronovine v <placeName>Jugoslaviji</placeName> itd.</p>
             <p xml:id="No.84.PPP.6">Moje ponižno mnenje je – vsiljujem ga nikomur, tudi si ne
                prisvajam nikake avtoritete, – da se mora jugoslovanska država urediti brez vsakega
-               takega krpanja! Ta država se ima takoj spočetka postaviti na temelj, da prebiva <hi
-                  rend="italic">v njej en sam narod</hi>. Teorije, da v teh pokrajinah živi več
+               takega krpanja! Ta država se ima takoj spočetka postaviti na temelj, da prebiva <hi rend="italic">v njej en sam narod</hi>. Teorije, da v teh pokrajinah živi več
                narodov, na noben način ne pustimo veljati, ker se morejo kvečjemu redakterji zabitih
-               nemškonacijonalnih listov postavljati na stališče, da naš jezik ni samo <hi
-                  rend="italic">narečje</hi> enega in istega naroda, ki je seveda postalo odličen
+               nemškonacijonalnih listov postavljati na stališče, da naš jezik ni samo <hi rend="italic">narečje</hi> enega in istega naroda, ki je seveda postalo odličen
                kulturen faktor in se bo tudi v <placeName>Jugoslaviji</placeName> uveljavljalo.
                Bodoča naša država mora biti izklesana iz enega samega kamna: njena ustava mora biti
                v skladu z <hi rend="italic">enotnim</hi> tem državnim značajem. Njena uprava morala
@@ -136,8 +165,7 @@
                samo Jugoslovani, kakor jih zadnje čase iz svoje miznice na dan postavljajo
                   <persName>Šusteršičeve</persName>
                <q>Novice</q>!</p>
-            <p xml:id="No.84.PPP.7">V drugem pa bi si usojal z vso ponižnostjo pripomniti, da o <hi
-                  rend="italic">detajlih</hi>, kako bodi urejena uprava v Jugoslovanski državi,
+            <p xml:id="No.84.PPP.7">V drugem pa bi si usojal z vso ponižnostjo pripomniti, da o <hi rend="italic">detajlih</hi>, kako bodi urejena uprava v Jugoslovanski državi,
                danes še ni čas govoriti, ker pri tem lahko pridemo v položaj, da smo podobni
                gospodarju, ki hoče zidati novo hišo, ki pa hoče zidanje s tem pričeti, da si postavi
                najprej visok dimnik. Čim bo ogromni obris naše države gotov, bodo prišli detajli na
@@ -146,8 +174,7 @@
                katerega bo vsak smel tudi svobodno kritizirati. Končno pa se bo moral vendarle
                vsakdo podvreči legislativnemu zastopstvu nove države, o katerem upamo, da ga bo
                sveti duh toliko razsvetlil, da ne bo ustvarjalo kronovinskih mej, ne povzročalo
-               globokih razpok v komaj postavljeni stavbi, kratko: da nam bo ustvarilo <hi
-                  rend="italic">enotno državo</hi>, ki nikakor ne bo podobna telesu, na katerem se
+               globokih razpok v komaj postavljeni stavbi, kratko: da nam bo ustvarilo <hi rend="italic">enotno državo</hi>, ki nikakor ne bo podobna telesu, na katerem se
                posamezni udje med sabo puntajo, kakor v znani basni <persName>Menenita
                   Agrippe</persName>, ali kako se je mož že imenoval.</p>
             <p xml:id="No.84.PPP.8">Samo ob sebi je umevno, da se v kake polemike ne bom

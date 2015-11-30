@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,14 +53,41 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="byline" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="15"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="9"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.165.PPP">
             <head>Naš program.</head>
-            <p>Beseda, ki stoji na čelu našega lista, izraža naš program: <hi rend="italic"
-                  >Resnica!</hi></p>
+            <p>Beseda, ki stoji na čelu našega lista, izraža naš program: <hi rend="italic">Resnica!</hi>
+            </p>
             <p>Časnik, ki neustrašeno piše <hi rend="bold">resnico</hi>, je danes našemu narodu
                poglavitna in neobhodna potreba. Kajti z žalostjo opažamo, da je merodajno slovensko
                časopisje zgrešilo pot resnice in se podalo na pot lažnjivega pustolovstva. Ljudstvu
@@ -70,23 +97,21 @@
                   zapeljan, uravnava na temelju laži!</hi> V tej nevarnosti je danes naš narod.</p>
             <p>Proti tej nevarnosti ni drugega leka kot <hi rend="bold">resnica</hi>. Naš narod mora
                resnico izvedeti in ima tudi pravico do nje.</p>
-            <p>S tem je označena naša naloga: povedati in razširjati hočemo <hi rend="bold"
-                  >resnico</hi>. Z bakljo resnice hočemo svetiti, neresnico in zmoto pobijati do
+            <p>S tem je označena naša naloga: povedati in razširjati hočemo <hi rend="bold">resnico</hi>. Z bakljo resnice hočemo svetiti, neresnico in zmoto pobijati do
                skrajnosti, <hi rend="bold">brez strahu navzgor in navzdol</hi>.</p>
-            <p>Ker je naš program resnica, je samo ob sebi umevno, da stojimo v verskem oziru <hi
-                  rend="bold">na stališču prave vere, ki jo uči rimsko-katoliška cerkev</hi>. Zato
+            <p>Ker je naš program resnica, je samo ob sebi umevno, da stojimo v verskem oziru <hi rend="bold">na stališču prave vere, ki jo uči rimsko-katoliška cerkev</hi>. Zato
                se bodemo v vseh verskih zadevah brezpogojno pokoravali odredbam cerkvene oblasti.
                Sicer pa bodemo varovali <hi rend="italic">svobodo naroda do samoodločbe v duhu prave
                   in lojalne demokracije, v neomajni zvestobi do našega cesarja</hi>.</p>
             <p>V narodnem oziru stojimo <hi rend="bold">na stališču deklaracije jugoslovanskih
-                  poslancev dné <date when="1917-05-30">30. maja 1917</date></hi>.<note place="foot" source="#SourceBornDigital"
-                  >Glej dok. št. 132.</note> Ta deklaracija velja za nas <hi rend="bold">v
+                  poslancev dné <date when="1917-05-30">30. maja 1917</date>
+               </hi>.<note place="foot" source="#SourceBornDigital">Glej dok. št. 132.</note> Ta deklaracija velja za nas <hi rend="bold">v
                   celoti</hi>, neprikrajšana. Vsak poskus, pačiti duha in besedilo te pomembne
                izjave, hočemo pobijati z vso odločnostjo. Deklaracija mora biti resen realen
                program, ne pa predmet frivolne igre za politične borzijance.</p>
-            <p><hi rend="bold">Z bakljo resnice</hi> hočemo posvetiti v tisti gospodarski ustroj, ki
-               se je umetno ustvaril med vojno v veliko škodo kmetovalcem in konsumentu. <hi
-                  rend="bold">Vojnim centralam in rekvizicijam bo veljala naša najostrejša
+            <p>
+               <hi rend="bold">Z bakljo resnice</hi> hočemo posvetiti v tisti gospodarski ustroj, ki
+               se je umetno ustvaril med vojno v veliko škodo kmetovalcem in konsumentu. <hi rend="bold">Vojnim centralam in rekvizicijam bo veljala naša najostrejša
                   kritika</hi>. Pripraviti moramo prehod k pravilnemu mirovnemu gospodarstvu, kar bo
                   <hi rend="bold">v korist vsem stanovom</hi>.</p>
             <p>Vsa ostrina našega boja bo veljala <hi rend="bold">vojnim hujskarijam</hi>. Skrajni

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -68,7 +68,39 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="4"/>
+               <tagUsage gi="hi" occurs="5"/>
+               <tagUsage gi="item" occurs="13"/>
+               <tagUsage gi="label" occurs="7"/>
+               <tagUsage gi="list" occurs="3"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="12"/>
+               <tagUsage gi="p" occurs="34"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -80,12 +112,12 @@
          <div>
             <gap reason="irrelevant"/>
             <p xml:id="No.128.PPP.1">S pritrditvijo <orgName>deželnega zbora Svoje vojvodine
-                  <placeName>Kranjske</placeName></orgName> ukazujem tako:</p>
+                  <placeName>Kranjske</placeName>
+               </orgName> ukazujem tako:</p>
             <div xml:id="No.128.PPP.2">
                <head>Člen I.</head>
                <p>Spreminjaje in dopolnjevaje deželni red za vojvodino
-                     <placeName>Kranjsko</placeName>, izdan z mojim patentom z dne <date
-                     when="1861-02-26">26. februarja 1861</date>. l. drž. zak. št. 20, stopijo
+                     <placeName>Kranjsko</placeName>, izdan z mojim patentom z dne <date when="1861-02-26">26. februarja 1861</date>. l. drž. zak. št. 20, stopijo
                   namesto spodaj oznamenjenih paragrafov deželnega reda, oziroma kot ustavki k
                   posameznim paragrafom nastopna določila:</p>
                <list rend="simple">
@@ -94,16 +126,17 @@
                      <p>Deželni zbor obstoji iz petdesetih članov, namreč:</p>
                      <list rend="numbered">
                         <item n="a)">Knezoškofa ljubljanskega; </item>
-                        <item n="b)">z devetinštirideset izvoljenih poslancev in sicer:<list
-                              rend="numbered">
+                        <item n="b)">z devetinštirideset izvoljenih poslancev in sicer:<list rend="numbered">
                               <item n="I.">deset poslancev velikega posestva,</item>
                               <item n="II.">dvanajst poslancev mest in trgov navedenih v volilnem
                                  redu ter trgovske in obrtne zbornice,</item>
                               <item n="III.">šestnajst poslancev za ostale občine vojvodine Kranjske
                                  (kmetske občine),</item>
                               <item n="IV.">enajst poslancev splošnega volilskega razreda.</item>
-                           </list></item>
-                     </list></item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
                   <label>§ 11.</label>
                   <item>
                      <p>Deželni odbor, ki je upravni in izvrševalni organ deželnega zastopa, obstoji
@@ -204,8 +237,7 @@
                <head>Člen III.</head>
                <p>Ta zakon stopi v veljavo ob enem z zakonom z dne . . . . . . št. . . . . dež.
                   zak., s katerim se spreminja volilni red za deželni zbor vojvodine
-                     <placeName>Kranjske</placeName>.<note place="foot" source="#SourceBornDigital"
-                     >Zakona o spremembi deželnega reda za vojvodino <placeName>Kranjsko</placeName>
+                     <placeName>Kranjske</placeName>.<note place="foot" source="#SourceBornDigital">Zakona o spremembi deželnega reda za vojvodino <placeName>Kranjsko</placeName>
                      in spremembi volilnega reda za deželni zbor vojvodine
                         <placeName>Kranjske</placeName> sta bila izdana <date when="1908-08-26">26.
                         8. 1908</date>. – <hi rend="italic">14.</hi> Zakon z dné 26. avgusta 1908,

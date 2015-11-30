@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,39 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="3"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="8"/>
+               <tagUsage gi="p" occurs="5"/>
+               <tagUsage gi="persName" occurs="13"/>
+               <tagUsage gi="placeName" occurs="13"/>
+               <tagUsage gi="q" occurs="15"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -66,7 +98,8 @@
             <head>Beseda <q>prvem hrvatsko-slovenskem saboru</q> v
                <placeName>Ljubljani</placeName>.</head>
             <opener>(Glas iz <placeName>Štajerske</placeName>.)<lb/>V <placeName>Celju</placeName>,
-                  <date when="1912-10-22">22. oktobra</date></opener>
+                  <date when="1912-10-22">22. oktobra</date>
+            </opener>
             <p xml:id="No.72.PPP.1">Vprašal sem različne svoje prijatelje, ki se ukvarjajo veliko s
                politiko, kaj sodijo o bratenju <orgName>Vseslovenske ljudske stranke</orgName> s hrvaško <orgName>Stranko
                   prava</orgName>?<note source="#SourceBornDigital">Glej dok. št. 41 in dok. št. 42.</note>
@@ -82,8 +115,7 @@
                hrvaško stranko, ki se nikoli ni brigala za Slovence.</p>
             <p xml:id="No.72.PPP.2">Tako sodijo po <placeName>Štajerskem</placeName> ljudje,ki se ne
                bodo nikoli povspeli do iste mere politične zagrizenosti, kakor jo vidimo in čutimo
-               vsak dan pri klerikalcih. Tem postaja ravno Slovenska<note
-                  source="#SourceBornDigital">Slovenija.</note> premajhna za aspiracije njih
+               vsak dan pri klerikalcih. Tem postaja ravno Slovenska<note source="#SourceBornDigital">Slovenija.</note> premajhna za aspiracije njih
                dunajskih in rimskih komandantov ter domačih, slovensko govorečih voditeljev.
                Poskusili so že svoj čas s <orgName>hrvaško kmečko stranko</orgName>. Saj nam je še živo v spominu, kako
                navdušeno so pozdravljali <persName>Šusteršič</persName>, <persName>Krek</persName>
@@ -143,8 +175,7 @@
             <p xml:id="No.72.PPP.5">Slovenski klerikalci niso doslej ničesar teoretičnega in
                praktičnega storili za uresničenje našega najvišjega političnega cilja, združenja
                vseh slovenskih dežel, dasi je od tega v veliki meri odvisen naš narodni obstanek in
-               je to politično geslo popularno vsaj v izobraženih krogih našega naroda. <hi
-                  rend="bold">Že to kaže, da bodo še manj storili za državnopravne cilje <orgName>Stranke
+               je to politično geslo popularno vsaj v izobraženih krogih našega naroda. <hi rend="bold">Že to kaže, da bodo še manj storili za državnopravne cilje <orgName>Stranke
                   prava</orgName>, ki jih pri nas le malo ljudi pozna in ki bi jih široke vrste našega
                   ljudstva, ko bi bile o njih poučene, direktno odklonile</hi>. Treba je to jasno
                povedati in se ne loviti za kakimi fantomi. To je v interesu hrvaškega naroda.</p>

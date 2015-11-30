@@ -23,14 +23,14 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
             <biblStruct>
                <analytic>
-                  <title>&quot;Narodna stranka&quot; na Kranjskem</title>
+                  <title>"Narodna stranka" na Kranjskem</title>
                </analytic>
                <monogr>
                   <title>Slovenski narod</title>
@@ -51,13 +51,43 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="3"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="4"/>
+               <tagUsage gi="item" occurs="7"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="3"/>
+               <tagUsage gi="orgName" occurs="15"/>
+               <tagUsage gi="p" occurs="24"/>
+               <tagUsage gi="placeName" occurs="29"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <div>
-               <head>&quot;Narodna stranka&quot; na Kranjskem</head>
+               <head>"Narodna stranka" na Kranjskem</head>
                <gap reason="irrelevant"/>
                <list rend="numbered" xml:id="No.50a.PPP">
                   <item n="I.">Vsi za ohranitev slovenskega in hrvatskega naroda in njegove zemlje,
@@ -67,10 +97,10 @@
                      drugimi slovanskimi plemeni, naj se za odločno in neomahljivo delo v ta namen
                      združijo in organizujejo po vseh <placeName>slovenskih pokrajinah</placeName>
                      in v <placeName>Istri</placeName>.</item>
-                  <item n="II."><p>Slovenci, težeči po narodni avtonomiji, in istrski Hrvatje naj za
+                  <item n="II.">
+                     <p>Slovenci, težeči po narodni avtonomiji, in istrski Hrvatje naj za
                         sedaj v svoj politični in parlamentarni program vsprejmo vse one težnje,
-                        katere so določili slovenski in istrsko-hrvatski poslanci na shodu dne <date
-                           when="1890-10-02"> 2. oktobra 1890</date> v
+                        katere so določili slovenski in istrsko-hrvatski poslanci na shodu dne <date when="1890-10-02"> 2. oktobra 1890</date> v
                            <placeName>Ljubljani</placeName>,<hi rend="superscript">
                            <note place="foot" source="#SourceBornDigital"> Glej dok. št. 105.
                            </note>
@@ -173,12 +203,14 @@
                         </hi> nasvetovanih sredstev.</p>
                      <p>Delovati je torej povsod na to, da se poverijo z deželno-zborskimi ali
                         državno-zborskimi mandati samó taki možje, ki se zavežejo, odločno in
-                        dosledno zastopati označene narodne težnje.</p></item>
+                        dosledno zastopati označene narodne težnje.</p>
+                  </item>
                   <item n="III.">Sploh bodi vsakega Slovenca in Hrvata dolžnost, da zvršuje svoje
                      politične pravice v smislu tega programa, da svojemu jeziku daje veljavo pri
                      vsaki priliki in da snuje ali podpira socijalna, kulturna in gmotna podjetja
                      narodnih Slovencev in Hrvatov.</item>
-                  <item n="IV."><p> Koalicija parlamentarnih strank, podpirajoča
+                  <item n="IV.">
+                     <p> Koalicija parlamentarnih strank, podpirajoča
                            <orgName>vlado</orgName>, katera zahteva, da mirujejo večja politična
                         vprašanja, kakeršno je brez dvojbe tudi narodno vprašanje, je izvršenju
                         našega narodnega programa kvarna, in vsi naši zastopniki bi jo morali
@@ -192,8 +224,10 @@
                         sodnih poslopjih v <placeName>Istri</placeName> pričajo, kako protivna je
                         koalicija narodni jednakopravnosti in dokazujejo, da slovenski, v koaliciji
                         stoječi poslanci še tej trohi jednakopravnosti do veljave pripomoči ne
-                        morejo.</p></item>
-                  <item n="V."><p>Slovenci in istrski Hrvatje kot versko-nravstveno in dinastično
+                        morejo.</p>
+                  </item>
+                  <item n="V.">
+                     <p>Slovenci in istrski Hrvatje kot versko-nravstveno in dinastično
                         čuteči narod zahtevajo izvedbo politične jednakopravnosti, zlasti uvedbo
                         občne volilne pravice in pravično uredbo volilnih okrajev. Dalje naj se vsa
                         skrb obrača na zdrav napredek narodnega gospodarstva, zlasti na nezavisnost
@@ -201,8 +235,10 @@
                         hranilnice, katerim bodi <orgName>mestna hranilnica Ljubljanska</orgName>
                         središče – in na zboljšanje gospodarskih razmer poljedelskega, trgovskega,
                         obrtnega in delavskega stanu.</p>
-                     <p>V tem oziru se z veseljem pozdravlja krščansko-socijalno gibanje.</p></item>
-                  <item n="VI."><p>Konštatuje in obžaluje se, da se je deloma osobito na
+                     <p>V tem oziru se z veseljem pozdravlja krščansko-socijalno gibanje.</p>
+                  </item>
+                  <item n="VI.">
+                     <p>Konštatuje in obžaluje se, da se je deloma osobito na
                            <placeName>Kranjskem</placeName> zapustil slovenski narodni program, a
                         ustvaril drug program, v katerem se slovenska narodnost ne nahaja kot smoter
                         in kateri daje potuho popustljivosti in brezbrižnosti v narodnih vprašanjih,
@@ -212,24 +248,25 @@
                         <placeName>Ljubljani</placeName>.</p>
                      <p>Priznavajo se pa načela katoliške vere kot trden temelj razvoju slovenskega
                         naroda, ter se izreka želja, da bi na tej in na narodni podlagi zložno
-                        sodelovali vsi Slovenci v težkem boji za narodov obstanek.</p></item>
-                  <item n="VII."><p>Sedaj organizovano delovanje v vse te namene na
+                        sodelovali vsi Slovenci v težkem boji za narodov obstanek.</p>
+                  </item>
+                  <item n="VII.">
+                     <p>Sedaj organizovano delovanje v vse te namene na
                            <placeName>Koroškem</placeName>, <placeName>Primorskem</placeName> in
                            <placeName>Štajerskem</placeName> naj pripoznajo in krepko podpirajo vsi
                         Slovenci in Hrvatje.</p>
                      <p>Na <placeName rend="italic">Kranjskem</placeName> pa naj se v iste namene
                         združijo in organizujejo vsi Slovenci pod starim imenom slovenskih
-                        rodoljubov kot <orgName>»narodna stranka«</orgName>; njeno delovanje naj <hi
-                           rend="italic">vkupno z </hi>
-                        <orgName rend="italic">odborom zaupnih mož</orgName> vodi <orgName
-                           rend="italic">zvršilni odbor</orgName> v
+                        rodoljubov kot <orgName>»narodna stranka«</orgName>; njeno delovanje naj <hi rend="italic">vkupno z </hi>
+                        <orgName rend="italic">odborom zaupnih mož</orgName> vodi <orgName rend="italic">zvršilni odbor</orgName> v
                         <placeName>Ljubljani</placeName>, kateri bode tudi v neprestani delavni
                         dotiki in vzajemnosti s političnimi vodstvi izvenkranjskih Slovencev,
                         oziroma istrskih Hrvatov.</p>
                      <p>V dosego organizovanja narodnega dela in vzajemnosti med nami v vseh
                         pokrajinah naj se skrbi za jednotno postopanje narodnega časnikarstva in za
                         krepko podporo istemu v duševnem in gmotnem oziru. Posebno naj se skrbi za
-                        ustanovo skupnega organizacijskega fonda.</p></item>
+                        ustanovo skupnega organizacijskega fonda.</p>
+                  </item>
                </list>
             </div>
          </div>

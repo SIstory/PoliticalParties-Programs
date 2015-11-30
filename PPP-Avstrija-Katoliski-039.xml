@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -48,7 +48,35 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="4"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="3"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="9"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -67,14 +95,14 @@
                Hrvatje nočemo več biti dva naroda, temveč samo eden edinstveni narod v duhu programa
                blagopokojnega <persName>Ante Starčeviča</persName> in drugih naših narodnih
                veljakov. <hi rend="bold">En narod živi od benečanske planjave do romunske meje in od
-                  <geogName>Drave</geogName> in <geogName>Mure</geogName> doli do turške meje, do <placeName>Albanije</placeName></hi>. To je
+                  <geogName>Drave</geogName> in <geogName>Mure</geogName> doli do turške meje, do <placeName>Albanije</placeName>
+               </hi>. To je
                rešilna ideja, ki se je mnogokrat poudarjala od najrazsvetlenejših mož našega naroda,
                ki se pa žalibog do slej ni nikdar oživotvorila. Opatijski dnevi pa so dali tej ideji
                realno življenje. Možje, ki so se tam zbrali in ki uživajo zaupanje celega hrvaško
                slovenskega naroda se niso omejili na zagotovila medsebojne bratske ljubezni in na
                sklepanje papirnatih resolucij, temveč so si segli v roke za resno, moško delo in
-               ustvarili so takoj skupno slovensko hrvaško politično organizacijo, <hi rend="bold"
-                  >ustanovivši stalen <orgName>Hrvaško-slovenski Zvršilni Odbor</orgName>, ki naj vodi odslej
+               ustvarili so takoj skupno slovensko hrvaško politično organizacijo, <hi rend="bold">ustanovivši stalen <orgName>Hrvaško-slovenski Zvršilni Odbor</orgName>, ki naj vodi odslej
                   edinstvene politične posle hrvaško slovenskega naroda</hi>. To se pravi: odslej se
                bo delala skupna hrvaško slovenska realna politika v okviru habsburške monarhije. </p>
             <p xml:id="No.39.PPP.2">V četrtek, ko so bila zaključena opatijska posvetovanja, so se
@@ -84,9 +112,11 @@
                <placeName>Balkan</placeName>. In razširila se je hrvaška domovina preko vseh slovenskih dežel gori v
                koroške hribe in do najsevernejše slovensko-nemške jezikovne meje na
                   <placeName>Štajerskem</placeName>.</p>
-            <p xml:id="No.39.PPP.3"><hi rend="bold">Dne <date when="1912-10-20">20. oktobra</date>
+            <p xml:id="No.39.PPP.3">
+               <hi rend="bold">Dne <date when="1912-10-20">20. oktobra</date>
                   pa se snidejo v <placeName>Ljubljani</placeName> vsi državni in deželni poslanci
-                  <orgName>Hrvaške Stranke Prava</orgName> in <orgName>Slovenske Ljudske Stranke</orgName></hi>, da slovesno zapečatijo v
+                  <orgName>Hrvaške Stranke Prava</orgName> in <orgName>Slovenske Ljudske Stranke</orgName>
+               </hi>, da slovesno zapečatijo v
                imenu vesoljnega hrvaško slovenskega ljudstva pogodbo, ki so jo sklenili veljaki v
                   <placeName>Opatiji</placeName>. A predno se še to zgodi, bode, o tem ne dvomimo,
                ves hrvaško slovenski narod radostno odobril nerazrušljivo zvezo, ki se je sklenila

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -55,7 +55,39 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="hi" occurs="20"/>
+               <tagUsage gi="item" occurs="11"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="24"/>
+               <tagUsage gi="p" occurs="13"/>
+               <tagUsage gi="persName" occurs="3"/>
+               <tagUsage gi="placeName" occurs="13"/>
+               <tagUsage gi="q" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -67,35 +99,44 @@
          <div xml:id="No.137.PPP">
             <opener>O ustanovnem zboru narodnega sveta v Ljubljani se je izdal
                naslednji<lb/>komunike:</opener>
-            <p>Ustanovni zbor <orgName>Narodnega sveta v <placeName>Ljubljani</placeName></orgName> se je vršil dne
+            <p>Ustanovni zbor <orgName>Narodnega sveta v <placeName>Ljubljani</placeName>
+               </orgName> se je vršil dne
                   <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta 1918.</date> v
                posvetovalnici mestnega magistrata ljubljanskega. <orgName>Narodni svet</orgName> se je sestavil iz
                odposlancev, ki so jih imenovale sledeče organizacije: 1. <orgName>Vseslovenska ljudska
                stranka</orgName>; 2. <orgName>Jugoslovanska demokratska stranka</orgName>; 3. <orgName>Jugoslovanska socijalno-demokratska
                stranka</orgName>, ki sicer ne pošlje svojih delegatov kot članov <orgName>N. S.</orgName>, a se bo delovanja <orgName>N.
-               S.</orgName> vendar udeleževala; 4. <orgName>Tržaško politično društvo <title>Edinost</title></orgName>; 5. <q><orgName>Politično
-                  in gospodarsko društvo za Slovence in Hrvate v <placeName>Istri</placeName></orgName></q>;
-               6. <q><orgName>Katoliško politično in gospodarsko društvo za Slovence na
-                     <placeName>Koroškem</placeName></orgName></q>. <placeName>Dalmacija</placeName> sicer ne
+               S.</orgName> vendar udeleževala; 4. <orgName>Tržaško politično društvo <title>Edinost</title>
+               </orgName>; 5. <q>
+                  <orgName>Politično
+                  in gospodarsko društvo za Slovence in Hrvate v <placeName>Istri</placeName>
+                  </orgName>
+               </q>;
+               6. <q>
+                  <orgName>Katoliško politično in gospodarsko društvo za Slovence na
+                     <placeName>Koroškem</placeName>
+                  </orgName>
+               </q>. <placeName>Dalmacija</placeName> sicer ne
                pristopi formalno k ljubljanskemu <orgName>N. S.</orgName>, ker bi se vsled prevelikih prometnih težkoč
                dalmatinskim poslancem ne bilo mogoče udeleževati sej <orgName>N. S.</orgName>, vendar je poslala svoje
                delegate k ustanovnemu zboru <orgName>N. S.</orgName> Nekateri delegati pa bodo redno prihajali k
                posvetovanjem <orgName>N. S.</orgName> v <placeName>Ljubljano</placeName>.</p>
-            <p><orgName>Narodni svet v <placeName>Ljubljani</placeName></orgName> se smatra kot del <hi rend="italic"
-                  >vseobčega <orgName>Jugoslovanskega narodnega odbora</orgName></hi>, ki se bo v kratkem sešel v <hi
-                  rend="italic"><placeName>Zagrebu</placeName></hi>.</p>
+            <p>
+               <orgName>Narodni svet v <placeName>Ljubljani</placeName>
+               </orgName> se smatra kot del <hi rend="italic">vseobčega <orgName>Jugoslovanskega narodnega odbora</orgName>
+               </hi>, ki se bo v kratkem sešel v <hi rend="italic">
+                  <placeName>Zagrebu</placeName>
+               </hi>.</p>
             <p>Na zboru, ki se je vršil <date from="1918-08-16" to="1918-08-17">16. in 17. avgusta
                   1918</date>., je najprej sklicatelj dr. <persName>Ant. Korošec</persName> opisal
-                  <hi rend="italic">splošni politični položaj</hi> in razvijal <hi rend="italic"
-                  >vodilne ideje</hi>, ki so privedle do ustanovitve Narodnega sveta.</p>
+                  <hi rend="italic">splošni politični položaj</hi> in razvijal <hi rend="italic">vodilne ideje</hi>, ki so privedle do ustanovitve Narodnega sveta.</p>
             <p>Velike nove ideje so z zmagovito silo nastopile posebno ob koncu tretjega leta
                svetovne vojske. Bliža se novi vek človeštva. <hi rend="italic">Kruta sila meča je do
                   sedaj gospodovala</hi> in urejevala svet. Narod, ki je imel močnejše in srečnejše
                orožje, je neusmiljeno tlačil šibkejšega. Vera v meč je dosegla vrhunec v svetovni
                vojski. Preživeli smo trenutke, ko se je zdelo da bo i nadalje surova sila vladala
                nad celim človeštvom. Danes je ta vera v meč za večne čase obsojena. Križano
-               človeštvo vstaja k novemu življenju, k življenju pravice in človekoljublja. <hi
-                  rend="italic">Ne na krvavih bojiščih, ampak z razumom, oplojenim s
+               človeštvo vstaja k novemu življenju, k življenju pravice in človekoljublja. <hi rend="italic">Ne na krvavih bojiščih, ampak z razumom, oplojenim s
                      <persName>Kristusovo</persName> ljubeznijo, naj se v bodoče urede razmere med
                   posameznimi narodi sveta</hi>.</p>
             <p>Nešteti potoki prelite krvi so ustvarili vzvišeno idejo o svetovni pravičnosti. Izraz
@@ -112,10 +153,10 @@
                propadlo, zgubili smo svobodo ter postali tlačani. V dobi tlačanstva smo se sicer
                zavedali, da smo Slovenci, da smo tesno spojeni po krvi, veri in jeziku in kulturi, a
                gospodovali so nam tujci sebi v prid. Državne pravice, katere je užival in izvrševal
-               slovenski narod v svoji državi, so prešle za več kot tisoč let v tuje roke. <hi
-                  rend="italic">Samoodločba narodov nam jih bode zopet vrnila, ter združila troimeni
+               slovenski narod v svoji državi, so prešle za več kot tisoč let v tuje roke. <hi rend="italic">Samoodločba narodov nam jih bode zopet vrnila, ter združila troimeni
                   narod Slovencev, Hrvatov in Srbov v samostojno veliko državo
-                     <placeName>Jugoslavijo</placeName></hi>.</p>
+                     <placeName>Jugoslavijo</placeName>
+               </hi>.</p>
             <p>Narod, ki hoče biti nositelj države, ki hoče prevzeti in izvrševati državne pravice v
                blagor ljudstva, mora <hi rend="italic">zbrati vse državnotvorne moči v enoto</hi>.
                Stranke morajo izložiti vprašanja, dotikajoča se usode vsega naroda iz svojega
@@ -123,8 +164,9 @@
                svet zlasti zato, da bo pripravljen na oni zgodovinski trenutek, <hi rend="italic">ko
                   prevzame skupno z Hrvati in Srbi vse pravice in dolžnosti državne
                   samostojnosti</hi>.</p>
-            <p>Predsednikovemu poročilu je sledila temeljita debata, po kateri se je redigiral <hi
-               rend="italic">pravilnik <orgName>N. S.</orgName></hi></p>
+            <p>Predsednikovemu poročilu je sledila temeljita debata, po kateri se je redigiral <hi rend="italic">pravilnik <orgName>N. S.</orgName>
+               </hi>
+            </p>
             <p>Po tem pravilniku je glavni namen <orgName>N. S.</orgName> delo za ujedinjenje jugoslovanskega naroda v
                samostojno državo.</p>
             <p>Razen tega je namen <orgName>N. S.</orgName>:</p>
@@ -135,38 +177,47 @@
                <item n="c)">reprezentacija naroda in pospešavanje narodnih koristi na zunaj,
                   dogovorno s parlamentarno delegacijo.</item>
             </list>
-            <p><orgName>N. S.</orgName> bo imel tudi nalogo, sklepati in odločevati o vseh zadevah, ki jih v <orgName>N. S.</orgName>
+            <p>
+               <orgName>N. S.</orgName> bo imel tudi nalogo, sklepati in odločevati o vseh zadevah, ki jih v <orgName>N. S.</orgName>
                zastopani činitelji priznajo za skupne.</p>
-            <p>Da bo mogel <orgName>N. S.</orgName> izvršiti vse to, so se izvolili sledeči <hi rend="italic"
-                  >odseki</hi>:</p>
+            <p>Da bo mogel <orgName>N. S.</orgName> izvršiti vse to, so se izvolili sledeči <hi rend="italic">odseki</hi>:</p>
             <list rend="numbered">
-               <item n="1."><hi rend="italic">Organizacijski odsek</hi> bo pomagal predsedstvu pri
+               <item n="1.">
+                  <hi rend="italic">Organizacijski odsek</hi> bo pomagal predsedstvu pri
                   organizaciji in bo izdelal načrt za preuredbo skupne narodne organizacije v
                   sporazumu s strankami. Ta odsek bode organiziral delo, ki ga bodo vršili posamezni
                   okraji in občine.</item>
-               <item n="2."><hi rend="italic">Ustavno-pravni odsek</hi> se bo pečal s temelji bodoče
+               <item n="2.">
+                  <hi rend="italic">Ustavno-pravni odsek</hi> se bo pečal s temelji bodoče
                   ustave in uprave.</item>
-               <item n="3."><hi rend="italic">Odsek za propagando</hi> bo pojasnjeval ožji in širši
+               <item n="3.">
+                  <hi rend="italic">Odsek za propagando</hi> bo pojasnjeval ožji in širši
                   javnosti naše cilje.</item>
-               <item n="4."><hi rend="italic">Odsek za varstvo naših interesov napram obstoječi
+               <item n="4.">
+                  <hi rend="italic">Odsek za varstvo naših interesov napram obstoječi
                      administraciji</hi>. Ta odsek se bo bavil z borbo za enakopravnost našega
                   jezika v šolah, uradih in vsem javnem življenju.</item>
-               <item n="5."><hi rend="italic">Odsek za gospodarsko koncentracijo</hi> bo zbiral naše
+               <item n="5.">
+                  <hi rend="italic">Odsek za gospodarsko koncentracijo</hi> bo zbiral naše
                   gospodarske sile in jih smotrno vodil. Za sedaj bo posebno pažnjo posvečal
                   prehrani onih krajev naše domovine, ki so v tem pogledu potrebni nujne pomoči,
                   obnovi naših po vojni opustošenih dežel ter vsem vprašanjem prehodnega
                   gospodarstva.</item>
-               <item n="6."><hi rend="italic">Odsek za tujski promet, takozvani
-                     <q>Jugopromet</q></hi>, bo skrbel za organizacijo in upravo tujskega prometa,
+               <item n="6.">
+                  <hi rend="italic">Odsek za tujski promet, takozvani
+                     <q>Jugopromet</q>
+                  </hi>, bo skrbel za organizacijo in upravo tujskega prometa,
                   železniških, avtomobilnih in parobrodnih zvez, za propagando lepote našega ozemlja
                   in za pospeševanje trgovških in prometnih zvez.</item>
-               <item n="7."><hi rend="italic">Pokrajinski odseki</hi> za
+               <item n="7.">
+                  <hi rend="italic">Pokrajinski odseki</hi> za
                   <placeName>Trst</placeName>, <placeName>Istro</placeName>,
                      <placeName>Goriško</placeName>, <placeName>Koroško</placeName> in za
                      <placeName>Maribor</placeName>, eventualno s pododsekom za Prekmurce. Vsi ti
                   odseki bodo pripravljali gradivo, da se ugotove slovenske meje. Ti odseki bodo
                   tudi skušali odpomoči prebivalstvu tudi v gospodarskih potrebah.</item>
-               <item n="8."><hi rend="italic">Finančni odsek</hi> bo skrbel za pokritje izdatkov
+               <item n="8.">
+                  <hi rend="italic">Finančni odsek</hi> bo skrbel za pokritje izdatkov
                   Narodnega sveta.</item>
             </list>
             <p>Debata je bila živahna, vsi sklepi so se vršili soglasno. Predsednikom se je izvolil

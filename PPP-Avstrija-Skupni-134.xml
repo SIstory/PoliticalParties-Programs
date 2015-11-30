@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -56,7 +56,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="7"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="geogName" occurs="3"/>
+               <tagUsage gi="item" occurs="4"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="6"/>
+               <tagUsage gi="p" occurs="23"/>
+               <tagUsage gi="persName" occurs="5"/>
+               <tagUsage gi="placeName" occurs="16"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -81,8 +111,7 @@
             <p xml:id="No.134.PPP.3">Pošto je na telegrafsku okružnicu <orgName>Sovjeta narodnih povjerenika</orgName>
                   <date when="1917-11-28">28. novembra 1917</date>. austro-ugarska vlada bila
                izjavila, da pristaje na načela ruskog programa za mir bez aneksija i ratnih naknada,
-               uz obezbijeđenje prava na narodno samoopredeljenje, svečano su izjavile <date
-                  when="1917-12-03">3. decembra 1917.</date> jugoslovenske delegacije u
+               uz obezbijeđenje prava na narodno samoopredeljenje, svečano su izjavile <date when="1917-12-03">3. decembra 1917.</date> jugoslovenske delegacije u
                   <placeName>Beču</placeName> i u <placeName>Zagrebu</placeName>, zajedno s
                predstavnicima češkog i ukrajinskog naroda, u prisustvu austro-ugarske zajedničke
                vlade, da će da istraju u potpunom i čistom izvođenju prava na samoopredjeljenje
@@ -122,8 +151,9 @@
             <p xml:id="No.134.PPP.10">Kad je buknula ruska revolucija te se činilo da puca zora
                slobode za proletare među narodima, osokolio se naš narod i poče otvorenu borbu za
                svoju nezavisnost. Dne <date when="1917-05-30">30. maja</date> pročitao je
-               predsjednik <orgName>Jugoslovenskog kluba</orgName><note place="foot" source="#SourceBornDigital"
-                     ><persName>Dr. Anton Korošec</persName>.</note> u bečkoj zastupničkoj kući
+               predsjednik <orgName>Jugoslovenskog kluba</orgName>
+               <note place="foot" source="#SourceBornDigital">
+                  <persName>Dr. Anton Korošec</persName>.</note> u bečkoj zastupničkoj kući
                   izjavu,<note place="foot" source="#SourceBornDigital">Glej dok. št. 132.</note> u
                kojoj se traži ujedinjenje svih krajeva monarhije, u kojima su nastanjeni Slovenci,
                Hrvati i Srbi u jedno, samostalno, od svakog gospodstva tuđega naroda slobodno, na

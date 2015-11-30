@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -51,7 +51,36 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="hi" occurs="7"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName 
@@ -61,7 +90,10 @@
    <text>
       <body>
          <div xml:id="No.139.PPP">
-            <opener><dateline><placeName>Ljubljana</placeName>, <date>o Veliki noči 1904</date></dateline>.</opener>
+            <opener>
+               <dateline>
+                  <placeName>Ljubljana</placeName>, <date>o Veliki noči 1904</date>
+               </dateline>.</opener>
             <p>Ni se nam treba sklicavati na slavnega socijologa <persName>Sombarta</persName>, kratek vpogled v
                povestnico človeštva nas uči, da leži glavni vzrok vseh zgodovinskih dogodkov
                deloma v nasprotstvih med posameznimi narodi, deloma v nasprotstvih, ki
@@ -81,8 +113,7 @@
                sloj nositelj narodnosti; na drugi strani pa prihaja spoznanje, da o narodovi
                sreči ni govora, če je le jeden sloj izobražen in premožen, kedar jeden sloj
                izrablja drugega krivičnim gospodarskim redom. Tako si narodna in socijalna
-               ideja medsebojno ne nasprotujeta, se ne križata, ampak se močno <hi
-                  rend="italic">spopolnjujeta</hi>.</p>
+               ideja medsebojno ne nasprotujeta, se ne križata, ampak se močno <hi rend="italic">spopolnjujeta</hi>.</p>
             <p>Tako je tudi na <placeName>Slovenskem</placeName>. Da imamo borbo za narodni obstanek, tega ni treba
                povdariti. A da imamo tudi svoja socijalna vprašanja, na to se nam zdi vredno
                posebej opozarjati. Samo propad našega kmetskega stanu, kjer je emigracija tako
@@ -103,10 +134,8 @@
                je le del narodnega dela, ki naj bo <hi rend="italic">vsestransko</hi>, pri
                čemer moramo danes socijalno-ekonomsko delo tem bolj povdarjati, čim jačji je v
                tem pogledu postal naš nasprotnik, ki danes pretežno s tem sredstvom proti nam
-               nastopa. Tudi nam je postulat pravega nacijonalizma, da smo <hi rend="italic"
-                  >demokratski</hi>, t. j. o napredku naroda je možno govoriti le tedaj, če
-               napredujejo vsi deli naroda, če se torej povzdigne izobrazba <hi rend="italic"
-                  >vsega</hi> naroda in če v narodu ni gospodarskega izrabljanja razreda po
+               nastopa. Tudi nam je postulat pravega nacijonalizma, da smo <hi rend="italic">demokratski</hi>, t. j. o napredku naroda je možno govoriti le tedaj, če
+               napredujejo vsi deli naroda, če se torej povzdigne izobrazba <hi rend="italic">vsega</hi> naroda in če v narodu ni gospodarskega izrabljanja razreda po
                razredu. V gibanju za vsakomur pristopno izobrazbo in v rastočem zadružnem,
                občinskem in državnem gospodarstvu vidimo kali za izjednačevanje predpogojev za
                kulturni in gospodarski napredek vsakega posameznika.</p>
@@ -128,7 +157,8 @@
                treba našemu narodu izobražencev, ki imajo utemeljeno, ne slučajno prepričanje,
                ki ga ne znajo braniti le s fanatično intoleranco, ne z argumenti čuvstva, ampak
                razuma, ki ga znajo tudi realizovati.</p>
-            <p><title>Omladina</title> bo prinašala pred vsem članke, ki se tičejo položaja dijaštva. Stala
+            <p>
+               <title>Omladina</title> bo prinašala pred vsem članke, ki se tičejo položaja dijaštva. Stala
                mu bo na strani pri njegovem stremljenju za izboljšanje gmotnega stanja. Vestno
                bo zasledovala naše vseučiliščno vprašanje. Izogniti pa se ne more politiškim
                vprašanjem: dijaka ne vzgaja le šola, ampak življenje, in vsak dogodek v javnem

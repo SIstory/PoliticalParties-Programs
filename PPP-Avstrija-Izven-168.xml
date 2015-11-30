@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,7 +52,32 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="5"/>
+               <tagUsage gi="head" occurs="5"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="8"/>
+               <tagUsage gi="p" occurs="5"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -66,11 +91,9 @@
             <p>je v svoji načelstveni seji dne 3. julija sklenila sledeče:</p>
             <div xml:id="No.168.PPP.1">
                <head>I.</head>
-               <p><orgName>Slovenska Kmečka Stranka</orgName> se ponovno izjavlja za deklaracijo od <date
-                     when="1917-05-30">30. maja</date>,<note place="foot"
-                     source="#SourceBornDigital">Glej dok št. 132.</note> obsoja pa vsako kvarjenje
-                  pravega smisla majniške deklaracije,<note place="foot" source="#SourceBornDigital"
-                     >Glej dok št. 132.</note> zlasti pa razlaganje te deklaracije v tem smislu,
+               <p>
+                  <orgName>Slovenska Kmečka Stranka</orgName> se ponovno izjavlja za deklaracijo od <date when="1917-05-30">30. maja</date>,<note place="foot" source="#SourceBornDigital">Glej dok št. 132.</note> obsoja pa vsako kvarjenje
+                  pravega smisla majniške deklaracije,<note place="foot" source="#SourceBornDigital">Glej dok št. 132.</note> zlasti pa razlaganje te deklaracije v tem smislu,
                   kakor da bi slovenski narod bil omajan v svoji zvestobi do cesarske hiše in bi
                   imel kak stik z veleizdajsko agitacijo, ki jo širijo uskoki iz nam sovražnih
                   držav. Ta brezvestna agitacija je glavni vzrok, da se vojska od dne do dne
@@ -80,7 +103,8 @@
             </div>
             <div xml:id="No.168.PPP.2">
                <head>II.</head>
-               <p><orgName>SKS.</orgName> odobrava nastop deželnega odbora proti veleizdajskemu hujskanju in pozivlja
+               <p>
+                  <orgName>SKS.</orgName> odobrava nastop deželnega odbora proti veleizdajskemu hujskanju in pozivlja
                   vse občine, da naj ne poslušajo brezvestnega hujskanja slabega časopisja, ki je že
                   doslej prizadejalo slovenskemu narodu največjo škodo, in se naj pridružijo v
                   polnem obsegu s tej prepotrebni resoluciji, ki naj pred svetom zopet reši čast
@@ -88,7 +112,8 @@
             </div>
             <div xml:id="No.168.PPP.3">
                <head>III.</head>
-               <p><orgName>SKS.</orgName> najodločneje obsoja podle napade slabega časopisja na deželni odbor, ki se je
+               <p>
+                  <orgName>SKS.</orgName> najodločneje obsoja podle napade slabega časopisja na deželni odbor, ki se je
                   izkazal med vojsko kot edini branitelj našega ljudstva in naših županstev.
                   Hujskanje občin na nepokorščino proti najvišji avtonomni oblasti v deželi je
                   podiranje edinega stebra na katerega se opirajo svoboščine in pravice našega
@@ -98,7 +123,8 @@
             </div>
             <div xml:id="No.168.PPP.4">
                <head>IV.</head>
-               <p><orgName>SKS.</orgName> pozivlje svoje deželne poslance, da ustanove svoj klub, ki naj v slogi z
+               <p>
+                  <orgName>SKS.</orgName> pozivlje svoje deželne poslance, da ustanove svoj klub, ki naj v slogi z
                   deželnim odborom in z vodstvom <orgName>SKS.</orgName> Zastopa gospodarske in politične koristi
                   našega ljudstva.</p>
             </div>

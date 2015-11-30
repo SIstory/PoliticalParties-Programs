@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -49,7 +49,38 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="hi" occurs="4"/>
+               <tagUsage gi="item" occurs="11"/>
+               <tagUsage gi="list" occurs="3"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="p" occurs="3"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="soCalled" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -64,10 +95,11 @@
             <div>
                <head n="B.">Resolucija o svobodni šoli.</head>
                <p xml:id="No.146.PPP.1">II. shod <orgName>narodno-radikalnega dijaštva</orgName> se pridružuje ideji
-                     <hi rend="italic"><soCalled>Svobodne šole</soCalled></hi>. Svobodna šola je
+                     <hi rend="italic">
+                     <soCalled>Svobodne šole</soCalled>
+                  </hi>. Svobodna šola je
                   ideal šole, ki hoče podeljevati gojencem pridobitve civilizacije na tak način, da
-                  ne krši individualnih zmožnosti, temveč jim da vse pogoje, da se razvijajo <hi
-                     rend="italic">svobodno</hi>.</p>
+                  ne krši individualnih zmožnosti, temveč jim da vse pogoje, da se razvijajo <hi rend="italic">svobodno</hi>.</p>
                <p xml:id="No.146.PPP.2">V doslednosti te elementarne vzgojeslovne zahteve treba
                   odstraniti <hi rend="italic">vse</hi>, kar ovira, da se šolstvo ne razvija v tem
                   smislu. Predvsem zahtevamo:</p>
@@ -79,14 +111,16 @@
                      direktne volilne pravice. Vsi šolskoupravni organi v jezikovno mešanih krajih
                      naj bodo, dokler se ne ugodu naši fundamentalni zahtevi po narodni avtonomiji,
                      deljeni po narodnostih;</item>
-                  <item n="III."><list rend="ordered">
+                  <item n="III.">
+                     <list rend="ordered">
                         <item n="a)">odstranitev šolnine in pristojbin na vseh šolah – od najnižje
                            do najvišje. Učila naj bodo za nepremožne učence brezplačna;</item>
                         <item n="b)">znižanje števila učencev pod enim učiteljem in uredbo šol po
                            modernih zdravstvenih zahtevah;</item>
                      </list>
                   </item>
-                  <item n="IV."><list rend="numbered">
+                  <item n="IV.">
+                     <list rend="numbered">
                         <item n="a)">višjo izobrazbo učiteljstva;</item>
                         <item n="b)">njega pedagogično neodvisnost;</item>
                         <item n="c)">njega državljansko svobodo in enakopravnost z drugimi stanovi,

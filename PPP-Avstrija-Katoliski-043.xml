@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,37 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="6"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="12"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="10"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="13"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -86,12 +116,12 @@
                sprejeti, se pošljejo narodno-politični zbornici, ki jih en bloc sprejme ali odkloni.
                Pred narodno-politično zbornico prihajajo najprej državno-politični zakonski načrti,
                nakar jih socialno-politična zbornica sprejme ali odkloni en bloc.</p>
-            <p xml:id="No.43.PPP.2">Centralni parlament ima torej eminetno <hi rend="bold"
-                  >politično</hi> nalogo: vprašanja ustave, zunanje politike, narodne brambe ter
+            <p xml:id="No.43.PPP.2">Centralni parlament ima torej eminetno <hi rend="bold">politično</hi> nalogo: vprašanja ustave, zunanje politike, narodne brambe ter
                   veliko<hi rend="bold"> okvirno</hi> zakonodajstvo: finančno, prosvetno, socialno,
                notranje uprave itd.; v okviru teh zakonov se mora razviti samouprava. V glavnem bi
                torej imel centralni parlament takozvane pragmatične posle.</p>
-            <p xml:id="No.43.PPP.3"><hi rend="bold">Ekonomski</hi> moment bi se moral vpoštevati pri
+            <p xml:id="No.43.PPP.3">
+               <hi rend="bold">Ekonomski</hi> moment bi se moral vpoštevati pri
                ustvarjanju provinc. Mislim, da bi bilo za celo državo treba 10 do 12 takih
                organizmov. Le-ti bi imeli s svojimi pokrajinskimi zbori nalogo, da skrbe za povzdigo
                gospodarstva: za kmetijsko produkcijo, industrijo, železnice, ceste itd. Zato morajo
@@ -106,8 +136,7 @@
                ter bodo padli ti kraji, recimo, v zagorsko gospodarsko sfero itd. Ker se gospodarski
                interesi tako srbskega in hrvatskega kakor tudi slovenskega kmeta ali delavca vedno
                strinjajo, je očito, da v pokrajinskih saborih ne bo nacionalnih bojev.</p>
-            <p xml:id="No.43.PPP.4">Glavna točka za spor med Hrvati in Srbi je različnost <hi
-                  rend="bold">kulturnih</hi> tendenc. Zato treba boj lokalizirati ter ga izločiti iz
+            <p xml:id="No.43.PPP.4">Glavna točka za spor med Hrvati in Srbi je različnost <hi rend="bold">kulturnih</hi> tendenc. Zato treba boj lokalizirati ter ga izločiti iz
                parlamenta, kjer bi se moglo zgoditi, da bi Hrvati in Srbi naenkrat vstali drug proti
                drugemu kot dve sovražni si fronti, kar bi bil pogin za državo, ker bi naši zunanji
                in notranji sovražniki tak položaj izkoristili, da bi prišlo do zmede, iredente in
@@ -158,7 +187,8 @@
                javnopravni značaj; nadalje ne sme biti državne cerkve. Vsem verskim družbam sploh se
                mora dati popolna avtonomija, a država naj se čim manj vtika v njihove posle.</p>
             <gap reason="irrelevant" xml:id="No.43.PPP.10"/>
-            <p xml:id="No.43.PPP.11"><hi rend="bold">Hegemonijo</hi>
+            <p xml:id="No.43.PPP.11">
+               <hi rend="bold">Hegemonijo</hi>
                <corr>v državi</corr> bo imel sposobnejši; ako bodo to Srbi, je tudi prav, da jo
                imajo. Ako mislite, da bodo radi svoje številne premoči imeli vedno odločujočo besedo
                v centralnem parlamentu, potem ne vpoštevate nekaterih stvari. Vzemimo, da je država
@@ -190,7 +220,8 @@
                reprezentant, toda nima pravice sankcionirati zakonov. Vendar so tri načela tega
                troimenega naroda, ki ga morajo voditi v bodočnost: <hi rend="bold">en narod, en
                   vladar, ena država od <placeName>Beljaka</placeName> do
-                     <placeName>Soluna</placeName> in mnogo, mnogo svobode!</hi></p>
+                     <placeName>Soluna</placeName> in mnogo, mnogo svobode!</hi>
+            </p>
          </div>
       </body>
    </text>

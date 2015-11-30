@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -49,7 +49,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="4"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="3"/>
+               <tagUsage gi="item" occurs="3"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -63,13 +90,16 @@
             <div xml:id="No.122.PPP.1">
                <head>I.</head>
                <list rend="numbered">
-                  <item n="1.)"><orgName>Deželni zbor</orgName> se izreka za načelo splošne, enake, neposredne in tajne
+                  <item n="1.)">
+                     <orgName>Deželni zbor</orgName> se izreka za načelo splošne, enake, neposredne in tajne
                      volilne pravice pri volitvah v deželni zbor in v poslansko zbornico državnega
                      zbora, ter uvideva nujno potrebo, da se izvrši čimpreje volilna preosnova, ki
                      oživotvori označena načela.</item>
-                  <item n="2.)"><orgName>C. kr. osrednja vlada</orgName> se pozivlje, da nemudoma predloži državnemu
+                  <item n="2.)">
+                     <orgName>C. kr. osrednja vlada</orgName> se pozivlje, da nemudoma predloži državnemu
                      zboru zakonski načrt v pod 1. označenem zmislu.</item>
-                  <item n="3.)"><orgName>C. kr. vlada</orgName> se pozivlje, da nujno izdela zakonska načrta o
+                  <item n="3.)">
+                     <orgName>C. kr. vlada</orgName> se pozivlje, da nujno izdela zakonska načrta o
                      spremembi deželnega reda in deželnega volilnega reda v pod 1. navedenem zmislu
                      in ju predloži deželnemu zboru, ki naj se baš v svrho sklepanja o teh zakonskih
                      načrtih skliče v izredno zasedanje vsaj meseca <date when="1906-01">januarja 1906</date>.</item>
@@ -86,7 +116,8 @@
             </div>
             <div xml:id="No.122.PPP.3">
                <head>III.</head>
-               <p><orgName>C. kr. osrednja vlada</orgName> se pozivlje skrbeti za to, da se v vsakem slučaju, enodobno
+               <p>
+                  <orgName>C. kr. osrednja vlada</orgName> se pozivlje skrbeti za to, da se v vsakem slučaju, enodobno
                   z oživotvorjenjem novih volilnih redov uveljavi tudi poseben zakon v osiguranje
                   popolne svobode vsacega k volitvi upravičenega državljana. </p>
             </div>

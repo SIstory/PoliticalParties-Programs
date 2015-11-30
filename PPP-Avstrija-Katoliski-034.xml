@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,35 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="4"/>
+               <tagUsage gi="item" occurs="3"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="2"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -59,22 +87,22 @@
             <head>Slovenska Ljudska Stranka na Goriškem.</head>
             <gap reason="irrelevant"/>
             <list rend="numbered" xml:id="No.34.PPP">
-               <item n="1.)">Zbor zaupnikov <q><orgName>S. L. S.</orgName></q> na <placeName>Goriškem</placeName> se
+               <item n="1.)">Zbor zaupnikov <q>
+                     <orgName>S. L. S.</orgName>
+                  </q> na <placeName>Goriškem</placeName> se
                   čuti solidarnim z delavci v nabrežinskih kamnolomih. Delavci so sedaj odpuščeni,
                   brez dela ter izpostavljeni največjemu pomanjkanju. – Zbor zaupnikov se obrača po
                   svojih poslancih na vlado, da takoj priskoči brezposelnim delavcem na pomoč z
                   denarno podporo, dokler nimajo v domovini primernega zaslužka. – </item>
                <item n="2.)">Zbor zaupnikov nalaga svojim poslancem sveto dolžnost, naj se varuje
                   domače delavstvo pred invazijo tujcev, ki domačemu delavstvu jemljejo in
-                  izpodkopujejo kruh. – V dosego te naloge je potrebno, da se uvede visok <hi
-                     rend="italic">delavski davek za vse delavce iz tujine</hi>. – </item>
+                  izpodkopujejo kruh. – V dosego te naloge je potrebno, da se uvede visok <hi rend="italic">delavski davek za vse delavce iz tujine</hi>. – </item>
                <item n="3.)">V <placeName>Tržiču</placeName> dela vlada nov arzenal na stroške
                   avstrijskih državljanov. Pri tem toli imenitno patrijotičnem delu so uposleni v
                   veliki večini sami Italijani iz kraljestva. Slovencev ali sploh avstrijskih
                   Italijanov se niti ne sprejema. Zbor zaupnikov zahteva po svojih poslancih od
                   vlade, naj ista <hi rend="italic">takoj</hi> potrebno ukrene, da dobe zaslužka v
-                  arsenalu v <hi rend="italic">prvi vrsti domačini</hi> in še le <hi rend="italic"
-                     >potem tujci</hi>. – </item>
+                  arsenalu v <hi rend="italic">prvi vrsti domačini</hi> in še le <hi rend="italic">potem tujci</hi>. – </item>
             </list>
             <gap reason="irrelevant"/>
          </div>

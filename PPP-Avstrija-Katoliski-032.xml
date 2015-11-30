@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,34 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="2"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="5"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -57,10 +84,13 @@
    <text>
       <body>
          <div>
-            <head><orgName>Slovenska kmečka zveza</orgName>.</head>
+            <head>
+               <orgName>Slovenska kmečka zveza</orgName>.</head>
             <gap reason="irrelevant"/>
             <p xml:id="No.32.PPP.1">Spodnještajerski slovenski kmetje, zbrani na ustanovnem zboru
-                  <q><orgName>Slovenske kmečke zveze</orgName></q>, slovesno izjavljajo, da vkljub vsem gonjam zadnjega
+                  <q>
+                  <orgName>Slovenske kmečke zveze</orgName>
+               </q>, slovesno izjavljajo, da vkljub vsem gonjam zadnjega
                časa trdno in nepremično vstrajajo na dosedanjem verskem in narodnem programu
                spodnještajerskih Slovencev:</p>
             <p xml:id="No.32.PPP.2">istotako slovesno izjavljajo, da bodo povsod in z vsemi silami
@@ -70,12 +100,16 @@
             <p xml:id="No.32.PPP.3">zahtevajo od sedanje vlade, da ne odpre mej tuji živini in
                prekomorskemu mesu, ker bi to pomenilo hud udarec za našo živinorejo in blagostanje
                kmečkega stanu;</p>
-            <p xml:id="No.32.PPP.4"><hi rend="italic">naročajo odboru, naj strogo pazi na to, da
+            <p xml:id="No.32.PPP.4">
+               <hi rend="italic">naročajo odboru, naj strogo pazi na to, da
                   bodo pri prihodnjih volitvah kandidatje za državni zbor priznali brezpogojno
                   kmečki program ter se ozirali na versko in narodno mišljenje slovenskega
                   kmeta.</hi>
-               <gap reason="irrelevant"/></p>
-            <p xml:id="No.32.PPP.5"><hi rend="italic">Z Bogom! Na delo!</hi></p>
+               <gap reason="irrelevant"/>
+            </p>
+            <p xml:id="No.32.PPP.5">
+               <hi rend="italic">Z Bogom! Na delo!</hi>
+            </p>
             <gap reason="irrelevant"/>
          </div>
       </body>

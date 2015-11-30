@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,36 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="3"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="22"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="5"/>
+               <tagUsage gi="p" occurs="11"/>
+               <tagUsage gi="persName" occurs="16"/>
+               <tagUsage gi="placeName" occurs="12"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -65,34 +94,60 @@
          <div>
             <head>Hrvaško-slovenska edinost.</head>
             <p>Prepozno za včerajšnji list, sprejeli smo sledeči velevažni komunike:</p>
-            <p xml:id="No.38.PPP.1"><hi rend="italic"><placeName>Opatija</placeName>, <date
-                     when="1912-09-19">19. septembra</date></hi>. Na povabilo obojnih strankinih
-               vodstev zbrali so se v <placeName>Opatiji</placeName> zaupniki <hi rend="italic"
-                  ><orgName>Stranke Prava</orgName></hi>, za vse hrvaške dežele in <hi rend="italic"><orgName>Vseslovenske
-                  Ljudske Stranke</orgName></hi> k političnemu posvetu. </p>
-            <p xml:id="No.38.PPP.2">Posvetovanja so se vršila včeraj in danes (<date
-                  from="1912-09-18" to="1912-09-19">18. in 19. septembra</date>) v dvorani pod
+            <p xml:id="No.38.PPP.1">
+               <hi rend="italic">
+                  <placeName>Opatija</placeName>, <date when="1912-09-19">19. septembra</date>
+               </hi>. Na povabilo obojnih strankinih
+               vodstev zbrali so se v <placeName>Opatiji</placeName> zaupniki <hi rend="italic">
+                  <orgName>Stranke Prava</orgName>
+               </hi>, za vse hrvaške dežele in <hi rend="italic">
+                  <orgName>Vseslovenske
+                  Ljudske Stranke</orgName>
+               </hi> k političnemu posvetu. </p>
+            <p xml:id="No.38.PPP.2">Posvetovanja so se vršila včeraj in danes (<date from="1912-09-18" to="1912-09-19">18. in 19. septembra</date>) v dvorani pod
                kupljo hotela <q>Stefanie</q>.</p>
             <p xml:id="No.38.PPP.3">Navzoči: Iz <placeName>Hrvatske</placeName> rector
-                  magnificus<note source="#SourceBornDigital">Rektor univerze.</note> dr. <hi
-                  rend="italic"><persName>Pazman</persName></hi> iz <placeName>Zagreba</placeName>,
-               poslanca razpuščenega sabora <hi rend="italic"><persName>Cezar Akačič</persName></hi>
-               in <hi rend="italic"><persName>Stjepan Zagorac</persName></hi>, nadalje glavni
-               urednik prof. <hi rend="italic"><persName>Segvić</persName></hi>; iz
-                  <placeName>Kranjske</placeName> poslanci dr. <hi rend="italic"
-                     ><persName>Šusteršič</persName></hi>, <hi rend="italic"
-                     ><persName>Povše</persName></hi> in <hi rend="italic"
-                  ><persName>Jarc</persName></hi>; iz <placeName>Dalmacije</placeName> poslanca don
-                  <hi rend="italic"><persName>Prodan</persName></hi> in dr. <hi rend="italic"
-                     ><persName>Drinković</persName></hi>; iz <placeName>Koroške</placeName> dr. <hi
-                  rend="italic"><persName>Brejc</persName></hi>; iz <placeName>Istre</placeName>
-               poslanca dr. <hi rend="italic"><persName>Laginja</persName></hi> in prof. <hi
-                  rend="italic"><persName>Spinčič</persName></hi>; iz
-                  <placeName>Štajerske</placeName> poslanca dr. <hi rend="italic"
-                     ><persName>Korošec</persName></hi> in dr. <hi rend="italic"
-                     ><persName>Benkovič</persName></hi> ter prof. dr. <hi rend="italic"
-                     ><persName>Hohnjec</persName></hi>; iz <placeName>Goriške</placeName> poslanec
-                  <hi rend="italic"><persName>Fon</persName></hi>.</p>
+                  magnificus<note source="#SourceBornDigital">Rektor univerze.</note> dr. <hi rend="italic">
+                  <persName>Pazman</persName>
+               </hi> iz <placeName>Zagreba</placeName>,
+               poslanca razpuščenega sabora <hi rend="italic">
+                  <persName>Cezar Akačič</persName>
+               </hi>
+               in <hi rend="italic">
+                  <persName>Stjepan Zagorac</persName>
+               </hi>, nadalje glavni
+               urednik prof. <hi rend="italic">
+                  <persName>Segvić</persName>
+               </hi>; iz
+                  <placeName>Kranjske</placeName> poslanci dr. <hi rend="italic">
+                  <persName>Šusteršič</persName>
+               </hi>, <hi rend="italic">
+                  <persName>Povše</persName>
+               </hi> in <hi rend="italic">
+                  <persName>Jarc</persName>
+               </hi>; iz <placeName>Dalmacije</placeName> poslanca don
+                  <hi rend="italic">
+                  <persName>Prodan</persName>
+               </hi> in dr. <hi rend="italic">
+                  <persName>Drinković</persName>
+               </hi>; iz <placeName>Koroške</placeName> dr. <hi rend="italic">
+                  <persName>Brejc</persName>
+               </hi>; iz <placeName>Istre</placeName>
+               poslanca dr. <hi rend="italic">
+                  <persName>Laginja</persName>
+               </hi> in prof. <hi rend="italic">
+                  <persName>Spinčič</persName>
+               </hi>; iz
+                  <placeName>Štajerske</placeName> poslanca dr. <hi rend="italic">
+                  <persName>Korošec</persName>
+               </hi> in dr. <hi rend="italic">
+                  <persName>Benkovič</persName>
+               </hi> ter prof. dr. <hi rend="italic">
+                  <persName>Hohnjec</persName>
+               </hi>; iz <placeName>Goriške</placeName> poslanec
+                  <hi rend="italic">
+                  <persName>Fon</persName>
+               </hi>.</p>
             <p xml:id="No.38.PPP.4">Odposlanci iz <placeName>Bosne in Hercegovine</placeName> so
                bili v zadnjem trenotku zaprečeni vsled obravnav o bosanskih železnicah; njihova
                opravičba se je vzela na znanje.</p>
@@ -102,11 +157,14 @@
             <p xml:id="No.38.PPP.6">Konstatiralo se je, da stremite obe stranki tako v
                narodnopolitičnih, kakor v kulturnih ozirih za enakimi cilji v duhu programa <orgName>Stranke
                Prava</orgName> in sklenilo se je soglasno ustvariti skupno organizacijo s tem, da se ustanovi
-                  <hi rend="bold"><orgName>Hrvaško Slovenski Zvršilni Odbor</orgName></hi>.</p>
+                  <hi rend="bold">
+                  <orgName>Hrvaško Slovenski Zvršilni Odbor</orgName>
+               </hi>.</p>
             <p xml:id="No.38.PPP.7">Nadalje se je sklenilo, <hi rend="bold">da se skliče na dan
                      <date when="1912-10-20">20. oktobra t. l.</date> v
                      <placeName>Ljubljano</placeName> skupščina vseh državnih in deželnih poslancev,
-                  ki pripadajo sedaj združenim strankam.</hi></p>
+                  ki pripadajo sedaj združenim strankam.</hi>
+            </p>
             <p xml:id="No.38.PPP.8">Vršilo se je temeljito posvetovanje <hi rend="bold">o politični
                   taktiki</hi> bližnjega časa v različnih javnih zastopih in tudi v tem pogledu se
                je izkazalo popolno soglasje.</p>

@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="Pred_shodom_zaupnikov.1">
@@ -273,7 +273,43 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="2"/>
+               <tagUsage gi="date" occurs="5"/>
+               <tagUsage gi="div" occurs="15"/>
+               <tagUsage gi="gap" occurs="13"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="15"/>
+               <tagUsage gi="hi" occurs="317"/>
+               <tagUsage gi="item" occurs="8"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="orgName" occurs="63"/>
+               <tagUsage gi="p" occurs="171"/>
+               <tagUsage gi="persName" occurs="31"/>
+               <tagUsage gi="placeName" occurs="100"/>
+               <tagUsage gi="q" occurs="13"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -286,21 +322,20 @@
             <head>Pred shodom zaupnikov narodnonapredne stranke</head>
             <div xml:id="No.54.PPP.1" decls="#Pred_shodom_zaupnikov.1">
                <head>I.</head>
-               <p><hi rend="italic">Shod zaupnikov</hi> <orgName>narodnonapredne stranke</orgName> je sklican na <hi
-                     rend="italic">nedeljo dne <date when="1906-03-25">25. marca</date></hi> v
+               <p>
+                  <hi rend="italic">Shod zaupnikov</hi> 
+                  <orgName>narodnonapredne stranke</orgName> je sklican na <hi rend="italic">nedeljo dne <date when="1906-03-25">25. marca</date>
+                  </hi> v
                      <placeName>Ljubljano</placeName>.</p>
                <p>Neposredni povod za ta shod je <hi rend="italic">volilna reforma</hi>. Vprašanje o
                   demokratiziranju ustavnega življenja je prišlo na dnevni red z nekako elementarno
                   silo. Dolgo let je bila splošna in enaka volilna pravica samo nekaka paradna točka
-                  v programih različnih strank. Postala je aktuvalna v tistem trenotku, <hi
-                     rend="italic">ko je to <orgName>vlada</orgName> hotela na višje povelje</hi>.</p>
+                  v programih različnih strank. Postala je aktuvalna v tistem trenotku, <hi rend="italic">ko je to <orgName>vlada</orgName> hotela na višje povelje</hi>.</p>
                <p>Vzroke, iz katerih je <orgName>vlada</orgName> sprožila in uprizorila roko v roki s c. kr.
-                  socijalnimi demokrati volilno gibanje in zlasti veliko demonstracijo z dne <date
-                     when="1905-11-28">28. novembra</date>, je prav lahko uganiti. Odločilna ni
+                  socijalnimi demokrati volilno gibanje in zlasti veliko demonstracijo z dne <date when="1905-11-28">28. novembra</date>, je prav lahko uganiti. Odločilna ni
                   bila. Ne želja, da bi širše mase prišle do veljave v javnem življenju, ne
                   demokratični nagibi, ne namen, spraviti potom splošne in enake volilne pravice
-                  narodnostno vprašanje v stran – odločilni so bili zgol in edino <hi rend="italic"
-                     >dinastični nameni</hi>. <persName>Gautsch</persName> se je vedno najbolj
+                  narodnostno vprašanje v stran – odločilni so bili zgol in edino <hi rend="italic">dinastični nameni</hi>. <persName>Gautsch</persName> se je vedno najbolj
                   odlikoval po najobsežnejšem pomanjkanju značaja. Kar je
                      <persName>Schmock</persName> v žurnalistiki, to je <persName>Gautsch</persName>
                   v politiki. Najprej se je odločno izrekel proti splošni in enaki volilni pravici –
@@ -371,8 +406,7 @@
                <head>II.</head>
                <p>Cuius regio, illius religio, ta barbarski princip je veljal dolga stoletja in v
                   imenu tega principa so na pr. <persName>Habsburžani</persName> uničili slovenski
-                  protestantizem in ž njim početke slovenske narodne kulture. <date notAfter="1800"
-                     >Koncem 18. stoletja</date> je obveljal drug ravno tako barbarski princip, ki
+                  protestantizem in ž njim početke slovenske narodne kulture. <date notAfter="1800">Koncem 18. stoletja</date> je obveljal drug ravno tako barbarski princip, ki
                   še danes ni prišel ob veljavo, da določi država narodnost svojih prebivalcev. V
                   imenu tega principa se je začela <hi rend="italic">nasilna germanizacija</hi>
                   slovanskih narodov in ravno napram Slovencem se izvršuje ta princip še vedno, na
@@ -395,8 +429,7 @@
                   enako volilno pravico, je pripoznala, <hi rend="italic">da se ž njo utrdi
                      centralizem in oškodijo federalistična stremljenja v tisti meri, kakor svoj čas
                      z uvedbo direktnih volitev</hi>. Centralizem pa ne more v
-                     <placeName>Avstriji</placeName> biti drugačen kakor <hi rend="italic"
-                     >nemški</hi> in bo vedno delal na <hi rend="italic">prevlado nemškega
+                     <placeName>Avstriji</placeName> biti drugačen kakor <hi rend="italic">nemški</hi> in bo vedno delal na <hi rend="italic">prevlado nemškega
                      življa</hi>. To so uvideli tudi Čehi in so takoj, ko je
                      <persName>Gautsch</persName> predložil volilno reformo, po dr.
                      <persName>Heroldu</persName> sprožili predlog za <hi rend="italic">revizijo
@@ -411,9 +444,9 @@
                   zagotoviti mirno narodno življenje.</p>
                <p>Prvi pogoj za tako mirno narodno življenje je <hi rend="italic">narodna
                      samostalnost</hi> in ker smo Slovenci premajhen narod, da bi mogli doseči proti
-                  vsem sovražnikom zavarovano samostalnost, je naravno, da jo moramo iskati <hi
-                     rend="italic">v združenju vseh jugoslovanskih pokrajin, kar jih spada pod
-                        <placeName>habsburško monarhijo</placeName></hi>.</p>
+                  vsem sovražnikom zavarovano samostalnost, je naravno, da jo moramo iskati <hi rend="italic">v združenju vseh jugoslovanskih pokrajin, kar jih spada pod
+                        <placeName>habsburško monarhijo</placeName>
+                  </hi>.</p>
                <p>Že pri tej točki zadenemo ob nasprotje Čehov in Hrvatov. Sicer se je historizem že
                   preživel in res ni več vreden pipe tobaka, kajti dandanes se mora računati z
                   realnimi fakti, ali istina je vendar, <hi rend="italic">da stoje Hrvatje in Čehi
@@ -427,14 +460,14 @@
                   pravo posebnega pomena iz tega preprostega razloga, <hi rend="italic">ker manjka
                      Hrvatom državnopravne kontinuitete</hi> in ker po svojem državnem pravu nimajo
                   nikakih pravic do <hi rend="italic">mnogoštevilnih rojakov, ki žive na
-                        <placeName>Ogrskem</placeName></hi>.</p>
-               <p>Čehi in Hrvatje zahtevajo svojo samostalnost v imenu državnega prava; <hi
-                     rend="italic">Slovenci je ne moremo zahtevati drugače kakor v imenu
+                        <placeName>Ogrskem</placeName>
+                  </hi>.</p>
+               <p>Čehi in Hrvatje zahtevajo svojo samostalnost v imenu državnega prava; <hi rend="italic">Slovenci je ne moremo zahtevati drugače kakor v imenu
                      narodnostnega principa</hi>; Čehi in Hrvatje zahtevajo ohranitev
                   historično-političnih individualitet, Slovenci hočemo, da se te historično
                   politične individuvalitete – to so kronovine raztrgajo in da se slovenske
-                  pokrajine, združijo v eno upravno in relativno samostojno celoto, v <hi
-                     rend="italic">Zedinjeno <placeName>Slovenijo</placeName></hi>.</p>
+                  pokrajine, združijo v eno upravno in relativno samostojno celoto, v <hi rend="italic">Zedinjeno <placeName>Slovenijo</placeName>
+                  </hi>.</p>
                <p>Kako naj dosežemo ta cilj? V zadnjih desetih letih prodira jako močno spoznanje,
                   da je treba <hi rend="italic">preurediti sedanjo ustavo</hi>. Slovenci in Malorusi
                   smo bili prvi in dolgo časa edini zastopniki <hi rend="italic">nacijonalne
@@ -477,12 +510,10 @@
                   sovražnostjo ustavlja našim najopravičenejšim zahtevam, z ozirom na vse to mora
                   <orgName>narodno-napredna stranka</orgName> polagati <hi rend="italic">glavno važnost na politično in
                      socialno moč narodnosti in narodne kulture</hi>. Pri nas vladajo v tem oziru
-                  jako motni pojmi. Navadno mislijo ljudje in med njimi tudi politiki, da je <hi
-                     rend="italic">jezikovno vprašanje identično z narodnostnim problemom</hi>. V
+                  jako motni pojmi. Navadno mislijo ljudje in med njimi tudi politiki, da je <hi rend="italic">jezikovno vprašanje identično z narodnostnim problemom</hi>. V
                   tem pojmovanju tiči velika zmota, kajti narodnostno načelo obsega dosti več.
                   Narodnostno načelo ne zahteva samo, da se dela za javno in zasebno veljavo
-                  slovenskega jezika, za ravnopravnost v uradu in v šoli, to načelo zahteva, <hi
-                     rend="italic">da se ustvari samostojen jugoslovanski kulturni tip</hi>, zakaj
+                  slovenskega jezika, za ravnopravnost v uradu in v šoli, to načelo zahteva, <hi rend="italic">da se ustvari samostojen jugoslovanski kulturni tip</hi>, zakaj
                   samo narod, ki reprezentira <hi rend="italic">samostojen</hi> kulturen tip, je v
                   pravem pomenu samosvoj narod. Narodnost tudi ni samo etičnega pomena, nego obsega
                   že po svojem zmislu določene kulturne, politične in socialne cilje. Slovenci na
@@ -515,7 +546,8 @@
                   nove splošne kurije. Klerikalci so ponovili svoj prvotni predlog glede splošne in
                   enake volilne pravice <hi rend="italic">šele potem, ko se je krona načeloma
                      izrekla, da se uvede splošna in enaka volilna pravica na
-                        <placeName>Ogrskem</placeName></hi> in so vsled tega socialni demokrati
+                        <placeName>Ogrskem</placeName>
+                  </hi> in so vsled tega socialni demokrati
                   začeli velikansko agitacijo v dosego take reforme tudi v
                      <placeName>Cislitvanski</placeName>. Klerikalci so sprevideli, da je s tem
                   postalo vprašanje o splošni in enaki volilni pravici aktualno in zato so se
@@ -529,13 +561,12 @@
                   marajo.</p>
                <p>Poslanci se glede volilne reforme niso ozirali na stranko, dosledno tudi ni treba,
                   da bi se shod zaupnikov oziral na to, kako so poslanci glasovali v tej stvari.</p>
-               <p><hi rend="italic">Proti načelu splošne in enake volilne pravice za državni zbor
-                     pač ni ugovorov</hi>. V delokrog državnega zbora spadajo stvari, <hi
-                     rend="italic">ki se tičejo skupnosti</hi> in so na sklepih državnega zbora
+               <p>
+                  <hi rend="italic">Proti načelu splošne in enake volilne pravice za državni zbor
+                     pač ni ugovorov</hi>. V delokrog državnega zbora spadajo stvari, <hi rend="italic">ki se tičejo skupnosti</hi> in so na sklepih državnega zbora
                   interesirani vsi sloji. Res, da plačujejo sedanji privilegirani davkoplačevalci
                   ogromno večino vseh davkov, ne samo vse direktne davke, nego tudi veliko večino
-                  indirektnih davkov. Ali če masa za državo malo plačuje, daje toliko več <hi
-                     rend="italic">krvnega davka</hi> in zato ima pravico do zastopstva v
+                  indirektnih davkov. Ali če masa za državo malo plačuje, daje toliko več <hi rend="italic">krvnega davka</hi> in zato ima pravico do zastopstva v
                   parlamentu. Ker je pa masa tudi interesirana na sklepih državnega zbora, ker spada
                   v delokrog državnega zbora vse socialno zakonodajstvo, ker masa daje celi državi
                   delavne moči, ki stvarjajo vse to, kar nese potem davke, <hi rend="italic">je
@@ -551,22 +582,23 @@
                   zakonodajstvo v <placeName>Nemčiji</placeName> nam je le v toliko naprej, da imajo
                   tam že več let to, kar se pri nas šele pripravlja, starostno zavarovanje
                   industrijalnih delavcev.</p>
-               <p>Ne dvomimo, da dobi <orgName>parlament</orgName> po splošni in enaki volilni pravici <hi
-                     rend="italic">večjo moč in večjo veljavo</hi> in da bo <hi rend="italic">bolje
+               <p>Ne dvomimo, da dobi <orgName>parlament</orgName> po splošni in enaki volilni pravici <hi rend="italic">večjo moč in večjo veljavo</hi> in da bo <hi rend="italic">bolje
                      delal</hi> kakor sedanji <orgName>parlament</orgName>, <hi rend="italic">ali krvavo se motijo
                      tisti</hi>, ki menijo, da bo splošna in enaka volilna pravica ozdravila vse
                   bolezni, na katerih trpi država in socialno naše telo. Upanja so velika, a
                   razočaranje bo še veliko večje.</p>
                <p>Toda <hi rend="italic">pravična</hi> je splošna in enaka volilna pravica, dobra
-                  bo, <hi rend="italic">ker bo povečala moč <orgName>parlamenta</orgName></hi> in ker je tudi najboljše
+                  bo, <hi rend="italic">ker bo povečala moč <orgName>parlamenta</orgName>
+                  </hi> in ker je tudi najboljše
                      <hi rend="italic">sredstvo za poživljenje narodovih sil</hi> ter zna – kar pa
                   ni gotovo – pospešiti dobro rešitev <hi rend="italic">avstrijskega narodnostnega
                      problema</hi> – zato bi bilo dobro, <hi rend="italic">če se izreče shod
-                     zaupnikov za splošno in enako volilno pravico za <orgName>državni zbor</orgName></hi>. Seveda se
+                     zaupnikov za splošno in enako volilno pravico za <orgName>državni zbor</orgName>
+                  </hi>. Seveda se
                   mora ta splošna in enaka volilna pravica <hi rend="italic">izvesti pošteno in
-                     pravično in ne po <persName>Gautschevo</persName></hi>. Z
-                     <persName>Grabmayerjem</persName> mora reči <orgName>narodno-napredna stranka</orgName>: <hi
-                     rend="italic">Pogin <persName>Gautschevemu</persName> krivičnemu načrtu, a
+                     pravično in ne po <persName>Gautschevo</persName>
+                  </hi>. Z
+                     <persName>Grabmayerjem</persName> mora reči <orgName>narodno-napredna stranka</orgName>: <hi rend="italic">Pogin <persName>Gautschevemu</persName> krivičnemu načrtu, a
                      živela splošna in enaka, poštena in pravična volilna pravica</hi>.</p>
             </div>
             <gap reason="irrelevant"/>
@@ -576,34 +608,30 @@
                   izvesti samo na en način, <hi rend="italic">da se namreč razdele mandati zgolj in
                      edino po številu volilcev</hi>, tako, da pride vselej na gotovo enako število
                   volilcev en mandat. Ko bi se volilna reforma tako izvedla, bi sicer klerikalci in
-                  agrarci imeli večino v parlamentu in ta večina bi bila <hi rend="italic"
-                     >slovanska</hi> in bi se torej taki volilni reformi s slovanskega narodnega
+                  agrarci imeli večino v parlamentu in ta večina bi bila <hi rend="italic">slovanska</hi> in bi se torej taki volilni reformi s slovanskega narodnega
                   stališča ne moglo ugovarjati. Tudi dr. <persName>Tavčar</persName> je pričakoval
                   take reforme, ko je v deželnem zboru glasoval za dotični predlog, kajti rekel je
                   izrečno, da se ukloni splošni in enaki volilni pravici samo zaradi tega, ker upa,
                   da pomore Slovanom do vladanja v državi.</p>
-               <p><persName>Gautscheva</persName> reforma pa je krivična in pristranska. V
+               <p>
+                  <persName>Gautscheva</persName> reforma pa je krivična in pristranska. V
                   narodnostnem oziru <hi rend="italic">protežira Nemce na škodo Slovanov</hi>. Z njo
                   se pač hoče uvesti <hi rend="italic">splošna, ne pa tudi enaka volilna
                      pravica</hi>. <persName>Gautsch</persName> hoče <hi rend="italic">politični
-                     vpliv enostransko razdeliti</hi> ne samo vobče, nego tudi <hi rend="italic"
-                     >specialno med Slovenci. Na <placeName>Štajerskem</placeName> in na
+                     vpliv enostransko razdeliti</hi> ne samo vobče, nego tudi <hi rend="italic">specialno med Slovenci. Na <placeName>Štajerskem</placeName> in na
                         <placeName>Koroškem</placeName> hoče s pomočjo izdajalskih kranjskih
                      klerikalcev oropati slovenski narod za primerno zastopstvo, na
                         <placeName>Kranjskem</placeName> pa je poteptal tiste principe, katerih se
                      je v drugih kronovinah krčevito držal</hi>, kajti dočim drugod rešuje z
-                  najzvijačnejšimi sredstvi nemško meščanstvo – glej celjsko mestno skupino – <hi
-                     rend="italic">je na <placeName>Kranjskem</placeName> vse izvenljubljansko
+                  najzvijačnejšimi sredstvi nemško meščanstvo – glej celjsko mestno skupino – <hi rend="italic">je na <placeName>Kranjskem</placeName> vse izvenljubljansko
                      meščanstvo in vse industrijalno delavstvo vrgel klerikalcem pod nož</hi>.
                   Drugod se je postavil na stališče, da mora tudi meščanstvo in delavstvo imeti
                   primeren zastop, na <placeName>Kranjskem</placeName> pa je pohodil ta princip in
                   si je na ta način <hi rend="italic">kupil pomoč kranjskih klerikalcev za oropanje
                      koroških in štajerskih Slovencev</hi>.</p>
                <p>Ali se bo mogel shod zaupnikov izreči za tako reformo? Sodimo da ne. Zaupniki bodo
-                  morali zahtevati od poslancev <orgName>nar.-napredne stranke</orgName>, naj se zavzemo <hi
-                     rend="italic">za pravično zastopstvo koroških in štajerskih Slovencev ter
-                     kranjskih mest in industrijalnih krajev</hi>; ako tega ne bo doseči, <hi
-                     rend="italic">pa bodo morali napeti vse strune, da podero
+                  morali zahtevati od poslancev <orgName>nar.-napredne stranke</orgName>, naj se zavzemo <hi rend="italic">za pravično zastopstvo koroških in štajerskih Slovencev ter
+                     kranjskih mest in industrijalnih krajev</hi>; ako tega ne bo doseči, <hi rend="italic">pa bodo morali napeti vse strune, da podero
                         <persName>Gautscha</persName> in pokopljejo njegov načrt</hi>.</p>
                <p>Socialni demokratje in klerikalci upajo, da bo splošni in enaki volilni pravici za
                   državni zbor sledila tudi <hi rend="italic">splošna in enaka volilna pravica za
@@ -614,23 +642,20 @@
                   tičejo skupnosti, ker so na delovanju državnega zbora vsi sloji enako interesirani
                   in ker nosijo vsi sloji državna bremena v tej ali oni obliki, <hi rend="italic">je
                      to pri deželnih zborih in občinskih zastopih vse drugače</hi>. V delokrog
-                  deželnih zborov in občinskih zastopov spadajo skoro same take stvari, <hi
-                     rend="italic">pri katerih ni masa prebivalstva prav nič interesirana</hi>.</p>
+                  deželnih zborov in občinskih zastopov spadajo skoro same take stvari, <hi rend="italic">pri katerih ni masa prebivalstva prav nič interesirana</hi>.</p>
                <p>Tudi se mora upoštevati, <hi rend="italic">da masa ne nosi nikakih deželnih in
-                     občinskih bremen</hi>, ker daje krvni davek ter indirektne davke <hi
-                     rend="italic">le državi</hi>, ne pa tudi deželi in občini. Masa je pač v veliki
+                     občinskih bremen</hi>, ker daje krvni davek ter indirektne davke <hi rend="italic">le državi</hi>, ne pa tudi deželi in občini. Masa je pač v veliki
                   meri deležna <hi rend="italic">dobrot</hi>, ki jih daje dežela in občina vsemu
                   prebivalstvu, <hi rend="italic">dolžnosti in bremen pa nima nobenih</hi>.</p>
                <p>Vzlic temu <hi rend="italic">nismo za to, da naj bo masa izključena iz deželnih in
-                     občinskih zastopov</hi>. Ker pa so dež. zbori in obč. zastopi v prvi vrsti <hi
-                     rend="italic">gospodarske korporacije</hi> in ne gre, <hi rend="italic">da bi
+                     občinskih zastopov</hi>. Ker pa so dež. zbori in obč. zastopi v prvi vrsti <hi rend="italic">gospodarske korporacije</hi> in ne gre, <hi rend="italic">da bi
                      tu odločevali tisti, ki ne nosijo nikakih bremen in niso interesirani</hi>,
-                  zato sodimo, da je pri <hi rend="italic">dež. zborih</hi> in <hi rend="italic"
-                     >obč. zastopih</hi> popolnoma upravičeno <hi rend="italic">zastopstvo
+                  zato sodimo, da je pri <hi rend="italic">dež. zborih</hi> in <hi rend="italic">obč. zastopih</hi> popolnoma upravičeno <hi rend="italic">zastopstvo
                      interesov</hi>, in sicer na ta način, <hi rend="italic">da dobe primerno
                      zastopstvo tudi tisti sloji, ki ga doslej nimajo</hi>.</p>
                <p>Priporočali bi zategadelj shodu zaupnikov, naj se izreče <hi rend="italic">za
-                     volilno reformo tudi za <orgName>deželni zbor</orgName></hi> ali le na sledeči podlagi:</p>
+                     volilno reformo tudi za <orgName>deželni zbor</orgName>
+                  </hi> ali le na sledeči podlagi:</p>
                <list rend="numbered">
                   <item n="1.)">Zastopstvo se razdeli <hi rend="italic">po interesih</hi>, in sicer
                         <hi rend="italic">upoštevaje visokost davka</hi>, ki ga plačujejo posamezne
@@ -644,15 +669,14 @@
                   <item n="4.)">Kmetskim občinam, v katerih bi volili le manjši kmetovalci, naj se
                      določi število zastopnikov, oziraje se na število volilcev in na davek, ki ga
                      plačujejo.</item>
-                  <item n="5.)"><hi rend="italic">Vsi ostali volilci naj se združijo v novo splošno
+                  <item n="5.)">
+                     <hi rend="italic">Vsi ostali volilci naj se združijo v novo splošno
                         kurijo, kateri se da številu volilcev primerno število mandatov</hi>.</item>
                   <item n="6.)">Odpravi naj se privilegij ljubljanskega škofa in trgovske in
                      obrtniške zbornice.</item>
                </list>
                <p>Ko bi se po teh načelih preuredil deželni zbor, bi po našem, a površnem računu
-                  prišlo na <hi rend="italic">velike posestnike</hi> 8 mandatov, na <hi
-                     rend="italic">mesta in trge</hi> in ž njimi združene <hi rend="italic"
-                     >industrijalne kraje</hi> 12 mandatov, na <hi rend="italic">male
+                  prišlo na <hi rend="italic">velike posestnike</hi> 8 mandatov, na <hi rend="italic">mesta in trge</hi> in ž njimi združene <hi rend="italic">industrijalne kraje</hi> 12 mandatov, na <hi rend="italic">male
                      posestnike</hi> 12 mandatov ter na <hi rend="italic">splošno kurijo</hi> 4
                   mandati.</p>
                <p>Analogno bi se moral preurediti tudi <hi rend="italic">občinski red</hi>, namreč v
@@ -665,8 +689,7 @@
                <p>Mali narodi ne morejo misliti na zavojevanja in ne morejo gojiti imperialističnih
                   stremljenj. Kdor ima komaj za vsakdanji kruh, ne more na borzi spekulirati. Mali
                   narodi morajo koncentrirati svoje moči, da odbijajo imperijalistična stremljenja
-                  drugih narodov in zato mora biti njihova politika v prvi vrsti <hi rend="italic"
-                     >kulturna politika</hi>. Ena slovenska šola je večjega pomena kot deset
+                  drugih narodov in zato mora biti njihova politika v prvi vrsti <hi rend="italic">kulturna politika</hi>. Ena slovenska šola je večjega pomena kot deset
                   dvojezičnih pečatov, s čimer pa nikakor ne mislimo reči, da ni vprašanje o javnih
                   napisih in pečatih važno in vredno truda, da se izvojujejo. Ali to se mora reči:
                   kulturna politika je najizdatnejše sredstvo za zagotovitev narodnega obstanka in
@@ -680,8 +703,7 @@
                <p>Prva stvar je seveda šolstvo. V <hi rend="italic">bistvu</hi> ni dosti ugovarjati
                   veljavnem šolskemu zakonu, pač pa v važnih posamičnostih. V imenu narodnostnega
                   principa je pred vsem zahtevati, da se <hi rend="italic">odstrani sedanja
-                     centralizacija šolske uprave</hi> in dovoli Slovencem na tem polju <hi
-                     rend="italic">narodna avtonomija</hi>. Dokler bo veljavna sedanja ustava, bo
+                     centralizacija šolske uprave</hi> in dovoli Slovencem na tem polju <hi rend="italic">narodna avtonomija</hi>. Dokler bo veljavna sedanja ustava, bo
                   šolsko zakonodajstvo urejevala država, ali šolsko upravo naj država prepusti
                   vsakemu narodu samemu, ob sebi se razume, da v smislu šolskega zakona. V tem
                   smislu je zahtevati:</p>
@@ -707,13 +729,11 @@
                   enkrat jako krepko obračunati, zakaj vladanja viteza
                      <persName>Kalteneggerja</persName> na šolskem polju je že vsa dežela sita.</p>
                <p>Predpogoj avtonomizacije šolstva je <hi rend="italic">izomikano in gmotno
-                     utrjeno</hi> učiteljstvo. Izomikano, dobro učiteljstvo je dobiti le, <hi
-                     rend="italic">če se urede učiteljske plače</hi>, da bodo enake plačam državnih
+                     utrjeno</hi> učiteljstvo. Izomikano, dobro učiteljstvo je dobiti le, <hi rend="italic">če se urede učiteljske plače</hi>, da bodo enake plačam državnih
                   uradnikov od XI. do VIII. činovnega razreda. <orgName>Narodnonapredna stranka</orgName> mora v tem
                   oziru napeti vse moči. Sredstva za povišanje učiteljskih plač se ne dajo sedaj
                   drugače dobiti, kakor s <hi rend="italic">povišanjem deželnih doklad</hi>. Javnost
-                  se mora s to mislijo sprijazniti, kajti povišanje plač je <hi rend="italic"
-                     >neizogibno potrebno</hi>, toliko bolj potrebno, ker drugače ne bomo nikdar
+                  se mora s to mislijo sprijazniti, kajti povišanje plač je <hi rend="italic">neizogibno potrebno</hi>, toliko bolj potrebno, ker drugače ne bomo nikdar
                   dobili <hi rend="italic">samostojnega</hi> učiteljstva, ki bo moglo narod resnično
                   vzgajati in med narodom zavzemati tako pozicijo, da bo imelo veljavo in moglo z
                   njo vplivati na ljudstvo.</p>
@@ -732,16 +752,14 @@
                   cerkev, ne v šolo. Dokler pa se ne doseže <hi rend="italic">svobodna šola</hi>, je
                   gledati, da se, kolikor se pač da, izvede veljavni zakon brezobzirno in predrugači
                   ta zakon kršeča zadnja naredba naučnega ministrstva.</p>
-               <p>Posebno pozornost mora obračati <orgName>narodnonapredna stranka</orgName> gojenju <hi rend="italic"
-                     >narodne zavednosti</hi> v šoli. Urediti se mora tako, kakor je urejeno na
+               <p>Posebno pozornost mora obračati <orgName>narodnonapredna stranka</orgName> gojenju <hi rend="italic">narodne zavednosti</hi> v šoli. Urediti se mora tako, kakor je urejeno na
                      <placeName>Francoskem</placeName>, v <placeName>Italiji</placeName> in v
                      <placeName>Nemčiji</placeName>. Šola ne sme vzgojevati samo dobrih Avstrijcev,
                   nego v prvi vrsti dobre Slovence. Dandanes je gojenje narodne zavednosti v šoli
                   popolnoma izključeno. <orgName>Vladi</orgName> to ne diši, <orgName>vlada</orgName> hoče, naj šola vzgaja le dobre
                   Avstrijce in trde klerikalce in še dolgo ne bo odnehala.</p>
                <p>Zato je treba, da se nadomesti ta nedostatek pri drugih vzgojevalnih pomočkih,
-                  katerim je sploh posvečati največjo pozornost. Taki pomočki so <hi rend="italic"
-                     >poučna predavanja in ljudska literatura v zvezi z ljudskimi
+                  katerim je sploh posvečati največjo pozornost. Taki pomočki so <hi rend="italic">poučna predavanja in ljudska literatura v zvezi z ljudskimi
                   knjižnicami</hi>.</p>
                <p>Kar smo očitali ljudski šoli, to se mora očitati tudi <hi rend="italic">naši
                      mladinski literaturi</hi>. Tudi ta goji preveč avstrijska patriotična in verska
@@ -782,8 +800,7 @@
                      šole</hi>. Na kmetih je potrebno, da se v zvezi z ljudsko šolo ustanove redne
                      <hi rend="italic">kmetijskonadaljevalne šole z gospodinjskimi tečaji</hi>,
                   kakor jih imajo v raznih kantonih v <placeName>Švici</placeName>, v mestih in
-                  trgih pa je po lokalnih razmerah posvetiti vso skrb <hi rend="italic"
-                     >obrtnonadaljevalnim šolam</hi>.</p>
+                  trgih pa je po lokalnih razmerah posvetiti vso skrb <hi rend="italic">obrtnonadaljevalnim šolam</hi>.</p>
                <p>Velik nedostatek je, da nimamo <hi rend="italic">meščanskih šol</hi>, izvzemši
                   nemško meščansko šolo v <placeName>Krškem</placeName>. V
                      <placeName>Postojni</placeName> se zdaj ustanovi meščanska šola s trgovskim
@@ -792,8 +809,7 @@
                   ustanovitve meščanskih šol na deželne stroške. Po sedanjem deželnem zakonu ne more
                   dežela vzdrževati meščanskih šol, nego morajo to storiti dotični okraji.
                   Klerikalci se strastno drže te določbe, ker vedo, da po tem zakonu ne dobimo
-                  nikdar meščanskih šol. <orgName>Narodno-napredna stranka</orgName> mora torej gledati, <hi
-                     rend="italic">da se ta zakon premeni</hi>, a dokler to ni mogoče, mora gledati,
+                  nikdar meščanskih šol. <orgName>Narodno-napredna stranka</orgName> mora torej gledati, <hi rend="italic">da se ta zakon premeni</hi>, a dokler to ni mogoče, mora gledati,
                   da na drug način poskrbi sredstev za ustanovitev in vzdrževanje meščanskih
                   šol.</p>
                <p>Te meščanske šole bi pa ne smele biti urejene po šabloni nego bi morale imeti
@@ -810,29 +826,29 @@
                   že toliko prosilo in delalo.</p>
                <p>Glede <hi rend="italic">srednjega šolstva</hi> na <placeName>Kranjskem</placeName>
                   je treba doseči, da se na gimnazijah <hi rend="italic">uvede v vseh razredih in za
-                     vse predmete slovenski učni jezik</hi>, da se na <hi rend="italic"><orgName>ljubljanski
-                     realki</orgName></hi> ustanove <hi rend="italic">slovenske paralelke</hi> in da se v enem
+                     vse predmete slovenski učni jezik</hi>, da se na <hi rend="italic">
+                     <orgName>ljubljanski
+                     realki</orgName>
+                  </hi> ustanove <hi rend="italic">slovenske paralelke</hi> in da se v enem
                   izmed kranjskih mest, ki nimajo srednje šole, ustanovi <hi rend="italic">nova
                      slovenska realka</hi>. Tudi je zahtevati, da se že ustanovi toliko let obetana
                      <hi rend="italic">popolna obrtna šola v <placeName>Ljubljani</placeName> in
                      trgovska akademija</hi>.</p>
                <p>Glede visokega šolstva je ob sebi umevno, da mora <orgName>narodno-napredna stranka</orgName> z vsemi
                   močmi nadaljevati delo za pridobitev <hi rend="italic">slovenskega vseučilišča v
-                        <placeName>Ljubljani</placeName></hi>. Vendar bi bilo to zahtevo nekoliko
+                        <placeName>Ljubljani</placeName>
+                  </hi>. Vendar bi bilo to zahtevo nekoliko
                   premeniti. <hi rend="italic">Teologična fakulteta</hi> je namreč čisto nepotrebna
-                  stvar. Namesto teologične fakultete naj se na bodočem vseučilišču ustanovi <hi
-                     rend="italic">tehnična fakulteta</hi>, ki bo nadomeščala samostojno
+                  stvar. Namesto teologične fakultete naj se na bodočem vseučilišču ustanovi <hi rend="italic">tehnična fakulteta</hi>, ki bo nadomeščala samostojno
                   tehniko.</p>
-               <p>Za umetnost naj se poskrbi na ta način, da se izpopolni obstoječa c. kr. <hi
-                     rend="italic">umetnoobrtna šola</hi> in da se pri <hi rend="italic">obrtnem
+               <p>Za umetnost naj se poskrbi na ta način, da se izpopolni obstoječa c. kr. <hi rend="italic">umetnoobrtna šola</hi> in da se pri <hi rend="italic">obrtnem
                      muzeju</hi>, ki ga mora dežela ustanoviti, napravi <hi rend="italic">umetniški
                      oddelek</hi> z galerijo slik in kipov.</p>
             </div>
             <gap reason="irrelevant"/>
             <div xml:id="No.54.PPP.8" decls="#Pred_shodom_zaupnikov.8">
                <head>VIII.</head>
-               <p>Med najvažnejše stvari, katerih rešitev je nujno potrebna, spada <hi rend="italic"
-                     >jezikovno vprašanje</hi>. Kakor vse kaže, ni nič upanja, da bi se to vprašanje
+               <p>Med najvažnejše stvari, katerih rešitev je nujno potrebna, spada <hi rend="italic">jezikovno vprašanje</hi>. Kakor vse kaže, ni nič upanja, da bi se to vprašanje
                   enotno rešilo za vso državo. Avstrijske vlade še niso nikdar nič pametnega storile
                   in dokler bo imel <orgName>parlament</orgName> na vlade tako malo vpliva kakor sedaj, tudi ne bodo
                   nikdar nič pametnega storile. Postopanje vseh vlad kaže, da hočejo rešiti
@@ -852,8 +868,7 @@
                   tega principa pot še dolga, da se bo mogla enojezičnost uveljaviti šele tedaj,
                   kadar se uvede narodna avtonomija, se sme narodno-napredna stranka za sedaj
                   omejiti na to, da izposluje popolno <hi rend="italic">jezikovno ravnopravnost</hi>
-                  tako v <hi rend="italic">zunanjem</hi> kakor tudi v vsem <hi rend="italic"
-                     >notranjem</hi> uradovanju.</p>
+                  tako v <hi rend="italic">zunanjem</hi> kakor tudi v vsem <hi rend="italic">notranjem</hi> uradovanju.</p>
                <p>Najuspešnejše se da zastopati ta zahteva, če se specialno za
                      <placeName>Kranjsko</placeName> akomodiramo principom, ki jih je vlada določila
                   v svojem jezikovnem načrtu za <placeName>Češko</placeName>. Točno po istih načelih
@@ -865,12 +880,12 @@
                <p>O nemški zahtevi, da morajo biti enojezični vsi uradi v nemških okrajih, v vseh
                   drugih okrajih dvojezični in da se mora uzakoniti nemški državni jezik, seveda še
                   govora ne more biti.</p>
-               <p>Pri uvedbi narodne avtonomije se bo moralo rešiti tudi vprašanje o <hi
-                     rend="italic">uredbi administracije na slovenskem ozemlju</hi>, kajti to leži
+               <p>Pri uvedbi narodne avtonomije se bo moralo rešiti tudi vprašanje o <hi rend="italic">uredbi administracije na slovenskem ozemlju</hi>, kajti to leži
                   na dlani, da jezikovno enoten teritorij ne more biti administrativno razcepljen.
                   Že sedaj pa je delati z vso odločnostjo na to, da se za vse slovenske okraje
                   ustanovi <hi rend="italic">posebno nadsodišče v
-                     <placeName>Ljubljani</placeName></hi>. Obenem je potrebno izposlovati, da se
+                     <placeName>Ljubljani</placeName>
+                  </hi>. Obenem je potrebno izposlovati, da se
                   izvrše stari slovenski postulati, <hi rend="italic">da morajo najvišje sodišče,
                      upravno sodišče in graško nadsodišče izdajati slovenske razsodbe</hi> ter da se
                   poskrbe <hi rend="italic">avtentični teksti</hi> vseh sedanjih in bodočih zakonov,
@@ -880,14 +895,14 @@
                   narodno-napredne stranke. Kot svobodomiselna in svobodoljubna demokratična stranka
                   se narodno-napredna stranka ne more in ne sme izreči za drugo načelo, kakor za
                   načelo <hi rend="italic">popolne svobode in neodvisnosti vseh verskih organizacij
-                     v okviru državnih zakonov</hi>. <orgName>Katoliški cerkvi</orgName> se mora priznati <hi
-                     rend="italic">avtonomija</hi> v <hi rend="italic">vseh cerkvenih stvareh</hi>.
+                     v okviru državnih zakonov</hi>. <orgName>Katoliški cerkvi</orgName> se mora priznati <hi rend="italic">avtonomija</hi> v <hi rend="italic">vseh cerkvenih stvareh</hi>.
                   To je mogoče samo potom ustanovitve <hi rend="italic">samostojnih verskih
                      občin</hi>, ki naj popolnoma svobodno urejujejo svoje zadeve in nosijo tudi vse
                   stroške. Ako je <orgName>cerkev</orgName> neodvisna od države, mora biti tudi država neodvisna od
                   <orgName>cerkve</orgName>. Ker je država sedaj v različnih, sedanjim razmeram ne več primernih zvezah
                   s cerkvijo, ker je država za cerkev zdaj dekla, zdaj birič, zdaj molzna krava, se
-                  mora ta zveza odpraviti in <hi rend="italic">izvesti ločitev države od <orgName>cerkve</orgName></hi>
+                  mora ta zveza odpraviti in <hi rend="italic">izvesti ločitev države od <orgName>cerkve</orgName>
+                  </hi>
                   tako, kakor je izvedena v vseh kulturnih državah. </p>
                <p>Tako <hi rend="italic">laiziciranje države</hi> mora imeti seveda svoje
                   konsekvence.</p>
@@ -898,8 +913,7 @@
                <p>Sedaj opravljajo cerkveni uradi različne državne posle. Teh je <orgName>cerkev</orgName> osvoboditi
                   in je <hi rend="italic">vodstvo matrik</hi> izročiti javnim državnim uradom.</p>
                <p>Pri reviziji občnega državljanskega zakona je gledati, da se izvedejo naravne
-                  konsekvence iz stališča svobode <orgName>katoliške cerkve</orgName>. Uvesti je <hi rend="italic"
-                     >obligatni civilni zakon</hi>, pri čemer pa se mora pustiti katoličanom popolna
+                  konsekvence iz stališča svobode <orgName>katoliške cerkve</orgName>. Uvesti je <hi rend="italic">obligatni civilni zakon</hi>, pri čemer pa se mora pustiti katoličanom popolna
                   svoboda, da se smejo dati tudi cerkveno poročiti. Vse postavodajalstvo o zakonskem
                   pravu spada izključno v delokrog države. <orgName>Cerkev</orgName> lahko uči, kar hoče, to je njena
                   pravica, lahko tudi uči, da je smrtni greh, če se zakonski ločijo, ali država je
@@ -912,8 +926,7 @@
                      odstrani cerkveni upliv na šole</hi> in odkaže verski pouk v cerkev.</p>
                <p>Samo po sebi se razume, da država ne more trpeti nobene organizacije, ki se
                   postavlja nad njene zakone. Tudi <orgName>cerkev</orgName> kot organizacija mora biti podrejena
-                  državnim zakonom in zato se mora v svrho onemogočenja proti zakonu tudi uvesti <hi
-                     rend="italic">kancelparagraf</hi> in uveljaviti za cerkev tiste postave, ki
+                  državnim zakonom in zato se mora v svrho onemogočenja proti zakonu tudi uvesti <hi rend="italic">kancelparagraf</hi> in uveljaviti za cerkev tiste postave, ki
                   veljajo za <hi rend="italic">vsa</hi> društva.</p>
             </div>
             <gap reason="irrelevant"/>
@@ -940,7 +953,8 @@
                   Razmere so take, da pada od leta do leta konsumacijska sposobnost kmetskega stanu,
                   v prvi vrsti vsled indolentnosti, zapravljivosti in zadolženja, in s tem gineva
                   tudi gospodarska trdnost srednjih stanov.</p>
-               <p><hi rend="italic">Bodočnost slovenskega naroda je odvisna od njegove gospodarske
+               <p>
+                  <hi rend="italic">Bodočnost slovenskega naroda je odvisna od njegove gospodarske
                      sile – ta pa je odvisna od industrijalizacije slovenskih dežela</hi>. Samo
                   velika industrija in velika trgovina stvarjata bogastva. Lega naše domovine je
                   taka, da je industrijalizacija naravna stvar. <hi rend="italic">Kdor bo slovenske
@@ -964,11 +978,9 @@
                      <placeName>Koroškem</placeName> in na <placeName>Štajerskem</placeName>, kako
                   gineva slovenstvo, dasi še ne čuti vpliva germanizacije. Ali agrarci ne moremo
                   ostati, prvič, <hi rend="italic">ker se bode</hi> razvila industrijalizacija tudi
-                  proti naši volji, in drugič, ker moramo kot agrarski narod počasi izkrvaveti. <hi
-                     rend="italic">Samo če sami industrijaliziramo svojo domovino, si opomoremo
+                  proti naši volji, in drugič, ker moramo kot agrarski narod počasi izkrvaveti. <hi rend="italic">Samo če sami industrijaliziramo svojo domovino, si opomoremo
                      gospodarsko in si zagotovimo narodni obstanek – drugače ne</hi>.</p>
-               <p>To je upoštevati tudi narodnonapredni stranki pri sestavljanju njenega <hi
-                     rend="italic">gospodarskega programa</hi>. Program zamore dati samo okvir.
+               <p>To je upoštevati tudi narodnonapredni stranki pri sestavljanju njenega <hi rend="italic">gospodarskega programa</hi>. Program zamore dati samo okvir.
                   Ustvariti se mora seveda program za ves narod, tako da ne bo izločen noben sloj,
                   realen program, ki računa z današnjimi razmerami in aktuvalnimi potrebami. Seveda,
                   kjer ni eneržije, delavnosti, podjetnosti, varčnosti in treznosti, kjer ni smisla
@@ -980,19 +992,15 @@
                <p>Pri nas Slovencih je <hi rend="italic">kmetski stan</hi> v propadanju. Dobrega
                   srednjega kmetskega stanu imamo le jako malo. Pri nas ima kmet navado, da
                   neusmiljeno razkosava svoje zemljišče. Deželni zbor je svoj čas sklenil zakon o
-                     <hi rend="italic">zlaganju zemljišč</hi>. Mislil je, da ustvari na ta način <hi
-                     rend="italic">velike kmetije</hi>, da nastane krepak kmetski srednji stan. A
-                  nihče se ne poslužuje tega zakona. <q>Gruntarjev</q> je vedno manj. <hi
-                     rend="italic">Proletariziranje slovenskega kmetskega stanu</hi> se razvija kot
+                     <hi rend="italic">zlaganju zemljišč</hi>. Mislil je, da ustvari na ta način <hi rend="italic">velike kmetije</hi>, da nastane krepak kmetski srednji stan. A
+                  nihče se ne poslužuje tega zakona. <q>Gruntarjev</q> je vedno manj. <hi rend="italic">Proletariziranje slovenskega kmetskega stanu</hi> se razvija kot
                   bi bil to zakon narave. To proletariziranje pospešujejo poleg novodobnih
                   gospodarskih razmer še druge okolnosti. Kmet je <hi rend="italic">indolenten</hi>.
                   Po naravi je do skrajnosti konservativen in zato ga ni pripraviti do tega, da bi
                      <hi rend="italic">res</hi> umno in racijonelno gospodaril in bil agilen pri
                   kupčiji. Kaj pomagajo tisti vagoni žlindre, ki se porabijo vsako leto, ko se vidi
-                  v vsaki vasi, kako zanikrno se dela z naravnim gnojilom. Naš kmet tudi <hi
-                     rend="italic">ni varčen</hi>, ter živi povprek čez svoje razmere. Kaka je
-                  zapravljivost, se vidi pri ženitovanjih in enakih prilikah, a <hi rend="italic"
-                     >pijančevanje</hi> je zadobilo take dimenizije, da požre vedno večja premoženja
+                  v vsaki vasi, kako zanikrno se dela z naravnim gnojilom. Naš kmet tudi <hi rend="italic">ni varčen</hi>, ter živi povprek čez svoje razmere. Kaka je
+                  zapravljivost, se vidi pri ženitovanjih in enakih prilikah, a <hi rend="italic">pijančevanje</hi> je zadobilo take dimenizije, da požre vedno večja premoženja
                   in da ljudstvo kar vidno degenerira. Kmetska zapravljivost se vidi tudi pri tem,
                      <hi rend="italic">kako kmet razsipa denar za cerkvene namene</hi>. Za kako
                   dobrodelne ali narodno stvar je od kmeta silno težko kaj dobiti – za duhovnika in
@@ -1004,8 +1012,7 @@
                   zložili 12.000 K za en sam zvon – brizgalne za slučaj požara pa nimajo in si je
                   tudi nečejo omisliti. Takemu ljudstvu seveda ni pomagati, tako ljudstvo mora
                   propasti.</p>
-               <p>Proletariziranje kmetskega stanu pospešuje dalje tudi stara navada, <hi
-                     rend="italic">dajati vsem otrokom dote</hi>. Te dote so glavni vzrok silnemu
+               <p>Proletariziranje kmetskega stanu pospešuje dalje tudi stara navada, <hi rend="italic">dajati vsem otrokom dote</hi>. Te dote so glavni vzrok silnemu
                      <hi rend="italic">zadolženju</hi> kmetskih posestev. To zadolženje je tako, da
                   kmet že kmalu ne bo več zmagoval obresti in se preteča <hi rend="italic">občna
                      katastrofa</hi> ne da drugače preprečiti <hi rend="italic">kakor da poseže
@@ -1016,7 +1023,9 @@
                   uspešno kupčevanje; <hi rend="italic">z zakonitim varstvom</hi> kmetijskih
                   interesov in <hi rend="italic">z materijelno pomočjo</hi> v svrho razdolženja.</p>
                <p>V varstvo kmetijskih koristi in v pospeševanje umnega kmetijskega dela imamo pri
-                  nas <hi rend="italic"><orgName>c. kr. kmetijsko družbo</orgName></hi>. Drugod se deluje na to ali pa
+                  nas <hi rend="italic">
+                     <orgName>c. kr. kmetijsko družbo</orgName>
+                  </hi>. Drugod se deluje na to ali pa
                   že imajo <hi rend="italic">kulturne svete</hi>, ki so za kmetovalce nekako to, kar
                   so trgovske in obrtne zbornice za trgovce in obrtnike. Uredba kulturnih svetov je
                   seveda ugodnejša, vendar mislimo, da bi se dala pri nas stvar urediti tako, da bi
@@ -1044,8 +1053,7 @@
                   strokovne omike in zna vsled tega bolje gospodariti in kupčevati, ker zna bolje
                   varčevati in izrabljati prilike za zaslužek.</p>
                <p>Ob sebi se razume, da mora vsaka kmetu prijazna stranka izrabiti vsa sredstva, kar
-                  jih daje agrarna politika. V tem oziru je najvažnejše <hi rend="italic"
-                     >zadružništvo</hi> in sicer tako, kakor je je uvedla in jo neguje
+                  jih daje agrarna politika. V tem oziru je najvažnejše <hi rend="italic">zadružništvo</hi> in sicer tako, kakor je je uvedla in jo neguje
                   narodno-napredna stranka. Klerikalci so posnemajoč <orgName>narodno-napredno stranko</orgName> kar na
                   debelo snovali <hi rend="italic">konsume in male posojilnice</hi>. Ti konsumi so
                   pocrkali in so povzročili dosti škode, male posojilnice pa vegetirajo klavrno in
@@ -1058,16 +1066,14 @@
                <p>Narodno-napredna stranka naj bi torej gojila <hi rend="italic">samo produktivne
                      zadruge</hi> in skrbela, <hi rend="italic">da se v vsakem okraju ustanovi večja
                      posojilnica</hi>.</p>
-               <p>Nekaj pa je narodno-napredna stranka zamudila na veliko škodo zadružništva. <hi
-                     rend="italic">Že pred leti bi se bila morala ustanoviti za
+               <p>Nekaj pa je narodno-napredna stranka zamudila na veliko škodo zadružništva. <hi rend="italic">Že pred leti bi se bila morala ustanoviti za
                         <placeName>Kranjsko</placeName> samostojna zveza neklerikalnih zadrug</hi>.
                   Vsa čast celjski zvezi, toda gotovo je, da bi zadružništvo dosti bolje uspevalo,
                   če bi imeli <hi rend="italic">na <placeName>Kranjskem</placeName> samostojno
                      zvezo</hi>. Nobene stvari ni tako lahko izvršiti, kakor to in če se ne izvede,
                   bi bil to naravnost neodpusten greh.</p>
                <p>Potom <hi rend="italic">zakonodaje</hi> se da tudi marsikaj storiti za kmetijstvo.
-                     <hi rend="italic">Zemljiški davek</hi> je ravno tako krivičen, kakor <hi
-                     rend="italic">obrtni davek</hi>. Vnebovpijoče je, da mora obrtnik plačevati
+                     <hi rend="italic">Zemljiški davek</hi> je ravno tako krivičen, kakor <hi rend="italic">obrtni davek</hi>. Vnebovpijoče je, da mora obrtnik plačevati
                   poseben davek samo zato, <hi rend="italic">ker ima voljo delati</hi>, da ga mora
                   plačevati, tudi <hi rend="italic">če nič ne zasluži</hi>; istotako vnebovpijoče
                   je, če mora kmet plačevati davek <hi rend="italic">od zemlje</hi>, ki mu tudi sama
@@ -1086,13 +1092,12 @@
                   ker so se bali za profite kranjske hranilnice, pomagali pa so jim klerikalci, ki
                   so kmetski prijatelji samo z jezikom, a kmeta takoj izdajo in prodajo, če jim to
                   količkaj kaže.</p>
-               <p><hi rend="italic">Izseljevanje</hi> spada med najtežje probleme. Koder se ljudje
+               <p>
+                  <hi rend="italic">Izseljevanje</hi> spada med najtežje probleme. Koder se ljudje
                   izseljujejo, je to dokaz, da so gospodarske razmere slabe. Iz kamna se ne da
-                  delati kruha in zato je vse zastonj vpiti zoper izseljevanje. <hi rend="italic"
-                     >Izseljevanje bo ponehalo tedaj, kadar bodo imeli ljudje doma zadosti
+                  delati kruha in zato je vse zastonj vpiti zoper izseljevanje. <hi rend="italic">Izseljevanje bo ponehalo tedaj, kadar bodo imeli ljudje doma zadosti
                      kruha</hi>. Tega nimajo več in zato beže trumoma v
-                     <placeName>Ameriko</placeName>. A kako jim preskrbeti kruha? <hi rend="italic"
-                     >To se ne da drugače storiti kakor z industrijalizacijo in z ustanovitvijo
+                     <placeName>Ameriko</placeName>. A kako jim preskrbeti kruha? <hi rend="italic">To se ne da drugače storiti kakor z industrijalizacijo in z ustanovitvijo
                      novih kmetij iz fidejkomisov</hi> in cerkvenih posestev.</p>
                <p>Tudi <hi rend="italic">poselsko vprašanje</hi> se ne da rešiti s tarnanjem. Dokler
                   bodo ljudje lahko bolje in ugodneje živeli kot delavci v tovarnah, bodo bežali s
@@ -1101,17 +1106,16 @@
                   iz časov, ko o industriji ni bilo sledu, <hi rend="italic">z izvedbo zavarovanja
                      poslov za bolezen in starost</hi> se da pač marsikaj storiti, ali to je tudi
                      <hi rend="italic">edino</hi> sredstvo zoper pomanjkanje poslov. Naš kmet se
-                  mora sprijazniti z mislijo, da pride čas, ko sploh ne bo več posla dobiti in <hi
-                     rend="italic">mora temu primerno urediti svoje gospodarstvo</hi>.</p>
-               <p><hi rend="italic">Materijalno</hi> pomoč moreta dajati kmetu le država in dežela s
+                  mora sprijazniti z mislijo, da pride čas, ko sploh ne bo več posla dobiti in <hi rend="italic">mora temu primerno urediti svoje gospodarstvo</hi>.</p>
+               <p>
+                  <hi rend="italic">Materijalno</hi> pomoč moreta dajati kmetu le država in dežela s
                   tem, <hi rend="italic">da podpirata kmetijstvu koristne naprave</hi> in da država
                      <hi rend="italic">kupuje svoje potrebščine direktno od kmeta</hi>.</p>
                <p>Ali vse to bo le kaplja v morje, dokler se ne izvede <hi rend="italic">razdolženje
                      kmetskih posestev</hi>. To je problem vseh problemov agrarne politike, to je
                   vprašanje, katero zamore le država rešiti. Mnenja, kako se to stori, so različna
                   in naša naloga pač ne more biti, da bi jih tu vsa pretresali, zlasti ker so
-                  večinoma neizvedljiva. Le na en način je mogoče stvar izvesti: <hi rend="italic"
-                     >če bi država konfiscirala cerkvena posestva, bi s tem denarjem in z dohodki
+                  večinoma neizvedljiva. Le na en način je mogoče stvar izvesti: <hi rend="italic">če bi država konfiscirala cerkvena posestva, bi s tem denarjem in z dohodki
                      verskega zaklada zamogla razbremeniti kmetska posestva vsaj toliko, da bi kmet
                      spet prosto dihal in mogel živeti na svoji zemlji</hi>. Seveda za izvedbo
                   takega dela bi bilo treba, da nosi cesarsko krono zopet kak <persName>Jožef
@@ -1147,9 +1151,7 @@
                   bodo razvile in razcvetele in poleg njih bodo nastale nove obrti. Tovarne bodo
                   vedno proizvajale samo stvari, ki se dajo na debelo po enem kopitu producirati –
                   vse drugo ostane mali obrti.</p>
-               <p>V svrho, da se obrtnost podpre in razvije, je treba porabiti vse moči <hi
-                     rend="italic">kapitala in tehnike</hi>, a je treba tudi potom <hi rend="italic"
-                     >zakonodajstva</hi> storiti, kar je mogoče. Krepek trgovski in obrtni stan je
+               <p>V svrho, da se obrtnost podpre in razvije, je treba porabiti vse moči <hi rend="italic">kapitala in tehnike</hi>, a je treba tudi potom <hi rend="italic">zakonodajstva</hi> storiti, kar je mogoče. Krepek trgovski in obrtni stan je
                   nam Slovencem potreben že iz narodnih nagibov; narod, ki nima meščanstva, to ni
                   narod.</p>
                <p>Težko stališče, ki je ima dandanes obrtni stan, ni samo posledica obstoječih
@@ -1159,13 +1161,11 @@
                   kajti to so posledice slabe vzgoje, a gledati je treba, da se obrtni naraščaj
                   bolje vzgoji.</p>
                <p>Na polju <hi rend="italic">zakonodajstva</hi> se da za obrtni stan precej storiti.
-                  Tekom prihodnjih mesecev bo državni zbor razpravljal o premembi <hi rend="italic"
-                     >obrtnega reda</hi> in je skoro brez dvoma, da obvelja dotični načrt. Z njim se
+                  Tekom prihodnjih mesecev bo državni zbor razpravljal o premembi <hi rend="italic">obrtnega reda</hi> in je skoro brez dvoma, da obvelja dotični načrt. Z njim se
                   v precejšnji meri ugodi zahtevam male obrti in bo s to reformo storjen važen
                   korak, čeprav načrt ni popoln in ostane nerešenih mnogo za male obrtnike važnih
                   zadev.</p>
-               <p>Kar se tiče vzgoje obrtnega naraščaja, je zanjo slabo preskrbljeno. <hi
-                     rend="italic">Reforma obrtnih nadaljevalnih šol</hi> je nujno potrebna, kajti
+               <p>Kar se tiče vzgoje obrtnega naraščaja, je zanjo slabo preskrbljeno. <hi rend="italic">Reforma obrtnih nadaljevalnih šol</hi> je nujno potrebna, kajti
                   učni uspehi teh šol so precej klavrni in ne morejo biti boljši, ker je uredba
                   slaba.</p>
                <p>Poleg dobrih obrtno-nadaljevalnih šol je treba <hi rend="italic">strokovnih
@@ -1183,15 +1183,12 @@
                   šola je <hi rend="italic">predpogoj industrijaliziranju naših dežel</hi>, taka
                   šola pa bo tudi pomagala do kruha mnogim naših ljudi, kajti odprla jim bo službe,
                   ki jim sedaj niso dostopne.</p>
-               <p>A tudi za sedanjo obrtno generacijo je treba skrbeti. V svrho <hi rend="italic"
-                     >tehniške izpopolnitve produkcije</hi> je treba dati obrtnikom priliko, da
+               <p>A tudi za sedanjo obrtno generacijo je treba skrbeti. V svrho <hi rend="italic">tehniške izpopolnitve produkcije</hi> je treba dati obrtnikom priliko, da
                   spoznajo <hi rend="italic">stroje</hi> in <hi rend="italic">njih rabo</hi> in
-                  omogočiti se jim mora <hi rend="italic">dobava strojev</hi> in uvesti je <hi
-                     rend="italic">mojstrske tečaje</hi> za vse stroke. Kdor zaostaja za svojimi
+                  omogočiti se jim mora <hi rend="italic">dobava strojev</hi> in uvesti je <hi rend="italic">mojstrske tečaje</hi> za vse stroke. Kdor zaostaja za svojimi
                   tekmeci v tehniško najpopolnejši in s tem tudi najcenejši produkciji, tega
                   konkurenca kmalu premaga in ga porazi.</p>
-               <p>Ob sebi se razume, da je treba podpirati in pospeševati tudi vse, kar se tiče <hi
-                     rend="italic">stanovske organizacije</hi>. Predvsem je treba, da se spopolni
+               <p>Ob sebi se razume, da je treba podpirati in pospeševati tudi vse, kar se tiče <hi rend="italic">stanovske organizacije</hi>. Predvsem je treba, da se spopolni
                   sedanje <hi rend="italic">obrtno zadružništvo</hi>. V tem je pač mnogo
                   birokratizma, a malo resnične koristi. Obrtne zadruge, če naj dobro uspevajo,
                   morajo dobiti <hi rend="italic">večjo veljavo</hi> in <hi rend="italic">večji
@@ -1204,8 +1201,7 @@
                <p>Časih se je mnogo govorilo in pisalo o koristi <hi rend="italic">nakupovalnih
                      zadrug</hi> za obrtnike. V teoriji je to jako lepo, v praksi pa se ni obneslo.
                   Ako pa se kje obrtniki odločijo za tako zadrugo, je ob sebi umljivo, da jim mora
-                  iti <orgName>narodnonapredna stranka</orgName> na roko. Stare so zahteve, naj <hi rend="italic"
-                     >erar</hi> svoje potrebščine zlasti za vojaštvo naročuje pri malih obrtnikih in
+                  iti <orgName>narodnonapredna stranka</orgName> na roko. Stare so zahteve, naj <hi rend="italic">erar</hi> svoje potrebščine zlasti za vojaštvo naročuje pri malih obrtnikih in
                   naj se odpravi obrtno delo po <hi rend="italic">kaznilnicah</hi>. <orgName>Narodnonapredna
                   stranka</orgName> je ti zahtevi vedno krepko podpirala in jih bo seveda tudi v
                   prihodnje.</p>
@@ -1213,8 +1209,7 @@
                <p>Zagotoviti se mora <hi rend="italic">prednost</hi> domačih obrtnikov pred tujimi
                   pri vseh oddajah javnih del. Načeloma mora obveljati, da ima domači obrtnik vedno
                   prednost, tudi če je za nekaj vinarjev dražji kakor s kapitalom dobro podprti in
-                  zato cenejši tujec. Pri upravnih oblastvih je nastaviti <hi rend="italic"
-                     >specijalne organe</hi> iz obrtne stroke, pri sodiščih pa je uvesti institucijo
+                  zato cenejši tujec. Pri upravnih oblastvih je nastaviti <hi rend="italic">specijalne organe</hi> iz obrtne stroke, pri sodiščih pa je uvesti institucijo
                      <hi rend="italic">sodnikov-lajikov</hi> tudi za obrtne stvari tako, kakor so
                   uvedena za trgovske stvari.</p>
             </div>
@@ -1230,7 +1225,8 @@
                      svojim</q> je načelo, ki bi nam lahko politično in narodno ogromno koristilo in
                   nemštvo na <placeName>Kranjskem</placeName> n. pr. bi že davno bilo jako ponižno,
                   ko bi se to načelo izvrševalo.</p>
-               <p><hi rend="italic">Slovensko občinstvo se mora začeti zavedati narodne dolžnosti,
+               <p>
+                  <hi rend="italic">Slovensko občinstvo se mora začeti zavedati narodne dolžnosti,
                      ki jo ima napram slovenskim trgovcem in obrtnikom</hi>. V medsebojnem
                   podpiranju leži naš spas. Prvo, kar more narod storiti za trgovca in obrtnika je,
                      <hi rend="italic">da pri njem kupuje in naroča svoje potrebščine</hi>, potem
@@ -1242,8 +1238,7 @@
                   ozirajo pred vsem na slovenske producente, da dajo slovenskemu jeziku v svoji
                   trgovini tisto veljavo, ki mu gre in da nastavljajo samo slovenske sotrudnike in
                   uslužbence ter sprejemajo samo slovenske vajence. Uvažujemo sicer vse razmere, ali
-                  delati moramo vendar na to, da bodo slovenski trgovci <hi rend="italic"
-                     >korespondirali</hi> tudi z Nemci in z Italijani samo v slovenskem jeziku.
+                  delati moramo vendar na to, da bodo slovenski trgovci <hi rend="italic">korespondirali</hi> tudi z Nemci in z Italijani samo v slovenskem jeziku.
                   Seveda, kdor je <hi rend="italic">odvisen</hi> od nemškega fabrikanta ali
                   italijanskega veletržca, ne more tega storiti. Lahko pa to store dobro stoječi
                   trgovci, ker se za take odjemalce fabrikantje in veletržci kar trgajo. S
@@ -1262,8 +1257,7 @@
                   Politične stranke ne morejo v tem oziru drugega storiti, kakor da bude narodno
                   zavest in agitatoričnim potom razširjajo spoznanje, da se morajo vsi sloji med
                   seboj podpirati in hoditi roko v roki.</p>
-               <p>Pač pa ima narodno-napredna stranka dolžnost, da z vso eneržijo <hi rend="italic"
-                     >brani in ščiti interese trgovskega stanu</hi>. V tem oziru je <orgName>narodno-napredna
+               <p>Pač pa ima narodno-napredna stranka dolžnost, da z vso eneržijo <hi rend="italic">brani in ščiti interese trgovskega stanu</hi>. V tem oziru je <orgName>narodno-napredna
                   stranka</orgName> že doprinesla sijajen dokaz za svojo eneržijo in za svojo delavnost.
                   <orgName>Klerikalna stranka</orgName> je nameravala uničiti samostojne trgovce. Proglasila jih je za
                   parasite in jih hotela izpodriniti s konsumi. Samo odločnemu prizadevanju
@@ -1286,23 +1280,18 @@
                   in ne agrarcev, marveč zasluga nemškega trgovca.</p>
                <p>Tudi pri nas se ne bo gospodarsko življenje moglo tako razviti, kakor je treba,
                   dokler ne bo dovolj trgovskega naraščaja, ki bo stal <hi rend="italic">na
-                     višku</hi> trgovske omike, tak naraščaj pa nam zamore vzgojiti samo <hi
-                     rend="italic">trgovska akademija</hi>.</p>
+                     višku</hi> trgovske omike, tak naraščaj pa nam zamore vzgojiti samo <hi rend="italic">trgovska akademija</hi>.</p>
                <p>Za trgovca, ki v navadnem gospodarskem življenju opravlja funkcijo
-                     <q>Waarenverteilerja</q>,<note source="#SourceBornDigital"
-                     >Warenverteiler.</note> seveda ni trgovska akademija. Trgovec na deželi ne
+                     <q>Waarenverteilerja</q>,<note source="#SourceBornDigital">Warenverteiler.</note> seveda ni trgovska akademija. Trgovec na deželi ne
                   potrebuje tolike splošne in strokovne izobrazbe, ali da sedanja navadna izobrazba
                   ne zadostuje, to so trgovci sami izprevideli ter zahtevajo šol in tudi sami skrbe
                   za svojo izobrazbo.</p>
-               <p>Glede javnega šolstva je treba skrbeti, da se v večjih mestih ustanove <hi
-                     rend="italic">meščanske šole s trgovskim značajem</hi>, kakršno dobi sedaj
-                     <placeName>Postojna</placeName>, vrhu tega pa se naj ustanove <hi rend="italic"
-                     >nadaljevalne šole s trgovskim značajem</hi>. Ljubljanska <hi rend="italic"
-                     >gremijalna šola</hi> že davno več ne zadostuje, ne v strokovnem, ne v narodnem
-                  oziru in bo tudi to treba temeljito reformirati. Vrhu tega je skrbeti za <hi
-                     rend="italic">strokovna predavanja</hi> in za <hi rend="italic">shode</hi>,
-                  kakršne prireja izborno delujoče trgovsko društvo <hi rend="italic"
-                     ><q>Merkur</q></hi>, ki je sploh sijajen zgled stanovske organizacije in čigar
+               <p>Glede javnega šolstva je treba skrbeti, da se v večjih mestih ustanove <hi rend="italic">meščanske šole s trgovskim značajem</hi>, kakršno dobi sedaj
+                     <placeName>Postojna</placeName>, vrhu tega pa se naj ustanove <hi rend="italic">nadaljevalne šole s trgovskim značajem</hi>. Ljubljanska <hi rend="italic">gremijalna šola</hi> že davno več ne zadostuje, ne v strokovnem, ne v narodnem
+                  oziru in bo tudi to treba temeljito reformirati. Vrhu tega je skrbeti za <hi rend="italic">strokovna predavanja</hi> in za <hi rend="italic">shode</hi>,
+                  kakršne prireja izborno delujoče trgovsko društvo <hi rend="italic">
+                     <q>Merkur</q>
+                  </hi>, ki je sploh sijajen zgled stanovske organizacije in čigar
                   delovanje zasluži neomejeno priznanje. Ako bi <hi rend="italic">obrtniki</hi>
                   zamogli ustanoviti tako društvo, kakor je <q>Merkur</q>, bi bili danes vse
                   drugačen faktor, kakor pa so tako, zakaj da <q>Zveza obrtnih zadrug</q> tudi, ko
@@ -1310,8 +1299,7 @@
                <p>Potom <hi rend="italic">zakonodajstva</hi> je treba še marsikaj storiti za
                   trgovstvo.</p>
                <p>Zahteva, da se uvede <hi rend="italic">dokaz usposobljenosti</hi>, je naravna in
-                  je tudi v interesu kupujočega občinstva. Izposlovati pa bo tudi zakon <hi
-                     rend="italic">zoper nepošteno konkurenco</hi>, ki ga je
+                  je tudi v interesu kupujočega občinstva. Izposlovati pa bo tudi zakon <hi rend="italic">zoper nepošteno konkurenco</hi>, ki ga je
                      <persName>Körber</persName> pred več leti obljubil, na katero obljubo pa je
                   vlada pozabila, in izposlovati je <hi rend="italic">reformo</hi> zakona o
                   konkurzih v svrho, da se omeje in utesne goljufivi konkurzi.</p>
@@ -1323,8 +1311,7 @@
                   ugodne, denar je predrag in pretežko ga je dobiti. Zato mislijo trgovci že nekaj
                   časa na ustanovitev <hi rend="italic">trgovske banke</hi> in naravno je, da jim bo
                   morala narodnonapredna stranka iti pri tem na róko z vso eneržijo.</p>
-               <p>Končno se nam zdi, da je treba v korist trgovine delati na ustanovitev <hi
-                     rend="italic">javnega skladišča v <placeName>Ljubljani</placeName>, na
+               <p>Končno se nam zdi, da je treba v korist trgovine delati na ustanovitev <hi rend="italic">javnega skladišča v <placeName>Ljubljani</placeName>, na
                      preuredbo avstroogrskega Lloyda</hi> in na <hi rend="italic">preuredbo
                      konzulatov</hi>, ker so sedanji konzulati le jako slaba opora trgovini.</p>
             </div>
@@ -1343,26 +1330,19 @@
                   vprašanje je samo en del socialnega vprašanja. Socialni demokratje in krščanski
                   socialci so se oprijeli delavskega vprašanja, ker so ž njim zamogli ustvariti
                   močne politične stranke in si pridobiti več ali manj politične veljave. Socialno
-                  vprašanje pa se tiče vseh neimovitih slojev in je njegov namen, <hi rend="italic"
-                     >izenačiti človeško družbo</hi> – kolikor je to pač sploh mogoče.</p>
-               <p>Socialni demokratje mislijo ta namen doseči s <hi rend="italic"
-                  >kolektivizmom</hi>. Naša naloga ne more biti, da bi tu vzeli v pretres nauke
+                  vprašanje pa se tiče vseh neimovitih slojev in je njegov namen, <hi rend="italic">izenačiti človeško družbo</hi> – kolikor je to pač sploh mogoče.</p>
+               <p>Socialni demokratje mislijo ta namen doseči s <hi rend="italic">kolektivizmom</hi>. Naša naloga ne more biti, da bi tu vzeli v pretres nauke
                   socialno-demokracije in dokazali, da so utopistični. Narodno-napredna stranka ni
                   socialno-demokratična in pač tudi nikdar ne bo, dasi kot moderna, svobodoljubna in
                   demokratična stranka toplo simpatizuje z mnogimi zahtevami socialnih demokratov.
-                  Socialno-demokratična ni narodno-napredna stranka, pač pa mora biti <hi
-                     rend="italic">socialistična</hi> v tem zmislu, da želi in hoče delati na to,
+                  Socialno-demokratična ni narodno-napredna stranka, pač pa mora biti <hi rend="italic">socialistična</hi> v tem zmislu, da želi in hoče delati na to,
                      <hi rend="italic">da se na podlagi individualističnega gospodarstva izravna
                      nasprotje med imovitimi in neimovitimi sloji in ljudmi, da se izenači človeška
                      družba tako glede omike kakor tudi glede blagostanja, kolikor je to sploh
-                     možno.</hi> Doseči se da to le na ta način, da se po mogočnosti <hi
-                     rend="italic">povzdigne materialno in duševno blagostanje neimovitih
+                     možno.</hi> Doseči se da to le na ta način, da se po mogočnosti <hi rend="italic">povzdigne materialno in duševno blagostanje neimovitih
                      slojev</hi>.</p>
                <p>V revščini živeči sloji – ki v današnji socialni družbi opravljajo vsa fizična
-                  dela, pa tudi mnogo duševnega dela, kakor na pr. učitelji – imajo prav gotovo <hi
-                     rend="italic">pravico</hi> do boljšega stanja in do boljše omike. Ta <hi
-                     rend="italic">pravica</hi> je prirodna in <orgName>katoliška cerkev</orgName> je svoje <hi
-                     rend="italic">nasprotje</hi> do socialne preuredbe človeške družbe najbolje
+                  dela, pa tudi mnogo duševnega dela, kakor na pr. učitelji – imajo prav gotovo <hi rend="italic">pravico</hi> do boljšega stanja in do boljše omike. Ta <hi rend="italic">pravica</hi> je prirodna in <orgName>katoliška cerkev</orgName> je svoje <hi rend="italic">nasprotje</hi> do socialne preuredbe človeške družbe najbolje
                   pokazala s tem, <hi rend="italic">da taji in zametava to pravico</hi>. Kdor spričo
                   temu stoji v političnih in socialnih rečeh še na strani <orgName>katoliške cerkve</orgName>, je svoj
                   lastni sovražnik.</p>
@@ -1454,17 +1434,19 @@
                <p>Občna korist vseh Slovencev, naj že pripadajo kateremukoli stanu, zahteva dalje še
                   celo vrsto reform v vseh panogah javnega življenja.</p>
                <p>Ustava, ki jo imamo, je še danes pravzaprav le na papirju. Splošna in enaka
-                  volilna pravica poda <orgName>parlamentu</orgName> <hi rend="italic">večjo moč</hi>, kot jo ima sedaj
+                  volilna pravica poda <orgName>parlamentu</orgName> 
+                  <hi rend="italic">večjo moč</hi>, kot jo ima sedaj
                   in če bodo imeli narodi prave nastopnike, bodo ti to večjo moč tudi lahko
                   izkoristili.</p>
                <p>Potrebno je, da dobi <orgName>parlament</orgName> večji vpliv na <hi rend="italic">zunanjo
                      politiko</hi> in na <hi rend="italic">vojaštvo</hi>, kjer vlada sedaj krona
                   popolnoma absolutno, brez vsakega ozira na prebivalstvo, <hi rend="italic">zgolj
                      in edino tako, kakor je to v interesu vladajoče <persName>habsburške
-                        rodovine</persName></hi>.</p>
-               <p><orgName>Parlament</orgName> bo moral razširiti <hi rend="italic">politične pravice</hi> državljanov.
-                  Izposlovati se mora <hi rend="italic">tiskovna svoboda</hi> in dovoliti <hi
-                     rend="italic">svobodna kolportaža</hi>. Zakon <hi rend="italic">o društvih</hi>
+                        rodovine</persName>
+                  </hi>.</p>
+               <p>
+                  <orgName>Parlament</orgName> bo moral razširiti <hi rend="italic">politične pravice</hi> državljanov.
+                  Izposlovati se mora <hi rend="italic">tiskovna svoboda</hi> in dovoliti <hi rend="italic">svobodna kolportaža</hi>. Zakon <hi rend="italic">o društvih</hi>
                   in zakon <hi rend="italic">o zborovanjih</hi> se mora reformirati v liberalnem
                   smislu, da bo zajamčeno <hi rend="italic">svobodno politično življenje in
                      delovanje</hi>. V svrho, da se zagotovi ta svoboda, je potom zakona ustvariti

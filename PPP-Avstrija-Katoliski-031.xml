@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,36 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="item" occurs="12"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="p" occurs="1"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -57,8 +86,11 @@
    <text>
       <body>
          <div>
-            <head>Ustanovni shod <q><orgName>Slovenske kmečke zveze</orgName></q> v <placeName>Mariboru</placeName> dne
-                  <date when="1907-01-21">21. t. m.</date></head>
+            <head>Ustanovni shod <q>
+                  <orgName>Slovenske kmečke zveze</orgName>
+               </q> v <placeName>Mariboru</placeName> dne
+                  <date when="1907-01-21">21. t. m.</date>
+            </head>
             <gap reason="irrelevant"/>
             <p>Glavne točke programa <q>S. k. z.</q> pa so:</p>
             <list rend="numbered" xml:id="No.31.PPP">
@@ -67,8 +99,7 @@
                   na sina.</item>
                <item n="3.">Odprava sedanjega zemljiškega davka in upeljava progresivnega
                   dohodninskega davka.</item>
-               <item n="4.">Prepoved uvoza živine iz tujih držav, posebno iz balkanskih, ki so <gap
-                     reason="irrelevant"/> ognjišče vseh kužnih bolezni na vseh vrstah domačih
+               <item n="4.">Prepoved uvoza živine iz tujih držav, posebno iz balkanskih, ki so <gap reason="irrelevant"/> ognjišče vseh kužnih bolezni na vseh vrstah domačih
                   živali.</item>
                <item n="5.">Uravnava občinskih davkov.</item>
                <item n="6.">Uravnava cen pridelkov, prepoved uvoza vseh vegetabilnih masti, kakor

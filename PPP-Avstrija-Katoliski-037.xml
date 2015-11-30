@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="10"/>
+               <tagUsage gi="persName" occurs="3"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani geogName
@@ -88,7 +115,8 @@
                razširja punčice našim duševnim očem, ko v temni bodočnosti iščejo zlate zarje
                drugega, večjega dne v naših prihodnjih zgodbah. Z zastopniki hrvaškega ljudstva, s
                srci zavednih hrvaških kmetov vred kliče tudi naše ljudstvo: Bog daj!</p>
-            <p xml:id="No.37.PPP.4"><placeName>Kraljestvo sv. Vaclava</placeName> nam tudi pošilja priče izmed naroda, ki
+            <p xml:id="No.37.PPP.4">
+               <placeName>Kraljestvo sv. Vaclava</placeName> nam tudi pošilja priče izmed naroda, ki
                je po svojem napredku prvi v naši državi, po krvi brat, po srcu drug naš v veselih in
                žalostnih dneh. Prisrčno jih pozdravljamo! Ne prihajajo k nam kot posamniki, marveč
                kot zastopniki velikih in silnih ljudskih organizacij. Češko ljudstvo prihaja. Slava
@@ -107,8 +135,7 @@
                telesu, ko si ustvari enoten politiški organizem s skupnim vodstvom. To dejstvo se
                zvrši v klasični državi strank in strančic, v politiško atomizirani <placeName>Avstriji</placeName>, med
                ljudstvom, ki je organiški del jugoslovanskega naroda, kateri se še prav posebno
-               odlikuje s svojo strankarsko plodovitostjo. Provincializem in kampanilizem<note
-                  source="#SourceBornDigital">Lokalni patriotizem.</note> združen s protisocialnim
+               odlikuje s svojo strankarsko plodovitostjo. Provincializem in kampanilizem<note source="#SourceBornDigital">Lokalni patriotizem.</note> združen s protisocialnim
                individualizmom ubija vse naše javno življenje. Nebrojno strank, in še te slabe!
                Večina izmed njih v praktiškem življenju ubija svojo avtonomijo, ker ne zvršuje s
                svojo lastno močjo zase zakonodaje, marveč si jo da diktirati od zunaj, od drugih
@@ -153,7 +180,8 @@
                kaj enakega, kaj podobnega? Da more zastaviti to vprašanje, to je zame največja
                pridobitev juteršnega dne in najboljše zagotovilo, da se z zoro juteršnjega shoda
                zasnije beli dan svobode in moči naše in vsega slovanskega juga v naši državi.</p>
-            <closer>Dr. <persName>Krek</persName></closer>
+            <closer>Dr. <persName>Krek</persName>
+            </closer>
          </div>
       </body>
    </text>

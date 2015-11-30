@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -55,7 +55,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="item" occurs="19"/>
+               <tagUsage gi="list" occurs="4"/>
+               <tagUsage gi="orgName" occurs="19"/>
+               <tagUsage gi="p" occurs="5"/>
+               <tagUsage gi="placeName" occurs="6"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -68,7 +98,9 @@
             <head>Uvod</head>
             <list rend="numbered">
                <item n="1.">Naš namen je, da se za v monarhiji živeče Slovence, Hrvate in Srbe
-                  ustanovi skupni <q><orgName>Narodni odbor</orgName></q>, kjer bodo po medsebojno dogovorjenem
+                  ustanovi skupni <q>
+                     <orgName>Narodni odbor</orgName>
+                  </q>, kjer bodo po medsebojno dogovorjenem
                   proporcu zastopani vsi politični činitelji, ki na temelju edinstvenosti
                   jugoslovanskega naroda hočejo izvojevati samostojno jugoslovansko državo.</item>
                <item n="2.">Za ozemlja <placeName>Cislajtanije</placeName> se osnuje <orgName>Narodni svet</orgName>,
@@ -99,10 +131,12 @@
             <head>Organizacija <orgName>Narodnega sveta</orgName>.</head>
             <list rend="numbered">
                <item n="4.">
-                  <p><orgName>Narodni svet</orgName> sestoji iz 50. članov. Od teh jih odpade na
+                  <p>
+                     <orgName>Narodni svet</orgName> sestoji iz 50. članov. Od teh jih odpade na
                         <placeName>Dalmacijo</placeName> 12, ki jih izberejo tamkajšni politični
                      činitelji v medsebojnem sporazumu, na <placeName>Istro</placeName> 5, ki jih imenuje <orgName>politično društvo
-                        za <placeName>Istro</placeName> v <placeName>Pazinu</placeName></orgName>, na <placeName>Trst</placeName> 2 (<orgName>politično društvo Edinost</orgName>), na <orgName>Vseslovensko
+                        za <placeName>Istro</placeName> v <placeName>Pazinu</placeName>
+                     </orgName>, na <placeName>Trst</placeName> 2 (<orgName>politično društvo Edinost</orgName>), na <orgName>Vseslovensko
                      Ljudsko Stranko</orgName> 18 in na <orgName>Jugoslovansko demokratsko stranko</orgName> 10. <orgName>Socijalnim
                      demokratom</orgName> pritičejo 3 mandati. Stranke izbirajo svoje zastopnike potom
                      izvrševalnih odborov, oziroma odborov političnih društev in sicer za dobo enega
@@ -114,7 +148,8 @@
                      ostanejo nezasedeni, vendar more <orgName>Narodni svet</orgName> te stranke po potrebi vabiti k
                      sejam.</p>
                </item>
-               <item n="5."><orgName>Narodni svet</orgName> deluje:<list rend="numbered">
+               <item n="5.">
+                  <orgName>Narodni svet</orgName> deluje:<list rend="numbered">
                      <item n="a)">v plenumu, ki se shaja k rednim sejam vsako četrtletje, k izrednim
                         na poziv predsednika ali na zahtevo vsaj 10 članov in sicer v tem slučaju
                         najkasneje v 8 dneh po obvestitvi predsednika. Plenum voli predsedstvo,

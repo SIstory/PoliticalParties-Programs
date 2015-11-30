@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,35 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="1"/>
+               <tagUsage gi="item" occurs="10"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="orgName" occurs="12"/>
+               <tagUsage gi="p" occurs="8"/>
+               <tagUsage gi="placeName" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -60,7 +88,8 @@
             <gap reason="irrelevant"/>
             <list xml:id="No.52.PPP" rend="numbered">
                <item n="1.">
-                  <p><orgName>Narodno napredna stranka</orgName> stoji na stališču <hi rend="italic">narodne
+                  <p>
+                     <orgName>Narodno napredna stranka</orgName> stoji na stališču <hi rend="italic">narodne
                         avtonomije</hi> ter se bori s tega načelnega stališča za vsestranski
                      svobodni razvoj slovenske narodnosti v politiškem, kulturnem in socialnem
                      oziru.</p>
@@ -70,14 +99,16 @@
                   <p>Od državne uprave zahteva stranka večjo brigo za moralno in materialno povzdigo
                      slovenskega naroda.</p>
                </item>
-               <item n="2."><orgName>Stranka</orgName> zahteva svobodno, sicer na kulturnih načelih krščanstva
+               <item n="2.">
+                  <orgName>Stranka</orgName> zahteva svobodno, sicer na kulturnih načelih krščanstva
                   zgrajeno, a od vsake cerkvene uprave popolnoma nezavisno narodno šolo in v to
                   svrho izdatno izboljšanje gmotnega položaja učiteljskega stanu, združeno s
                   povišanjem njegove znanstvene in strokovne izobrazbe.</item>
                <item n="3.">V verska in cerkvena vprašanja se stranka načeloma ne vtika, zahteva pa
                   nujno zadostnih legislativnih sredstev zoper vsako zlorabo cerkvene in duhovske
                   oblasti v politiške namene.</item>
-               <item n="4."><orgName>Stranka</orgName> priznava jednakopravnost in jednakoveljavnost vseh stanov ter
+               <item n="4.">
+                  <orgName>Stranka</orgName> priznava jednakopravnost in jednakoveljavnost vseh stanov ter
                   vsled tega odločno odklanja nadvladje bodisi politiško in socialno kateregakoli
                   stanu.</item>
                <item n="5.">Dosledno je <orgName>stranka</orgName> načeloma za splošno direktno in tajno volilno
@@ -85,7 +116,8 @@
                   razmere v slovenski domovini zadostnih legislativnih jamstev za popolno svobodo
                   izraževanja ljudske volje in zlasti zoper oviranje te svobode po politiški zlorabi
                   <orgName>cerkve</orgName>.</item>
-               <item n="6."><orgName>Stranka</orgName> vpošteva veliko važnost meščanstva za kulturni in gospodarski
+               <item n="6.">
+                  <orgName>Stranka</orgName> vpošteva veliko važnost meščanstva za kulturni in gospodarski
                   napredek naroda slovenskega ter teži na to, da postopa meščanstvo vsporedno z
                   drugimi produktivnimi sloji. Skrb stranke je odstranjevati vsako pojavljajoče se
                   nasprotstvo med stanovi.</item>
@@ -112,7 +144,8 @@
                   <p>V dosego teh smotrov je težiti na olajšanje prometa po pomnožitvi in
                      sistematični ureditvi prometnih sredstev in na zboljšanje zvez s tujezemstvom,
                      da se izkoristijo naravne sile in zakladi naših dežela.</p>
-                  <p><orgName>Narodno napredna stranka</orgName> pa obsoja najodločneje trgovskemu in obrtnemu stanu
+                  <p>
+                     <orgName>Narodno napredna stranka</orgName> pa obsoja najodločneje trgovskemu in obrtnemu stanu
                      sovražno neplodno združevanje kmetovalca v konsumna društva, katera se ne
                      omejujejo zgolj na nabavo strogo kmetijskih potrebščin.</p>
                </item>
@@ -122,7 +155,8 @@
                   boljšega položaja v socialnem oziru in boljšega gmotnega stanja, dalje hoče
                   stranka skrbeti za ureditev zavarovanja proti boleznim in nezgodam, zlasti pa za
                   preskrbljenje vseh delavskih slojev za starost in onemoglost.</item>
-               <item n="10."><orgName>Narodno-napredna stranka</orgName> je pripravljena, stopiti v tesno zvezo z vsemi
+               <item n="10.">
+                  <orgName>Narodno-napredna stranka</orgName> je pripravljena, stopiti v tesno zvezo z vsemi
                   narodno-naprednimi slovenskimi in slovanskimi strankami, katere soglašajo z
                   narodnimi in gospodarskimi zahtevami in težnjami njenega programa.</item>
             </list>

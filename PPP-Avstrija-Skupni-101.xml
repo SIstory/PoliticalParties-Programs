@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,36 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="p" occurs="6"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -66,8 +95,7 @@
                   <placeName>Primorskem</placeName> se preponižno poklanjajo Vašemu c. in k.
                apostolskemu Veličanstvu ter izrekajo najtoplejša čutila pokorščine, udanosti i
                neomejene zvestobe do presvitlega prestola.</p>
-            <p xml:id="No.101.PPP.2">Osodopobna,<note place="foot" source="#SourceBornDigital"
-                  >Usodepolna.</note> zgodovinska doba, v katerej hrabra naša vojska, mej njo i naši
+            <p xml:id="No.101.PPP.2">Osodopobna,<note place="foot" source="#SourceBornDigital">Usodepolna.</note> zgodovinska doba, v katerej hrabra naša vojska, mej njo i naši
                bratje i sinovi, bije zmagonosne boje za pravico i človeštvo, ter vije nove vence
                okoli presijajne staroslavne habsburško-lorenske krone, napolnuje naša srca z velicim
                veseljem i navduševanjem, ker od slave presvitlega vladarja leskeče i naša slava.

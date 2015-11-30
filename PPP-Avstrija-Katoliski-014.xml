@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -47,7 +47,38 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="5"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="4"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="58"/>
+               <tagUsage gi="milestone" occurs="2"/>
+               <tagUsage gi="orgName" occurs="48"/>
+               <tagUsage gi="p" occurs="73"/>
+               <tagUsage gi="placeName" occurs="7"/>
+               <tagUsage gi="soCalled" occurs="6"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -61,16 +92,19 @@
             <p>Volitve v državni zbor so razpisane. Samozavestno stopa <orgName>Slovenska Ljudska Stranka</orgName>
                pred Vas, v trdnem prepričanju, da ji na dan volitve izkažete svoje zaupanje s tem,
                da izvolite za državne poslance može, ki Vam jih ona priporoča.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> lahko s ponosom kaže na svoje dosedanje delo. Z brezobzirno
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> lahko s ponosom kaže na svoje dosedanje delo. Z brezobzirno
                požrtvovalnostjo je služila ljudstvu, se je borila za ljudske pravice in koristi, ne
                meneč se za srdite napade ljudskih sovražnikov. In danes lahko pokaže na prvi veliki
                uspeh svojega napornega rodoljubnega dela: <hi rend="bold">na splošno in enako
-                  volivno pravico za državni zbor! </hi></p>
+                  volivno pravico za državni zbor! </hi>
+            </p>
             <p>Zdrobljene so predpravice graščakov, padle so volivne predpravice liberalnega
                uradništva po mestih in trgih; – pri bodočih volitvah v državni zbor bo vsak glas
                enako štel: glas priprostega kmeta ravno toliko, kakor glas graščaka ali vsakega
                uradnika, glas revnega tovarniškega delavca ravno toliko kakor glas bogatinov.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> je na najsijajnejši način izpolnila svoj čas Vam dano
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> je na najsijajnejši način izpolnila svoj čas Vam dano
                besedo: da hoče z vsemi, če treba tudi z najskrajnejšimi sredstvi izvojevati Vam
                splošno in enako volivno pravico.</p>
             <p>S tem pa je pripravila tla za boljšo bodočnost. Po splošni in enaki volivni pravici
@@ -88,9 +122,11 @@
                   cerkvi in veri</hi>. Naše sveto prepričanje zaničujejo in zasmehujejo in jasno
                oznanjujejo svoje namene, podreti glavne stebre verskega življenja in krščanske
                bodočnosti našega naroda: <hi rend="bold">zakrament zakona in versko vzgojo
-                  mladine!</hi></p>
+                  mladine!</hi>
+            </p>
             <p>Odgovor slovenskega ljudstva na te zlobne nakane znanih ljudskih sovražnikov more
-               biti le ta: <hi rend="bold">Nikdar!</hi></p>
+               biti le ta: <hi rend="bold">Nikdar!</hi>
+            </p>
             <p>Nikdar ne more slovensko ljudstvo dopustiti, da bi se kdo – naj si bo kdor hoče –
                dotaknil stebrov krščanskega življenja našega naroda.</p>
             <p>Nikdar ne izroči slovensko ljudstvo svoje dece samovolji brezverske šole – nikdar ne
@@ -117,17 +153,18 @@
                in proglašajo kot svoj program, da se morajo tudi pri nas ustvariti podobne
                protiverske postave, kakor na <placeName>Francoskem</placeName>. Pravijo, da je to
                   <soCalled>verska svoboda</soCalled>.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> pa odločno odklanja <hi rend="bold">tako</hi>
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> pa odločno odklanja <hi rend="bold">tako</hi>
                <soCalled>svobodo</soCalled> in se hoče, kakor doslej tudi v bodoče v bran postaviti
                   <hi rend="bold">za pravo versko svobodo, ki spoštuje versko prepričanje
                   slovenskega ljudstva</hi> in vernikom ne brani živeti po tem najsvetejšem
-               prepričanju. <orgName>Slovenska Ljudska Stranka</orgName> ne sili vere v politične borbe, ker želi <hi
-                  rend="bold">miru</hi> za resno delo v duševni in gospodarski prospeh ljudstva.
+               prepričanju. <orgName>Slovenska Ljudska Stranka</orgName> ne sili vere v politične borbe, ker želi <hi rend="bold">miru</hi> za resno delo v duševni in gospodarski prospeh ljudstva.
                Toda, če nasprotniki svoje slepo sovraštvo zoper vero in <orgName>cerkev</orgName> nosijo na javno
                torišče, potem najdejo <orgName>Slovensko Ljudsko Stranko</orgName> pripravljeno. Ustavila se jim bo s
                tisto brezobzirno odločnostjo, ki se spodobi pravi ljudski stranki takrat, ko se gre
                za obrambo najdražjih ljudskih svetinj, ki so edino jamstvo boljše bodočnosti.</p>
-            <p><orgName>Slovensko Ljudsko Stranko</orgName> poznate po njenih delih. Prisega Vam, da ne bode nikdar
+            <p>
+               <orgName>Slovensko Ljudsko Stranko</orgName> poznate po njenih delih. Prisega Vam, da ne bode nikdar
                dopustila, da bi se v državnih postavah ali pa državni upravi skrunile verske
                svetinje. <hi rend="bold">Nikdar ne sme pri nas priti do francoskih razmer!</hi>
                Nedotaknjena mora ostati svetost krščanskega zakona, nedotaknjena in nedotakljiva
@@ -136,9 +173,10 @@
             <p>To je prva točka, za katero gre pri teh volitvah.</p>
             <p>Gre pa še za druge velevažne stvari, glede katerih vam ima <orgName>Slovenska Ljudska Stranka</orgName>
                v tem velevažnem trenotku pojasniti svoje stališče.</p>
-            <p><hi rend="bold"><orgName>Slovenska Ljudska Stranka</orgName> je in ostane strogo narodna in demokratična
-                  stranka</hi>. Kakor doslej, se hoče tudi v bodoče z vsemi močmi boriti <hi
-                  rend="bold">za popolno enakopravnost slovenskega naroda v naši državi</hi>.
+            <p>
+               <hi rend="bold">
+                  <orgName>Slovenska Ljudska Stranka</orgName> je in ostane strogo narodna in demokratična
+                  stranka</hi>. Kakor doslej, se hoče tudi v bodoče z vsemi močmi boriti <hi rend="bold">za popolno enakopravnost slovenskega naroda v naši državi</hi>.
                Ošabnemu preziranju našega milega materinega jezika v šoli, uradu in v javnem
                življenju, kakor se posebno kaže v pokrajinskih deželah, pa tudi pri nas, mora v novi
                demokraški dobi naše države biti konec in sinovom našega naroda morajo biti tako
@@ -148,20 +186,24 @@
             <p>Kakor doslej, hoče <orgName>Slovenska Ljudska Stranka</orgName> tudi v bodoče delovati za demokratični
                razvoj naše države zlasti s tem, <hi rend="bold">da se čimdalje bolj razširijo in
                   utrdijo pravice ljudstva nasproti oblasti uradništva</hi>.</p>
-            <p><hi rend="bold">Povzdigniti je treba pomen in moč občine</hi> tako, da se razširi in
+            <p>
+               <hi rend="bold">Povzdigniti je treba pomen in moč občine</hi> tako, da se razširi in
                utrdi občinska samouprava. Za izvrševanje prenesenega delokroga mora država občini
                plačati odškodnino.</p>
-            <p><hi rend="bold">Stariši morajo dobiti odločilen vpliv na šolo</hi>, ki more le na
+            <p>
+               <hi rend="bold">Stariši morajo dobiti odločilen vpliv na šolo</hi>, ki more le na
                podlagi sloge in sporazumljenja med roditelji in učitelji uspešno delovati v prospeh
                mladine.</p>
-            <p><hi rend="bold">Svoboda združevanja državljanov</hi> se ne sme kratiti; zato se mora
+            <p>
+               <hi rend="bold">Svoboda združevanja državljanov</hi> se ne sme kratiti; zato se mora
                spremeniti društveni zakon, zlasti se morajo odpraviti tiste določbe, ki omejujejo
                svobodno gibanje <hi rend="bold">političnih društev</hi> in jih stavljajo pod
                nevredno policijsko nadzorstvo.</p>
             <p>Kakor doslej, tako bode tudi v bodoče Slovenska Ljudska Stranka polagala posebno
                važnost na gospodarska vprašanja in dosledno <hi rend="bold">izvrševala svoj znani
                   gospodarski program</hi>.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> je in ostane <hi rend="bold">zastopnica vsega slovenskega
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> je in ostane <hi rend="bold">zastopnica vsega slovenskega
                   ljudstva</hi>: zato se zaveda svoje svete dolžnosti, <hi rend="bold">zastopati in
                   pospeševati blagor in napredek vseh stanov našega naroda</hi>. V vzajemnosti vseh
                stanov, v pravični izravnavi nasprotujočih si interesov, vidi <orgName>Slovenska Ljudska
@@ -170,10 +212,11 @@
             <p>Zlasti velja to o najvažnejših stanovih, ki s svojim delom ustvarjajo ljudsko imetje
                in s tem predpogoje za obstoj naroda in države: o kmetskem, obrtniškem in delavskem
                stanu.</p>
-            <p>Na prvem mestu stoji za <orgName>Slovensko Ljudsko Stranko</orgName> <hi rend="bold">kmetski stan</hi>,
+            <p>Na prvem mestu stoji za <orgName>Slovensko Ljudsko Stranko</orgName> 
+               <hi rend="bold">kmetski stan</hi>,
                ki tvori korenine in deblo našega naroda, naše dežele in države.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> je vedno in povsod pokazala, da je v prvi vrsti <hi
-                  rend="bold">kmetska stranka</hi>. Tako bode tudi v bodoče. Opravičeno je upanje,
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> je vedno in povsod pokazala, da je v prvi vrsti <hi rend="bold">kmetska stranka</hi>. Tako bode tudi v bodoče. Opravičeno je upanje,
                da bo v novem državnem zboru, voljenem na pravičnejši podlagi, mogoče uspešneje nego
                doslej delovati za blagor in napredek kmetskega stanu. Skrajni čas je, zakaj velik
                del kmetskega ljudstva že obupava in sili v mesta in dalje v tujino čez morje.</p>
@@ -195,39 +238,45 @@
             <p>Urediti se mora zavarovanje proti ognju in drugim elementarnim nezgodam na
                javnopravni podlagi in tako, <hi rend="bold">da se zavarovanje izroči izključno
                   deželam</hi>.</p>
-            <p><hi rend="bold">Zavarovanje za starost in onemoglost</hi> naj zagotovi za vse slučaje
+            <p>
+               <hi rend="bold">Zavarovanje za starost in onemoglost</hi> naj zagotovi za vse slučaje
                obstanek od kmetijstva živečih slojev, razbremeni kmetske domove od včasih pretežkih
                užitkarskih bremen in zajezi odtok delavskih moči z dežele.</p>
-            <p><hi rend="bold">Vojaške postave se morajo predelati v prid kmetu</hi>: službena doba
+            <p>
+               <hi rend="bold">Vojaške postave se morajo predelati v prid kmetu</hi>: službena doba
                se mora znižati na dve leti; ob času velikega poljskega dela se mora kmetskim sinovom
                dati dopust; glede oprostitve kmetskih sinov od vojaške službe se mora uvesti
                pravičnejše in kmetskim potrebam prijaznejše postopanje. Skratka: uveljaviti se
                morajo take postave, da se vojaško breme kolikor mogoče olajša, ne da bi zaradi tega
                trpela vojna moč naše države, ki bodi vedno ponos Avstriji in v strah njenim
                sovražnikom.</p>
-            <p><hi rend="bold">Pravosodstvo</hi> je treba tako preurediti, da bo <hi rend="bold"
-                  >boljše</hi> in <hi rend="bold">cenejše</hi>.</p>
-            <p><hi rend="bold">Notarijat naj se podržavi</hi>, ker je v sedanji obliki veliko in
+            <p>
+               <hi rend="bold">Pravosodstvo</hi> je treba tako preurediti, da bo <hi rend="bold">boljše</hi> in <hi rend="bold">cenejše</hi>.</p>
+            <p>
+               <hi rend="bold">Notarijat naj se podržavi</hi>, ker je v sedanji obliki veliko in
                nepotrebno breme kmetskega stanu. – </p>
             <p>Toda, ako bi se tudi vse to izvedlo, kar smo navedli, bi vendar kmetski stan ne mogel
                uspevati, ako ne uspevajo obenem tudi drugi stanovi, zlasti tisti, ki so glavni
                odjemalci in konsumenti kmetskih pridelkov: <hi rend="bold">obrtni in delavski
                   stan</hi>.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> je že zdavna uvidela <hi rend="bold">velikansko važnost
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> je že zdavna uvidela <hi rend="bold">velikansko važnost
                   obrtnega stanu</hi> in je na celi črti branila v javnih zastopih zahteve, ki so
                jih obrtniki sami postavili na svojih obrtnih shodih. Storila bode to tudi v bodoče
-               in zastavila vse sile, da se izvede program obrtnih shodov. <hi rend="bold"><orgName>Slovenska
+               in zastavila vse sile, da se izvede program obrtnih shodov. <hi rend="bold">
+                  <orgName>Slovenska
                   Ljudska Stranka</orgName> bo v tem oziru delovala v najtesnejši zvezi in v popolnem soglasju
                   z zastopniki obrtnega stanu, posebno z obrambno zvezo zavednih obrtnikov v
                   <placeName>Ljubljani</placeName> in z obrtnimi zadrugami</hi>.</p>
-            <p>Z ravno tisto gorečnostjo kakor doslej, bo <orgName>Slovenska Ljudska Stranka</orgName> zastopala <hi
-                  rend="bold">zahteve delavstva v najtesnejšem stiku in sporazumljenju z delavskimi
+            <p>Z ravno tisto gorečnostjo kakor doslej, bo <orgName>Slovenska Ljudska Stranka</orgName> zastopala <hi rend="bold">zahteve delavstva v najtesnejšem stiku in sporazumljenju z delavskimi
                   organizacijami</hi>, zlasti s <hi rend="bold">strokovnimi društvi</hi>. Znani
                program slovenskega krščanskosocialnega delavstva je in ostane tudi v bodoče bistven
                del programa <orgName>Slovenske Ljudske Stranke</orgName>.</p>
-            <p><orgName>Slovenska Ljudska Stranka</orgName> je pa tudi prijateljica in zaščitnica vsakega drugega
+            <p>
+               <orgName>Slovenska Ljudska Stranka</orgName> je pa tudi prijateljica in zaščitnica vsakega drugega
                stanu, ki izvršuje s svojim delom resno nalogo v organizmu našega naroda.</p>
-            <p><hi rend="bold">Odločno zavrača obrekovanje nasprotnikov, da je sovražnica
+            <p>
+               <hi rend="bold">Odločno zavrača obrekovanje nasprotnikov, da je sovražnica
                   meščanstva</hi>. Nasprotno: Sovražniki meščanstva so tisti, ki upijejo, da so
                njegovi edini prijatelji, <hi rend="bold">liberalci</hi>, ker ščuvajo meščanstvo v
                sovraštvo proti drugim stanovom, posebno proti kmetu, ko je nasprotno resnica, da
@@ -238,8 +287,7 @@
                prizadevala, <hi rend="bold">da ustvari predpogoje za cvetoča mesta in trge v naši
                   domovini na podlagi cvetoče obrtnije in trgovine</hi>, naslanjajoče se na duševno
                in gmotno trden kmetski stan.</p>
-            <p>Z isto odločnostjo zavrača <orgName>Slovenska Ljudska Stranka</orgName> lažnivo očitanje, da je <hi
-                  rend="bold">nasprotnica prosvetne inteligence</hi>. <orgName>Slovenska Ljudska Stranka</orgName>
+            <p>Z isto odločnostjo zavrača <orgName>Slovenska Ljudska Stranka</orgName> lažnivo očitanje, da je <hi rend="bold">nasprotnica prosvetne inteligence</hi>. <orgName>Slovenska Ljudska Stranka</orgName>
                šteje že danes v svojih vrstah znaten in vedno naraščajoč del slovenske inteligence
                na <placeName>Kranjskem</placeName> in je ponosna na to. Nikdar se ni branila dati inteligenci primernega
                mesta v javnem življenju. Toda, kar <orgName>Slovenska Ljudska Stranka</orgName> od inteligence zahteva,
@@ -249,8 +297,7 @@
                in interese delavskih slojev slovenskega ljudstva, osobito kmeta, obrtnika in
                delavca. <hi rend="bold">Taki</hi>
                <soCalled>inteligenci</soCalled> seveda velja boj, brezobziren boj <orgName>Slovenske ljudske
-               Stranke</orgName>, katere prva naloga je, proti vsakemu brez razlike stanu braniti <hi
-                  rend="bold">slovensko ljudstvo, njegove nazore in njegove pravice!</hi>
+               Stranke</orgName>, katere prva naloga je, proti vsakemu brez razlike stanu braniti <hi rend="bold">slovensko ljudstvo, njegove nazore in njegove pravice!</hi>
             </p>
             <p>Sovražniki so <orgName>Slovensko Ljudsko Stranko</orgName> razupili zlasti kot sovražnico uradništva.
                   <hi rend="bold">To je laž, ki jo ogorčeno zavračamo</hi>. <orgName>Slovenska Ljudska
@@ -261,12 +308,12 @@
                   davkoplačevavcev</hi>. <orgName>Slovenska Ljudska Stranka</orgName> bo vedno z vsemi močmi, v
                popolnem soglasju z ljudstvom, <hi rend="bold">ščitila vestno, nepristransko
                   uradništvo</hi>, ki posveti vse svoje moči službi in je ljudstvu dobrohoten
-               prijatelj in svetovavec. Nova doba spremeni položaj uradništva v toliko, da <hi
-                  rend="bold">birokracija postane odvisna od demokracije</hi>, ki si bo znala na
+               prijatelj in svetovavec. Nova doba spremeni položaj uradništva v toliko, da <hi rend="bold">birokracija postane odvisna od demokracije</hi>, ki si bo znala na
                vsak način priboriti primeren vpliv na državno upravo.</p>
             <milestone unit="section" n="____________"/>
             <p>V središču političnega položaja stoji <hi rend="bold">vprašanje o razmerju
-                     <placeName>Avstrije</placeName> do <placeName>Ogrske</placeName></hi>.
+                     <placeName>Avstrije</placeName> do <placeName>Ogrske</placeName>
+               </hi>.
                <orgName>Slovenska Ljudska Stranka</orgName> bo v tem oziru zasledovala tudi nadalje svojo dosedanjo
                politiko, ki se izraža v kratkih besedah: <hi rend="bold">Poštena pogodba</hi>, ki
                varuje pravice in koristi <placeName>Avstrije</placeName>, zlasti koristi našega
@@ -307,15 +354,18 @@
             <p>Dajte jej, cenjeni volivci, več moči, kakor je je imela doslej. Izvolite na dan
                volitve vse one može, katere vam priporočamo na podlagi sklepa zaupnikov današnjega
                dne.</p>
-            <p><hi rend="bold">Le močna stranka je sposobna kaj doseči</hi>. To velja še bolj kot
+            <p>
+               <hi rend="bold">Le močna stranka je sposobna kaj doseči</hi>. To velja še bolj kot
                dozdaj v bodoče, ko bo državni zbor štel za skoraj sto poslancev več, kakor
                doslej.</p>
-            <p>Sedaj velja, bolj kakor kdaj poprej, geslo: <hi rend="bold">V slogi je moč!</hi></p>
+            <p>Sedaj velja, bolj kakor kdaj poprej, geslo: <hi rend="bold">V slogi je moč!</hi>
+            </p>
             <p>Zberite se, častiti volivci, vsi okolu ponosne in zmagonosne zastave <orgName>Slovenske
                Ljudske Stranke</orgName> in povzdignili bodete čast in ugled slovenskega ljudstva, dosegli
                bodete, da bo mali slovenski narod imel pomen in veljavo nasproti večjim, a
                strankarsko razkosanim narodom.</p>
-            <p><hi rend="bold">Varujte se pa volkov v ovčji obleki!</hi> Liberalna stranka je
+            <p>
+               <hi rend="bold">Varujte se pa volkov v ovčji obleki!</hi> Liberalna stranka je
                popolnoma propadla in uživa splošno zasluženo zaničevanje ljudstva. Zato se njeni
                pristaši ne upajo več pod pravim imenom med ljudstvo, a skrivajo se pod izposojeno in
                sleparsko krinko. <soCalled>Neodvisni kmetje</soCalled>, <soCalled>Gospodarska
@@ -324,8 +374,7 @@
             <p>Varujte se teh krivih prerokov, ki uživajo dobrohotno podporo obče znanih liberalnih
                pristašev in listov. Njih namen je vedno enak: pod tujo krinko speljati lahkoverne
                ljudi v zanke liberalizma.</p>
-            <p>Že večkrat so poizkušali. Bilo je ravno tako pri državnozborskih volitvah <date
-                  when="1900">leta 1900</date> in pri deželnozborskih <date when="1901">leta
+            <p>Že večkrat so poizkušali. Bilo je ravno tako pri državnozborskih volitvah <date when="1900">leta 1900</date> in pri deželnozborskih <date when="1901">leta
                   1901</date>. Vi, častiti volivci <orgName>Slovenske Ljudske Stranke</orgName>, se niste nikdar dali
                oslepariti. Vselej ste odbili te nakane. Zanašamo se, da to storite tudi to pot in s
                tem odvrnete nevarnost, da bi se slovenski poslanci kranjske dežele cepili v dve
@@ -339,8 +388,7 @@
                podpirala cela stranka in vsak izmed njih se bo strogo držal discipline stranke, ki
                je za delovanje vsacega izmed njih odgovorna Vam, čestiti volivci, in vesoljnemu
                slovenskemu ljudstvu.</p>
-            <p>Naši poslanci ne bodo v državnem zboru osamljeni. Kakor doslej, <hi rend="bold"
-                  >združili se bodo tudi v bodoče v najtesnejšo zvezo s pokrajinskimi slovenskimi
+            <p>Naši poslanci ne bodo v državnem zboru osamljeni. Kakor doslej, <hi rend="bold">združili se bodo tudi v bodoče v najtesnejšo zvezo s pokrajinskimi slovenskimi
                   poslanci in pa z zastopniki bratskega hrvaškega naroda</hi>; iskali in našli bodo
                znova prijateljskih zaveznikov pri drugih slovanskih poslancih, pa tudi pri drugih
                krščanskih in ljudskih strankah.</p>
@@ -350,16 +398,19 @@
             <p>Možje volivci! Prišel je resni trenutek odločitve. Volivni boj, ki se letos bije,
                odloči znabiti za desetletja usodo slovenskega ljudstva, Izkažite se, kakor vselej
                dozdaj, kot pravi, značajni slovenski možje.</p>
-            <p>Združite se v trdno sklenjene vrste <orgName>Slovenske Ljudske Stranke</orgName> in dne <date
-                  when="1907-05-14">14. maja</date> naj svet izve, da je naša armada nepremagljiva.
+            <p>Združite se v trdno sklenjene vrste <orgName>Slovenske Ljudske Stranke</orgName> in dne <date when="1907-05-14">14. maja</date> naj svet izve, da je naša armada nepremagljiva.
                Nad vsemi slovenskimi volivnimi okraji naše kranjske domovine naj na dan volitve
                zmagonosno zaplapola trobojna zastava <orgName>Slovenske Ljudske Stranke</orgName>, vesoljnemu
                slovenskemu ljudstvu v radost, sovražniku ljudstva pa v strah in obup.</p>
-            <p><hi rend="bold">Sedaj pa: Naprej v volivno borbo, po zmagonosnem geslu: Z Bogom za
-                  ljudstvo!</hi></p>
-            <closer><dateline>V <placeName>Ljubljani</placeName>, dne <date when="1907-02-28">28.
+            <p>
+               <hi rend="bold">Sedaj pa: Naprej v volivno borbo, po zmagonosnem geslu: Z Bogom za
+                  ljudstvo!</hi>
+            </p>
+            <closer>
+               <dateline>V <placeName>Ljubljani</placeName>, dne <date when="1907-02-28">28.
                      februarja 1907</date>.</dateline>
-               <hi rend="bold">Osrednji volivni odbor <orgName>Slovenske ljudske Stranke</orgName>.</hi></closer>
+               <hi rend="bold">Osrednji volivni odbor <orgName>Slovenske ljudske Stranke</orgName>.</hi>
+            </closer>
          </div>
       </body>
    </text>

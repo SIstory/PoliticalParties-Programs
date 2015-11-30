@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -53,7 +53,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="5"/>
+               <tagUsage gi="milestone" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="15"/>
+               <tagUsage gi="p" occurs="7"/>
+               <tagUsage gi="persName" occurs="9"/>
+               <tagUsage gi="placeName" occurs="9"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -68,12 +98,12 @@
                priobčujemo kot zanimiv pričetek potrebne razprave o konsolidaciji in ureditvi naših
                političnih sil. Po našem mnenju gre spoštovani avtor <hi rend="italic">predaleč</hi>.
                Izhajajoč s stališča, da se mora današnja slovenska politična razcepljenost odpraviti
-               ter izvršiti reorganizacija naših političnih sil, prihaja do <hi rend="italic"
-                  >enotne</hi> narodne politike preko <hi rend="italic">enotne politične
+               ter izvršiti reorganizacija naših političnih sil, prihaja do <hi rend="italic">enotne</hi> narodne politike preko <hi rend="italic">enotne politične
                   stranke</hi>, obsegajoče vse napredne in klerikalno politične skupine našega
                naroda, ki stoje na programu narodne samoodločbe. Zdi se nam ta načrt načelno
                predalekosežen in praktično neizpeljiv. V tem oziru opozarjamo na razprave zadnjega
-               zaupniškega sestanka <orgName>S. L. S.</orgName><note source="#SourceBornDigital">Prim. dok. št.
+               zaupniškega sestanka <orgName>S. L. S.</orgName>
+               <note source="#SourceBornDigital">Prim. dok. št.
                   23.</note> Tudi vzgledi iz drugih narodov, ki jih navaja spoštovani gospod doktor,
                nas ne prepričajo: Čehi organiziralo sedaj enotno stranko, toda ta stranka naj ne bo
                le deklaracijska, temveč tudi odločno napredna. Veliko resnico pa govori avtor, ko
@@ -81,8 +111,7 @@
                ter povzročiti v tvorbi strank najdalekosežnejše spremembe. Njegov klic po enotno
                organiziranem političnem delu za našo deklaracijo mora najti kar najkrepkejšega
                odmeva. Mi menimo, da je pot k dosegi tega cilja: zenostavljenje našega strankarskega
-               organizma in koalicija. <orgName>S. L. S.</orgName> organizira svoje vrste enotno, <hi rend="italic"
-                  >enotno naj se organizira tudi napredno slovenstvo</hi>. Obstoj pokrajinskih
+               organizma in koalicija. <orgName>S. L. S.</orgName> organizira svoje vrste enotno, <hi rend="italic">enotno naj se organizira tudi napredno slovenstvo</hi>. Obstoj pokrajinskih
                strank danes ni več opravičen. Na plan naj stopita <orgName>Vseslovenska ljudska stranka</orgName> in
                <orgName>Vseslovenska napredna demokratična stranka</orgName>, ki skleneta trdno koalicijo za boj za
                našo samoodločbo. To se nam zdi neobhodno potrebno, načelno upravičeno in praktično
@@ -93,21 +122,27 @@
                gorja, obogateli so nas pa za en velik dobiček, da se je ves narod oprijel velike
                rešilne misli, zahtevati svojo politično združitev v jugoslovanski državi Hrvatov,
                Slovencev in Srbov. Marsikateri Tomaž, ki še pred letom ni verjel, postaja veren. Za
-               ujedinjenje v smislu deklaracije <date when="1917-05-30">30. maja</date><note
-                  source="#SourceBornDigital">Glej dok. št. 124.</note> se je izjavila cela
+               ujedinjenje v smislu deklaracije <date when="1917-05-30">30. maja</date>
+               <note source="#SourceBornDigital">Glej dok. št. 124.</note> se je izjavila cela
                <placeName>Slovenija</placeName>, tako da ima <orgName>Jugoslovanski klub</orgName> naših poslancev res večino naroda za seboj.
                V tem oziru ni razločka med naprednjaki in pristaši ljudske stranke. Naša <orgName>narodna
-               stranka <placeName>Štajerska</placeName></orgName> je bila prva, ki se je na več shodih že pred pol letom izrekla za
+               stranka <placeName>Štajerska</placeName>
+               </orgName> je bila prva, ki se je na več shodih že pred pol letom izrekla za
                ujedinjenje Slovencev s Hrvati in Srbi v smislu državnozborske deklaracije.</p>
             <p xml:id="No.73.PPP.4">Tej edinosti vseh narodno mislečih Slovencev pa še ne odgovarja
                vidna oblika naše slovenske politične organizacije. Vse poslance na <placeName>Dunaju</placeName> in ves
                narod v domovini veže sicer jugoslovanska deklaraciji, v politični organizaciji v
                slovenskih deželah pa to ujedinjenje še ne najde odločnega izraza. Pred vojsko smo
-               imeli naprednjaki <orgName>narodno-napredno stranko za <placeName>Kranjsko</placeName></orgName>, <orgName>narodno-napredno stranko na
-               <placeName>Goriškem</placeName></orgName>, <orgName>narodno stranko v <placeName>Trstu</placeName></orgName> in <orgName>narodno stranko <placeName>štajersko</placeName></orgName>. Nasproti tem
+               imeli naprednjaki <orgName>narodno-napredno stranko za <placeName>Kranjsko</placeName>
+               </orgName>, <orgName>narodno-napredno stranko na
+               <placeName>Goriškem</placeName>
+               </orgName>, <orgName>narodno stranko v <placeName>Trstu</placeName>
+               </orgName> in <orgName>narodno stranko <placeName>štajersko</placeName>
+               </orgName>. Nasproti tem
                organizacijam je stala <orgName>vseslovenska ljudska stranka</orgName>, ki pa tudi ni bila enotno
                organizirana, ampak je bila bolj zveza ljudskih strank posameznih pokrajin. Sedaj smo
-               obogateni za novo <orgName>kmečko stranko dr. <persName>Šusteršičevo</persName></orgName>, četudi bolj na papirju.</p>
+               obogateni za novo <orgName>kmečko stranko dr. <persName>Šusteršičevo</persName>
+               </orgName>, četudi bolj na papirju.</p>
             <p xml:id="No.73.PPP.5">Opravičbo svojega obstanka so razne imenovane stranke v dobi let
                sicer dokazale z delom za svoje programe in z bojem za svoja politična načela.
                Stranke pa niso namenjene za večnost, ampak so trenotni izraz narodnega življenja.
@@ -218,7 +253,8 @@
             <p xml:id="No.73.PPP.8">O obliki in izvršitvi naj pa s končnim predlogom stopi pred
                javnost <orgName>Jugoslovanski klub</orgName>, ki si je pridobil s svojim parlamentarnim delom splošno
                zaupanje in ki samo enotno stranko najnujneje potrebuje.</p>
-            <closer>Dr. <persName>V. K.</persName></closer>
+            <closer>Dr. <persName>V. K.</persName>
+            </closer>
          </div>
       </body>
    </text>

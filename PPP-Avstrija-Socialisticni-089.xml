@@ -23,8 +23,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,7 +52,34 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="2"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="persName" occurs="2"/>
+               <tagUsage gi="placeName" occurs="5"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -64,22 +91,23 @@
          <div>
             <head>Jugoslovanska socialno-demokratična konferenca</head>
             <gap reason="irrelevant"/>
-            <p xml:id="No.89.PPP.1"><orgName>Jugoslovanska socialna demokracija</orgName> izraža mnenje, da s podobno
+            <p xml:id="No.89.PPP.1">
+               <orgName>Jugoslovanska socialna demokracija</orgName> izraža mnenje, da s podobno
                zaključkom zadnjega češkega in nemškega strankinega zbora stopi tudi vodstvo
                <orgName>jugoslovanske socialno-demokratične stranke</orgName> v dotiko s socialno demokracijo ostalih
                narodov v <placeName>Avstriji</placeName> za posvetovanje o reviziji brnskega
-               programa, pri čemer naj ji bodo izhodišče zaključki današnje konference.<note
-                  place="foot" source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
-                     <persName>Etbina Kristana</persName>.</note></p>
+               programa, pri čemer naj ji bodo izhodišče zaključki današnje konference.<note place="foot" source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
+                     <persName>Etbina Kristana</persName>.</note>
+            </p>
             <gap reason="irrelevant"/>
             <p xml:id="No.89.PPP.2">Prva jugoslovanska socialno-demokratična konferenca izraža
                željo, da se povabijo na posvetovanje o narodnostnem programu avstrijskih
                socialno-demokratičnih strank tudi soc. dem. stranke <placeName>Ogrske</placeName>,
                   <placeName>Hrvatske</placeName>, <placeName>Bosne in Hercegovine</placeName> v
                namen, da se izvede skupen narodnostni program za socialno demokracijo cele
-                  <placeName>Avstro-Ogrske</placeName>.<note place="foot"
-                  source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
-                     <persName>Juraja Demetrovića</persName>.</note></p>
+                  <placeName>Avstro-Ogrske</placeName>.<note place="foot" source="#SourceBornDigital">Konferenca je sklep sprejela na pobudo
+                     <persName>Juraja Demetrovića</persName>.</note>
+            </p>
             <gap reason="irrelevant"/>
          </div>
       </body>

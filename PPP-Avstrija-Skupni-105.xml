@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -52,18 +52,47 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="8"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="2"/>
+               <tagUsage gi="hi" occurs="21"/>
+               <tagUsage gi="item" occurs="13"/>
+               <tagUsage gi="list" occurs="1"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="p" occurs="10"/>
+               <tagUsage gi="persName" occurs="19"/>
+               <tagUsage gi="placeName" occurs="4"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="signed" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div xml:id="No.105.PPP">
             <head>VOLILCI!</head>
-            <p>Iznenada nas je zadela vest, da je državni zbor s cesarskim patentom z dné <date
-                  when="1891-01-23">23. januvarja 1891</date> l. razpuščen.</p>
-            <p>Pripravljati se nam je na nove volitve in lotiti se dela precej, ker že dne <date
-                  when="1891-03-03">3. marca</date> vršé se volitve v kmetskih občinah, dné <date
-                  when="1891-03-05">5. marca</date> v mestih in trgih in dne <date when="1891-03-03"
-                  >7. marca</date> v velikem posestvu.</p>
+            <p>Iznenada nas je zadela vest, da je državni zbor s cesarskim patentom z dné <date when="1891-01-23">23. januvarja 1891</date> l. razpuščen.</p>
+            <p>Pripravljati se nam je na nove volitve in lotiti se dela precej, ker že dne <date when="1891-03-03">3. marca</date> vršé se volitve v kmetskih občinah, dné <date when="1891-03-05">5. marca</date> v mestih in trgih in dne <date when="1891-03-03">7. marca</date> v velikem posestvu.</p>
             <p>V <placeName>Ljubljani</placeName> bivajoči narodni poslanci so se sešli in so
                poprijeli inicijativo, da spravijo volilno gibanje v tok. Širši volilni odbor,
                sestavljen iz poslancev in zaupnih mož iz vseh volilnih okrajev, sešel se bode
@@ -79,16 +108,14 @@
                varnosti. Od njihovega požrtvovanja bilo je pričakovati tudi za naš narod primernih
                koristij, a da neso uspehi njihovemu trudu in žrtvam primerni, zakrivile so
                poglavitno neugodne okolščine. Naudaja nas še vedno prepričanje, da se nam izpolnijo
-               obljube prestolnih govorov iz let <date when="1897">1879</date>. in <date when="1885"
-                  >1885</date>. Če se pa položaj spremeni, nalaga ta eventualnost poslancem silno
+               obljube prestolnih govorov iz let <date when="1897">1879</date>. in <date when="1885">1885</date>. Če se pa položaj spremeni, nalaga ta eventualnost poslancem silno
                težavno dolžnost, brez ozirov dvigati svoj glas proti sovražnim nakanam naših
                političnih nasprotnikov in z vsemi duševnimi močmi in z jekleno voljo postaviti se v
                bran, da se nam ne odtegnejo s tolikim trudom dosežene skromne pridobitve.</p>
             <p>Vkljub temu, da so nam v ustavi zagotovljene dragocene pravice, vkljub temu, da že
                tako dolgo zahtevamo uresničenje teh pravic ustavnim potom, nam vender naša narodna
-               individualnost še ni zavarovana. Sklepi na shodu slovenskih poslancev dne <date
-                  when="1890-10-02">2. oktobra 1890.</date><note place="foot"
-                  source="#SourceBornDigital">Glej dok. št. 104.</note>v
+               individualnost še ni zavarovana. Sklepi na shodu slovenskih poslancev dne <date when="1890-10-02">2. oktobra 1890.</date>
+               <note place="foot" source="#SourceBornDigital">Glej dok. št. 104.</note>v
                   <placeName>Ljubljani</placeName> so naš program za bližno bodočnost. Mi zahtevamo
                neprikrajšano jednakopravnost slovenskega jezika v uradih vsake vrste; – mi zahtevamo
                slovenska srednja in obrtna učilišča; mi zahtevamo ljudsko šolo z izključno maternim
@@ -112,7 +139,9 @@
                izvabimo skupnega nasprotnika iz njegove reserve. – V državnem zboru razsoja se usoda
                naroda v njegovi <hi rend="italic">celoti</hi>, marsikaj, kar nas razdvaja doma, za
                državni zbor nima pomena.</p>
-            <p>Pod praporom <hi rend="italic"><q>Vse za vero, dom, cesarja</q></hi>, pod katerim se
+            <p>Pod praporom <hi rend="italic">
+                  <q>Vse za vero, dom, cesarja</q>
+               </hi>, pod katerim se
                je mali naš narod dvignil iz političnega spanja, povzdignil se bode višje in si
                privojeval ter zagotovil svoj obstanek in napredek.</p>
             <p>Od bivših poslancev so izjavili gospodje: dr. <persName>Ferjančič</persName>, kanonik
@@ -120,36 +149,74 @@
                   <persName>Poklukar</persName> in profesor <persName>Šuklje</persName>, da prevzemó
                vnovič poslanstvo, če volilci temu pritrdé.</p>
             <closer>
-               <dateline><hi rend="italic">V <placeName>Ljubljani</placeName></hi>, dné <date
-                     when="1891-01-30">30. januvarja 1891</date>.</dateline>
+               <dateline>
+                  <hi rend="italic">V <placeName>Ljubljani</placeName>
+                  </hi>, dné <date when="1891-01-30">30. januvarja 1891</date>.</dateline>
                <signed>
                   <list rend="simple">
-                     <head><hi rend="italic">Za pripravljalni volilni odbor:</hi></head>
-                     <item><hi rend="italic"><persName>Ivan Murnik</persName></hi>, načelnik in
+                     <head>
+                        <hi rend="italic">Za pripravljalni volilni odbor:</hi>
+                     </head>
+                     <item>
+                        <hi rend="italic">
+                           <persName>Ivan Murnik</persName>
+                        </hi>, načelnik in
                         deželni odbornik;</item>
-                     <item>Dr. vitez <hi rend="italic"><persName>Karol Bleiweis</persName></hi>,
+                     <item>Dr. vitez <hi rend="italic">
+                           <persName>Karol Bleiweis</persName>
+                        </hi>,
                         deželni poslanec;</item>
-                     <item><hi rend="italic"><persName>Oton Detela</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Oton Detela</persName>
+                        </hi>, deželni
                         odbornik;</item>
-                     <item><hi rend="italic"><persName>Peter Grasselli</persName></hi>, župan in
+                     <item>
+                        <hi rend="italic">
+                           <persName>Peter Grasselli</persName>
+                        </hi>, župan in
                         deželni poslanec;</item>
-                     <item><hi rend="italic"><persName>Ivan Hribar</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Ivan Hribar</persName>
+                        </hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><persName>Anton Klein</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Anton Klein</persName>
+                        </hi>, deželni
                         poslanec;</item>
-                     <item>dr. <hi rend="italic"><persName>Fran Papež</persName></hi>, deželni
+                     <item>dr. <hi rend="italic">
+                           <persName>Fran Papež</persName>
+                        </hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><persName>Franc Povše</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Franc Povše</persName>
+                        </hi>, deželni
                         poslanec;</item>
-                     <item><hi rend="italic"><persName>Luka Svetec</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Luka Svetec</persName>
+                        </hi>, deželni
                         poslanec; </item>
-                     <item><hi rend="italic"><persName>Feliks Stegnar</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Feliks Stegnar</persName>
+                        </hi>, deželni
                         poslanec; </item>
-                     <item>dr. <hi rend="italic"><persName>Ivan Tavčar</persName></hi>, deželni
+                     <item>dr. <hi rend="italic">
+                           <persName>Ivan Tavčar</persName>
+                        </hi>, deželni
                         poslanec;</item>
-                     <item>dr. <hi rend="italic"><persName>Josip Vošnjak</persName></hi>, deželni
+                     <item>dr. <hi rend="italic">
+                           <persName>Josip Vošnjak</persName>
+                        </hi>, deželni
                         odbornik;</item>
-                     <item><hi rend="italic"><persName>Ignacij Žitnik</persName></hi>, deželni
+                     <item>
+                        <hi rend="italic">
+                           <persName>Ignacij Žitnik</persName>
+                        </hi>, deželni
                         poslanec.</item>
                   </list>
                </signed>

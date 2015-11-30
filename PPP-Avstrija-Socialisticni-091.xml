@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="bibl.Zarja.1913-04-16">
@@ -71,7 +71,39 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="5"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="2"/>
+               <tagUsage gi="milestone" occurs="1"/>
+               <tagUsage gi="name" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="p" occurs="4"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="8"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -86,15 +118,15 @@
                   domu</name>
                <date when="1913-04-12">12. aprila 1913</date>.)</opener>
             <gap reason="irrelevant"/>
-            <p xml:id="No.91.PPP.1"><gap reason="irrelevant"/>Že prej sem dovolj jasno povedal, kateri da je tisti daljni
+            <p xml:id="No.91.PPP.1">
+               <gap reason="irrelevant"/>Že prej sem dovolj jasno povedal, kateri da je tisti daljni
                cilj, ki nam vsem živi v srcih, ki je naturen in ki se bo torej končno vkljub vsemu
                in vsem tudi uresničil, kakor se prej ali slej uresniči vse, kar ukazuje naturni
                razvoj. Daljni cilj, sem rekel: zakaj ovire, ki so na poti do njegovega utelešenja,
                so danes vsaj na videz še nepremagljive. Jugoslovanska plemena so razdrobljena v
                petero držav in pol. V <placeName>avstro-ogrski monarhiji</placeName> sami smo tako
                rekoč razsekani na drobne kosce. Politični stiki med temi kosci so malodane
-               onemogočeni. Lahko bi rekel, da je v političnem oziru kljub <hi rend="italic"
-                  >enemu</hi> žezlu in <hi rend="italic">eni</hi> himni
+               onemogočeni. Lahko bi rekel, da je v političnem oziru kljub <hi rend="italic">enemu</hi> žezlu in <hi rend="italic">eni</hi> himni
                   <placeName>Zagreb</placeName> skoraj dalj od <placeName>Ljubljane</placeName>,
                nego <placeName>Pariz</placeName> ali <placeName>Madrid</placeName>. Treba bo silnega
                napora in dolgega potrpljenja, da se uravna, kar sta izkrivenčila zgodovina in pa
@@ -110,7 +142,8 @@
                medsebojnega razgovora. Neprijetno mi je bilo edinole, da se konferenca ni omejila na
                strankine in politične zadeve, temveč da je mimogrede sklepala tudi o čisto kulturnih
                in celo jezikovnih vprašanjih. Prepričan sem, da prihodnja konferenca te napake ne bo
-                  ponovila.<gap reason="irrelevant"/></p>
+                  ponovila.<gap reason="irrelevant"/>
+            </p>
             <p xml:id="No.91.PPP.2">Vse to stremenje po sporazumu in zbližanju med posameznimi političnimi strankami
                četverih jugoslovanskih narodov se mi zdi naravno, potrebno in razveseljivo. Kmalu bi
                bil ponosen, da se v tej stvari največ in skoraj edino prizadevajo Slovenci, naj se
@@ -129,7 +162,8 @@
                ki je sad večstoletne separatne vzgoje, pa smo si med seboj veliko bolj tuji, nego je
                tuj naš gorenjski kmet tirolskemu, ali pa goriški viničar furlanskemu. Bodi tega
                kriva zgodovina, bodi kriv kdorkoli – jaz, ki dejstvo konštatiram, ga čisto gotovo
-               nisem zakrivil.<gap reason="irrelevant"/></p>
+               nisem zakrivil.<gap reason="irrelevant"/>
+            </p>
          </div>
          <div decls="#bibl.Zarja.1913-04-17">
             <gap xml:id="No.91.PPP.5" reason="irrelevant"/>

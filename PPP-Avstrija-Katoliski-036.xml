@@ -25,8 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc xml:id="Prvi_slovenski_katoliski_shod.1">
@@ -120,7 +120,43 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="choice" occurs="1"/>
+               <tagUsage gi="corr" occurs="2"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="16"/>
+               <tagUsage gi="gap" occurs="7"/>
+               <tagUsage gi="head" occurs="10"/>
+               <tagUsage gi="hi" occurs="134"/>
+               <tagUsage gi="item" occurs="100"/>
+               <tagUsage gi="list" occurs="24"/>
+               <tagUsage gi="note" occurs="2"/>
+               <tagUsage gi="orgName" occurs="25"/>
+               <tagUsage gi="p" occurs="33"/>
+               <tagUsage gi="persName" occurs="4"/>
+               <tagUsage gi="placeName" occurs="35"/>
+               <tagUsage gi="q" occurs="22"/>
+               <tagUsage gi="sic" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="title" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -134,16 +170,20 @@
             <p>Ker se dobra ali slaba bodočnost Slovencev opira na dobro ali slabo vzgojo naše
                mladine, izjavlja I. slovenski katoliški shod v tem oziru naslednje:</p>
             <div>
-               <head><hi rend="italic">α. Gledé ljudske šole.</hi></head>
+               <head>
+                  <hi rend="italic">α. Gledé ljudske šole.</hi>
+               </head>
                <list rend="numbered">
-                  <item n="1."><hi rend="italic">Katoliški stariši so po vesti dolini, svoje otroke
+                  <item n="1.">
+                     <hi rend="italic">Katoliški stariši so po vesti dolini, svoje otroke
                         vzgajati in podučevati po načelih svete katoliške cerkve</hi>. Ker pa ne
                      morejo sami zadostno vzgajati in podučevati svojih otrok, in ker imamo z druge
                      strani v <placeName>Avstriji</placeName> prisilno državno šolo, zahteva I.
                      slovenski katoliški shod za katoliške otroke katoliške javne ljudske šole in
                      katoliške učiteljske pripravnice v smislu izjave avstrijskih škofov v gospodski
                      zbornici dné <date when="1890-03-12">12. marca 1890</date>.</item>
-                  <item n="2."><hi rend="italic">Prvi slovenski katoliški shod</hi> zahteva, da
+                  <item n="2.">
+                     <hi rend="italic">Prvi slovenski katoliški shod</hi> zahteva, da
                      najvišja šolska uprava postavi ljudsko šolo in učiteljske pripravnice na edino
                      pravo pedagogično-didaktično podlago maternega jezika, kakor to zahtevajo
                      državno-osnovni in šolski zakoni, da je torej učni jezik na šolah Slovencem
@@ -163,7 +203,8 @@
                      razumeva, da ima dotični učitelj vešč biti obeh učnih jezikov. Sploh pa naj se
                      šolski otroci v vsakem šarila če je le mogoče v krščanskem nauku podučujejo v
                      svojem maternem jeziku.</item>
-                  <item n="3."><hi rend="italic">Prvi slovenski katoliški shod izreka željo, naj
+                  <item n="3.">
+                     <hi rend="italic">Prvi slovenski katoliški shod izreka željo, naj
                         deželni zbori, kateri zastopajo kraje slovenskih volilcev, prenaredé </hi>–
                      kot nekak prehod do boljšega – <hi rend="italic">naše šolske postave v takem
                         smislu, kakor so jih prenaredili vrli Tirolci</hi>; dalje naj se poskrbi, da
@@ -174,34 +215,36 @@
                   <item n="4.">Dokler se nam pa naše opravičene zahteve ne spolnijo postavnim potom,
                         <hi rend="italic">snujejo naj se katoliške zasebne, zlasti redovne ljudske
                         šole ter naj se v prvi vrsti ustanovi slovensko katoliško učiteljsko
-                        semenišče v <placeName>Ljubljani</placeName></hi> in ako je možno, tudi
+                        semenišče v <placeName>Ljubljani</placeName>
+                     </hi> in ako je možno, tudi
                      slovenska katoliška pripravnica s pomočjo <orgName>družbe sv. Cirila in Metoda</orgName>, katera
                      se toplo priporoča s pogojem, da se v bodoče organizuje po župnijah v soglasju
                      z našimi prevzvišenimi vladiki, ter z drugimi radovoljnimi darovi in prispevki
                      zadevnih deželnih zastopov.</item>
-                  <item n="5."><hi rend="italic">Vsem redovnikom in redovnicam, ki delujejo za
+                  <item n="5.">
+                     <hi rend="italic">Vsem redovnikom in redovnicam, ki delujejo za
                         krščansko vzgojo slovenske mladine, izreka katoliški shod priznanje in
                         zahvalo</hi> za tako požrtvovalno in vspešno delovanje; ob enem pa toplo
                      priporoča njihove šolske zavode.</item>
-                  <item n="6."><hi rend="italic">Katoliški shod priporoča slovenskim učiteljem in
-                        katehetom</hi> ter vsem drugim vzgojevalcem slovenske mladine, naj si <hi
-                        rend="italic">ustanové katoliško učiteljsko društvo in poseben katoliški
+                  <item n="6.">
+                     <hi rend="italic">Katoliški shod priporoča slovenskim učiteljem in
+                        katehetom</hi> ter vsem drugim vzgojevalcem slovenske mladine, naj si <hi rend="italic">ustanové katoliško učiteljsko društvo in poseben katoliški
                         pedagogiški list kot glasilo društva</hi>.</item>
                </list>
             </div>
             <div>
-               <head><hi rend="italic">ß. Gledé srednjih šol</hi></head>
+               <head>
+                  <hi rend="italic">ß. Gledé srednjih šol</hi>
+               </head>
                <p>zahteva katoliški shod:</p>
                <list rend="numbered">
                   <item n="1.">
-                     <p><hi rend="italic">Naj se državne srednje šole, gimnazije in realke tako
-                           preustrojé</hi>, da se ne bode na njih ne le nič <hi rend="italic"
-                           >podučevalo, kar bi nasprotovalo verskemu prepričanju katoličanov</hi>,
-                        marveč da bodeta tudi na njih vsa vzgoja in ves poduk dejanjski <hi
-                           rend="italic">pospeševala katoliško versko mišljenje in življenje</hi>
+                     <p>
+                        <hi rend="italic">Naj se državne srednje šole, gimnazije in realke tako
+                           preustrojé</hi>, da se ne bode na njih ne le nič <hi rend="italic">podučevalo, kar bi nasprotovalo verskemu prepričanju katoličanov</hi>,
+                        marveč da bodeta tudi na njih vsa vzgoja in ves poduk dejanjski <hi rend="italic">pospeševala katoliško versko mišljenje in življenje</hi>
                         naše mladine.</p>
-                     <p>Razun tega izreka katoliški shod željo, da se osnuje s časom svobodna <hi
-                           rend="italic">katoliška gimnazija</hi>, združena <hi rend="italic">z
+                     <p>Razun tega izreka katoliški shod željo, da se osnuje s časom svobodna <hi rend="italic">katoliška gimnazija</hi>, združena <hi rend="italic">z
                            odgojilnim zavodom</hi>, s slovenskim učnim jézikom.</p>
                   </item>
                   <item n="2.">V poživljenje verskega duha srednješolske mladine naj se zopet
@@ -214,24 +257,31 @@
                </list>
             </div>
             <div>
-               <head><hi rend="italic">γ. Gledé visokih šol.</hi></head>
+               <head>
+                  <hi rend="italic">γ. Gledé visokih šol.</hi>
+               </head>
                <list rend="numbered">
                   <item n="1.">Ker ni upati, da bi se sedanje visoke šole kmalu preosnovale v
                      verskem smislu, ali da bi se ustanavljale nove <hi rend="italic">državne</hi>
                      visoke šole, osnovane na podlagi <hi rend="italic">katoliške vere</hi>,
                      podpirajo naj Slovenci <hi rend="italic">društvo za ustanovitev svobodnega
-                        katoliškega vseučilišča v <placeName>Solnogradu</placeName></hi>,<note
-                        source="#SourceBornDigital">Salzburg.</note> od katerega pričakujemo, da
+                        katoliškega vseučilišča v <placeName>Solnogradu</placeName>
+                     </hi>,<note source="#SourceBornDigital">Salzburg.</note> od katerega pričakujemo, da
                      bode zasnovalo nekaj slovenskih vseučiliščnih stolic.</item>
-                  <item n="2."><hi rend="italic">Katoliški shod priporoča, naj se ustanovita za
+                  <item n="2.">
+                     <hi rend="italic">Katoliški shod priporoča, naj se ustanovita za
                         slovenske visokošolce na <placeName>Dunaji</placeName> in v
                            <placeName>Gradcu</placeName> posebni katoliški dijaški društvi</hi> po
-                     vzgledu dunajske <q><orgName>Avstrije</orgName></q> pod pokroviteljstvom odličnih slovenskih
+                     vzgledu dunajske <q>
+                        <orgName>Avstrije</orgName>
+                     </q> pod pokroviteljstvom odličnih slovenskih
                      katoličanov.</item>
-                  <item n="3."><hi rend="italic">Bodočemu vednostnemu društvu pa bodi skrb</hi>, v
+                  <item n="3.">
+                     <hi rend="italic">Bodočemu vednostnemu društvu pa bodi skrb</hi>, v
                      dogovoru s pokrovitelji imenovanih društev, za <hi rend="italic">podporo</hi>
-                     slovenskim velikošolcem, oziroma ustanovitev potrebnih <hi rend="italic"
-                           ><q>zavetišč</q></hi>, v katerih naj bi se <hi rend="italic">skrbelo za
+                     slovenskim velikošolcem, oziroma ustanovitev potrebnih <hi rend="italic">
+                        <q>zavetišč</q>
+                     </hi>, v katerih naj bi se <hi rend="italic">skrbelo za
                         versko-nravni napredek slovenske akademiške mladine</hi> ter vzbujalo v njej
                      in množilo katoliško mišljenje in življenje.</item>
                </list>
@@ -240,7 +290,9 @@
          <gap reason="irrelevant"/>
          <div xml:id="No.36.PPP.2" decls="#Prvi_slovenski_katoliski_shod.2">
             <div>
-               <head><hi rend="italic">α. Krščanska veda.</hi></head>
+               <head>
+                  <hi rend="italic">α. Krščanska veda.</hi>
+               </head>
                <p> Prvi slovenski katoliški shod izreka željo:</p>
                <list rend="numbered">
                   <item n="1.">Slovensko razumništvo naj se <hi rend="italic">temeljito seznanja s
@@ -248,47 +300,50 @@
                      filozofijo v smislu dotičnih pisem sv. Očeta <persName>Leona XIII.</persName>,
                      v katerih se priporoča peripatetiško modroslovje sv. <persName>Tomaža
                         Akvinskega</persName>;</item>
-                  <item n="2.">naši literarni zavodi preskrbujejo naj Slovencem potrebnih <hi
-                        rend="italic">znanstvenih knjig v krščanskem duhu</hi> pisanih; zlasti naj
+                  <item n="2.">naši literarni zavodi preskrbujejo naj Slovencem potrebnih <hi rend="italic">znanstvenih knjig v krščanskem duhu</hi> pisanih; zlasti naj
                      Slovenci skrbno gojé apologetiko, ki brani razodenje božje in katoliško vero,
                      in to ne samo znanstveno, temveč tudi poljudno, iz vzroka, da se vera vtrdi mej
                      našimi omikanci;</item>
                   <item n="3.">ustanovi naj se <hi rend="italic">slovensko vednostno društvo</hi> po
-                     vzgledu dunajske <q><orgName>Leonine</orgName></q>, katero prevzame nalogo, skrbeti za višjo
+                     vzgledu dunajske <q>
+                        <orgName>Leonine</orgName>
+                     </q>, katero prevzame nalogo, skrbeti za višjo
                      gojitev in razvoj krščanske vede.</item>
                </list>
             </div>
             <div>
-               <head><hi rend="italic">ß. Krščanska umetnost.</hi></head>
+               <head>
+                  <hi rend="italic">ß. Krščanska umetnost.</hi>
+               </head>
                <p>Gledé <hi rend="italic">krščanske umetnosti</hi> izraža prvi slovenski katoliški
                   shod naslednje želje:</p>
                <list rend="numbered">
                   <item n="1.">Naročbe na nove kipe in slike, bodisi po cerkvah ali znamenjih ob
                      cestah dajale naj bi se zlasti <hi rend="italic">domačim</hi> možem, a le
-                     takim, kateri so v resnici <hi rend="italic">umetniki</hi> ter <hi
-                        rend="italic">krščanskega mišljenja in življenja</hi>.</item>
+                     takim, kateri so v resnici <hi rend="italic">umetniki</hi> ter <hi rend="italic">krščanskega mišljenja in življenja</hi>.</item>
                   <item n="2.">Stare cerkvene reči naj bi se ne prodajale, ampak oddajale naj bi se
                      škofijskim <hi rend="italic">muzejem</hi>, kateri se imajo ustanoviti.</item>
-                  <item n="3."><hi rend="italic">Stare slike</hi> in <hi rend="italic">kipi</hi> naj
+                  <item n="3.">
+                     <hi rend="italic">Stare slike</hi> in <hi rend="italic">kipi</hi> naj
                      se ne odstranjujejo brezmiselno; povpraša naj se prej strokovnjak o njihovi
-                     vrednosti in potem naj se, ako vredno, dajo prenoviti po <hi rend="italic"
-                        >umetniku</hi>, a ne po navadnem rokodelcu.</item>
-                  <item n="4."><hi rend="italic">Okus</hi> za pravo krščansko umetnost budi naj se
+                     vrednosti in potem naj se, ako vredno, dajo prenoviti po <hi rend="italic">umetniku</hi>, a ne po navadnem rokodelcu.</item>
+                  <item n="4.">
+                     <hi rend="italic">Okus</hi> za pravo krščansko umetnost budi naj se
                      že v ljudski šoli in se gojí v obče med priprostim narodom s tem, da naj se
-                     namesto malovrednih preživobarvenih podobic in sentimentalnih alegorij <hi
-                        rend="italic">delé podobice, posnete po krščanskih umotvorih</hi>.</item>
+                     namesto malovrednih preživobarvenih podobic in sentimentalnih alegorij <hi rend="italic">delé podobice, posnete po krščanskih umotvorih</hi>.</item>
                   <item n="5.">Zabranjuje naj se po gostilnah in drugod razkazovati in prodajati
                      gole, umazane podobe, fotografije in dr., ter razobešati nravnost in verski čut
                      žaleče slike.</item>
-                  <item n="6.">V prospeh krščanske umetnosti ustanovi naj se <hi rend="italic"
-                        >posebno društvo</hi>; njega namen bi bil pri zidanji in popravljanji
+                  <item n="6.">V prospeh krščanske umetnosti ustanovi naj se <hi rend="italic">posebno društvo</hi>; njega namen bi bil pri zidanji in popravljanji
                      cerkvâ, pri prenavljanji starih umotvorov, pri nakupavanji in naročevanji
                      cerkvenih potrebščin s svètom in dejanjem pomagati ter sploh podpirati vse
                      stroke krščanske umetnosti.</item>
                </list>
             </div>
             <div>
-               <head><hi rend="italic">γ. Glasba, posebej cerkvena.</hi></head>
+               <head>
+                  <hi rend="italic">γ. Glasba, posebej cerkvena.</hi>
+               </head>
                <p>Občno je prepričanje, da <hi rend="italic">umetno petje in glasba</hi> blaži
                   človeku srce, da je torej velicega <hi rend="italic">vzgojevalnega pomena</hi> in
                   vredna krepke podpore.</p>
@@ -319,28 +374,31 @@
                   <item n="3.">Ker se dobivajo potrebni pripomočki in prava priložnost za poduk in
                      izobražbo le v dobrih pevskih in glasbenih zavodih, zato prvi slovenski
                      katoliški shod izreka željo:<list>
-                        <item n="a)">Da se Slovenci oklenejo <hi rend="italic"><q>Glasbene
-                                 Matice</q></hi> in njene glasbene šole, dokler se ona ogiblje
+                        <item n="a)">Da se Slovenci oklenejo <hi rend="italic">
+                              <q>Glasbene
+                                 Matice</q>
+                           </hi> in njene glasbene šole, dokler se ona ogiblje
                            vsega, kar bi utegnilo žaliti verski čut slovenskega ljudstva;</item>
                         <item n="b)">da se <hi rend="italic">Cecilijina društva</hi>, ki so
                            ustanovljena za povzdigo cerkvenega petja, krepko podpirajo;</item>
-                        <item n="c)">da vsa Cecilijina društva po vseh slovenskih vladikovinah <hi
-                              rend="italic">stopijo v zvezo</hi> in skupno pospešujejo glasbo in
+                        <item n="c)">da vsa Cecilijina društva po vseh slovenskih vladikovinah <hi rend="italic">stopijo v zvezo</hi> in skupno pospešujejo glasbo in
                            petje;</item>
-                        <item n="d)">da se v ta namen izdatno podpira in umetnostno povzdigne <hi
-                              rend="italic">orgljarska šola v <placeName>Ljubljani</placeName></hi>,
+                        <item n="d)">da se v ta namen izdatno podpira in umetnostno povzdigne <hi rend="italic">orgljarska šola v <placeName>Ljubljani</placeName>
+                           </hi>,
                            katera naj bode skupna za vse slovenske škofije.</item>
-                     </list></item>
+                     </list>
+                  </item>
                </list>
             </div>
          </div>
          <gap reason="irrelevant"/>
          <div xml:id="No.36.PPP.3" decls="#Prvi_slovenski_katoliski_shod.3">
             <div>
-               <head><hi rend="italic">α. Kmetsko vprašanje.</hi></head>
-               <p><hi rend="italic">Prvi slovenski katoliški shod</hi> smatra kot <hi rend="italic"
-                     >najnujnejšo nalogo našega postavodajalstva</hi>, da se <hi rend="italic"
-                     >sklenejo take postave</hi>, po katerih bo mogoče <hi rend="italic">zabraniti
+               <head>
+                  <hi rend="italic">α. Kmetsko vprašanje.</hi>
+               </head>
+               <p>
+                  <hi rend="italic">Prvi slovenski katoliški shod</hi> smatra kot <hi rend="italic">najnujnejšo nalogo našega postavodajalstva</hi>, da se <hi rend="italic">sklenejo take postave</hi>, po katerih bo mogoče <hi rend="italic">zabraniti
                      vedno hujše se razširjajoči propad kmetskega stanu</hi> in to že iz vzroka, ker
                   je <hi rend="italic">uprav ta stan najzanesljivejša zaslomba toliko našega
                      državnega, kolikor osobito našega narodnega obstanka</hi>.</p>
@@ -348,8 +406,7 @@
                <list rend="numbered">
                   <item n="1.">
                      <list rend="numbered">
-                        <item n="a)">Kmetovalci naj se postavnim potom organizujejo v <hi
-                              rend="italic">kmetske zadruge</hi>;</item>
+                        <item n="a)">Kmetovalci naj se postavnim potom organizujejo v <hi rend="italic">kmetske zadruge</hi>;</item>
                         <item n="b)">postavnim potom naj se zagotovijo <hi rend="italic">kmetski
                               domovi</hi>, ki naj bodo nerazdelni;</item>
                         <item n="c)">tudi naj se postavno uredi <hi rend="italic">dedinsko
@@ -381,13 +438,11 @@
                         legalizovanje</hi> vsaj za manjše zneske.</item>
                   <item n="6.">
                      <p>Delovati je na to, da se uvede <hi rend="italic">po železnicah pravična
-                           vožna cena</hi>, da se odpravijo toli krivične refakcije<note
-                           source="#SourceBornDigital">Letni popusti na železnici pri večjih
+                           vožna cena</hi>, da se odpravijo toli krivične refakcije<note source="#SourceBornDigital">Letni popusti na železnici pri večjih
                            pošiljkah.</note> ter sploh pospešuje izvoz naših pridelkov v daljni
                         trgovinski svet.</p>
                      <p>Posebno naj naši zastopniki delujejo na to, da se <hi rend="italic">južna
-                           železnica</hi>, ki vozi skozi celo dolgo ozemlje slovenskih dežel, <hi
-                           rend="italic">podržavi</hi>, ker le tako je upati, da se uvedejo enako,
+                           železnica</hi>, ki vozi skozi celo dolgo ozemlje slovenskih dežel, <hi rend="italic">podržavi</hi>, ker le tako je upati, da se uvedejo enako,
                         kakor na državnih železnicah, pravični vožni tarifi.</p>
                   </item>
                   <item n="7.">Shod priznava nujno potrebo, da se <hi rend="italic">davki
@@ -398,7 +453,9 @@
                </list>
             </div>
             <div>
-               <head><hi rend="italic">ß. Rokodelsko-obrtno vprašanje.</hi></head>
+               <head>
+                  <hi rend="italic">ß. Rokodelsko-obrtno vprašanje.</hi>
+               </head>
                <list rend="numbered">
                   <item n="1.">Prvi slovenski katoliški shod <hi rend="italic">obsoja pogubni
                         liberalizem</hi>, ker je ravno ta s svojo sebičnostjo na obrtno-rokodelskem
@@ -420,9 +477,11 @@
                         <item n="b)">ustanové naj <hi rend="italic">se samostalne obrtne
                               zbornice</hi>, kamor naj pošiljajo zadruge svoje odposlance s pravico,
                            javno zastopati koristi obrtnikov;</item>
-                        <item n="c)"><hi rend="italic">omeji naj se obrtno delo po kaznilnicah</hi>,
+                        <item n="c)">
+                           <hi rend="italic">omeji naj se obrtno delo po kaznilnicah</hi>,
                            s katerimi ne morejo tekmovati;</item>
-                        <item n="d)"><hi rend="italic">pridobitni in dohodninski davek</hi> naj se
+                        <item n="d)">
+                           <hi rend="italic">pridobitni in dohodninski davek</hi> naj se
                            za obrtnike tako določuje, da bode zabranjeno vsako neosnovano ovaduštvo
                            ter da se bode oziralo na opravičene želje obrtnikov;</item>
                         <item n="e)">v pospeševanje krščanskega življenja in gmotnega stanja
@@ -433,7 +492,9 @@
                </list>
             </div>
             <div>
-               <head><hi rend="italic">γ. Delavsko vprašanje.</hi></head>
+               <head>
+                  <hi rend="italic">γ. Delavsko vprašanje.</hi>
+               </head>
                <list rend="numbered">
                   <item n="1.">Ker konkurenca, glavno načelo sedanje produkcije, ovira ugodno
                      rešitev delavskega vprašanja, smatra prvi slovenski katol. shod za potrebno, da
@@ -449,7 +510,8 @@
                            in slučaj bolezni.</item>
                      </list>
                   </item>
-                  <item n="2."><hi rend="italic">Nova industrijska podjetja</hi> naj bi se postavno
+                  <item n="2.">
+                     <hi rend="italic">Nova industrijska podjetja</hi> naj bi se postavno
                      dovoljevala pod naslednjimi pogoji:<list rend="numbered">
                         <item n="a)">Da sta podjetnik in poslovodja poštena in izvedena;</item>
                         <item n="b)">da je obstanek podjetja zagotovljen in delavci torej niso v
@@ -459,15 +521,13 @@
                   </item>
                   <item n="3.">Maksimalna <hi rend="italic">delavna dôba</hi> naj se pri posameznih
                      industrijskih podjetjih skrči.</item>
-                  <item n="4.">Delavcem naj se zagotovi pravica, da iz svoje srede volijo <hi
-                        rend="italic">zastopnike v sonadzorstvo</hi> pri izvrševanji zakonov v
+                  <item n="4.">Delavcem naj se zagotovi pravica, da iz svoje srede volijo <hi rend="italic">zastopnike v sonadzorstvo</hi> pri izvrševanji zakonov v
                      varstvo delavcev.</item>
-                  <item n="5.">Pri vseh večjih podjetjih naj se ustanové <hi rend="italic"
-                        >razsodišča</hi> iz veščakov.</item>
-                  <item n="6."><hi rend="italic">Ponočno delo v tovarnah</hi> naj se za ženske
+                  <item n="5.">Pri vseh večjih podjetjih naj se ustanové <hi rend="italic">razsodišča</hi> iz veščakov.</item>
+                  <item n="6.">
+                     <hi rend="italic">Ponočno delo v tovarnah</hi> naj se za ženske
                         <corr>v</corr> popolnem prepové, za moške pa kolikor mogoče omeji.</item>
-                  <item n="7.">V varstvo nravnosti naj se delavci v tovarnah kolikor mogoče <hi
-                        rend="italic">ločijo po spolu</hi>.</item>
+                  <item n="7.">V varstvo nravnosti naj se delavci v tovarnah kolikor mogoče <hi rend="italic">ločijo po spolu</hi>.</item>
                   <item n="8.">Z ozirom na to, da se med delavci vedno bolj širi cerkvenemu in
                      državnemu redu nevarna agitacija, izreka prvi slovenski katoliški shod
                      prepričanje, da se mora delavski stan s primernimi sredstvi zopet pridobiti za
@@ -482,8 +542,10 @@
                </list>
             </div>
             <div>
-               <head><hi rend="italic">δ. Nedeljski počitek in posvečevanje nedelj in
-                     praznikov.</hi></head>
+               <head>
+                  <hi rend="italic">δ. Nedeljski počitek in posvečevanje nedelj in
+                     praznikov.</hi>
+               </head>
                <p>Prvi slovenski katoliški shod izjavlja, da treba <hi rend="italic">spopolniti</hi>
                   sedaj veljavne odredbe gledé na nedeljski počitek, oziroma prenarediti, ker take,
                   kakor so zdaj, nikakor ne zadostujejo v verskem, nravnem, gmotnem in zdravstvenem
@@ -500,7 +562,8 @@
                      službujočim pri železnicah in drugih prometnih zavodih.</item>
                   <item n="4.">Prepové naj se brezpogojno <hi rend="italic">prodaja žganja</hi> od
                      sabotnih popoldanskih ur do ponedeljka zjutraj.</item>
-                  <item n="5."><hi rend="italic">Državni in drugi uradniki</hi> naj se oprosté ob
+                  <item n="5.">
+                     <hi rend="italic">Državni in drugi uradniki</hi> naj se oprosté ob
                      nedeljah vsakterega posla, ki ni neogibno potreben.</item>
                   <item n="6.">V kolikor je delo ob nedeljah dovoljeno, skrbé naj obrtniki, kar
                      najbolje morejo, da se delavci primerno vrsté, da bode vsakteri delal le
@@ -510,9 +573,8 @@
          </div>
          <gap reason="irrelevant"/>
          <div xml:id="No.36.PPP.4" decls="#Prvi_slovenski_katoliski_shod.4">
-            <p><hi rend="italic">Prvi slovenski katoliški shod izjavlja</hi>, da mu je pred vsem <hi
-                  rend="italic">namen poživiti versko življenje</hi> ter <hi rend="italic"
-                  >vsestranski prebuditi</hi> in <hi rend="italic">okrepiti katoliško zavest</hi> v
+            <p>
+               <hi rend="italic">Prvi slovenski katoliški shod izjavlja</hi>, da mu je pred vsem <hi rend="italic">namen poživiti versko življenje</hi> ter <hi rend="italic">vsestranski prebuditi</hi> in <hi rend="italic">okrepiti katoliško zavest</hi> v
                Slovencih. To pa bode mogoče le tedaj, ako se vsakdo prizadeva za pravi krščanski
                napredek v zasebnem in javnem življenju; ako se marljivo poslužuje vseh sredstev,
                katere mu ponuja sv. cerkev; ako spoštuje vse cerkvene naredbe in zvesto izpolnuje
@@ -524,16 +586,22 @@
                   krščansko vedenje že v <hi rend="italic">zasebnem življenju</hi>, v krščanskih
                   družinah, kjer naj se z besedo in vzgledom položi zlasti mladini v mehko srce
                   trden temelj za poznejše krepostno življenje po vzoru svete družine. V ta namen
-                  toplo priporoča <q><orgName>Katoliško društvo detoljubov</orgName></q>, čegar glasilo je <title>Krščanski
+                  toplo priporoča <q>
+                     <orgName>Katoliško društvo detoljubov</orgName>
+                  </q>, čegar glasilo je <title>Krščanski
                      detoljub</title> s prilogo za mladino.</item>
                <item n="2.">
-                  <p>Živo katoliško zavest pa naj kaže vsakdo tudi v <hi rend="italic"
-                     >javnosti</hi>; zato I. slovenski katoliški shod pohvalno omenja tiste družbe,
+                  <p>Živo katoliško zavest pa naj kaže vsakdo tudi v <hi rend="italic">javnosti</hi>; zato I. slovenski katoliški shod pohvalno omenja tiste družbe,
                      ki s primernimi sredstvi oživljajo katoliško zavest, kakor n. pr. velezaslužna
-                     <q><orgName>Katoliška družba za <placeName>Kranjsko</placeName></orgName></q> in druga
+                     <q>
+                        <orgName>Katoliška družba za <placeName>Kranjsko</placeName>
+                        </orgName>
+                     </q> in druga
                      katoliška društva po <placeName>Štajerskem</placeName>,
                         <placeName>Koroškem</placeName> in <placeName>Primorskem</placeName>.</p>
-                  <p>Hvaležno se spominja tudi <q><orgName>Katoliških družb rokodelskih pomočnikov</orgName></q>, ki v
+                  <p>Hvaležno se spominja tudi <q>
+                        <orgName>Katoliških družb rokodelskih pomočnikov</orgName>
+                     </q>, ki v
                         <placeName>Ljubljani</placeName>, <placeName>Novem mestu</placeName>,
                         <placeName>Št. Vidu</placeName>, na <placeName>Vrhniki</placeName>, v
                         <placeName>Mariboru</placeName>, v <placeName>Marenbergu</placeName> in
@@ -551,10 +619,14 @@
                <item n="3.">
                   <p>Ker se pa sad pravega katoliškega življenja najlepše kaže <hi rend="italic">v
                         delih krščanskega usmiljenja</hi>, katoliški shod radostno priznava, da je
-                        <q><orgName>Vincencijeva družba</orgName></q> najpripravnejše sredstvo za lajšanje rastoče
+                        <q>
+                        <orgName>Vincencijeva družba</orgName>
+                     </q> najpripravnejše sredstvo za lajšanje rastoče
                      dušne in telesne bede in reve, ter priporoča vsem katoličanom, naj naklanjajo
                      raznim dobrodelnim zavodom, katere je oživila, svojo dobrohotnost in pomoč, ter
-                     naj marljivo snujejo <q><orgName>Vincencijeve družbe</orgName></q> zlasti po mestih, trgih in
+                     naj marljivo snujejo <q>
+                        <orgName>Vincencijeve družbe</orgName>
+                     </q> zlasti po mestih, trgih in
                      tovarniških krajih, kjer jih še ni.</p>
                   <p>Prvi slovenski katoliški shod obžaluje, da so se farne ubožne naprave vzele
                      cerkvi, najboljši materi revežev, in izreka željo, naj delujejo postavodajalni
@@ -576,10 +648,14 @@
                      vsaj duhovniškemu vodstvu.</p>
                   <p>Šteje si tudi v dolžnost, izreči vsem podpirateljem učeče se mladine zahvalo za
                      gmotno in duševno podporo, skazano ubogim slovenskim dijakom, ter pristavlja
-                     željo, naj se v ohranitev in spopolnitev <q><orgName>Jeranove dijaške kuhinje v
-                        Ljubljani</orgName></q> ustanovi društvo po vzgledu <q>dijaške kuhinje</q> ptujske in
+                     željo, naj se v ohranitev in spopolnitev <q>
+                        <orgName>Jeranove dijaške kuhinje v
+                        Ljubljani</orgName>
+                     </q> ustanovi društvo po vzgledu <q>dijaške kuhinje</q> ptujske in
                      mariborske, ki se s tem toplo priporočate. To društvo prevzela naj bi
-                        <q><orgName>Vincencijeva družba</orgName></q> v svoje varstvo.</p>
+                        <q>
+                        <orgName>Vincencijeva družba</orgName>
+                     </q> v svoje varstvo.</p>
                </item>
                <item n="4.">
                   <p>Kot najboljše sredstvo za ohranjenje na poti krščanskega življenja priporoča
@@ -620,8 +696,8 @@
                      </choice> hudih krivic, katere napravljajo sovražniki sv. Očetu, prvi slovenski
                      katoliški shod slovesno oporeka vsakemu kratenju papeževih pravic, izraža svojo
                      ponižno pa odkritosrčno udanost Slovencev do rimske stolice in posebej globoko
-                     spoštovanje in otroško ljubezen do vladajočega sv. Očeta <persName><hi
-                           rend="italic">Leona</hi> XIII.</persName>, ter tirja v soglasju z
+                     spoštovanje in otroško ljubezen do vladajočega sv. Očeta <persName>
+                        <hi rend="italic">Leona</hi> XIII.</persName>, ter tirja v soglasju z
                      zavednimi katoličani celega sveta, da se jim zopet povrne teritorijalna
                      neodvisnost, in sicer taka, kakeršno spoznajo sami za potrebno, da morejo v
                      neomejeni prostosti izvrševati svoj vzvišeni poklic.</p>
@@ -634,19 +710,18 @@
                blagostanje našega naroda, izprevidi prvi slovenski katoliški shod, da je neobhodno
                potrebno sovražniku postaviti se v bran z enakim orožjem – <hi rend="italic">s
                   katoliškim tiskom</hi>. A ne le braniti, marveč tudi pozitivno mora tisek
-               pospeševati katoliško zavest in katoliško življenje. Naj se izkoristi ta velemoč<list
-                  rend="numbered">
+               pospeševati katoliško zavest in katoliško življenje. Naj se izkoristi ta velemoč<list rend="numbered">
                   <item n="1.">kot politična moč v <hi rend="italic">časnikarstvu</hi>,</item>
                   <item n="2.">kot izobraževalna moč v <hi rend="italic">ljudskem, leposlovnem in
                         znanstvenem berilu</hi>,</item>
                   <item n="3.">kot vzgojilna moč v <hi rend="italic">spisih za mladino</hi>.</item>
-               </list></p>
+               </list>
+            </p>
             <list rend="numbered">
                <item n="1.">
                   <list rend="numbered">
                      <item n="a)">Prvi slovenski katoliški shod spozna za vzdržanje katoliškega
-                        mišljenja in prepričanja med Slovenci kot najpotrebnejše sredstvo <hi
-                           rend="italic">dobro časništvo</hi>. Zato proglaša za resno dolžnost vseh
+                        mišljenja in prepričanja med Slovenci kot najpotrebnejše sredstvo <hi rend="italic">dobro časništvo</hi>. Zato proglaša za resno dolžnost vseh
                         vernih Slovencev izdatno gmotno in duševno podpiranje naših katoliških
                         listov. V dolžnost naj si šteje tudi vsak katoličan zatirati vse veri
                         sovražne časnike in jih nadomeščati z dobrimi, sveto vero in našo narodnost
@@ -655,8 +730,7 @@
                         dobro stran.</item>
                      <item n="b)">Ker je pa prvi slovenski katoliški shod trdno prepričan, da more
                         katoliško časopisje le tedaj pokazati svoj mogočni vpliv, ako je modro in
-                        primerno osnovano, zato priporoča, naj se osnuje neki <hi rend="italic"
-                           >stalen središčni odbor</hi> katoliških vrednikov in katoliško-zavednih
+                        primerno osnovano, zato priporoča, naj se osnuje neki <hi rend="italic">stalen središčni odbor</hi> katoliških vrednikov in katoliško-zavednih
                         vplivnih gospodov, ki naj bi določeval smer o glavnih političnih vprašanjih,
                         in sicer vselej na podlagi katoliških načel, da se med katoliškimi listi
                         ohrani toli potrebna edinost.</item>
@@ -675,15 +749,19 @@
                <item n="2.">
                   <list rend="numbered">
                      <item n="a)">Prvi slovenski katoliški shod s hvaležnostjo do Boga ponosno
-                        imenuje <hi rend="italic"><orgName>družbo svetega Mohorja</orgName></hi>; zahvaljuje se
+                        imenuje <hi rend="italic">
+                           <orgName>družbo svetega Mohorja</orgName>
+                        </hi>; zahvaljuje se
                         slavnemu odboru in vsem gorečim pospeševateljem za tolik trud, prosi, naj ne
                         opešajo, marveč z enako vnemo še nadaljujejo slavno delo slovenskemu narodu
                         v duševni in telesni blagor.</item>
-                     <item n="b)">Vernim olikanim Slovencem bodi vestna skrb, da <hi rend="italic"
-                              ><q><orgName>Matica Slovenska</orgName></q></hi> deluje vedno na pravi versko-nravni
+                     <item n="b)">Vernim olikanim Slovencem bodi vestna skrb, da <hi rend="italic">
+                           <q>
+                              <orgName>Matica Slovenska</orgName>
+                           </q>
+                        </hi> deluje vedno na pravi versko-nravni
                         podlagi.</item>
-                     <item n="c)">Velike zasluge za slovenski katoliški tisek imajo razna <hi
-                           rend="italic">katoliška tiskovna društva</hi>. Prvi slovenski katoliški
+                     <item n="c)">Velike zasluge za slovenski katoliški tisek imajo razna <hi rend="italic">katoliška tiskovna društva</hi>. Prvi slovenski katoliški
                         shod jim izreka za požrtvovalno delovanje toplo zahvalo, ter živo priporoča
                         vsem Slovencem, naj jih krepko podpirajo.</item>
                   </list>
@@ -701,8 +779,7 @@
                      <item n="b)">Prvi slovenski katoliški shod priporoča vsem pisateljem,
                         izdajateljem in učiteljem mladine posebno skrb pri izdavanju, zalaganju in
                         razširjevanju <hi rend="italic">spisov za mladino</hi>.</item>
-                     <item n="c)">Prvi slovenski katoliški shod nasvetuje, naj se sestavi <hi
-                           rend="italic">odbor veščih môž</hi>, ki naj vestno presodijo in ocenijo
+                     <item n="c)">Prvi slovenski katoliški shod nasvetuje, naj se sestavi <hi rend="italic">odbor veščih môž</hi>, ki naj vestno presodijo in ocenijo
                         vse slovenske knjige ljudstvu in mladini namenjene, oziroma dosedanje
                         zanesljive ocene nadaljujejo in spupolnjujejo, da se slabo blago
                         odstranjuje, tembolj pa razširjajo res dobre knjige. V tem smislu poskrbi
@@ -715,10 +792,12 @@
          <div xml:id="No.36.PPP.6" decls="#Prvi_slovenski_katoliski_shod.6">
             <list rend="numbered">
                <item n="1.">
-                  <p><hi rend="italic">Prvi slovenski katoliški shod smatra nepremenljiva načela
+                  <p>
+                     <hi rend="italic">Prvi slovenski katoliški shod smatra nepremenljiva načela
                         katoliške vere kot glavni temelj javnopravnemu razvoju slovenskega naroda in
                         izreka iskreno zeljo, da bi na tej trdni podlagi složno sodelovali vsi
-                        Slovenci v težkem boju za narodni obstanek slovenskega ljudstva.</hi></p>
+                        Slovenci v težkem boju za narodni obstanek slovenskega ljudstva.</hi>
+                  </p>
                   <p>Prvi slovenski katoliški shod odbija od sebe neosnovano očitanje, da je njegov
                      program kriv razkola na <placeName>Slovenskem</placeName>.</p>
                   <p>Temeljem katoliških načel, ki jamčijo jednako pravico vsakemu, zahteva prvi
@@ -732,26 +811,48 @@
                         narodov</hi> in izraža odkritosrčno željo, da bi na podlagi narodne
                      jednakopravnosti vsi narodi avstrijski združili se k skupnemu složnemu
                      delovanju za moč, čast in slavo skupne avstrijske domovine, po vzvišenem geslu
-                     presvitlega vladarja: <hi rend="italic"><q>Z združenimi močmi!</q></hi></p>
+                     presvitlega vladarja: <hi rend="italic">
+                        <q>Z združenimi močmi!</q>
+                     </hi>
+                  </p>
                </item>
                <item n="2.">Prvi slovenski katoliški shod jemlje radostno na znanje, da na
                      <placeName>Slovenskem</placeName> vrlo delujejo v zmislu katoliško-narodnih
-                  načel razna politična društva, kakor: <q><orgName>Katoliško politično društvo v
-                        <placeName>Ljubljani</placeName></orgName></q>, <q><orgName>Slovensko društvo</orgName></q> na
-                     <placeName>Štajarskem</placeName>, <q><orgName>Katoliško politično in gospodarsko
-                     društvo za Slovence na <placeName>Koroškem</placeName></orgName></q>, <q><orgName>Katoliško
-                     politično društvo</orgName></q> v <placeName>Konjicah</placeName>, <q><orgName>Katoliško politično
-                     društvo</orgName></q> v <placeName>Slovenjem Gradcu</placeName>, <q><orgName>Katoliško politično
-                     društvo</orgName></q> pri <placeName>Sv. Lovrencu v Slovenskih Goricah</placeName>,
-                     <q><orgName>Katol.-politična čitalnica</orgName></q> v <placeName>Čepovanu</placeName> itd., – in
+                  načel razna politična društva, kakor: <q>
+                     <orgName>Katoliško politično društvo v
+                        <placeName>Ljubljani</placeName>
+                     </orgName>
+                  </q>, <q>
+                     <orgName>Slovensko društvo</orgName>
+                  </q> na
+                     <placeName>Štajarskem</placeName>, <q>
+                     <orgName>Katoliško politično in gospodarsko
+                     društvo za Slovence na <placeName>Koroškem</placeName>
+                     </orgName>
+                  </q>, <q>
+                     <orgName>Katoliško
+                     politično društvo</orgName>
+                  </q> v <placeName>Konjicah</placeName>, <q>
+                     <orgName>Katoliško politično
+                     društvo</orgName>
+                  </q> v <placeName>Slovenjem Gradcu</placeName>, <q>
+                     <orgName>Katoliško politično
+                     društvo</orgName>
+                  </q> pri <placeName>Sv. Lovrencu v Slovenskih Goricah</placeName>,
+                     <q>
+                     <orgName>Katol.-politična čitalnica</orgName>
+                  </q> v <placeName>Čepovanu</placeName> itd., – in
                   izraža željo, naj katoliški narodnjaki i nadalje krepko podpirajo trudapolno
                   delovanje teh društev, posebno s tem, da jim pridobivajo novih udov in
                   prijateljev, ter da tam, kjer se kaže potreba, snujejo nova taka društva.</item>
                <item n="3.">Prvi slovenski katoliški shod smatra tesnejšo organizacijo slovenskega
                   ljudstva na katoliško-narodni podlagi kot potrebno. V to svrho pooblašča stalno
                   komisijo druzega slovenskega katoliškega shoda, da naj se pomnoži z odličnimi
-                  katoliško-zavednimi rodoljubi iz vseh slovenskih pokrajin in se osnuje kot <hi
-                     rend="italic"><q><orgName>Slovenski katoliški odbor</orgName></q></hi> z nalogom in delokrogom
+                  katoliško-zavednimi rodoljubi iz vseh slovenskih pokrajin in se osnuje kot <hi rend="italic">
+                     <q>
+                        <orgName>Slovenski katoliški odbor</orgName>
+                     </q>
+                  </hi> z nalogom in delokrogom
                   izvrševalnega odseka katoliških Slovencev.</item>
             </list>
          </div>

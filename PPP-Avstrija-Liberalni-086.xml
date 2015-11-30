@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
@@ -54,7 +54,37 @@
             <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="geogName" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="27"/>
+               <tagUsage gi="note" occurs="1"/>
+               <tagUsage gi="opener" occurs="1"/>
+               <tagUsage gi="orgName" occurs="1"/>
+               <tagUsage gi="p" occurs="18"/>
+               <tagUsage gi="persName" occurs="4"/>
+               <tagUsage gi="placeName" occurs="18"/>
+               <tagUsage gi="q" occurs="1"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName in geogName
@@ -64,9 +94,11 @@
    <text>
       <body>
          <div>
-            <opener>Dr. <persName>V. S.</persName></opener>
+            <opener>Dr. <persName>V. S.</persName>
+            </opener>
             <head>V <placeName>Jugoslaviji</placeName>.</head>
-            <p xml:id="No.86.PPP.1"><placeName>Jugoslavija</placeName> vstaja, ž njo pa pereče
+            <p xml:id="No.86.PPP.1">
+               <placeName>Jugoslavija</placeName> vstaja, ž njo pa pereče
                vprašanje, kakšen bodi ustroj naše bodoče skupne jugoslovanske domovine. Gospod pl.
                   <persName>Šuklje</persName> nam je tudi že razvil nekaj svojih misli o načinu
                bodoče uprave na slovenskih zemlji.<note source="#SourceBornDigital">Glej dok. št.
@@ -79,23 +111,24 @@
                posreči položiti <placeName>Jugoslaviji</placeName> kar mogoče zdrave in trdne
                temelje, stvar zanamcev bo, da izpopolnijo naše delo v skupni blagor.</p>
             <p xml:id="No.86.PPP.2">Naše mnenje pa je sledeče:</p>
-            <p xml:id="No.86.PPP.3"><placeName>Jugoslavija</placeName> brez najodličnejšega,
+            <p xml:id="No.86.PPP.3">
+               <placeName>Jugoslavija</placeName> brez najodličnejšega,
                politično najzrelejšega in po poteku vojnih dogodkov v bodoče tudi najvplivnejšega
-               jugoslovanskega naroda, z eno besedo: <hi rend="italic"
-                     ><placeName>Jugoslavija</placeName> brez Srbov bila bi le političen
+               jugoslovanskega naroda, z eno besedo: <hi rend="italic">
+                  <placeName>Jugoslavija</placeName> brez Srbov bila bi le političen
                   nestvor</hi>, podoben pohabljenim spakam berolinskega kongresa. Pravičnost in naša
                narodna čast zahtevata torej, da zavzemaj srbski narod v bodoči
                   <placeName>Jugoslaviji</placeName> svoji politični in kulturni veljavi in
                neizmernim za idejo ujedinjenja <placeName>Jugoslovanov</placeName> doprinešenim
                žrtvam odgovarjajoče <hi rend="italic">odlično mesto</hi>.</p>
-            <p xml:id="No.86.PPP.4"><placeName>Jugoslavija</placeName> pomeni <hi rend="italic"
-                  >konec »balkanskega vprašanja«</hi> in vseh navskrižnih političnih aspiracij
+            <p xml:id="No.86.PPP.4">
+               <placeName>Jugoslavija</placeName> pomeni <hi rend="italic">konec »balkanskega vprašanja«</hi> in vseh navskrižnih političnih aspiracij
                balkanskih narodov. Politična razumnost zahteva, da se ž njimi, predvsem z nesrečnimi
                Bolgari doseže <hi rend="italic">sporazum</hi> in da stopijo tudi ti, če bi se njih
                spojitev v skupno državno telo ne izkazala za umestno, z
                   <placeName>Jugoslavijo</placeName> v kar najtesnejšo zvezo. </p>
-            <p xml:id="No.86.PPP.5"><placeName>Jugoslavija</placeName> pa pomeni tudi za nas <hi
-                  rend="italic">Slovence</hi> konec vseh kronovinskih mej in konec vseh
+            <p xml:id="No.86.PPP.5">
+               <placeName>Jugoslavija</placeName> pa pomeni tudi za nas <hi rend="italic">Slovence</hi> konec vseh kronovinskih mej in konec vseh
                konfesijonelnih in plemenskih predsodkov napram našim bratom Srbom in Hrvatom.</p>
             <p xml:id="No.86.PPP.6">Zveza troimenskega naroda SHS. bodi kar najtesnejša in trajna.
                   <hi rend="italic">Našemu bodočemu jugoslovanskemu parlamentu odkaži se kar
@@ -127,16 +160,13 @@
                se, če bodemo umevali veliki čas, nedogledne perspektive. Za to pa potreba predvsem
                velikopotezne trgovske in prometne politike.</p>
             <p xml:id="No.86.PPP.10">S tega stališča pa se poda že toliko skupnih stikov med tremi
-               sestavnimi deli našega jugoslovanskega naroda, da se bo pokazala potreba, <hi
-                  rend="italic">pretežni del javnih interesov urediti po vesoljni
+               sestavnimi deli našega jugoslovanskega naroda, da se bo pokazala potreba, <hi rend="italic">pretežni del javnih interesov urediti po vesoljni
                      <placeName>Jugoslaviji</placeName> po enakih načelih</hi> in da bo torej naš
-                  <hi rend="italic">osrednji parlament</hi> dejanski tisti faktor, ki bo <hi
-                  rend="italic">redoma</hi> odločeval o naših javnih zadevah.</p>
+                  <hi rend="italic">osrednji parlament</hi> dejanski tisti faktor, ki bo <hi rend="italic">redoma</hi> odločeval o naših javnih zadevah.</p>
             <p xml:id="No.86.PPP.11">Da morata nastop <placeName>Jugoslavije</placeName> na zunaj in
                nje obramba – če bomo diplomate in generale sploh še potrebovali – biti skupna in
                enotna, se razume po sebi. Da mora naša trgovska, prometna in finančna politika biti
-               urejena po enotnih načelih, je po prednavedenem menda nedvomno. <hi rend="italic"
-                  >Nikakega pametnega razloga pa tudi</hi> ni za mnenje, – in v tem g. pl.
+               urejena po enotnih načelih, je po prednavedenem menda nedvomno. <hi rend="italic">Nikakega pametnega razloga pa tudi</hi> ni za mnenje, – in v tem g. pl.
                   <persName>Šukljeju</persName> ne moremo pritrditi – <hi rend="italic">da naj se
                   onstran <geogName>Sotle</geogName> in <geogName>Save</geogName> drugače upravlja in sodi kakor pri nas Slovencih</hi>.
                Nasprotno, čim enotnejši je državni ustroj, tem lažje in hitreje bomo mogli doseči
@@ -147,8 +177,7 @@
                ne velja samo o našem srednjem in strokovnem šolstvu, ampak <hi rend="italic">pred
                   vsem o ljudskem šolstvu</hi>, ki se v <placeName>Avstriji</placeName> pod deželno
                upravo nikdar ni moglo razviti.</p>
-            <p xml:id="No.86.PPP.12">Če se torej načeloma zavzamemo za kolikor mogoče dovršeno <hi
-                  rend="italic">centralizacijo</hi> celotne državne uprave v bodoči
+            <p xml:id="No.86.PPP.12">Če se torej načeloma zavzamemo za kolikor mogoče dovršeno <hi rend="italic">centralizacijo</hi> celotne državne uprave v bodoči
                   <placeName>Jugoslaviji</placeName>, tedaj nas pri tem vodi izključno le že zgoraj
                obrazloženo prepričanje, da bomo svojo misijo tem hitreje in sigurneje dovršili, čim
                enotnejši in krepkejši vstopimo v krog svobodnih, civilizovanih narodov. Kjer skupni
@@ -159,16 +188,14 @@
                ali kakor jih že hočete imenovati, še vedno dovolj inicijative.</p>
             <p xml:id="No.86.PPP.13">Kako naj to inicijativo pospešujemo, ali potom vpeljave
                avtonomije v gotovih mejah, ali na ta način, da se najširši krogi pritegnejo k
-               sodelovanju pri poslih javne uprave, bo stvar premisleka in izkušnje. O <hi
-                  rend="italic">avtonomiji</hi> – občinski in deželni – smo v
+               sodelovanju pri poslih javne uprave, bo stvar premisleka in izkušnje. O <hi rend="italic">avtonomiji</hi> – občinski in deželni – smo v
                   <placeName>Avstriji</placeName> govorili dovolj, <hi rend="italic">vredna pa ni
                   bila ne ena, ne druga nič</hi>.</p>
             <p xml:id="No.86.PPP.14">Nam se vidi, da bo treba <hi rend="italic">javno upravo in
                   predvsem tudi sodstvo kar le mogoče poenostaviti</hi> in, da si prihranimo ogromne
                stroške, za drag, pa neokreten in samopašen birokratski aparat, lajiški element v kar
                največji meri pritegniti k opravilom nižjega sodstva in uprave. Na ta način dobimo iz
-               vrst naših domačih narodnih uradnikov potrebne moči za mnogovažnejša <hi
-                  rend="italic">vodilna mesta</hi>, na drugi strani pa udejstvujemo dozdaj pri nas
+               vrst naših domačih narodnih uradnikov potrebne moči za mnogovažnejša <hi rend="italic">vodilna mesta</hi>, na drugi strani pa udejstvujemo dozdaj pri nas
                malodane nepoznano načelo, da je vsak samopraven državljan poklican in dolžan svojim
                zmožnostim primerno sodelovati pri javni upravi. </p>
             <p xml:id="No.86.PPP.15">Seveda bo za prehodni čas marsikaj moralo ostati pri starem,
@@ -176,20 +203,18 @@
                ne dasta vpeljati čez noč.</p>
             <p xml:id="No.86.PPP.16">Končno naj se dotaknemo še <hi rend="italic">narodnostnega
                   vprašanja</hi>. Da mora biti v <placeName>Jugoslaviji</placeName> vsakemu delu
-               troimenega naroda, dokler se še ločimo po narečjih, zajamčen <hi rend="italic"
-                  >neomejen narodni in kulturni razvoj</hi>, se razume po sebi. Na drugi strani pa
-               bodi naša zveza poklicana, poglobiti naše stike z onimi, ki so po jeziku in krvi <hi
-                  rend="italic">isti</hi>, in pripravljati pot danes nam še neznani višji kulturni
+               troimenega naroda, dokler se še ločimo po narečjih, zajamčen <hi rend="italic">neomejen narodni in kulturni razvoj</hi>, se razume po sebi. Na drugi strani pa
+               bodi naša zveza poklicana, poglobiti naše stike z onimi, ki so po jeziku in krvi <hi rend="italic">isti</hi>, in pripravljati pot danes nam še neznani višji kulturni
                jednotnosti. Uverjeni smo, da bo uprav to tesno medsebojno občevanje in spoznavanje
-               za vse, danes še diferencirane skupine v <placeName>Jugoslaviji</placeName> obrodilo bogate sadove ter <hi
-                  rend="italic">izredno poživilo in poplemenitilo naša kulturna stremljenja</hi>.
+               za vse, danes še diferencirane skupine v <placeName>Jugoslaviji</placeName> obrodilo bogate sadove ter <hi rend="italic">izredno poživilo in poplemenitilo naša kulturna stremljenja</hi>.
                Nadaljni razvoj mirnim srcem puščamo bodočnosti.</p>
             <p xml:id="No.86.PPP.17">Mi smo tesarji in zidarji. Stvar naših potomcev bo, da naš dom
-               opremijo z udobnostjo. Zacelimo rane, ki nam jih je vsekala ta strašna vojna in <hi
-                  rend="italic">storimo vse, da pokažemo svetu dobro voljo in si pridobimo zaupanje
+               opremijo z udobnostjo. Zacelimo rane, ki nam jih je vsekala ta strašna vojna in <hi rend="italic">storimo vse, da pokažemo svetu dobro voljo in si pridobimo zaupanje
                   velikih, svobodnih in civiliziranih narodov</hi>, in – vse bo prav: </p>
-            <p xml:id="No.86.PPP.18"><q>Fortunae cetera mando, quae iuvet et melius, quam tu tibi,
-                  consulat opto.</q></p>
+            <p xml:id="No.86.PPP.18">
+               <q>Fortunae cetera mando, quae iuvet et melius, quam tu tibi,
+                  consulat opto.</q>
+            </p>
          </div>
       </body>
    </text>

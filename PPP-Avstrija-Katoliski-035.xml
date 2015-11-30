@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -43,7 +43,39 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="closer" occurs="1"/>
+               <tagUsage gi="date" occurs="2"/>
+               <tagUsage gi="dateline" occurs="1"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="head" occurs="1"/>
+               <tagUsage gi="hi" occurs="12"/>
+               <tagUsage gi="lb" occurs="1"/>
+               <tagUsage gi="orgName" occurs="3"/>
+               <tagUsage gi="p" occurs="14"/>
+               <tagUsage gi="persName" occurs="1"/>
+               <tagUsage gi="placeName" occurs="3"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -54,8 +86,11 @@
       <body>
          <gap reason="irrelevant"/>
          <div xml:id="No.35.PPP">
-            <head><hi rend="italic">Na prvi slovenski katoliški shod!</hi></head>
-            <p><hi rend="italic">Slovenci!</hi> Izredni časi imajo izredne potrebe, katere zahtevajo
+            <head>
+               <hi rend="italic">Na prvi slovenski katoliški shod!</hi>
+            </head>
+            <p>
+               <hi rend="italic">Slovenci!</hi> Izredni časi imajo izredne potrebe, katere zahtevajo
                izrednega, nenavadnega delovanja. Dandanes imamo take čase. Današnjo dôbo smemo
                imenovati nekako pripravljanje na odločilni boj med Kristom in Antikristom, med
                načeli krščanskimi in protikrščanskimi.</p>
@@ -70,7 +105,8 @@
             <p>Tej razjedajoči sili nasproti deluje že 19 vekov <orgName>katoliška cerkev</orgName>. In ko dandanes
                gleda te žalostne razmere, toži, kakor nekdaj Gospod, rekoč: <q>Množice se mi
                   smilijo</q>. Zato <orgName>cerkev</orgName> kliče na delo vse svoje zveste: <q>Zbirajte se, družite
-                  se, delajte, da rešite, kar je rešiti mogoče!</q></p>
+                  se, delajte, da rešite, kar je rešiti mogoče!</q>
+            </p>
             <p>Tako kliče <persName>Leon XIII.</persName>, slavnovladajoči papež, katoličane na
                delo. Med drugim priporoča jim v ta namen vzlasti katoliške shode, kjer se javno
                razodeva katoliška zavest, odkoder se katoliško prepričanje in delovanje tako vspešno
@@ -83,9 +119,9 @@
             <p>Ta misel je rodila prepričanje, da je tudi za Slovence potreben katoliški shod. –
                Osnovalni odbor, ki se je ustanovil v ta namen, dovršil je najpotrebnejše priprave in
                danes stopi pred Slovence ter jih vabi na prvi slovenski katoliški shod, ki se bo
-               vršil v <placeName>Ljubljani</placeName> dné <date from="1892-08-30" to="1892-08-31"
-                  >30. in 31. avgusta t. l.</date> po točno določenem programu.</p>
-            <p><hi rend="italic">Slovenci!</hi> I. slovenski katoliški shod v
+               vršil v <placeName>Ljubljani</placeName> dné <date from="1892-08-30" to="1892-08-31">30. in 31. avgusta t. l.</date> po točno določenem programu.</p>
+            <p>
+               <hi rend="italic">Slovenci!</hi> I. slovenski katoliški shod v
                   <placeName>Ljubljani</placeName> naj spričuje, da živi med nami še vedno isto
                katoliško prepričanje, s katerim se je naš narod odlikoval vsa stoletja, odkar je
                vstopil v <orgName>katoliško cerkev</orgName>. Ta shod naj bo svetu porok, da Slovenci tudi v sedanjih
@@ -118,7 +154,8 @@
             <p>Katoliški Slovenci! Pokažimo na I. slovenskem katoliškem shodu, <hi rend="italic">da
                   smo in da vedno ostanemo zvesti sinovi svojemu Bogu in svojemu domu ter da hočemo,
                   kakor to zahtevajo sedanje razmere, na podlagi načel naše katoliške vere skupno in
-                  jednotno delovati za duševni in gmotni napredek slovenskega naroda!</hi></p>
+                  jednotno delovati za duševni in gmotni napredek slovenskega naroda!</hi>
+            </p>
             <closer>
                <dateline>V <placeName>Ljubljani</placeName>, dné <date when="1892-06-18">18. junija
                      1892</date>.</dateline>

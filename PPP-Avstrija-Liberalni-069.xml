@@ -24,8 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
-                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -46,7 +46,37 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="encodingDesc.xml"/>
+      <encodingDesc>
+         <projectDesc>
+            <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
+            druge svetovne vojne.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
+            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
+            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+         </samplingDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="date" occurs="1"/>
+               <tagUsage gi="div" occurs="2"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="head" occurs="3"/>
+               <tagUsage gi="hi" occurs="8"/>
+               <tagUsage gi="item" occurs="13"/>
+               <tagUsage gi="list" occurs="2"/>
+               <tagUsage gi="orgName" occurs="4"/>
+               <tagUsage gi="p" occurs="2"/>
+               <tagUsage gi="placeName" occurs="4"/>
+               <tagUsage gi="q" occurs="2"/>
+               <tagUsage gi="text" occurs="1"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
       <revisionDesc>
          <change>
             <name>Neja Blaj Hribar</name>: dodani orgName
@@ -55,13 +85,18 @@
    </teiHeader>
    <text>
       <body>
-         <head>Zaupni shod <q><orgName>narodno-napredne stranke</orgName></q> na Goriškem.</head>
+         <head>Zaupni shod <q>
+               <orgName>narodno-napredne stranke</orgName>
+            </q> na Goriškem.</head>
          <gap reason="irrelevant"/>
          <div xml:id="No.69.PPP.1">
             <head>I.</head>
-            <p>Zaupni shod <hi rend="italic"><q><orgName>narodo-napredne stranke</orgName> na
-                        <placeName>Goriškem</placeName></q></hi>, zbran dne <date when="1900-03-08"
-                  >8. marca 1900</date>
+            <p>Zaupni shod <hi rend="italic">
+                  <q>
+                     <orgName>narodo-napredne stranke</orgName> na
+                        <placeName>Goriškem</placeName>
+                  </q>
+               </hi>, zbran dne <date when="1900-03-08">8. marca 1900</date>
                <placeName>v Gorici</placeName>, naglaša potrebo ožje organizacije na temelju teh
                načel:</p>
             <list rend="numbered">
@@ -74,8 +109,7 @@
                <item n="4.">Svobodna šola in svobodno učiteljstvo, kateremu je zagotoviti po državi
                   in deželi stanu primerno gmotno podlago, da more skrbeti za potrebni ugled in
                   vsestransko daljno izobraževanje.</item>
-               <item n="5.">Obžalovati je dosedanje popolno zanemarjenje našega <hi rend="italic"
-                     >posestnika</hi> od strani vseh poklicanih činiteljev, zahtevati nujno povzdigo
+               <item n="5.">Obžalovati je dosedanje popolno zanemarjenje našega <hi rend="italic">posestnika</hi> od strani vseh poklicanih činiteljev, zahtevati nujno povzdigo
                   živinoreje in mlekarstva, vinarstva in sadjarstva, delovati na intenzivneje
                   gospodarstvo in odpreti domačim pridelkom stalen in ugodnejši trg.</item>
                <item n="6.">Vsled posebnih politiških razmer v deželi se pokazuje čimdalje večja
@@ -87,8 +121,7 @@
                   organizacije, katero hočemo pospeševati.</item>
                <item n="8.">
                   <list rend="numbered">
-                     <item n="a)">Zahtevamo popolno <hi rend="italic">enakopravnost</hi> in <hi
-                           rend="italic">enakoveljavnost</hi> slovenske narodnosti in jezika v vseh
+                     <item n="a)">Zahtevamo popolno <hi rend="italic">enakopravnost</hi> in <hi rend="italic">enakoveljavnost</hi> slovenske narodnosti in jezika v vseh
                         državnih in avtonomnih uradih, v cerkvi, v šoli in sploh v vsem javnem
                         življenju.</item>
                      <item n="b)">V deželnem in državnem zboru ter v trgovinsko-obrtnijski zbornici
@@ -102,7 +135,8 @@
                         brigati se za moralno in materijalno povzdigo slovenskega ljudstva.</item>
                   </list>
                </item>
-               <item n="9."><orgName>Narodno-napredna stranka</orgName> na <placeName>Goriškem</placeName> bo iskala vedno najožjo dotiko z
+               <item n="9.">
+                  <orgName>Narodno-napredna stranka</orgName> na <placeName>Goriškem</placeName> bo iskala vedno najožjo dotiko z
                   narodnimi strankami na <placeName>Slovenskem</placeName>, ne pustivši nikdar izpred očij vzajemnosti z
                   vsemi slovanskimi narodi.</item>
                <item n="10.">Stranka stoji na stališču narodne samouprave.</item>
@@ -110,8 +144,7 @@
          </div>
          <div xml:id="No.69.PPP.2">
             <head>II.</head>
-            <p>Da se izvede organizacija stranke po gornjih načelih, se izvoli <hi rend="italic"
-                  >izvrševalni odbor</hi> 21 članov, kateri ob vseh važnejših vprašanjih poprašuje
+            <p>Da se izvede organizacija stranke po gornjih načelih, se izvoli <hi rend="italic">izvrševalni odbor</hi> 21 članov, kateri ob vseh važnejših vprašanjih poprašuje
                za mnenje zaupnikov, sklicuje zaupne shode, kedar se mu zdi umestno, zlasti ob vseh
                načelno važnih pojavih, in vodi politiko stranke na znotraj in na zunaj. – Odbor je
                sklepčen, kedar je navzočih 9 članov, in se popolnuje do prihodnega zaupnega shoda
