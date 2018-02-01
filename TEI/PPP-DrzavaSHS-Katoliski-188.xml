@@ -3,8 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Resolucija o obliki in načinu združitve Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, sprejeta na posvetu razširjenega načelstva Vseslovenske ljudske stranke 
-               21. novembra 1918 v Ljubljani</title>
+            <title>Resolucija o obliki in načinu združitve Države Slovencev, Hrvatov in Srbov s
+               Kraljevinama Srbijo in Črno goro, sprejeta na posvetu razširjenega načelstva
+               Vseslovenske ljudske stranke 21. novembra 1918 v Ljubljani</title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -23,7 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
@@ -44,19 +46,19 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-        </fileDesc>
+      </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
@@ -76,12 +78,20 @@
       <body>
          <head>Slovensko ljudstvo s Srbi in Hrvati v skupni državi</head>
          <gap reason="irrelevant"/>
-         <div xml:id="No.188.PPP">
-            <p>Oprta na narodno pravo, na načela krfskega pakta in na sklep sabora od dne <date when="1918-10-29">29. oktobra</date>, po katerem bo »splošna narodna ustavodajna skupščina z vnaprej določeno kvalificirano večino, ki bo popolnoma zavarovala pred vsakim majoriziranjem, končno odločila o obliki vladavine kakor tudi o notranjem ustroju naše države, utemeljena na popolni ravnopravnosti Slovencev, Hrvatov in Srbov, zahteva <orgName>V. L. S.</orgName>, da opuste sedanje vlade in oblasti na skupnem jugoslovanskem ozemlju vsako dejanje, ki bi moglo kakorkoli prejudicirati pravu našega ljudstva, da se glede svojega položaja v eni skupni državi samo prosto odloči.</p>
-            <p>
-               <orgName>V. L. S.</orgName> zahteva, naj se prično med legitimiranimi zastopniki Slovencev, Hrvatov in Srbov dogovori, da se pripravi za konstituanto glede ustroja države potrebno soglasje, ki je predpogoj močne in notranje edinstvene države.</p>
-         </div>
+         <p xml:id="No.188.PPP.1">Oprta na narodno pravo, na načela krfskega pakta in na sklep
+            sabora od dne <date when="1918-10-29">29. oktobra</date>, po katerem bo »splošna narodna
+            ustavodajna skupščina z vnaprej določeno kvalificirano večino, ki bo popolnoma
+            zavarovala pred vsakim majoriziranjem, končno odločila o obliki vladavine kakor tudi o
+            notranjem ustroju naše države, utemeljena na popolni ravnopravnosti Slovencev, Hrvatov
+            in Srbov, zahteva <orgName>V. L. S.</orgName>, da opuste sedanje vlade in oblasti na
+            skupnem jugoslovanskem ozemlju vsako dejanje, ki bi moglo kakorkoli prejudicirati pravu
+            našega ljudstva, da se glede svojega položaja v eni skupni državi samo prosto
+            odloči.</p>
+         <p xml:id="No.188.PPP.2">
+            <orgName>V. L. S.</orgName> zahteva, naj se prično med legitimiranimi zastopniki
+            Slovencev, Hrvatov in Srbov dogovori, da se pripravi za konstituanto glede ustroja
+            države potrebno soglasje, ki je predpogoj močne in notranje edinstvene države.</p>
          <gap reason="irrelevant"/>
-        </body>
+      </body>
    </text>
 </TEI>

@@ -3,8 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Razprava predstavnika Jugoslovanske demokratske stranke dr. Vekoslava Kukovca o združitvi Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatovi in Srbov 
-               23. in 24. novembra 1918 v Zagrebu</title>
+            <title>Razprava predstavnika Jugoslovanske demokratske stranke dr. Vekoslava Kukovca o
+               združitvi Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro na
+               seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatovi in Srbov 23. in 24.
+               novembra 1918 v Zagrebu</title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -23,7 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
@@ -35,8 +38,8 @@
                <monogr>
                   <title>Građa o stvaranju jugoslovenske države</title>
                   <title>1. I – 20. XII 1918</title>
-                  <edition>Dragoslav Janković</edition>
-                  <edition>Bogdan Krizman</edition>
+                  <editor>Dragoslav Janković</editor>
+                  <editor>Bogdan Krizman</editor>
                   <imprint>
                      <biblScope unit="volume">II</biblScope>
                      <pubPlace>Beograd</pubPlace>
@@ -47,24 +50,23 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-        </fileDesc>
+      </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="div" occurs="1"/>
                <tagUsage gi="gap" occurs="2"/>
                <tagUsage gi="p" occurs="2"/>
                <tagUsage gi="persName" occurs="1"/>
@@ -77,12 +79,16 @@
    <text>
       <body>
          <gap reason="irrelevant"/>
-         <div xml:id="No.185.PPP">
-            <p>	
-               <persName>Dr. Kukovec</persName>: Zajednička vlada mora se stvoriti u interesu naših okupiranih krajeva i u interesu <placeName>slovenske Štajerske</placeName> i <placeName>Kranjske</placeName>. Neprijatelj je pred vratima i vreba na naše narodne zemlje. Jugoslovenska ideja, koja živi kroz vijekove u srcima čitavoga našeg naroda, mora danas zadobiti praktično izvršenje. Oni, koji su sposobni, dobit će hegemoniju u svoje ruke. U sadašnjem kritičnom momentu moramo govoriti samo o svojemu spasu, a ne o sitničavim interesima pojedinih plemena i o politici fraza. Danas je istinita poslovica »Hanibal ante portas«, i zato treba prešno uzeti u ruke kormilo.</p>
-            <p>	</p>
-         </div>
+         <p xml:id="No.185.PPP">
+            <persName>Dr. Kukovec</persName>: Zajednička vlada mora se stvoriti u interesu naših
+            okupiranih krajeva i u interesu <placeName>slovenske Štajerske</placeName> i
+               <placeName>Kranjske</placeName>. Neprijatelj je pred vratima i vreba na naše narodne
+            zemlje. Jugoslovenska ideja, koja živi kroz vijekove u srcima čitavoga našeg naroda,
+            mora danas zadobiti praktično izvršenje. Oni, koji su sposobni, dobit će hegemoniju u
+            svoje ruke. U sadašnjem kritičnom momentu moramo govoriti samo o svojemu spasu, a ne o
+            sitničavim interesima pojedinih plemena i o politici fraza. Danas je istinita poslovica
+            »Hanibal ante portas«, i zato treba prešno uzeti u ruke kormilo.</p>
          <gap reason="irrelevant"/>
-        </body>
+      </body>
    </text>
 </TEI>

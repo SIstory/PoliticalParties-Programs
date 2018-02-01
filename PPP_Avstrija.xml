@@ -3,9 +3,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PROGRAMI SLOVENSKIH POLITIČNIH STRANK, ORGANIZACIJ IN DRUŠTEV V AVSTRIJSKI
-               DOBI</title>
-            <author>Jurij Perovšek</author>
+            <title>Programi slovenskih političnih strank, organizacij in društev v avstrijski dobi</title>
+            <author>
+               <name>
+                  <forename>Jurij</forename>
+                  <surname>Perovšek</surname>
+               </name>
+            </author>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -13,17 +17,15 @@
          <sourceDesc xml:id="SourceBornDigital">
             <p xml:lang="sl">Originalno digitalno besedilo.</p>
             <p xml:lang="en">Born digital.</p>
-            <p xml:lang="sl">Avtor: Jurij Perovšek</p>
-            <p xml:lang="en">Author: Jurij Perovšek</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <div type="part">
-            <head>KATOLIŠKI TABOR</head>
+            <head>Katoliški tabor</head>
             <div type="chapter">
-               <head>Katoliška politična organizacija na <placeName>Kranjskem</placeName></head>
+               <head>Katoliška politična organizacija na Kranjskem</head>
                <div n="1" type="subchapter">
                   <head>Dok. št. 1</head>
                   <head>POLITIČNOPROGRAMSKI DEL PRAVIL KATOLIŠKEGA POLITIČNEGA DRUŠTVA V

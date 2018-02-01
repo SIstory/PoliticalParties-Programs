@@ -3,7 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stališče Jugoslovanske demokratske stranke z dne 20. novembra 1918 o nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšno združitev Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro</title>
+            <title>Stališče Jugoslovanske demokratske stranke z dne 20. novembra 1918 o nujnem
+               predlogu Pokrajinske vlade za Dalmacijo za takojšno združitev Države Slovencev,
+               Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro</title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -22,7 +24,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
@@ -53,21 +56,20 @@
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                <tagUsage gi="body" occurs="1"/>
                <tagUsage gi="date" occurs="1"/>
-               <tagUsage gi="div" occurs="1"/>
                <tagUsage gi="head" occurs="1"/>
                <tagUsage gi="note" occurs="1"/>
                <tagUsage gi="orgName" occurs="9"/>
@@ -81,14 +83,30 @@
    <text>
       <body>
          <head>Jugoslov. dem stranka za takojšnje ujedinjenje</head>
-         <p>Dalmatinska narodna vlada je predlagala potom Narodnega vijeća v Zagrebu, naj se z ozirom na težaven zunanje, pa tudi notranje političen položaj brez odloga izvede ujedinjenje Srbije, Črne gore in vsega ostalega etnografskega teritorija SHS . v eno državo, oziroma, da se ustvari zajedniška vlada, zajedniški parlament in regentstvo za ves naš narodni teritorij.</p>
-         <div xml:id="No.180.PPP">
-            <p>	
-               <orgName>Načelstvo J. D. S.</orgName> se je v seji dne <date when="1918-11-20">20. novembra</date> o tem predlogu<note place="foot" source="#SourceBornDigital">
-                  O predlogu <orgName>Pokrajinske vlade za Dalmacijo</orgName> glej pojasnilo v dok. št. 173, op. 3.
-               </note> vsestransko in temeljito posvetovalo in prišlo do zaključka, da je predlog <orgName>dalmatinske zemaljske vlade</orgName> v vsakem oziru utemeljen in da je edino v njem iskati rešitve iz sedanjih težavnih razmer. Edino takojšnje ujedinjenje more razbistriti mednaroden položaj, v kolikor se nanaša ta na nas in izvesti uspešno obrambo proti roparski nasilnosti sosedne <placeName>italijanske države</placeName>, ki nam hoče ugrabiti tretjino slovenskega naroda in zagotoviti našemu pričakovanju odgovarjajoče severne meje. Brez enotne zajedniške vlade je nemogoče izvesti zadostno prehrano naših dežel in urediti naše finance. </p>
-            <p>	V tem prepričanju je sklenilo načelstvo, da so vsi zastopniki <orgName>Jugoslovanske demokratične stranke</orgName> v ljubljanski <orgName>narodni vladi</orgName> oziroma v <orgName>zagrebškem Narodnem viječu</orgName> zavezani delati za predlog <orgName>dalmatinske zemaljske vlade</orgName>. Ako bi ta predlog v <orgName>narodni vladi</orgName> ne dobil večine, ga morajo priglasiti pri seji <orgName>Narodnega viječa</orgName> kot naš minoritetni votum.</p>
-         </div>
-        </body>
+         <p>Dalmatinska narodna vlada je predlagala potom Narodnega vijeća v Zagrebu, naj se z
+            ozirom na težaven zunanje, pa tudi notranje političen položaj brez odloga izvede
+            ujedinjenje Srbije, Črne gore in vsega ostalega etnografskega teritorija SHS . v eno
+            državo, oziroma, da se ustvari zajedniška vlada, zajedniški parlament in regentstvo za
+            ves naš narodni teritorij.</p>
+         <p xml:id="No.181.PPP.1">
+            <orgName>Načelstvo J. D. S.</orgName> se je v seji dne <date when="1918-11-20">20.
+               novembra</date> o tem predlogu<note place="foot" source="#SourceBornDigital"> O
+               predlogu <orgName>Pokrajinske vlade za Dalmacijo</orgName> glej pojasnilo v dok. št.
+               173, op. 3. </note> vsestransko in temeljito posvetovalo in prišlo do zaključka, da
+            je predlog <orgName>dalmatinske zemaljske vlade</orgName> v vsakem oziru utemeljen in da
+            je edino v njem iskati rešitve iz sedanjih težavnih razmer. Edino takojšnje ujedinjenje
+            more razbistriti mednaroden položaj, v kolikor se nanaša ta na nas in izvesti uspešno
+            obrambo proti roparski nasilnosti sosedne <placeName>italijanske države</placeName>, ki
+            nam hoče ugrabiti tretjino slovenskega naroda in zagotoviti našemu pričakovanju
+            odgovarjajoče severne meje. Brez enotne zajedniške vlade je nemogoče izvesti zadostno
+            prehrano naših dežel in urediti naše finance. </p>
+         <p xml:id="No.181.PPP.2">V tem prepričanju je sklenilo načelstvo, da so vsi zastopniki <orgName>Jugoslovanske
+               demokratične stranke</orgName> v ljubljanski <orgName>narodni vladi</orgName> oziroma
+            v <orgName>zagrebškem Narodnem viječu</orgName> zavezani delati za predlog
+               <orgName>dalmatinske zemaljske vlade</orgName>. Ako bi ta predlog v <orgName>narodni
+               vladi</orgName> ne dobil večine, ga morajo priglasiti pri seji <orgName>Narodnega
+               viječa</orgName> kot naš minoritetni votum.</p>
+
+      </body>
    </text>
 </TEI>

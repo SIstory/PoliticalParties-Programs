@@ -127,16 +127,14 @@
                         <item n="1.)">deželno stolno mesto <placeName>Ljubljana</placeName> dva
                            volilna okraja in sicer<list type="ordered">
                               <item n="a)">volilni okraj mesto <placeName>Ljubljana</placeName>
-                                 1,</item>
+                                 1,<note>Volilni okraj mesto <placeName>Ljubljana</placeName> 1 tvorijo
+                                    mestni okraji II, III in V (Jakobski okraj, Dvorski okraj.
+                                    Predkraji: Hauptmanca, Hradeckyjeva vas, Ilovica, Karolinska
+                                    zemlja, Orlove ulice, Črnavas, Dolenjska cesta).</note></item>
                               <item n="b)">volilni okraj mesto <placeName>Ljubljana</placeName>
-                                 2.</item>
-                              <note>Volilni okraj mesto <placeName>Ljubljana</placeName> 1 tvorijo
-                                 mestni okraji II, III in V (Jakobski okraj, Dvorski okraj.
-                                 Predkraji: Hauptmanca, Hradeckyjeva vas, Ilovica, Karolinska
-                                 zemlja, Orlove ulice, Črnavas, Dolenjska cesta).</note>
-                              <note>Volilni okraj mesto <placeName>Ljubljana</placeName> 2 tvorijo
-                                 mestni okraji I, IV in VI (Šolski okraj, Kolodvorski okraj,
-                                 Vodmat).</note>
+                                 2.<note>Volilni okraj mesto <placeName>Ljubljana</placeName> 2 tvorijo
+                                    mestni okraji I, IV in VI (Šolski okraj, Kolodvorski okraj,
+                                    Vodmat).</note></item>
                            </list>
                         </item>
                         <item n="2.)">mesto <placeName>Idrija</placeName> eden volilni okraj,</item>

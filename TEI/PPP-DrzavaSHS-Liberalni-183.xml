@@ -76,14 +76,14 @@
    </teiHeader>
    <text>
       <body>
-         <head>Izjava duševnih delavcev</head>
          <div xml:id="No.183.PPP">
-            <p>Podpisani duševni delavci slovenski, svesti si resnosti sedanjega položaja svoje
+            <head>Izjava duševnih delavcev</head>
+            <p xml:id="No.183.PPP.1">Podpisani duševni delavci slovenski, svesti si resnosti sedanjega položaja svoje
                domovine, se izrekamo eno dušno za takojšnje popolno politično ujedinjenje
                   <placeName>države SHS</placeName>. z <placeName>državo srbsko</placeName>,
                odklanjajoč vsakršno separatistično politično stremljenje kot kvarno
                   <placeName>Jugoslaviji</placeName>, slovenskemu plemenu pa naravnost pogubno. </p>
-            <p>Nasilje, ki ga mora trpeti naš obmejni rod od tujcev na zahodu, severu in vzhodu,
+            <p xml:id="No.183.PPP.2">Nasilje, ki ga mora trpeti naš obmejni rod od tujcev na zahodu, severu in vzhodu,
                neovirano samolastno prestavljanje mejnikov nam v škodo nam kaže žalostno nazorno
                sliko samoslovenske onemoglosti. Govori ne premaknejo naših meja niti za seženj
                naprej, izjave nam ne pridobe niti pedi naših tal, besedni protesti nam ne rešijo
@@ -95,7 +95,7 @@
                srbski rod. Kako dolgo? <hi rend="italic">Ako ne izvedemo brez odloga najtesnejšega
                   ujedinjenja s Srbi, preti Slovencem notranji razkroj, slovenskemu teritoriju
                   razkosanje, ki ga sami ne bomo mogli zabraniti</hi>. </p>
-            <p>Upoštevamo in spoštujemo vsako odkrito svetovno naziranje, vsakemu poštenemu
+            <p xml:id="No.183.PPP.3">Upoštevamo in spoštujemo vsako odkrito svetovno naziranje, vsakemu poštenemu
                prepričanju priznavamo pravico, da se prosto uveljavlja, zavračamo pa najodločneje
                nepremišljeno izigravanje političnih gesel, ki bi utegnila v tej usodni dobi narod
                begati in ga odvračati in odvrniti od glavnega cilja, ki je: močna, na zunaj in
@@ -106,7 +106,7 @@
                   <hi rend="italic">Ali more narod sploh omahovati, ko se mu je odločiti: ali za
                   samostojno nemoč, ali za skupno jakost?</hi>
             </p>
-            <closer> dr. <persName>Matija Ambrožič</persName>, <persName>Jos. Breznik</persName>,
+            <closer xml:id="No.183.PPP.4"> dr. <persName>Matija Ambrožič</persName>, <persName>Jos. Breznik</persName>,
                <persName>Anton Debeljak</persName>, <persName>Lojze Dolinar</persName>,
                <persName>Ivan Franke</persName>, prof. v pok., <persName>Engelbert
                   Gangl</persName>, <persName>Maksim Gaspari</persName>, <persName>Tone
@@ -130,9 +130,7 @@
                      Zorman</persName>, <persName>Peter Žmitek</persName>, <persName>Oton
                         Župančič</persName>.
             </closer>
-         </div>
-         <div>
-            <p>Vsi slovenski duševni delavci, ki soglašate s to izjavo, prijavite svoje podpise!</p>
+            <closer xml:id="No.183.PPP.5">Vsi slovenski duševni delavci, ki soglašate s to izjavo, prijavite svoje podpise!</closer>
          </div>
       </body>
    </text>

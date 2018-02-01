@@ -3,7 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Resolucija kulturnega odseka Narodnega sveta za slovenlovenske dežele in Istro o kulturni avtonomiji, sprejeta 18. novembra 1918</title>
+            <title>Resolucija kulturnega odseka Narodnega sveta za slovenlovenske dežele in Istro o
+               kulturni avtonomiji, sprejeta 18. novembra 1918</title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -22,7 +23,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
@@ -48,25 +50,24 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-        </fileDesc>
+      </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                <tagUsage gi="body" occurs="1"/>
                <tagUsage gi="closer" occurs="1"/>
-               <tagUsage gi="div" occurs="1"/>
                <tagUsage gi="orgName" occurs="1"/>
                <tagUsage gi="p" occurs="4"/>
                <tagUsage gi="persName" occurs="44"/>
@@ -78,14 +79,53 @@
    </teiHeader>
    <text>
       <body>
-          <div xml:id="No.198.PPP">
-                <p>Ob postanku <placeName>države Slovencev, Hrvatov in Srbov</placeName> pričakuje kulturni odsek <orgName>N. S.</orgName>, da bo nova politično popolnoma edinstvena država, naj bo organizirana kakorkoli, po svoji moči pospeševala z vsemi razpoložljivimi sredstvi razvoj prosvetnega življenja vseh treh rodov podlagi kulturne avtonomije. Neoviran razmah individualnih sil vseh treh plemen je najzdravejši pogoj za polno duševno bogastvo <placeName>Jugoslavije</placeName>. </p>
-                <p>Kulturna politika bo morala vsekakor upoštevati dejstvo, da je dala zgodovina slovenstvu v teku stoletij posebno duševno vsebino. Slovenski del jugoslovanskega naroda se je razvil tudi jezikovno samostojno, tako da je slovenščina, nositeljica te duševne vsebine, dasi najbližja sorodnica srbo-hrvaščini, danes organizem zase in da je v območju slovenskega književnega jezika za sedaj možno uspešno kulturno delo edinole v tem jeziku. </p>
-                <p>Če bi se Slovencem onemogočil lasten kulturni razvoj, bi sledil neizogibno silen upad kulturnega življenja v slovenskem plemenu, ki bi prenehalo biti tvorno: Vsaka etnična skupina pa se čuti svobodno samo v toliko, v kolikor more uveljavljati svojo tvornost. Vsak narod je pomemben človeštvu v toliko, v kolikor je tvorec novih vrednot. Tudi bi se mogla prilagoditi kulturnemu prelomu samo tenka plast slovenske inteligence, dočim bi bile široke mase, jedro našega plemena, izobčene od dobrin kulturnih pridobitev in pahnjene v kulturni polumrak.</p>
-                <p>Kulturna avtonomija pa nikakor ne odvezuje duševnih delavcev vseh treh plemen dolžnosti, iskati vedno tesnejših stikov, vedno globjega medsebojnega umevanja in sporazuma v vseh vprašanjih ter skrbeti za medsebojno spopolnjevanje skupnega  prosvetnega dela, ki bo na svojem višku zadnja najlepša utemeljitev svobodne <placeName>Jugoslavije</placeName> v družini narodov.</p>
-                <closer>Dr. <persName>Ambrožič</persName>, Dr. <persName>Anton Breznik</persName>, <persName>Ivan Cankar</persName>, Dr. <persName>Izidor Cankar</persName>, Dr. <persName>Mirko Černič</persName>, <persName>Anton Debeljak</persName>, Dr. <persName>Josip Debevec</persName>, <persName>Lojze Dolinar</persName>, <persName>Franc Finžgar</persName>, <persName>Anton Funtek</persName>, Dr. <persName>Ivan Grafenauer</persName>, Dr. <persName>Pavel Grošelj</persName>, <persName>Matej Hubad</persName>, <persName>Rihard Jakopič</persName>, <persName>Dr. Franc Kimovec</persName>, <persName>F. Klemenčič</persName>, <persName>Marij Kogoj</persName>, <persName>Juš Kozak</persName>, Dr. <persName>Alojzij Kraigher</persName>, Dr. <persName>Krivic</persName>, <persName>Anton Lajovic</persName>, Dr. <persName>Lemež</persName>, <persName>Vladimir Levstik</persName>, Dr. <persName>Josip Mal</persName>, Dr. <persName>Jos. Mantuani</persName>, <persName>Anton Melik</persName>, <persName>Stanko Premrl</persName>, <persName>Albin Prepeluh</persName>, <persName>Milan Pugelj</persName>, Dr. <persName>Josip Puntar</persName>, Dr. <persName>Fran Ramovš</persName>, <persName>Ivan Ravnik</persName>, <persName>Hinko Smrekar</persName>, <persName>Matej Sternen</persName>, <persName>Alojzij Steska</persName>, <persName>Fran Tratnik</persName>, Dr. <persName>A. Ušeničnik</persName>, <persName>Ivan Vavpotič</persName>, <persName>I. Vurnik</persName>, Dr. <persName>Zalokar</persName>, <persName>Ivan Zorman</persName>, Dr. <persName>Aug. Žigon</persName>, <persName>Žmitek</persName>, <persName>Oton Zupančič</persName>.</closer>
-             
-          </div>
-       </body>
+         <p xml:id="No.198.PPP.1">Ob postanku <placeName>države Slovencev, Hrvatov in
+               Srbov</placeName> pričakuje kulturni odsek <orgName>N. S.</orgName>, da bo nova
+            politično popolnoma edinstvena država, naj bo organizirana kakorkoli, po svoji moči
+            pospeševala z vsemi razpoložljivimi sredstvi razvoj prosvetnega življenja vseh treh
+            rodov podlagi kulturne avtonomije. Neoviran razmah individualnih sil vseh treh plemen je
+            najzdravejši pogoj za polno duševno bogastvo <placeName>Jugoslavije</placeName>. </p>
+         <p xml:id="No.198.PPP.2">Kulturna politika bo morala vsekakor upoštevati dejstvo, da je
+            dala zgodovina slovenstvu v teku stoletij posebno duševno vsebino. Slovenski del
+            jugoslovanskega naroda se je razvil tudi jezikovno samostojno, tako da je slovenščina,
+            nositeljica te duševne vsebine, dasi najbližja sorodnica srbo-hrvaščini, danes organizem
+            zase in da je v območju slovenskega književnega jezika za sedaj možno uspešno kulturno
+            delo edinole v tem jeziku. </p>
+         <p xml:id="No.198.PPP.3">Če bi se Slovencem onemogočil lasten kulturni razvoj, bi sledil
+            neizogibno silen upad kulturnega življenja v slovenskem plemenu, ki bi prenehalo biti
+            tvorno: Vsaka etnična skupina pa se čuti svobodno samo v toliko, v kolikor more
+            uveljavljati svojo tvornost. Vsak narod je pomemben človeštvu v toliko, v kolikor je
+            tvorec novih vrednot. Tudi bi se mogla prilagoditi kulturnemu prelomu samo tenka plast
+            slovenske inteligence, dočim bi bile široke mase, jedro našega plemena, izobčene od
+            dobrin kulturnih pridobitev in pahnjene v kulturni polumrak.</p>
+         <p xml:id="No.198.PPP.4">Kulturna avtonomija pa nikakor ne odvezuje duševnih delavcev vseh
+            treh plemen dolžnosti, iskati vedno tesnejših stikov, vedno globjega medsebojnega
+            umevanja in sporazuma v vseh vprašanjih ter skrbeti za medsebojno spopolnjevanje
+            skupnega prosvetnega dela, ki bo na svojem višku zadnja najlepša utemeljitev svobodne
+               <placeName>Jugoslavije</placeName> v družini narodov.</p>
+         <closer xml:id="No.198.PPP.5">Dr. <persName>Ambrožič</persName>, Dr. <persName>Anton
+               Breznik</persName>, <persName>Ivan Cankar</persName>, Dr. <persName>Izidor
+               Cankar</persName>, Dr. <persName>Mirko Černič</persName>, <persName>Anton
+               Debeljak</persName>, Dr. <persName>Josip Debevec</persName>, <persName>Lojze
+               Dolinar</persName>, <persName>Franc Finžgar</persName>, <persName>Anton
+               Funtek</persName>, Dr. <persName>Ivan Grafenauer</persName>, Dr. <persName>Pavel
+               Grošelj</persName>, <persName>Matej Hubad</persName>, <persName>Rihard
+               Jakopič</persName>, <persName>Dr. Franc Kimovec</persName>, <persName>F.
+               Klemenčič</persName>, <persName>Marij Kogoj</persName>, <persName>Juš
+               Kozak</persName>, Dr. <persName>Alojzij Kraigher</persName>, Dr.
+               <persName>Krivic</persName>, <persName>Anton Lajovic</persName>, Dr.
+               <persName>Lemež</persName>, <persName>Vladimir Levstik</persName>, Dr.
+               <persName>Josip Mal</persName>, Dr. <persName>Jos. Mantuani</persName>,
+               <persName>Anton Melik</persName>, <persName>Stanko Premrl</persName>, <persName>Albin
+               Prepeluh</persName>, <persName>Milan Pugelj</persName>, Dr. <persName>Josip
+               Puntar</persName>, Dr. <persName>Fran Ramovš</persName>, <persName>Ivan
+               Ravnik</persName>, <persName>Hinko Smrekar</persName>, <persName>Matej
+               Sternen</persName>, <persName>Alojzij Steska</persName>, <persName>Fran
+               Tratnik</persName>, Dr. <persName>A. Ušeničnik</persName>, <persName>Ivan
+               Vavpotič</persName>, <persName>I. Vurnik</persName>, Dr.
+            <persName>Zalokar</persName>, <persName>Ivan Zorman</persName>, Dr. <persName>Aug.
+               Žigon</persName>, <persName>Žmitek</persName>, <persName>Oton
+            Zupančič</persName>.</closer>
+      </body>
    </text>
 </TEI>

@@ -3,8 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stališča predstavnikov Vseslovenske ljudske stranke o nujnem predlogu Pokrajinske vlade za Dalmacijo za takojšno združitev Države Slovencev, Hrvatov in Srbov s Kraljevinama srbijo in črno goro, podana na seji Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani 
-              21. novembra 1918</title>
+            <title>Stališča predstavnikov Vseslovenske ljudske stranke o nujnem predlogu Pokrajinske
+               vlade za Dalmacijo za takojšno združitev Države Slovencev, Hrvatov in Srbov s
+               Kraljevinama srbijo in črno goro, podana na seji Narodne vlade Slovencev, Hrvatov in
+               Srbov v Ljubljani 21. novembra 1918</title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -23,17 +25,20 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
          <sourceDesc default="true">
             <biblStruct>
                <analytic>
-                  <title>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra 1918</title>
+                  <title>Zapisnik 20. seje Narodne vlade SHS v Ljubljani, z dne 21. novembra
+                     1918</title>
                </analytic>
                <monogr>
-                  <title>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo 1918–1921</title>
+                  <title>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in
+                     Deželnih vlad za Slovenijo 1918–1921</title>
                   <title>1. del: od 1. nov. 1918 do 26. feb. 1919</title>
                   <edition>Peter Ribnikar</edition>
                   <imprint>
@@ -57,20 +62,19 @@
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="div" occurs="1"/>
                <tagUsage gi="gap" occurs="2"/>
                <tagUsage gi="geogName" occurs="1"/>
                <tagUsage gi="hi" occurs="3"/>
@@ -87,27 +91,27 @@
    <text>
       <body>
          <gap reason="irrelevant"/>
-         <div xml:id="No.193.PPP">
-            <p>Proti predlogu<hi rend="superscript">
-                  <note place="foot" source="#SourceBornDigital">
-                  O predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
-                     </orgName> glej pojasnilo v dok. št. 173, op. 3.
-               </note>
-               </hi> sta izražala v obširnem govoru poverjenika dr. <persName>Brejc</persName>
-               <hi rend="superscript">
-                  <note place="foot" source="#SourceBornDigital">
-                     Član <orgName>Vseslovenske ljudske stranke</orgName> dr. <persName>Janko Brejc</persName>.
-                  </note>
-               </hi> in <persName>Kristan</persName>
-               <hi rend="superscript">
-                  <note place="foot" source="#SourceBornDigital">
-                     Poleg <persName>Janka Brejca</persName> je predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
-                     </orgName> kritično obravnaval tudi predstavnik <orgName>Jugoslovanske socialnodemokratske stranke</orgName> 
-                        <persName>Anton Kristan</persName>.
-                  </note>
-               </hi> tehtne pomisleke: s tem se ustvari diktatura ene osebe, ki imenuje in seveda tudi odstavlja voditelje države; čas, kdaj se skliče konstituanta je popolnoma nedoločen, ker je pojm o tem, kdaj vlada na <geogName>Balkanu</geogName> mir in red, podvržen samovoljnemu tolmačenju provizorične vlade. Tudi se je bati, da se imenuje vojaški guverner v posameznih deželah in se bodo vršile volitve v konstituanto pod različnim pritiskom. Ne bojimo se ne Srbov in ne kulturnega boja – to so zastopniki <orgName>SLS</orgName> izrecno povdarjali – pač pa neznosnega absolutizma. </p>
-         </div>
+         <p xml:id="No.193.PPP">Proti predlogu<note place="foot" source="#SourceBornDigital"> O
+               predlogu <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+               </orgName> glej pojasnilo v dok. št. 173, op. 3. </note> sta izražala v obširnem
+            govoru poverjenika dr. <persName>Brejc</persName>
+            <hi rend="superscript">
+               <note place="foot" source="#SourceBornDigital">Član <orgName>Vseslovenske ljudske
+                     stranke</orgName> dr. <persName>Janko Brejc</persName>.</note>
+            </hi> in <persName>Kristan</persName>
+            <note place="foot" source="#SourceBornDigital"> Poleg <persName>Janka Brejca</persName>
+               je predlog <orgName>Pokrajinske vlade za <placeName>Dalmacijo</placeName>
+               </orgName> kritično obravnaval tudi predstavnik <orgName>Jugoslovanske
+                  socialnodemokratske stranke</orgName>
+               <persName>Anton Kristan</persName>.</note> tehtne pomisleke: s tem se ustvari
+            diktatura ene osebe, ki imenuje in seveda tudi odstavlja voditelje države; čas, kdaj se
+            skliče konstituanta je popolnoma nedoločen, ker je pojm o tem, kdaj vlada na
+               <geogName>Balkanu</geogName> mir in red, podvržen samovoljnemu tolmačenju
+            provizorične vlade. Tudi se je bati, da se imenuje vojaški guverner v posameznih deželah
+            in se bodo vršile volitve v konstituanto pod različnim pritiskom. Ne bojimo se ne Srbov
+            in ne kulturnega boja – to so zastopniki <orgName>SLS</orgName> izrecno povdarjali – pač
+            pa neznosnega absolutizma.</p>
          <gap reason="irrelevant"/>
-        </body>
+      </body>
    </text>
 </TEI>

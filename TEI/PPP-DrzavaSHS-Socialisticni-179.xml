@@ -42,6 +42,7 @@
                      <date when="1918-11-22">22. 11. 1918</date>
                   </imprint>
                </monogr>
+               <ref target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-TSME2VDO"></ref>
             </biblStruct>
          </sourceDesc>
         </fileDesc>
@@ -79,8 +80,9 @@
    <text>
       <body>
          <div xml:id="No.179.PPP">
-           <div>
-              <head>Resolucije</head>
+            <head>Resolucije</head>
+            <p>Izvrševalo; odbor predlaga ljudskim shodom po Slovenskem z ozirom na položaj naslednje resolucije:</p>
+            <div xml:id="No.179.PPP.1">
               <head n="I.">
                   <hi rend="italic">Politične zahteve</hi>.</head>
               <list rend="numbered"> 
@@ -101,7 +103,7 @@
                   <item n="6">Zahtevamo popolno in takojšnjo svobodo besede, tiska, združevanja in zborovanja.</item>
               </list>
             </div>
-            <div>
+            <div xml:id="No.179.PPP.2">
                <head n="II.">
                   <hi rend="italic">Gospodarska vprašanja</hi>.</head>
                <list rend="numbered">
@@ -115,7 +117,7 @@
                   <item n="7.">Pri rudnikih, železnicah in industrijskih podjetjih je takoj izvesti delavsko kontrolo pri upravi teh obratov kot prvi korak socializacije produkcijskega organizma.</item>
                </list>
             </div>
-            <div>
+            <div xml:id="No.179.PPP.3">
                <head n="III.">
                   <hi rend="italic">Socialna vprašanja</hi>.</head>
                <list rend="numbered">

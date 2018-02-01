@@ -3,9 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Predlog predstavnikov Vseslovenske ljudske stranke dr. Izidorja Cankarja, dr. Lovra Pogačnika in Bogumila Remca o obliki in načinu združitve Države Slovencev, Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, podan na seji osrednjega odbora Narodnega vijeća Slovencev, Hrvatov in Srbov
-               23. novembra 1918 v Zagrebu
-            </title>
+            <title>Predlog predstavnikov Vseslovenske ljudske stranke dr. Izidorja Cankarja, dr.
+               Lovra Pogačnika in Bogumila Remca o obliki in načinu združitve Države Slovencev,
+               Hrvatov in Srbov s Kraljevinama Srbijo in Črno goro, podan na seji osrednjega odbora
+               Narodnega vijeća Slovencev, Hrvatov in Srbov 23. novembra 1918 v Zagrebu </title>
             <respStmt>
                <persName>Jurij Perovšek</persName>
                <resp>Prepis vira</resp>
@@ -24,7 +25,8 @@
             <date>2015</date>
             <availability status="free">
                <licence>http://creativecommons.org/licenses/by/4.0/</licence>
-               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
                </p>
             </availability>
          </publicationStmt>
@@ -48,24 +50,23 @@
                </monogr>
             </biblStruct>
          </sourceDesc>
-        </fileDesc>
+      </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>Zbirka programov slovenskih političnih strank, organizacij in društev od leta 1890 do
-            druge svetovne vojne.</p>
+               druge svetovne vojne.</p>
          </projectDesc>
          <samplingDecl>
             <p>Prepisana so bila besedila političnih programov, resolucij, statutov, peticij,
-            oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
-            podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
-            organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
-            politično-programske vsebine. Če so bila politično-programska besedila podana v odvisnih
-            govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
+               oklicov, pozivov, zakonskih predlogov, mnenj in stališč pomembnih politikov ter
+               podobnih besedil, ki vsebujejo politično-programska besedila političnih strank,
+               organizacij in društev. Kot nepomembna niso bila prepisana dela besedil, ki nimajo
+               politično-programske vsebine. Če so bila politično-programska besedila podana v
+               odvisnih govorih, so bila prepisana samo relevantna besedila brez navednic.</p>
          </samplingDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="div" occurs="2"/>
                <tagUsage gi="gap" occurs="2"/>
                <tagUsage gi="orgName" occurs="2"/>
                <tagUsage gi="p" occurs="3"/>
@@ -77,16 +78,17 @@
    </teiHeader>
    <text>
       <body>
-          <div>
-             <gap reason="irrelevant"/>
-             <div xml:id="No.197.PPP">
-                <p>	Ker je potrebno, da se osnuje skupen vladni organ za skupne interese Slovencev, Hrvatov in Srbov in ker je mogoče tak organ sestaviti le po medsebojnem dogovoru obeh vrhovnih oblasti na tem teritoriju, predlagajo člani <orgName>VLS</orgName>:</p>
-                <p>
-                   <orgName>Narodno Veće</orgName> naj izvoli pooblaščence Slovencev, Hrvatov in Srbov, ki se bodo, isključivši možnost majoriziranja, dogovarjali glede skupne vlade s pooblaščenci srbskega naroda iz kraljevine <placeName>Srbije</placeName>.</p>
-                <p/>
-             </div>
-           <gap reason="irrelevant"/>
-         </div>
-       </body>
+         <gap reason="irrelevant"/>
+         <p xml:id="No.197.PPP.1">Ker je potrebno, da se osnuje skupen vladni organ za skupne
+            interese Slovencev, Hrvatov in Srbov in ker je mogoče tak organ sestaviti le po
+            medsebojnem dogovoru obeh vrhovnih oblasti na tem teritoriju, predlagajo člani
+               <orgName>VLS</orgName>:</p>
+         <p xml:id="No.197.PPP.2">
+            <orgName>Narodno Veće</orgName> naj izvoli pooblaščence Slovencev, Hrvatov in Srbov, ki
+            se bodo, isključivši možnost majoriziranja, dogovarjali glede skupne vlade s
+            pooblaščenci srbskega naroda iz kraljevine <placeName>Srbije</placeName>.</p>
+         <p/>
+         <gap reason="irrelevant"/>
+      </body>
    </text>
 </TEI>

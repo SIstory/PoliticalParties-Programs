@@ -76,8 +76,8 @@
    </teiHeader>
    <text>
      <body>
-         <div xml:id="No.174.PPP">
-            <div>
+         
+        <div xml:id="No.174.PPP.1">
               <head>Politično vprašanje.</head>
                <list rend="numbered">
                   <item n="1.">Zahtevamo, da <orgName>Narodno vijeće</orgName> v zvezi z narodnimi
@@ -135,7 +135,7 @@
                      mednarodna konferenca vojujočih se držav.</item>
                </list>
             </div>
-            <div>
+        <div xml:id="No.174.PPP.2">
                <head>Gospodarska in socialna vprašanja.</head>
                <p>Štiriletna vojna je zahtevala od jugoslovanskega naroda na ozemlju
                   bivše <placeName>avstro-ogrske monarhije</placeName> najtežje materialne in
@@ -216,7 +216,7 @@
                   <item n="8.">Zahtevamo državno kontrolo v svrho racijonalnega obdelovanja zemlje.</item>
                </list>
            </div>
-         </div>
+         
       </body>
 
    </text>
